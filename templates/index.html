@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ABV News Agent Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark">ABV</span>
+        <div>
+          <h1>News Agent</h1>
+          <p>五層情報 Dashboard</p>
+        </div>
+      </div>
+
+      <nav class="category-nav" aria-label="新聞分類">
+        <a class="{{ 'active' if selected_category == 'all' else '' }}" href="{{ url_for('index') }}">全部新聞</a>
+        {% for key, category in keywords_config.items() %}
+          <a class="{{ 'active' if selected_category == key else '' }}" href="{{ url_for('index', category=key) }}">
+            {{ category.label }}
+          </a>
+        {% endfor %}
+      </nav>
+    </aside>
+
+    <main class="content">
+      <header class="dashboard-header">
+        <div>
+          <p class="eyebrow">ABV Intelligence</p>
+          <h2>每日新聞追蹤與戰情報告</h2>
+          <p>產生時間：{{ report.generated_at or '尚未產生報告，請先執行 python main.py' }}</p>
+        </div>
+        <div class="header-stats">
+          <span>{{ articles|length }} 則新聞</span>
+          <span>{{ report.layer_5_trend_analysis.high_score_news_count if report.layer_5_trend_analysis else 0 }} 則高分</span>
+        </div>
+      </header>
+
+      <section id="layer-1" class="section-block">
+        <div class="section-title">
+          <span>第一層</span>
+          <h3>關鍵字新聞列表</h3>
+        </div>
+        <div class="card-grid">
+          {% for article in articles %}
+            <article class="news-card">
+              <div class="card-topline">
+                {% for label in article.category_labels %}
+                  <span class="pill">{{ label }}</span>
+                {% endfor %}
+                {% if article.ai and article.ai.score >= 4 %}
+                  <span class="pill hot">重要新聞</span>
+                {% endif %}
+              </div>
+              <h4>{{ article.title }}</h4>
+              <div class="meta">
+                <span>{{ article.source }}</span>
+                <span>{{ article.published_at[:10] }}</span>
+              </div>
+              <p class="keywords">命中：{{ article.matched_keywords|join('、') }}</p>
+              <a class="text-link" href="{{ article.url }}" target="_blank" rel="noopener">閱讀原文</a>
+            </article>
+          {% else %}
+            <div class="empty-state">目前沒有新聞資料，請先執行 python main.py。</div>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="layer-2" class="section-block">
+        <div class="section-title">
+          <span>第二層</span>
+          <h3>AI 智能篩選</h3>
+        </div>
+        <div class="table-list">
+          {% for item in ai_items %}
+            <article class="analysis-row">
+              <div class="score-badge score-{{ item.score }}">{{ item.score }}</div>
+              <div>
+                <div class="row-heading">
+                  <h4>{{ item.title }}</h4>
+                  <span class="pill">{{ item.classification }}</span>
+                </div>
+                <p>{{ item.reason }}</p>
+                <p class="summary">{{ item.summary_zh }}</p>
+              </div>
+            </article>
+          {% else %}
+            <div class="empty-state">此分類沒有 AI 篩選資料。</div>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="layer-3" class="section-block">
+        <div class="section-title">
+          <span>第三層</span>
+          <h3>每日戰情報告</h3>
+        </div>
+        <div class="card-grid">
+          {% for item in report.layer_3_daily_brief or [] %}
+            <article class="brief-card">
+              <span class="pill hot">Top {{ loop.index }}</span>
+              <h4>{{ item.title }}</h4>
+              <p>{{ item.summary_zh }}</p>
+              <div class="impact">
+                <strong>ABV 參考價值</strong>
+                <p>{{ item.abv_impact }}</p>
+              </div>
+              <a class="text-link" href="{{ item.url }}" target="_blank" rel="noopener">閱讀原文</a>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="layer-4" class="section-block">
+        <div class="section-title">
+          <span>第四層</span>
+          <h3>社群內容靈感池</h3>
+        </div>
+        <div class="idea-list">
+          {% for idea in report.layer_4_content_ideas or [] %}
+            <article class="idea-card">
+              <h4>{{ idea.source_title }}</h4>
+              <dl>
+                <dt>FB/IG</dt>
+                <dd>{{ idea.fb_ig_angle }}</dd>
+                <dt>Reels/Shorts</dt>
+                <dd>{{ idea.reels_shorts_script }}</dd>
+                <dt>LINE</dt>
+                <dd>{{ idea.line_push_angle }}</dd>
+                <dt>SEO</dt>
+                <dd>{{ idea.seo_title }}</dd>
+              </dl>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="layer-5" class="section-block">
+        <div class="section-title">
+          <span>第五層</span>
+          <h3>輿情與趨勢分析</h3>
+        </div>
+        {% set trend = report.layer_5_trend_analysis or {} %}
+        <div class="trend-layout">
+          <article class="trend-panel">
+            <h4>分類新聞數量</h4>
+            {% for category, count in (trend.category_counts or {}).items() %}
+              <div class="metric-line">
+                <span>{{ category }}</span>
+                <strong>{{ count }}</strong>
+              </div>
+            {% endfor %}
+          </article>
+          <article class="trend-panel">
+            <h4>熱門詞</h4>
+            <div class="term-cloud">
+              {% for term in trend.hot_terms or [] %}
+                <span>{{ term.term }} <b>{{ term.count }}</b></span>
+              {% endfor %}
+            </div>
+          </article>
+          <article class="trend-panel wide">
+            <h4>今日趨勢判斷</h4>
+            <p>{{ trend.trend_judgement }}</p>
+            <h4>ABV 本週可行動建議</h4>
+            <ul>
+              {% for action in trend.weekly_actions or [] %}
+                <li>{{ action }}</li>
+              {% endfor %}
+            </ul>
+          </article>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

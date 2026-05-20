@@ -1,0 +1,48 @@
+competitors:
+  label: 競品異動
+  keywords:
+    - 啤酒餐廳
+    - 精釀酒吧
+    - 酒吧新開幕
+
+marketing:
+  label: 行銷靈感
+  keywords:
+    - 餐飲行銷
+    - 酒吧活動
+    - 餐廳社群行銷
+
+market:
+  label: 市場情報
+  keywords:
+    - 餐飲趨勢
+    - 台灣餐飲市場
+    - 觀光餐飲
+
+brand_monitoring:
+  label: 品牌監控
+  keywords:
+    - ABV Bar Kitchen
+    - ABV 美式餐酒館
+    - ABV 地中海餐酒館
+
+world_cuisine:
+  label: 世界料理趨勢
+  keywords:
+    - 世界料理
+    - 異國料理
+    - 美食趨勢
+
+craft_beer:
+  label: 精釀啤酒
+  keywords:
+    - 精釀啤酒
+    - craft beer Taiwan
+    - 啤酒節
+
+membership:
+  label: 會員經濟
+  keywords:
+    - 會員經濟
+    - 餐飲會員
+    - 顧客忠誠計畫

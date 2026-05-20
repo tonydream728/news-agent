@@ -1,0 +1,394 @@
+:root {
+  color-scheme: light;
+  --bg: #f5f7f8;
+  --surface: #ffffff;
+  --surface-soft: #eef3f1;
+  --ink: #1f2a2e;
+  --muted: #6b777c;
+  --line: #dce4e2;
+  --accent: #007c72;
+  --accent-strong: #005e57;
+  --warning: #c7532f;
+  --gold: #b78721;
+  --shadow: 0 10px 28px rgba(31, 42, 46, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: inherit;
+}
+
+.sidebar {
+  position: fixed;
+  inset: 0 auto 0 0;
+  width: 280px;
+  padding: 28px 20px;
+  background: #162326;
+  color: #f7fbfa;
+  overflow-y: auto;
+}
+
+.brand {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  padding-bottom: 24px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  background: #f3c85d;
+  color: #162326;
+  font-weight: 800;
+}
+
+.brand h1 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.brand p {
+  margin: 2px 0 0;
+  color: #b9c8c6;
+  font-size: 13px;
+}
+
+.category-nav {
+  display: grid;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.category-nav a {
+  padding: 11px 12px;
+  border-radius: 8px;
+  color: #d9e6e4;
+  text-decoration: none;
+}
+
+.category-nav a:hover,
+.category-nav a.active {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.content {
+  margin-left: 280px;
+  padding: 32px;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: flex-end;
+  margin-bottom: 28px;
+}
+
+.eyebrow {
+  margin: 0 0 4px;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.dashboard-header h2 {
+  margin: 0;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.15;
+}
+
+.dashboard-header p {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.header-stats {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.header-stats span {
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  font-weight: 700;
+}
+
+.section-block {
+  padding: 28px 0;
+  border-top: 1px solid var(--line);
+}
+
+.section-title {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.section-title span {
+  color: var(--accent);
+  font-weight: 800;
+  font-size: 13px;
+}
+
+.section-title h3 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.news-card,
+.brief-card,
+.idea-card,
+.trend-panel,
+.analysis-row {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.news-card,
+.brief-card,
+.idea-card,
+.trend-panel {
+  padding: 18px;
+}
+
+.card-topline,
+.row-heading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 26px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: var(--surface-soft);
+  color: var(--accent-strong);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.pill.hot {
+  background: #fff0d2;
+  color: #7a4f00;
+}
+
+.news-card h4,
+.brief-card h4,
+.idea-card h4,
+.trend-panel h4,
+.analysis-row h4 {
+  margin: 12px 0 8px;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.meta {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.keywords,
+.summary,
+.brief-card p,
+.idea-card dd,
+.trend-panel p,
+.trend-panel li,
+.analysis-row p {
+  color: var(--muted);
+}
+
+.text-link {
+  display: inline-flex;
+  margin-top: 10px;
+  color: var(--accent-strong);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.text-link:hover {
+  text-decoration: underline;
+}
+
+.table-list {
+  display: grid;
+  gap: 12px;
+}
+
+.analysis-row {
+  display: grid;
+  grid-template-columns: 54px 1fr;
+  gap: 14px;
+  padding: 16px;
+}
+
+.score-badge {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 8px;
+  background: var(--surface-soft);
+  color: var(--accent-strong);
+  font-weight: 900;
+}
+
+.score-4,
+.score-5 {
+  background: #fff0d2;
+  color: #7a4f00;
+}
+
+.impact {
+  margin-top: 14px;
+  padding: 12px;
+  border-left: 4px solid var(--accent);
+  background: var(--surface-soft);
+}
+
+.impact p {
+  margin: 4px 0 0;
+}
+
+.idea-list {
+  display: grid;
+  gap: 14px;
+}
+
+.idea-card dl {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 10px 14px;
+  margin: 0;
+}
+
+.idea-card dt {
+  color: var(--accent-strong);
+  font-weight: 800;
+}
+
+.idea-card dd {
+  margin: 0;
+}
+
+.trend-layout {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.trend-panel.wide {
+  grid-column: 1 / -1;
+}
+
+.metric-line {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.term-cloud {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.term-cloud span {
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: var(--surface-soft);
+}
+
+.empty-state {
+  padding: 22px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  background: var(--surface);
+}
+
+@media (max-width: 860px) {
+  .sidebar {
+    position: static;
+    width: auto;
+    padding: 20px;
+  }
+
+  .category-nav {
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 4px;
+  }
+
+  .category-nav a {
+    flex: 0 0 auto;
+  }
+
+  .content {
+    margin-left: 0;
+    padding: 22px 16px;
+  }
+
+  .dashboard-header {
+    display: block;
+  }
+
+  .header-stats {
+    margin-top: 16px;
+  }
+
+  .trend-layout,
+  .idea-card dl {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 520px) {
+  .analysis-row {
+    grid-template-columns: 1fr;
+  }
+
+  .score-badge {
+    width: 40px;
+    height: 40px;
+  }
+}
