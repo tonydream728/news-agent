@@ -49,9 +49,10 @@ def index():
 
 
 def _filter_category(articles: list[dict[str, Any]], selected_category: str) -> list[dict[str, Any]]:
+    normalized_articles = [article for article in articles if isinstance(article, dict)]
     if selected_category == "all":
-        return articles
-    return [article for article in articles if selected_category in article.get("categories", [])]
+        return normalized_articles
+    return [article for article in normalized_articles if selected_category in article.get("categories", [])]
 
 
 def _filter_report(
@@ -59,17 +60,30 @@ def _filter_report(
     filtered_articles: list[dict[str, Any]],
     selected_category: str,
 ) -> dict[str, Any]:
+    if not isinstance(report, dict):
+        return {
+            "layer_1_keyword_news": filtered_articles,
+            "layer_2_ai_filtering": [],
+            "layer_3_daily_brief": [],
+            "layer_4_content_ideas": [],
+            "layer_5_trend_analysis": {},
+        }
+
     if selected_category == "all":
         return report
 
-    filtered_ids = {article.get("id") for article in filtered_articles}
+    filtered_ids = {article.get("id") for article in filtered_articles if isinstance(article, dict)}
     copied = dict(report)
     copied["layer_1_keyword_news"] = filtered_articles
     copied["layer_2_ai_filtering"] = [
-        item for item in report.get("layer_2_ai_filtering", []) if item.get("id") in filtered_ids
+        item
+        for item in report.get("layer_2_ai_filtering", [])
+        if isinstance(item, dict) and item.get("id") in filtered_ids
     ]
     copied["layer_3_daily_brief"] = [
-        item for item in report.get("layer_3_daily_brief", []) if item.get("id") in filtered_ids
+        item
+        for item in report.get("layer_3_daily_brief", [])
+        if isinstance(item, dict) and item.get("id") in filtered_ids
     ]
     return copied
 
