@@ -140,6 +140,54 @@ a {
   border-top: 1px solid var(--line);
 }
 
+.period-section {
+  margin: 0 0 34px;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.52);
+}
+
+.period-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: flex-start;
+  padding-bottom: 18px;
+}
+
+.period-header span {
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.period-header h3 {
+  margin: 4px 0 6px;
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+.period-header p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.period-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.period-meta span {
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+}
+
 .section-title {
   display: flex;
   align-items: baseline;
@@ -153,7 +201,8 @@ a {
   font-size: 13px;
 }
 
-.section-title h3 {
+.section-title h3,
+.section-title h4 {
   margin: 0;
   font-size: 24px;
 }
@@ -208,10 +257,15 @@ a {
 }
 
 .news-card h4,
+.news-card h5,
 .brief-card h4,
+.brief-card h5,
 .idea-card h4,
+.idea-card h5,
 .trend-panel h4,
-.analysis-row h4 {
+.trend-panel h5,
+.analysis-row h4,
+.analysis-row h5 {
   margin: 12px 0 8px;
   font-size: 18px;
   line-height: 1.35;
@@ -314,6 +368,16 @@ a {
   gap: 16px;
 }
 
+.trend-layout.compact {
+  grid-template-columns: 1fr;
+}
+
+.split-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: 18px;
+}
+
 .trend-panel.wide {
   grid-column: 1 / -1;
 }
@@ -374,6 +438,23 @@ a {
 
   .header-stats {
     margin-top: 16px;
+  }
+
+  .period-section {
+    padding: 18px 14px;
+  }
+
+  .period-header {
+    display: block;
+  }
+
+  .period-meta {
+    justify-content: flex-start;
+    margin-top: 12px;
+  }
+
+  .split-layout {
+    grid-template-columns: 1fr;
   }
 
   .trend-layout,

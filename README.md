@@ -7,8 +7,13 @@ Python + Flask 新聞追蹤 Dashboard，依照 `keywords.yml` 抓取新聞，產
 - 依照 `keywords.yml` 關鍵字抓取新聞
 - 每次執行 `main.py` 後輸出：
   - `data/news.json`
+  - `data/news_today.json`
+  - `data/news_7d_history.json`
   - `data/daily_report.json`
   - `daily_report.md`
+- 每日資料分成兩個固定區塊：
+  - 當日最新新聞：台灣時間今日 00:00 到目前
+  - 昨日往前七日歷史新聞：排除今日，觀察前七天累積趨勢
 - Flask Dashboard 顯示五層情報：
   1. 關鍵字新聞列表
   2. AI 智能篩選
@@ -51,10 +56,14 @@ python3 main.py
 執行後會更新：
 
 - `data/news.json`
+- `data/news_today.json`
+- `data/news_7d_history.json`
 - `data/daily_report.json`
 - `daily_report.md`
 
 如果 RSS 抓取失敗，系統會產生示範資料，方便你先確認 Dashboard 與流程。
+
+系統會自動產生兩段資料：當日最新新聞，以及昨日往前七日歷史新聞。每日更新時，兩個區塊會一起刷新。
 
 ## 啟動網頁 Dashboard
 
@@ -88,7 +97,10 @@ news-agent/
 ├── summarizer.py
 ├── report_writer.py
 ├── data/
-│   └── news.json
+│   ├── news.json
+│   ├── news_today.json
+│   ├── news_7d_history.json
+│   └── daily_report.json
 ├── templates/
 │   └── index.html
 ├── static/
@@ -98,4 +110,4 @@ news-agent/
 
 ## GitHub Actions
 
-`.github/workflows/daily-news.yml` 會每日執行 `python main.py`。如需把報告 commit 回 repo，可在 workflow 中加入 commit/push 步驟。
+`.github/workflows/daily-news.yml` 會在台灣時間每天早上 9:00 執行 `python main.py`，並把更新後的報告 commit 回 repo。

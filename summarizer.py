@@ -57,7 +57,13 @@ def enrich_article(article: dict[str, Any]) -> dict[str, Any]:
     return article
 
 
-def build_daily_report(articles: list[dict[str, Any]]) -> dict[str, Any]:
+def build_daily_report(
+    articles: list[dict[str, Any]],
+    period_name: str = "today",
+    period_label: str = "當日最新新聞",
+    start_at: str | None = None,
+    end_at: str | None = None,
+) -> dict[str, Any]:
     top_articles = sorted(
         [article for article in articles if article.get("ai", {}).get("worth_reading")],
         key=lambda item: item.get("ai", {}).get("score", 0),
@@ -84,6 +90,12 @@ def build_daily_report(articles: list[dict[str, Any]]) -> dict[str, Any]:
 
     return {
         "generated_at": _generated_at(),
+        "period": {
+            "name": period_name,
+            "label": period_label,
+            "start_at": start_at,
+            "end_at": end_at,
+        },
         "layer_1_keyword_news": articles,
         "layer_2_ai_filtering": [
             {
