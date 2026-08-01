@@ -1,12 +1,64 @@
 {
   "today": [
     {
-      "id": "b36fa47d66bae274",
+      "id": "52e6a61d3ce88d37",
       "period": "today",
-      "title": "英女溺水「死亡10分鐘」奇蹟復活 腦傷復健憶瀕死經驗 - 世界新聞網",
-      "source": "世界新聞網",
-      "published_at": "2026-07-31T03:50:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByU0Vzck5NdVVON1VZV0pKNjdmSnliWFIyUnNTY3kzbERnNXZhQmUxVnYyTkYtVjhXQks3VTFLLXNXXzVmR1RsZXpoZ1lfLVFCczJtdy1UdVRrQTJEd2ZydW0yeVZ4dGl0bVluWWxld0Y1eTNUR3RodjJLc1lkZw?oc=5",
+      "title": "台灣美食展首日吸引逾2萬人 台北世貿一館展出四天 - Taiwan News",
+      "source": "Taiwan News",
+      "published_at": "2026-08-01T03:50:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LeWxoekl2WjVsbEZPT1JVT1FHUklIVUlxQ3JHZVMyekp1Ty0tR0dYZjFQNkhpV2dpLU5yR2t2ZFQ5Zjhpdm4yaVNfQXV3Z0VjZ215ZVowLWo?oc=5",
+      "matched_keywords": [
+        "觀光餐飲"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LeWxoekl2WjVsbEZPT1JVT1FHUklIVUlxQ3JHZVMyekp1Ty0tR0dYZjFQNkhpV2dpLU5yR2t2ZFQ5Zjhpdm4yaVNfQXV3Z0VjZ215ZVowLWo?oc=5\" target=\"_blank\">台灣美食展首日吸引逾2萬人 台北世貿一館展出四天</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taiwan News</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「台灣美食展首日吸引逾2萬人 台北世貿一館展出四天 - Taiwan News」，可放在 市場情報 脈絡下觀察。台灣美食展首日吸引逾2萬人 台北世貿一館展出四天&nbsp;&nbsp;Taiwan News",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
+      }
+    },
+    {
+      "id": "b25de426324eb901",
+      "period": "today",
+      "title": "黃偉哲表揚20位勞工模範父親 感謝撐起家庭與都市幸福力量 - 新媒體經紀人",
+      "source": "新媒體經紀人",
+      "published_at": "2026-08-01T03:43:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01NHMteF8xYUN2UnNES0p2SFBRakRmN0d4LWJmX3RSanRnWkxnTUlyNm95M1M4NDhXRkFDNjdOMkZwaTZFLVFOOUhpRWZsSmVldlhxLVoxTEQzTUFzbkh2RTB3?oc=5",
+      "matched_keywords": [
+        "啤酒節"
+      ],
+      "categories": [
+        "craft_beer"
+      ],
+      "category_labels": [
+        "精釀啤酒"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE01NHMteF8xYUN2UnNES0p2SFBRakRmN0d4LWJmX3RSanRnWkxnTUlyNm95M1M4NDhXRkFDNjdOMkZwaTZFLVFOOUhpRWZsSmVldlhxLVoxTEQzTUFzbkh2RTB3?oc=5\" target=\"_blank\">黃偉哲表揚20位勞工模範父親 感謝撐起家庭與都市幸福力量</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新媒體經紀人</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 啤酒節，可作為「精釀啤酒」的輔助觀察。",
+        "classification": "精釀啤酒",
+        "summary_zh": "這則新聞聚焦於「黃偉哲表揚20位勞工模範父親 感謝撐起家庭與都市幸福力量 - 新媒體經紀人」，可放在 精釀啤酒 脈絡下觀察。黃偉哲表揚20位勞工模範父親 感謝撐起家庭與都市幸福力量&nbsp;&nbsp;新媒體經紀人",
+        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。"
+      }
+    },
+    {
+      "id": "82dae1b304d67406",
+      "period": "today",
+      "title": "浩子結婚16年甜如初戀！ 隋棠爆料「每天睡前做這事」閃瞎全場 - PChome Online 新聞",
+      "source": "PChome Online 新聞",
+      "published_at": "2026-08-01T01:43:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1JKOTl2NXRZWTg3NnJjdDMtRUJJaG9nNm1vNzl2R2hLTHdxUHdtZkNPcEd1ZlBCeGtsMkxCUmZiOTctNnNLUWhod2l5UFJiXzkyaTY4R3c5TVN6TWxkU3JVMGlSVzJEUmd1V1dkQXhzb3JFbGlta3FtSDJwVW5kVWFYXzNGNTBXOURhS09tYkJiUQ?oc=5",
       "matched_keywords": [
         "世界料理"
       ],
@@ -16,75 +68,52 @@
       "category_labels": [
         "世界料理趨勢"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFByU0Vzck5NdVVON1VZV0pKNjdmSnliWFIyUnNTY3kzbERnNXZhQmUxVnYyTkYtVjhXQks3VTFLLXNXXzVmR1RsZXpoZ1lfLVFCczJtdy1UdVRrQTJEd2ZydW0yeVZ4dGl0bVluWWxld0Y1eTNUR3RodjJLc1lkZw?oc=5\" target=\"_blank\">英女溺水「死亡10分鐘」奇蹟復活 腦傷復健憶瀕死經驗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界新聞網</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1JKOTl2NXRZWTg3NnJjdDMtRUJJaG9nNm1vNzl2R2hLTHdxUHdtZkNPcEd1ZlBCeGtsMkxCUmZiOTctNnNLUWhod2l5UFJiXzkyaTY4R3c5TVN6TWxkU3JVMGlSVzJEUmd1V1dkQXhzb3JFbGlta3FtSDJwVW5kVWFYXzNGNTBXOURhS09tYkJiUQ?oc=5\" target=\"_blank\">浩子結婚16年甜如初戀！ 隋棠爆料「每天睡前做這事」閃瞎全場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PChome Online 新聞</font>",
       "ai": {
         "worth_reading": false,
         "score": 2,
         "reason": "命中 世界料理，但目前訊號較弱，可低優先追蹤。",
         "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「英女溺水「死亡10分鐘」奇蹟復活 腦傷復健憶瀕死經驗 - 世界新聞網」，可放在 世界料理趨勢 脈絡下觀察。英女溺水「死亡10分鐘」奇蹟復活 腦傷復健憶瀕死經驗&nbsp;&nbsp;世界新聞網",
+        "summary_zh": "這則新聞聚焦於「浩子結婚16年甜如初戀！ 隋棠爆料「每天睡前做這事」閃瞎全場 - PChome Online 新聞」，可放在 世界料理趨勢 脈絡下觀察。浩子結婚16年甜如初戀！ 隋棠爆料「每天睡前做這事」閃瞎全場&nbsp;&nbsp;PChome Online 新聞",
         "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
       }
     },
     {
-      "id": "e614922d244bd48a",
+      "id": "245c926ba4e325e0",
       "period": "today",
-      "title": "拿森科技 上市招股｜智能駕駛技術開發商入場費約1129元：抽唔抽？認購前四必知 - 香港財經時報HKBT",
-      "source": "香港財經時報HKBT",
-      "published_at": "2026-07-31T03:45:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNUXA2MG41OExjZXZ2ald2OXo4Y2F2NzJoeXA4VGRFLU9Qb2l2Um1nRUFqQXhKTlJ6amNfeHA5ai1nNWNZT0J0Y29ESXFNeEdoYUFrQ3JnZlppY1QwdW5FdUlPc3hjemFEWDVHWHlCNnpkaHV4cE1XcnRPa2JwT1U2c0RqR0VESjJlVTV2QVBwaXQ0ZkJmQk5YUUJOLWJqNkJYU2daYWNNbFZRV0s0SU44SGJQQ2djeTVNRW04emhqbWZWVG12N2JZTkctRG1SMjFoalF4dFJSRGxyZHpwVExUMS1YSVZsNndnLWMxcGhIdWhlWGhFbFkxbWNiX3oxQmNsSVo0QkRVTDZGcmlnazJ2VHBXVmRuM1piUEtlWUtlcUFiWWZNNzcwYXM0NThjaWs?oc=5",
+      "title": "自由開講》情感經濟正在重寫餐飲競爭力 - 自由評論網",
+      "source": "自由評論網",
+      "published_at": "2026-08-01T01:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TZU9DZGJNRUs4SkZtcFpzQ1lFOU52ZC1lRGwtejZLeFM5N3BIcWNPR0EtR0I0akExR1FkWmxQdzlVT1NGMWFiMzdjemI3cm5mVjB5THZ6UmQ5dFlCVW4xQW1DeDB2Z2s?oc=5",
       "matched_keywords": [
-        "精釀啤酒"
+        "餐飲行銷",
+        "餐飲趨勢"
       ],
       "categories": [
-        "craft_beer"
+        "marketing",
+        "market"
       ],
       "category_labels": [
-        "精釀啤酒"
+        "行銷靈感",
+        "市場情報"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNUXA2MG41OExjZXZ2ald2OXo4Y2F2NzJoeXA4VGRFLU9Qb2l2Um1nRUFqQXhKTlJ6amNfeHA5ai1nNWNZT0J0Y29ESXFNeEdoYUFrQ3JnZlppY1QwdW5FdUlPc3hjemFEWDVHWHlCNnpkaHV4cE1XcnRPa2JwT1U2c0RqR0VESjJlVTV2QVBwaXQ0ZkJmQk5YUUJOLWJqNkJYU2daYWNNbFZRV0s0SU44SGJQQ2djeTVNRW04emhqbWZWVG12N2JZTkctRG1SMjFoalF4dFJSRGxyZHpwVExUMS1YSVZsNndnLWMxcGhIdWhlWGhFbFkxbWNiX3oxQmNsSVo0QkRVTDZGcmlnazJ2VHBXVmRuM1piUEtlWUtlcUFiWWZNNzcwYXM0NThjaWs?oc=5\" target=\"_blank\">拿森科技 上市招股｜智能駕駛技術開發商入場費約1129元：抽唔抽？認購前四必知</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">香港財經時報HKBT</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TZU9DZGJNRUs4SkZtcFpzQ1lFOU52ZC1lRGwtejZLeFM5N3BIcWNPR0EtR0I0akExR1FkWmxQdzlVT1NGMWFiMzdjemI3cm5mVjB5THZ6UmQ5dFlCVW4xQW1DeDB2Z2s?oc=5\" target=\"_blank\">自由開講》情感經濟正在重寫餐飲競爭力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">自由評論網</font>",
       "ai": {
         "worth_reading": true,
         "score": 3,
-        "reason": "命中 精釀啤酒，可作為「精釀啤酒」的輔助觀察。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「拿森科技 上市招股｜智能駕駛技術開發商入場費約1129元：抽唔抽？認購前四必知 - 香港財經時報HKBT」，可放在 精釀啤酒 脈絡下觀察。拿森科技 上市招股｜智能駕駛技術開發商入場費約1129元：抽唔抽？認購前四必知&nbsp;&nbsp;香港財經時報HKBT",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。"
-      }
-    },
-    {
-      "id": "43b5b9dd6c386117",
-      "period": "today",
-      "title": "桃園環保局科長謝宏松促餐飲異味陳情降5.2% 獲模範公務員殊榮 - marketersgo.com",
-      "source": "marketersgo.com",
-      "published_at": "2026-07-31T03:41:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPUjJmWHNLSGl1WC0zZDlseVFuZnEwaFBsMnhmeExVQ3pyQkVWY1kyWTE5NDlZYkVrTkdHT3pPWm9fc1ZIdk4wTExKLXhxTHIwNW5uN2RvMnJzVm94ZFc1MmJoaHNIdHBNZ0dZSlkxdW1qNnJUMHo1T0lDTHpqN18wYXFtS3NJbHZJZ19KWEtoakdBRi1mZTdhQ3hoMzFQMTNPU3RsNU4tY280REF5RWhIRG9remN0cWpLLTFDSXFKWXY1ZFZ0SWxQektKTTFwXzB5enVfNlFOZjhtNTcySUR4eVUwdzFSZW55ZHNLTldLRV9yR2xTTjg4b2NvdUY0azJ5NVR3MG5fRi1xUy1lOV9JNEdxMmRuSjlMTWxWdGhWa2lFZVZsRkNIYUlXa1Q4ckwzMmtzTVEwMm8yNTZsNUJKSGxnV21zZXR4V1ZWUUpQOVl4VUp3em5XeURTRlYxRVVFdWpDWjBuVzU?oc=5",
-      "matched_keywords": [
-        "餐飲行銷"
-      ],
-      "categories": [
-        "marketing"
-      ],
-      "category_labels": [
-        "行銷靈感"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxPUjJmWHNLSGl1WC0zZDlseVFuZnEwaFBsMnhmeExVQ3pyQkVWY1kyWTE5NDlZYkVrTkdHT3pPWm9fc1ZIdk4wTExKLXhxTHIwNW5uN2RvMnJzVm94ZFc1MmJoaHNIdHBNZ0dZSlkxdW1qNnJUMHo1T0lDTHpqN18wYXFtS3NJbHZJZ19KWEtoakdBRi1mZTdhQ3hoMzFQMTNPU3RsNU4tY280REF5RWhIRG9remN0cWpLLTFDSXFKWXY1ZFZ0SWxQektKTTFwXzB5enVfNlFOZjhtNTcySUR4eVUwdzFSZW55ZHNLTldLRV9yR2xTTjg4b2NvdUY0azJ5NVR3MG5fRi1xUy1lOV9JNEdxMmRuSjlMTWxWdGhWa2lFZVZsRkNIYUlXa1Q4ckwzMmtzTVEwMm8yNTZsNUJKSGxnV21zZXR4V1ZWUUpQOVl4VUp3em5XeURTRlYxRVVFdWpDWjBuVzU?oc=5\" target=\"_blank\">桃園環保局科長謝宏松促餐飲異味陳情降5.2% 獲模範公務員殊榮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketersgo.com</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。",
+        "reason": "命中 餐飲行銷、餐飲趨勢，可作為「行銷靈感」的輔助觀察。",
         "classification": "行銷靈感",
-        "summary_zh": "這則新聞聚焦於「桃園環保局科長謝宏松促餐飲異味陳情降5.2% 獲模範公務員殊榮 - marketersgo.com」，可放在 行銷靈感 脈絡下觀察。桃園環保局科長謝宏松促餐飲異味陳情降5.2% 獲模範公務員殊榮&nbsp;&nbsp;marketersgo.com",
-        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷」切入。"
+        "summary_zh": "這則新聞聚焦於「自由開講》情感經濟正在重寫餐飲競爭力 - 自由評論網」，可放在 行銷靈感、市場情報 脈絡下觀察。自由開講》情感經濟正在重寫餐飲競爭力&nbsp;&nbsp;自由評論網",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷、餐飲趨勢」切入。"
       }
     },
     {
-      "id": "9161df027d57af90",
+      "id": "b223095dd664c762",
       "period": "today",
-      "title": "蔬食也有鑊氣！養心茶樓新菜融合台味與異國風 松露雪耳嫩蛋成亮點 - taiwannews.com.tw",
-      "source": "taiwannews.com.tw",
-      "published_at": "2026-07-31T03:39:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kMEtHRFFLRW1rX3hnVTk1dk1MekxGUHgyVGtlVVNjeERvLS1NVFhtcFUtQ3dqLXhNWnFIWWZXV09oMFVuZ2p6cFBJSzE5T3NSSENFNUZzaUU?oc=5",
+      "title": "房市冷！建商搶攻餐飲版圖 平價鐵板燒插旗北屯、餐酒館推異國料理 - UDN",
+      "source": "UDN",
+      "published_at": "2026-08-01T01:01:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MY0hYaS1DRkw0ZUFtOEVwRF8wbm5NQkhGVWlUbTB0aldjLWFKOW5faEVmbThUZG1uOHdYd1pMT3Q1OXpQSWUtM1B4dVBLTGh3VEdXQS130gFWQVVfeXFMTUxjSFhpLUNGTDRlQW04RXBEXzBubk1CSEZVaVRtMHRqV2MtYUo5bl9oRWZtOFRkbW44d1h3WkxPdDU5elBJZS0zUHh1UEtMaHdUR1dBLXc?oc=5",
       "matched_keywords": [
         "異國料理"
       ],
@@ -94,22 +123,704 @@
       "category_labels": [
         "世界料理趨勢"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kMEtHRFFLRW1rX3hnVTk1dk1MekxGUHgyVGtlVVNjeERvLS1NVFhtcFUtQ3dqLXhNWnFIWWZXV09oMFVuZ2p6cFBJSzE5T3NSSENFNUZzaUU?oc=5\" target=\"_blank\">蔬食也有鑊氣！養心茶樓新菜融合台味與異國風 松露雪耳嫩蛋成亮點</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">taiwannews.com.tw</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MY0hYaS1DRkw0ZUFtOEVwRF8wbm5NQkhGVWlUbTB0aldjLWFKOW5faEVmbThUZG1uOHdYd1pMT3Q1OXpQSWUtM1B4dVBLTGh3VEdXQS130gFWQVVfeXFMTUxjSFhpLUNGTDRlQW04RXBEXzBubk1CSEZVaVRtMHRqV2MtYUo5bl9oRWZtOFRkbW44d1h3WkxPdDU5elBJZS0zUHh1UEtMaHdUR1dBLXc?oc=5\" target=\"_blank\">房市冷！建商搶攻餐飲版圖 平價鐵板燒插旗北屯、餐酒館推異國料理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 4,
+        "reason": "命中 異國料理，且與「世界料理趨勢」高度相關，值得優先閱讀。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「房市冷！建商搶攻餐飲版圖 平價鐵板燒插旗北屯、餐酒館推異國料理 - UDN」，可放在 世界料理趨勢 脈絡下觀察。房市冷！建商搶攻餐飲版圖 平價鐵板燒插旗北屯、餐酒館推異國料理&nbsp;&nbsp;UDN",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
+      }
+    },
+    {
+      "id": "6c8a90c41517e153",
+      "period": "today",
+      "title": "天母美食推薦！餐廳小吃18家：米其林台菜、最強法國麵包、臉盆大牛肉麵 - 食尚玩家",
+      "source": "食尚玩家",
+      "published_at": "2026-08-01T00:55:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9URjhWaVpWRWd3S2xja1dUMXFzck5JVll3aF8xalZvNUxNZUNtbl9BTFJvTTFWa0ZQZEdKVnEtMGpWVzZ0U0FRRWlSWWtUNjJQeWFlVtIBWkFVX3lxTFBmeW8yUVFJd2JMRGI5Mld0STljTDhfdUF5X3JMTlJIOHFpUWZBT0hmcVo1QmZwbVVTLV9vMk91MlpHOEhza2VFaU5NWm1UU2wxZ1d5X2Y2WlVOQQ?oc=5",
+      "matched_keywords": [
+        "異國料理"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9URjhWaVpWRWd3S2xja1dUMXFzck5JVll3aF8xalZvNUxNZUNtbl9BTFJvTTFWa0ZQZEdKVnEtMGpWVzZ0U0FRRWlSWWtUNjJQeWFlVtIBWkFVX3lxTFBmeW8yUVFJd2JMRGI5Mld0STljTDhfdUF5X3JMTlJIOHFpUWZBT0hmcVo1QmZwbVVTLV9vMk91MlpHOEhza2VFaU5NWm1UU2wxZ1d5X2Y2WlVOQQ?oc=5\" target=\"_blank\">天母美食推薦！餐廳小吃18家：米其林台菜、最強法國麵包、臉盆大牛肉麵</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">食尚玩家</font>",
       "ai": {
         "worth_reading": false,
         "score": 2,
         "reason": "命中 異國料理，但目前訊號較弱，可低優先追蹤。",
         "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「蔬食也有鑊氣！養心茶樓新菜融合台味與異國風 松露雪耳嫩蛋成亮點 - taiwannews.com.tw」，可放在 世界料理趨勢 脈絡下觀察。蔬食也有鑊氣！養心茶樓新菜融合台味與異國風 松露雪耳嫩蛋成亮點&nbsp;&nbsp;taiwannews.com.tw",
+        "summary_zh": "這則新聞聚焦於「天母美食推薦！餐廳小吃18家：米其林台菜、最強法國麵包、臉盆大牛肉麵 - 食尚玩家」，可放在 世界料理趨勢 脈絡下觀察。天母美食推薦！餐廳小吃18家：米其林台菜、最強法國麵包、臉盆大牛肉麵&nbsp;&nbsp;食尚玩家",
         "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
       }
     },
     {
-      "id": "73fba350d19e1f0b",
+      "id": "62b784e8c1c394da",
       "period": "today",
+      "title": "悉尼西北區成為退休人士縮小居住選擇之地 - 大纪元",
+      "source": "大纪元",
+      "published_at": "2026-08-01T00:33:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80c1BSaVdzOTZjUFA2WHFTVDdaeTVVQllRcFdvaDFrN05oUHBoZ3lIUDRncUgwcFNwYmd5VFVfemRxWm1LZ0lLVy1XWFVBYkt3a2JCWUxxS0I2WnNFYkpn0gFkQVVfeXFMUC1vUUhGRUh4RDNZYXpELXhqU252TnFOWHV6MUJxanNGdHVnVkNFSUl4WjlFRm01bmI0a1BrOWx3NzhmY1VIM1RId2xyLUdEemlmWGNHLWNEQjBxbGg1VUFoc1lHTg?oc=5",
+      "matched_keywords": [
+        "酒吧活動"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE80c1BSaVdzOTZjUFA2WHFTVDdaeTVVQllRcFdvaDFrN05oUHBoZ3lIUDRncUgwcFNwYmd5VFVfemRxWm1LZ0lLVy1XWFVBYkt3a2JCWUxxS0I2WnNFYkpn0gFkQVVfeXFMUC1vUUhGRUh4RDNZYXpELXhqU252TnFOWHV6MUJxanNGdHVnVkNFSUl4WjlFRm01bmI0a1BrOWx3NzhmY1VIM1RId2xyLUdEemlmWGNHLWNEQjBxbGg1VUFoc1lHTg?oc=5\" target=\"_blank\">悉尼西北區成為退休人士縮小居住選擇之地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大纪元</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 酒吧活動，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「悉尼西北區成為退休人士縮小居住選擇之地 - 大纪元」，可放在 行銷靈感 脈絡下觀察。悉尼西北區成為退休人士縮小居住選擇之地&nbsp;&nbsp;大纪元",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動」切入。"
+      }
+    },
+    {
+      "id": "773ca5f5a1cadc84",
+      "period": "today",
+      "title": "不是加鹽 農夫分享水煮玉米一步驟鎖住鮮甜爽脆 - 世界新聞網",
+      "source": "世界新聞網",
+      "published_at": "2026-08-01T00:21:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNnNkVXJSX29fNVNBMkhkUkNHMVVjODJ2V3pFbWVTVjZQRElkYlhCVm9EYnp0S1RfZjVXVHpqSlR0MjRSdXZ1ZWlvZng2bXhkd2lDNkg4Ty1iMEVnSEVrcmQtQ3VyRWfSAWdBVV95cUxPUjZzZFVyUl9vXzVTQTJIZFJDRzFVYzgydld6RW1lU1Y2UERJZGJYQlZvRGJ6dEtUX2Y1V1R6akpUdDI0UnV2dWVpb2Z4Nm14ZHdpQzZIOE8tYjBFZ0hFa3JkLUN1ckVn?oc=5",
+      "matched_keywords": [
+        "世界料理"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNnNkVXJSX29fNVNBMkhkUkNHMVVjODJ2V3pFbWVTVjZQRElkYlhCVm9EYnp0S1RfZjVXVHpqSlR0MjRSdXZ1ZWlvZng2bXhkd2lDNkg4Ty1iMEVnSEVrcmQtQ3VyRWfSAWdBVV95cUxPUjZzZFVyUl9vXzVTQTJIZFJDRzFVYzgydld6RW1lU1Y2UERJZGJYQlZvRGJ6dEtUX2Y1V1R6akpUdDI0UnV2dWVpb2Z4Nm14ZHdpQzZIOE8tYjBFZ0hFa3JkLUN1ckVn?oc=5\" target=\"_blank\">不是加鹽 農夫分享水煮玉米一步驟鎖住鮮甜爽脆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界新聞網</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 世界料理，但目前訊號較弱，可低優先追蹤。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「不是加鹽 農夫分享水煮玉米一步驟鎖住鮮甜爽脆 - 世界新聞網」，可放在 世界料理趨勢 脈絡下觀察。不是加鹽 農夫分享水煮玉米一步驟鎖住鮮甜爽脆&nbsp;&nbsp;世界新聞網",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
+      }
+    },
+    {
+      "id": "a1d94a8a6dd189b5",
+      "period": "today",
+      "title": "Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相 - 蕃新聞",
+      "source": "蕃新聞",
+      "published_at": "2026-08-01T00:14:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIME9Vb1VEQjhtRERmUTNKTnl6YUlRM0RFZmZPQ1l4M0UyUDB2QXE1bnFIS1lnNDd1Mjk2SzJXODFORDdYUHpVbk84aHRkWXJ6QkE?oc=5",
+      "matched_keywords": [
+        "觀光餐飲"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIME9Vb1VEQjhtRERmUTNKTnl6YUlRM0RFZmZPQ1l4M0UyUDB2QXE1bnFIS1lnNDd1Mjk2SzJXODFORDdYUHpVbk84aHRkWXJ6QkE?oc=5\" target=\"_blank\">Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">蕃新聞</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相 - 蕃新聞」，可放在 市場情報 脈絡下觀察。Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相&nbsp;&nbsp;蕃新聞",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
+      }
+    },
+    {
+      "id": "1110c373bdf59c41",
+      "period": "today",
+      "title": "角板山「菇事」飄香8/2登場 首辦「香菇餐桌」品嚐山城美味 - 蕃新聞",
+      "source": "蕃新聞",
+      "published_at": "2026-07-31T23:05:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90cnFRUXpLWlBqQy05Nk1Mb3ZsYmhZaWVtb1czdE9hQjNmaHJid3VVU3NucHY4aU1fc1MzSUVuVkJzNXJVcFd1Vl9wSm9TWkdOU3c?oc=5",
+      "matched_keywords": [
+        "餐飲行銷"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE90cnFRUXpLWlBqQy05Nk1Mb3ZsYmhZaWVtb1czdE9hQjNmaHJid3VVU3NucHY4aU1fc1MzSUVuVkJzNXJVcFd1Vl9wSm9TWkdOU3c?oc=5\" target=\"_blank\">角板山「菇事」飄香8/2登場 首辦「香菇餐桌」品嚐山城美味</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">蕃新聞</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「角板山「菇事」飄香8/2登場 首辦「香菇餐桌」品嚐山城美味 - 蕃新聞」，可放在 行銷靈感 脈絡下觀察。角板山「菇事」飄香8/2登場 首辦「香菇餐桌」品嚐山城美味&nbsp;&nbsp;蕃新聞",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷」切入。"
+      }
+    },
+    {
+      "id": "8f97d1a92f9bdd67",
+      "period": "today",
+      "title": "酒吧續攤變調！正妹斷片遭性侵老闆與友人下場大不同- 社會 - 中時新聞網",
+      "source": "中時新聞網",
+      "published_at": "2026-07-31T21:30:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sQ1RVcWw4LVR5dmFuRGctRkJ5WmZ0TDgzMG5KX3VHXy0zY3FSWVUtWlhGZV9ldnduc294YlAtbGt2Yldpcm1qbGxiVmgyY3pXUllsMGE2SmU1NE1QbWdVLS13dWZQVG9tb3c3UFdR?oc=5",
+      "matched_keywords": [
+        "酒吧活動"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9sQ1RVcWw4LVR5dmFuRGctRkJ5WmZ0TDgzMG5KX3VHXy0zY3FSWVUtWlhGZV9ldnduc294YlAtbGt2Yldpcm1qbGxiVmgyY3pXUllsMGE2SmU1NE1QbWdVLS13dWZQVG9tb3c3UFdR?oc=5\" target=\"_blank\">酒吧續攤變調！正妹斷片遭性侵老闆與友人下場大不同- 社會</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中時新聞網</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 酒吧活動，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「酒吧續攤變調！正妹斷片遭性侵老闆與友人下場大不同- 社會 - 中時新聞網」，可放在 行銷靈感 脈絡下觀察。酒吧續攤變調！正妹斷片遭性侵老闆與友人下場大不同- 社會&nbsp;&nbsp;中時新聞網",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動」切入。"
+      }
+    },
+    {
+      "id": "50d20deb665191a3",
+      "period": "today",
+      "title": "吃桌特訓備戰紐約辦桌 陳隨意受封料理維基百科 - 自由娛樂",
+      "source": "自由娛樂",
+      "published_at": "2026-07-31T21:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0M3JzdmpxOFc4elZ4N3FVcUNTVjVyWWJLRHZCT3RRSjVWVEx1MUtwUkFuLWR0UVN4bzJTQW04S2M4eV9QTmJyR0Q3OGlmWW1JQVk4RXFzZ2M?oc=5",
+      "matched_keywords": [
+        "世界料理"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0M3JzdmpxOFc4elZ4N3FVcUNTVjVyWWJLRHZCT3RRSjVWVEx1MUtwUkFuLWR0UVN4bzJTQW04S2M4eV9QTmJyR0Q3OGlmWW1JQVk4RXFzZ2M?oc=5\" target=\"_blank\">吃桌特訓備戰紐約辦桌 陳隨意受封料理維基百科</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">自由娛樂</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 世界料理，可作為「世界料理趨勢」的輔助觀察。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「吃桌特訓備戰紐約辦桌 陳隨意受封料理維基百科 - 自由娛樂」，可放在 世界料理趨勢 脈絡下觀察。吃桌特訓備戰紐約辦桌 陳隨意受封料理維基百科&nbsp;&nbsp;自由娛樂",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
+      }
+    },
+    {
+      "id": "98e09964026d785d",
+      "period": "today",
+      "title": "長亨周漲近6成 興櫃之冠 - 中時新聞網",
+      "source": "中時新聞網",
+      "published_at": "2026-07-31T20:10:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRMEJQZzNOa1lLZURpbDJlZFd0dmdVbzkxV0NiMUFQYmZpaVJHazFZSi0yRXl4Tjc0UjlRczNMajY4QTJneFpRMlhBSTRXTTAxWk9SVU1mM3JQaGpBQlpjYjZxcVBMRlk1RHRZ?oc=5",
+      "matched_keywords": [
+        "會員經濟"
+      ],
+      "categories": [
+        "membership"
+      ],
+      "category_labels": [
+        "會員經濟"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBRMEJQZzNOa1lLZURpbDJlZFd0dmdVbzkxV0NiMUFQYmZpaVJHazFZSi0yRXl4Tjc0UjlRczNMajY4QTJneFpRMlhBSTRXTTAxWk9SVU1mM3JQaGpBQlpjYjZxcVBMRlk1RHRZ?oc=5\" target=\"_blank\">長亨周漲近6成 興櫃之冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中時新聞網</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 會員經濟，可作為「會員經濟」的輔助觀察。",
+        "classification": "會員經濟",
+        "summary_zh": "這則新聞聚焦於「長亨周漲近6成 興櫃之冠 - 中時新聞網」，可放在 會員經濟 脈絡下觀察。長亨周漲近6成 興櫃之冠&nbsp;&nbsp;中時新聞網",
+        "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。"
+      }
+    },
+    {
+      "id": "dac8a7cc17eb37c9",
+      "period": "today",
+      "title": "臺灣美食展開幕 嘗遍全臺山海物產 | 青年日報 - LINE TODAY",
+      "source": "LINE TODAY",
+      "published_at": "2026-07-31T17:06:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbFluR0hSejJrakFpOEs3cDNyZS1VeENoeU5CSTBwZEhHYWdwZkZBZm9wMnZHQVE4TnY1b0RlUWlqNk4xTTBmdkxMRmw5VzJsSXpxdG1R?oc=5",
+      "matched_keywords": [
+        "異國料理"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbFluR0hSejJrakFpOEs3cDNyZS1VeENoeU5CSTBwZEhHYWdwZkZBZm9wMnZHQVE4TnY1b0RlUWlqNk4xTTBmdkxMRmw5VzJsSXpxdG1R?oc=5\" target=\"_blank\">臺灣美食展開幕 嘗遍全臺山海物產 | 青年日報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINE TODAY</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 異國料理，可作為「世界料理趨勢」的輔助觀察。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「臺灣美食展開幕 嘗遍全臺山海物產 | 青年日報 - LINE TODAY」，可放在 世界料理趨勢 脈絡下觀察。臺灣美食展開幕 嘗遍全臺山海物產 | 青年日報&nbsp;&nbsp;LINE TODAY",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
+      }
+    },
+    {
+      "id": "6e8bd2a223c26fd0",
+      "period": "today",
+      "title": "討論牆| 台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！ - LINE TODAY",
+      "source": "LINE TODAY",
+      "published_at": "2026-07-31T16:49:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRNlNlSmdobWxaMjFNaXFpYmhubm9wVGdmMzNKRnd2LTR4bmptQ0lSazJhd2tUcnFTTDExbTU5eU5DSm9JVXBGZHNEUW03T1NkaU1zU0dtMmE5OUJHZ0NRcGd3M0M?oc=5",
+      "matched_keywords": [
+        "酒吧新開幕"
+      ],
+      "categories": [
+        "competitors"
+      ],
+      "category_labels": [
+        "競品異動"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRNlNlSmdobWxaMjFNaXFpYmhubm9wVGdmMzNKRnd2LTR4bmptQ0lSazJhd2tUcnFTTDExbTU5eU5DSm9JVXBGZHNEUW03T1NkaU1zU0dtMmE5OUJHZ0NRcGd3M0M?oc=5\" target=\"_blank\">討論牆| 台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINE TODAY</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 4,
+        "reason": "命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。",
+        "classification": "競品異動",
+        "summary_zh": "這則新聞聚焦於「討論牆| 台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！ - LINE TODAY」，可放在 競品異動 脈絡下觀察。討論牆| 台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！&nbsp;&nbsp;LINE TODAY",
+        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
+      }
+    },
+    {
+      "id": "b89d29cc2a5a4719",
+      "period": "today",
+      "title": "聊天太累不聊也無妨 Z世代樂享「軟社交」 - 中央社 CNA",
+      "source": "中央社 CNA",
+      "published_at": "2026-07-31T16:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RdXRZOUl3QkE3ZzNIUTVDMEU3cDVPd0RCdC00Q1ZRQWM5bDVUR0dWNm5QVnFUWWNsWU91bFk0UlhCcWtZTnQ0RWliNkpCalA2VGxCZVZwcERyTm5ZRVB5NE1ueGQ?oc=5",
+      "matched_keywords": [
+        "酒吧活動"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RdXRZOUl3QkE3ZzNIUTVDMEU3cDVPd0RCdC00Q1ZRQWM5bDVUR0dWNm5QVnFUWWNsWU91bFk0UlhCcWtZTnQ0RWliNkpCalA2VGxCZVZwcERyTm5ZRVB5NE1ueGQ?oc=5\" target=\"_blank\">聊天太累不聊也無妨 Z世代樂享「軟社交」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中央社 CNA</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 酒吧活動，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「聊天太累不聊也無妨 Z世代樂享「軟社交」 - 中央社 CNA」，可放在 行銷靈感 脈絡下觀察。聊天太累不聊也無妨 Z世代樂享「軟社交」&nbsp;&nbsp;中央社 CNA",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動」切入。"
+      }
+    },
+    {
+      "id": "ec68d808c237bb72",
+      "period": "today",
+      "title": "南非高空極限餐飲體驗 腎上腺素與食慾交鋒 - 中央社 CNA",
+      "source": "中央社 CNA",
+      "published_at": "2026-07-31T16:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KeHpydExsbGdMaEJFWDktU3pRX1pmRFc3eXJVMC1ERk0wWXBWUUhPUkNoOEhXUWlISnR1aFdKeG5nMzY1cHlOZmpGSnoxY2dHeS1jdDVvVndXSUtiVk5VeTI5ZnM?oc=5",
+      "matched_keywords": [
+        "餐飲趨勢"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KeHpydExsbGdMaEJFWDktU3pRX1pmRFc3eXJVMC1ERk0wWXBWUUhPUkNoOEhXUWlISnR1aFdKeG5nMzY1cHlOZmpGSnoxY2dHeS1jdDVvVndXSUtiVk5VeTI5ZnM?oc=5\" target=\"_blank\">南非高空極限餐飲體驗 腎上腺素與食慾交鋒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中央社 CNA</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「南非高空極限餐飲體驗 腎上腺素與食慾交鋒 - 中央社 CNA」，可放在 市場情報 脈絡下觀察。南非高空極限餐飲體驗 腎上腺素與食慾交鋒&nbsp;&nbsp;中央社 CNA",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢」切入。"
+      }
+    }
+  ],
+  "history_7d": [
+    {
+      "id": "01bfc556fdcd6ed7",
+      "period": "history_7d",
+      "title": "父親節餐廳訂位衝九成！飯店端「帝王蟹套餐」搶客 禮物趨勢大變了 | TVBS - LINE TODAY",
+      "source": "LINE TODAY",
+      "published_at": "2026-07-31T15:21:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWmR4ajcyd3dGUV9oclVNXzJyMWZ1OU9BYm1sU1RfbnpLdjN6bUwyUFdCaW8xUjhGOFQ0QU96MEJSdkt2WDE5d3pDMnNhLWhOa3ZIQmZR?oc=5",
+      "matched_keywords": [
+        "餐飲趨勢",
+        "美食趨勢"
+      ],
+      "categories": [
+        "market",
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "市場情報",
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWmR4ajcyd3dGUV9oclVNXzJyMWZ1OU9BYm1sU1RfbnpLdjN6bUwyUFdCaW8xUjhGOFQ0QU96MEJSdkt2WDE5d3pDMnNhLWhOa3ZIQmZR?oc=5\" target=\"_blank\">父親節餐廳訂位衝九成！飯店端「帝王蟹套餐」搶客 禮物趨勢大變了 | TVBS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINE TODAY</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 4,
+        "reason": "命中 餐飲趨勢、美食趨勢，且與「市場情報」高度相關，值得優先閱讀。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「父親節餐廳訂位衝九成！飯店端「帝王蟹套餐」搶客 禮物趨勢大變了 | TVBS - LINE TODAY」，可放在 市場情報、世界料理趨勢 脈絡下觀察。父親節餐廳訂位衝九成！飯店端「帝王蟹套餐」搶客 禮物趨勢大變了 | TVBS&nbsp;&nbsp;LINE TODAY",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢、美食趨勢」切入。"
+      }
+    },
+    {
+      "id": "2ddbe6e96cf28a0b",
+      "period": "history_7d",
+      "title": "HOT SPOT｜年度話題餐廳開幕！米其林三星名廚Paul Pairet打造「POLUX」，把French Café的巴黎日常帶進台北街頭 - Vogue Taiwan",
+      "source": "Vogue Taiwan",
+      "published_at": "2026-07-31T13:45:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzbDJLaWdyVmV5VHBkR1lmNm53OGhSb191T2lSdmpwVnY5eTNTTnR0OTJfNWRqZlJ3Xy0yQkFicEM5dU1tR2VwTGRHSENNOEh6OFlzNjAxckp2MUpxMEtMc2dENmlUN2sxZG1oUmwtSEt5cER6ZmV3?oc=5",
+      "matched_keywords": [
+        "世界料理"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBzbDJLaWdyVmV5VHBkR1lmNm53OGhSb191T2lSdmpwVnY5eTNTTnR0OTJfNWRqZlJ3Xy0yQkFicEM5dU1tR2VwTGRHSENNOEh6OFlzNjAxckp2MUpxMEtMc2dENmlUN2sxZG1oUmwtSEt5cER6ZmV3?oc=5\" target=\"_blank\">HOT SPOT｜年度話題餐廳開幕！米其林三星名廚Paul Pairet打造「POLUX」，把French Café的巴黎日常帶進台北街頭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue Taiwan</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 世界料理，可作為「世界料理趨勢」的輔助觀察。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「HOT SPOT｜年度話題餐廳開幕！米其林三星名廚Paul Pairet打造「POLUX」，把French Café的巴黎日常帶進台北街頭 - Vogue Taiwan」，可放在 世界料理趨勢 脈絡下觀察。HOT SPOT｜年度話題餐廳開幕！米其林三星名廚Paul Pairet打造「POLUX」，把French Café的巴黎日常帶進台北街頭&nbsp;&nbsp;Vogue Taiwan",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
+      }
+    },
+    {
+      "id": "9560294e17399fa3",
+      "period": "history_7d",
+      "title": "臺鹽「六色風味鹽」台灣美食展亮相 打造「鹽好時光」體驗 - 台灣好新聞",
+      "source": "台灣好新聞",
+      "published_at": "2026-07-31T09:26:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOejlxMzFfZkMwS3I1ekUtUS1zdW83YjYtRXNmQkZCXzFnUlJwLXFfRGZ3VzJCNkx5N05tM3piODROemN4V1JUN1p3UWVqRFBxa3NiTVlnMXROU0x5VG9idzlXaHlqM1N2VFR5VHlGaGF6bzJJRTgydFY1TXNnNzlOV1ZYNWFCNkl4Z0tSS2RfMnB4ZE45YjVNVmt2b2JEd3hIa0x3WU5tUmE3NVZVaWc4eFEybjJkNE10cU5GanBmcGZKblNFVHVXNUZOU1cxbGdpWlNfd2h4NHE1VXlzb0FqdlQtaGRlbmszdGlaTWdIRjROMlIyTWdBZWx6clhKVVNoRTRzUjhvTVhfYXZhcjZjN0VHaUo3bWxQRnJyZF9LSjFnbG04dzRpSFZzWW1CVF9qRGowSDVfdks5RWNSWTNkbk1mNXhUYU11YXNQMTBvTTVybkozMDl6VTZLZ1hmdExHcmRMOHp0U2dwSHVMdEpyMmY4S0h4Y0R0VkFIc3R2Tm04bEo0d3FsU0xB?oc=5",
+      "matched_keywords": [
+        "美食趨勢"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxOejlxMzFfZkMwS3I1ekUtUS1zdW83YjYtRXNmQkZCXzFnUlJwLXFfRGZ3VzJCNkx5N05tM3piODROemN4V1JUN1p3UWVqRFBxa3NiTVlnMXROU0x5VG9idzlXaHlqM1N2VFR5VHlGaGF6bzJJRTgydFY1TXNnNzlOV1ZYNWFCNkl4Z0tSS2RfMnB4ZE45YjVNVmt2b2JEd3hIa0x3WU5tUmE3NVZVaWc4eFEybjJkNE10cU5GanBmcGZKblNFVHVXNUZOU1cxbGdpWlNfd2h4NHE1VXlzb0FqdlQtaGRlbmszdGlaTWdIRjROMlIyTWdBZWx6clhKVVNoRTRzUjhvTVhfYXZhcjZjN0VHaUo3bWxQRnJyZF9LSjFnbG04dzRpSFZzWW1CVF9qRGowSDVfdks5RWNSWTNkbk1mNXhUYU11YXNQMTBvTTVybkozMDl6VTZLZ1hmdExHcmRMOHp0U2dwSHVMdEpyMmY4S0h4Y0R0VkFIc3R2Tm04bEo0d3FsU0xB?oc=5\" target=\"_blank\">臺鹽「六色風味鹽」台灣美食展亮相 打造「鹽好時光」體驗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">台灣好新聞</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 美食趨勢，但目前訊號較弱，可低優先追蹤。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「臺鹽「六色風味鹽」台灣美食展亮相 打造「鹽好時光」體驗 - 台灣好新聞」，可放在 世界料理趨勢 脈絡下觀察。臺鹽「六色風味鹽」台灣美食展亮相 打造「鹽好時光」體驗&nbsp;&nbsp;台灣好新聞",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「美食趨勢」切入。"
+      }
+    },
+    {
+      "id": "b32412cf8510bd21",
+      "period": "history_7d",
+      "title": "台北板橋馥華艾美酒店開幕！高空酒吧、10米挑高宴會廳成新北頂級地標 - playing.ltn.com.tw",
+      "source": "playing.ltn.com.tw",
+      "published_at": "2026-07-31T08:57:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PZmZjejN3UDIzTzR3dkRyUWpIMFFQdUFIMHIxWkZtLUhpYWZ3RVU0S0VhWllnMnNyNnVlZmFQOGNDM3lPLUNuQTdnaXJ5RlNHZXQtZTItTQ?oc=5",
+      "matched_keywords": [
+        "酒吧新開幕"
+      ],
+      "categories": [
+        "competitors"
+      ],
+      "category_labels": [
+        "競品異動"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PZmZjejN3UDIzTzR3dkRyUWpIMFFQdUFIMHIxWkZtLUhpYWZ3RVU0S0VhWllnMnNyNnVlZmFQOGNDM3lPLUNuQTdnaXJ5RlNHZXQtZTItTQ?oc=5\" target=\"_blank\">台北板橋馥華艾美酒店開幕！高空酒吧、10米挑高宴會廳成新北頂級地標</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">playing.ltn.com.tw</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 4,
+        "reason": "命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。",
+        "classification": "競品異動",
+        "summary_zh": "這則新聞聚焦於「台北板橋馥華艾美酒店開幕！高空酒吧、10米挑高宴會廳成新北頂級地標 - playing.ltn.com.tw」，可放在 競品異動 脈絡下觀察。台北板橋馥華艾美酒店開幕！高空酒吧、10米挑高宴會廳成新北頂級地標&nbsp;&nbsp;playing.ltn.com.tw",
+        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
+      }
+    },
+    {
+      "id": "d89a3bfd1358bee7",
+      "period": "history_7d",
+      "title": "王品360家店撐起234.5億元營收，憑什麼創餐飲業紀錄？陳正輝親揭「騰籠換鳥」打法 - 數位時代",
+      "source": "數位時代",
+      "published_at": "2026-07-31T08:33:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OTXExM2djNFVVWHBXT3VHdjVkc1V5TF9fdk1IN21Gd0docXFmaU5HWlV3UHYwM3pvZW05QXlxeG9OaWJVMURUc09jaUFxNDcwUWtfbXpmalgtZWhZUVJ1azNJMkRwVWphaS0xMndaT0Q0YTdDWEE?oc=5",
+      "matched_keywords": [
+        "台灣餐飲市場"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5OTXExM2djNFVVWHBXT3VHdjVkc1V5TF9fdk1IN21Gd0docXFmaU5HWlV3UHYwM3pvZW05QXlxeG9OaWJVMURUc09jaUFxNDcwUWtfbXpmalgtZWhZUVJ1azNJMkRwVWphaS0xMndaT0Q0YTdDWEE?oc=5\" target=\"_blank\">王品360家店撐起234.5億元營收，憑什麼創餐飲業紀錄？陳正輝親揭「騰籠換鳥」打法</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">數位時代</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「王品360家店撐起234.5億元營收，憑什麼創餐飲業紀錄？陳正輝親揭「騰籠換鳥」打法 - 數位時代」，可放在 市場情報 脈絡下觀察。王品360家店撐起234.5億元營收，憑什麼創餐飲業紀錄？陳正輝親揭「騰籠換鳥」打法&nbsp;&nbsp;數位時代",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。"
+      }
+    },
+    {
+      "id": "98ef381ea900d978",
+      "period": "history_7d",
+      "title": "鍋烤節助攻！台中餐飲店家祭優惠 業績成長最高2成 #2026台中鍋烤節 - ctv.com.tw",
+      "source": "ctv.com.tw",
+      "published_at": "2026-07-31T08:15:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNUk1wbDVQcmMxaDF2b0RjMkFBNmJxOE53NlBwdUxNcmVwV3NrNW4wSklyZHhuZ3Vuak03Z2UwZ0M3cGpiY0Z4bjhpUmhRR1c4c1IzQmNVQnlrVURody1iUzJYUkZneS1rdXFiR0Z4Q3Y1bVJIeXlYZWFtRTF6NndEbU4zaVlxU0t0cldQZVlfZkZPUVFyZi1kWUtnU2ZhSzF2SEtiMTR0NFpGZmNFWjdzSDFWdlAydFNKNHFyc3pnb0tHRF90SExYU0VJVmE1bENpRDZITGxsUV9rYk5OUk9HcXU1LVo4a2FVaHFQNUw1UDZILWNfQUF6WnEwZ0s4QjBHR2hTZGJsaVc5dDVQN2xYUWJVYm13TTBTSEdHc0wzS1dJQ2ZOVDIzcHJyRmJDRElyLWgzc1hOUm9NVWdSTlZiRzQySjBZbnpYOW91MGd0Y0pYYmhDUmdmRm4tVER4S3RKNEt0TFdhSXlzYm0wYXpKN2NjVVp2Si1MX25vczdYVWdHdDR6VjlZbA?oc=5",
+      "matched_keywords": [
+        "餐飲行銷"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiANBVV95cUxNUk1wbDVQcmMxaDF2b0RjMkFBNmJxOE53NlBwdUxNcmVwV3NrNW4wSklyZHhuZ3Vuak03Z2UwZ0M3cGpiY0Z4bjhpUmhRR1c4c1IzQmNVQnlrVURody1iUzJYUkZneS1rdXFiR0Z4Q3Y1bVJIeXlYZWFtRTF6NndEbU4zaVlxU0t0cldQZVlfZkZPUVFyZi1kWUtnU2ZhSzF2SEtiMTR0NFpGZmNFWjdzSDFWdlAydFNKNHFyc3pnb0tHRF90SExYU0VJVmE1bENpRDZITGxsUV9rYk5OUk9HcXU1LVo4a2FVaHFQNUw1UDZILWNfQUF6WnEwZ0s4QjBHR2hTZGJsaVc5dDVQN2xYUWJVYm13TTBTSEdHc0wzS1dJQ2ZOVDIzcHJyRmJDRElyLWgzc1hOUm9NVWdSTlZiRzQySjBZbnpYOW91MGd0Y0pYYmhDUmdmRm4tVER4S3RKNEt0TFdhSXlzYm0wYXpKN2NjVVp2Si1MX25vczdYVWdHdDR6VjlZbA?oc=5\" target=\"_blank\">鍋烤節助攻！台中餐飲店家祭優惠 業績成長最高2成 #2026台中鍋烤節</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctv.com.tw</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「鍋烤節助攻！台中餐飲店家祭優惠 業績成長最高2成 #2026台中鍋烤節 - ctv.com.tw」，可放在 行銷靈感 脈絡下觀察。鍋烤節助攻！台中餐飲店家祭優惠 業績成長最高2成 #2026台中鍋烤節&nbsp;&nbsp;ctv.com.tw",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷」切入。"
+      }
+    },
+    {
+      "id": "d865e5221a3e2555",
+      "period": "history_7d",
+      "title": "街頭小吃憑什麼登上高級餐廳菜單？台灣「街頭食尚」風潮背後的商機邏輯 - 墨新聞-MORE News",
+      "source": "墨新聞-MORE News",
+      "published_at": "2026-07-31T07:55:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OOFpHeXNkeE41bS1nZkJ0RzVaWW1yeUh3bUhvRExRT3VYVGJxM1Q4elFTb2VMMmJaUlBhLTU1RGlIQQ?oc=5",
+      "matched_keywords": [
+        "餐廳社群行銷"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OOFpHeXNkeE41bS1nZkJ0RzVaWW1yeUh3bUhvRExRT3VYVGJxM1Q4elFTb2VMMmJaUlBhLTU1RGlIQQ?oc=5\" target=\"_blank\">街頭小吃憑什麼登上高級餐廳菜單？台灣「街頭食尚」風潮背後的商機邏輯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">墨新聞-MORE News</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 餐廳社群行銷，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「街頭小吃憑什麼登上高級餐廳菜單？台灣「街頭食尚」風潮背後的商機邏輯 - 墨新聞-MORE News」，可放在 行銷靈感 脈絡下觀察。街頭小吃憑什麼登上高級餐廳菜單？台灣「街頭食尚」風潮背後的商機邏輯&nbsp;&nbsp;墨新聞-MORE News",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐廳社群行銷」切入。"
+      }
+    },
+    {
+      "id": "d307331d319b229a",
+      "period": "history_7d",
+      "title": "2026新竹啤酒節完整攻略！孫淑媚、麋先生開唱，40攤美食啤酒市集、活動亮點必衝一波 - Marie Claire 美麗佳人",
+      "source": "Marie Claire 美麗佳人",
+      "published_at": "2026-07-31T07:09:33+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmSDhBdGhFdWlTOVVWMjdveFFVamtON2ZWQzNSdXdqYnZ3ZTBBT1ZIMmFPQTZMOGxqdERmejM1Q3RJVXdsSzRCUk5rYlZ4bmM5WGsxRzByem1HdVVPUUxXNnlUMA?oc=5",
+      "matched_keywords": [
+        "精釀啤酒",
+        "啤酒節"
+      ],
+      "categories": [
+        "craft_beer"
+      ],
+      "category_labels": [
+        "精釀啤酒"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmSDhBdGhFdWlTOVVWMjdveFFVamtON2ZWQzNSdXdqYnZ3ZTBBT1ZIMmFPQTZMOGxqdERmejM1Q3RJVXdsSzRCUk5rYlZ4bmM5WGsxRzByem1HdVVPUUxXNnlUMA?oc=5\" target=\"_blank\">2026新竹啤酒節完整攻略！孫淑媚、麋先生開唱，40攤美食啤酒市集、活動亮點必衝一波</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marie Claire 美麗佳人</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 5,
+        "reason": "命中 精釀啤酒、啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。",
+        "classification": "精釀啤酒",
+        "summary_zh": "這則新聞聚焦於「2026新竹啤酒節完整攻略！孫淑媚、麋先生開唱，40攤美食啤酒市集、活動亮點必衝一波 - Marie Claire 美麗佳人」，可放在 精釀啤酒 脈絡下觀察。2026新竹啤酒節完整攻略！孫淑媚、麋先生開唱，40攤美食啤酒市集、活動亮點必衝一波&nbsp;&nbsp;Marie Claire 美麗佳人",
+        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒、啤酒節」切入。"
+      }
+    },
+    {
+      "id": "0e77244d2893a98b",
+      "period": "history_7d",
+      "title": "台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！ - GQ Taiwan",
+      "source": "GQ Taiwan",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2dmc01PcjBlNVBkdjhqdTlCSkk1ZWhHWlBiZTE2RzBmZkxiSVQ2WlpLeXZqR0hQSEdnTUVmRlZVUVRwbFN6RXJwQzRfeUEyOUJiZzREMnY3dGoyRmdfRk4zT0FkSUp4Zy1BNWM2MGNJd1ZPNkZ0dHJ3TTJUYmMtcEJocmRKU2ZCeVhLQWEyTVNfX1NJeWg0Yzd4Q1djREt0aHpocFRyRmprQ3hpalZmZXlQNmI0dWpmY0llcA?oc=5",
+      "matched_keywords": [
+        "酒吧新開幕"
+      ],
+      "categories": [
+        "competitors"
+      ],
+      "category_labels": [
+        "競品異動"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2dmc01PcjBlNVBkdjhqdTlCSkk1ZWhHWlBiZTE2RzBmZkxiSVQ2WlpLeXZqR0hQSEdnTUVmRlZVUVRwbFN6RXJwQzRfeUEyOUJiZzREMnY3dGoyRmdfRk4zT0FkSUp4Zy1BNWM2MGNJd1ZPNkZ0dHJ3TTJUYmMtcEJocmRKU2ZCeVhLQWEyTVNfX1NJeWg0Yzd4Q1djREt0aHpocFRyRmprQ3hpalZmZXlQNmI0dWpmY0llcA?oc=5\" target=\"_blank\">台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GQ Taiwan</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 4,
+        "reason": "命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。",
+        "classification": "競品異動",
+        "summary_zh": "這則新聞聚焦於「台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！ - GQ Taiwan」，可放在 競品異動 脈絡下觀察。台北板橋馥華艾美酒店正式開幕：藝術客房、高空泳池、星空酒吧一次看，憑房卡還能兌換新北市美術館門票！&nbsp;&nbsp;GQ Taiwan",
+        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
+      }
+    },
+    {
+      "id": "57bb784fdbacdf9d",
+      "period": "history_7d",
+      "title": "建商多角化經營成新顯學！富華創新跨足平價鐵板燒與醫美 - 富比士地產王",
+      "source": "富比士地產王",
+      "published_at": "2026-07-31T05:54:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xT1BXYXRCQ3hBZDdjeUVSWXI0czFseUpyR2dEc1Z0aWhzQ2Y1Z2F6MTQ4aVNfQVB1M3RxamlsWjRnN1FJb3Zib1NKTzVSSTZGSVlFTUdVTQ?oc=5",
+      "matched_keywords": [
+        "餐飲趨勢"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xT1BXYXRCQ3hBZDdjeUVSWXI0czFseUpyR2dEc1Z0aWhzQ2Y1Z2F6MTQ4aVNfQVB1M3RxamlsWjRnN1FJb3Zib1NKTzVSSTZGSVlFTUdVTQ?oc=5\" target=\"_blank\">建商多角化經營成新顯學！富華創新跨足平價鐵板燒與醫美</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富比士地產王</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「建商多角化經營成新顯學！富華創新跨足平價鐵板燒與醫美 - 富比士地產王」，可放在 市場情報 脈絡下觀察。建商多角化經營成新顯學！富華創新跨足平價鐵板燒與醫美&nbsp;&nbsp;富比士地產王",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢」切入。"
+      }
+    },
+    {
+      "id": "27dc51fa9d9ddf11",
+      "period": "history_7d",
+      "title": "國泰會員尊尚大獎2026得獎者名單| 國泰 HK - Cathay Pacific",
+      "source": "Cathay Pacific",
+      "published_at": "2026-07-31T05:14:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2QtcndfMXpqcTcwOEk0cHdNS2t1RXBGek9Tdk9ucXpzTUtGOFZTTDFaLUVDUXJ2TXpzMXlXSFJyVXpsSFRHdTZMUHlkUTdTYmppZHl2a25wUVh5Nm40ejZxMzNGejNWWTBLbnN1WHNxdm5qcDFCM2szYUMyMkpNbWwxZHN1OE95OHlqVkdlUmIyTEtWU2J4eVMxSjBmUkdJQVJfc2NxYzE3YUpLUE5fcQ?oc=5",
+      "matched_keywords": [
+        "餐飲會員"
+      ],
+      "categories": [
+        "membership"
+      ],
+      "category_labels": [
+        "會員經濟"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2QtcndfMXpqcTcwOEk0cHdNS2t1RXBGek9Tdk9ucXpzTUtGOFZTTDFaLUVDUXJ2TXpzMXlXSFJyVXpsSFRHdTZMUHlkUTdTYmppZHl2a25wUVh5Nm40ejZxMzNGejNWWTBLbnN1WHNxdm5qcDFCM2szYUMyMkpNbWwxZHN1OE95OHlqVkdlUmIyTEtWU2J4eVMxSjBmUkdJQVJfc2NxYzE3YUpLUE5fcQ?oc=5\" target=\"_blank\">國泰會員尊尚大獎2026得獎者名單| 國泰 HK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cathay Pacific</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 4,
+        "reason": "命中 餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。",
+        "classification": "會員經濟",
+        "summary_zh": "這則新聞聚焦於「國泰會員尊尚大獎2026得獎者名單| 國泰 HK - Cathay Pacific」，可放在 會員經濟 脈絡下觀察。國泰會員尊尚大獎2026得獎者名單| 國泰 HK&nbsp;&nbsp;Cathay Pacific",
+        "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「餐飲會員」切入。"
+      }
+    },
+    {
+      "id": "cd5fe2e15a332563",
+      "period": "history_7d",
+      "title": "2026台灣美食展盛大開幕！邀世界品台味 - 台灣新聞雲",
+      "source": "台灣新聞雲",
+      "published_at": "2026-07-31T04:47:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmR0dGWk9FVGxqX2VRTEpsZlh2VEJpM19KZjRuLXgxX1d3cmYtQVR4TFdWX1ZrejlsQ0hFa05pYU13VGFvOF9v?oc=5",
+      "matched_keywords": [
+        "世界料理"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmR0dGWk9FVGxqX2VRTEpsZlh2VEJpM19KZjRuLXgxX1d3cmYtQVR4TFdWX1ZrejlsQ0hFa05pYU13VGFvOF9v?oc=5\" target=\"_blank\">2026台灣美食展盛大開幕！邀世界品台味</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">台灣新聞雲</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 世界料理，可作為「世界料理趨勢」的輔助觀察。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「2026台灣美食展盛大開幕！邀世界品台味 - 台灣新聞雲」，可放在 世界料理趨勢 脈絡下觀察。2026台灣美食展盛大開幕！邀世界品台味&nbsp;&nbsp;台灣新聞雲",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
+      }
+    },
+    {
+      "id": "d45671549212d2ae",
+      "period": "history_7d",
+      "title": "吃到飽經濟學發威！漢來美食揭島語爆紅祕密 - 遠見雜誌",
+      "source": "遠見雜誌",
+      "published_at": "2026-07-31T04:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EY1VIOFU5dWVZbXZ4dWg1SUlETXZWZ3l5R0Q1RzRPcmMySkdGUEdvMVdNUU5YOHRFVnZGdjRxNVBRZDc2clRWZ1FEcXdJdw?oc=5",
+      "matched_keywords": [
+        "會員經濟"
+      ],
+      "categories": [
+        "membership"
+      ],
+      "category_labels": [
+        "會員經濟"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EY1VIOFU5dWVZbXZ4dWg1SUlETXZWZ3l5R0Q1RzRPcmMySkdGUEdvMVdNUU5YOHRFVnZGdjRxNVBRZDc2clRWZ1FEcXdJdw?oc=5\" target=\"_blank\">吃到飽經濟學發威！漢來美食揭島語爆紅祕密</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">遠見雜誌</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 會員經濟，可作為「會員經濟」的輔助觀察。",
+        "classification": "會員經濟",
+        "summary_zh": "這則新聞聚焦於「吃到飽經濟學發威！漢來美食揭島語爆紅祕密 - 遠見雜誌」，可放在 會員經濟 脈絡下觀察。吃到飽經濟學發威！漢來美食揭島語爆紅祕密&nbsp;&nbsp;遠見雜誌",
+        "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。"
+      }
+    },
+    {
+      "id": "203d94c125ec33cc",
+      "period": "history_7d",
+      "title": "每天喝咖啡也能換機票！達人曝「無痛賺里數」秘訣 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "source": "PChome Online 新聞",
+      "published_at": "2026-07-31T03:56:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYU9zSUF2azE0dmJfbFVaN0JHc2dMVUNuT0NZbWJwZmhSWEhXb2o0NFctOWZrYmxJcU4ycWhiOWJoTy03c2tseF9keTFXNHVUSkh2T1VMVUh1YXhRb1Vkd1p1WnRjLWlFaUt5TEx0QnVhRkwxY2tqR2lON1NtUEEwbjlCMEtsckRNZ0JxeHFR?oc=5",
+      "matched_keywords": [
+        "餐飲會員"
+      ],
+      "categories": [
+        "membership"
+      ],
+      "category_labels": [
+        "會員經濟"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYU9zSUF2azE0dmJfbFVaN0JHc2dMVUNuT0NZbWJwZmhSWEhXb2o0NFctOWZrYmxJcU4ycWhiOWJoTy03c2tseF9keTFXNHVUSkh2T1VMVUh1YXhRb1Vkd1p1WnRjLWlFaUt5TEx0QnVhRkwxY2tqR2lON1NtUEEwbjlCMEtsckRNZ0JxeHFR?oc=5\" target=\"_blank\">每天喝咖啡也能換機票！達人曝「無痛賺里數」秘訣 - 生活新聞 - PChome Online 新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PChome Online 新聞</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 餐飲會員，可作為「會員經濟」的輔助觀察。",
+        "classification": "會員經濟",
+        "summary_zh": "這則新聞聚焦於「每天喝咖啡也能換機票！達人曝「無痛賺里數」秘訣 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞」，可放在 會員經濟 脈絡下觀察。每天喝咖啡也能換機票！達人曝「無痛賺里數」秘訣 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+        "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「餐飲會員」切入。"
+      }
+    },
+    {
+      "id": "45514294c3ddedff",
+      "period": "history_7d",
       "title": "2026金酒KK Bar進駐北捷 感受高粱調酒微醺味蕾 | 青年日報 - LINE TODAY",
       "source": "LINE TODAY",
-      "published_at": "2026-07-31T03:31:26+00:00",
+      "published_at": "2026-07-31T03:31:33+00:00",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PVkllQjRGNDFncUxYNGNSaThFY0IxRE1scU5HelBINldtZGIyczdfUkZxckFHcDV4dndhbWR5VzZ4Y0lsazkyaFMxNVlxM3BINF9Pa1ln?oc=5",
       "matched_keywords": [
         "酒吧活動"
@@ -131,197 +842,14 @@
       }
     },
     {
-      "id": "388f37264f111c17",
-      "period": "today",
-      "title": "Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相 - 花花日報",
-      "source": "花花日報",
-      "published_at": "2026-07-31T03:16:19+00:00",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRE1wcGZMMFRuODBjZjNSZHA2cFJVQUw1ZnBxMnR5clUwdXBXZUtOcnBmR1d1ZFgyczA0Q3NhTGFfWTFGOUlZRTNYOGo5aVZfalp5bUhlR00taXlqTUtsWHhqekVJLW1iS3F1MzBoUQ?oc=5",
-      "matched_keywords": [
-        "觀光餐飲"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRE1wcGZMMFRuODBjZjNSZHA2cFJVQUw1ZnBxMnR5clUwdXBXZUtOcnBmR1d1ZFgyczA0Q3NhTGFfWTFGOUlZRTNYOGo5aVZfalp5bUhlR00taXlqTUtsWHhqekVJLW1iS3F1MzBoUQ?oc=5\" target=\"_blank\">Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">花花日報</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相 - 花花日報」，可放在 市場情報 脈絡下觀察。Tabe札哈木樂原8月1日正式營運！ 台南全新原民文化聚落亮相&nbsp;&nbsp;花花日報",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
-      }
-    },
-    {
-      "id": "432bf52717fbe8ae",
-      "period": "today",
-      "title": "印度連日暴雨觸發山泥傾瀉| 專題節目 - TVB",
-      "source": "TVB",
-      "published_at": "2026-07-31T02:51:25+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQblJHLUE0U2RCVXRYUXNfODgycDBtRFRUamJsaHNHWWhma1Z0REhLSW8tNEI4Rno3eXNDaGZVSXYzWmhRVU5temtGSUUyamk4NlBkVzA5dFE5bWtDQkZ0dF9hZ3ZJbmRwZU51VHp3YkRqR09lMHZFb2NWYzBRNTBhM2ZXUXJDeEZhMFhlWTEtNWp1YWxjVXphaHNuNWptcFJ4ZEdSbDB0VDZlaDdUVkVKZktqOFZKMGQtbEtNRWJmUTZRQ0pjUzlrX0xFNUlZT05rLV8zNFdfeWdNVmhJU3Y0dklGT1lHTTlWQzNNZGx2OA?oc=5",
-      "matched_keywords": [
-        "啤酒節"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQblJHLUE0U2RCVXRYUXNfODgycDBtRFRUamJsaHNHWWhma1Z0REhLSW8tNEI4Rno3eXNDaGZVSXYzWmhRVU5temtGSUUyamk4NlBkVzA5dFE5bWtDQkZ0dF9hZ3ZJbmRwZU51VHp3YkRqR09lMHZFb2NWYzBRNTBhM2ZXUXJDeEZhMFhlWTEtNWp1YWxjVXphaHNuNWptcFJ4ZEdSbDB0VDZlaDdUVkVKZktqOFZKMGQtbEtNRWJmUTZRQ0pjUzlrX0xFNUlZT05rLV8zNFdfeWdNVmhJU3Y0dklGT1lHTTlWQzNNZGx2OA?oc=5\" target=\"_blank\">印度連日暴雨觸發山泥傾瀉| 專題節目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVB</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 啤酒節，可作為「精釀啤酒」的輔助觀察。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「印度連日暴雨觸發山泥傾瀉| 專題節目 - TVB」，可放在 精釀啤酒 脈絡下觀察。印度連日暴雨觸發山泥傾瀉| 專題節目&nbsp;&nbsp;TVB",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。"
-      }
-    },
-    {
-      "id": "e6a30a4c210a3642",
-      "period": "today",
-      "title": "【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜 - 未來流通研究所",
-      "source": "未來流通研究所",
-      "published_at": "2026-07-31T02:48:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGdsREpKdXlBWW10dkYyb2xwQTFRdl9GbVR2Z1VPTm5Dbk1DU0tCLW1EY0ZIVldoZG5JZHdDZmNrR25NZHZyem10UmxRYmJzR1lwcE51QS02elE3MmJjMU9wN1MwZU1SSVU3dlMybExiSTBNbHYyTERtOVlQdi1oUzRJLWdWR2Flc1FjeHN1Q1N5UTV5b2IxVVZ5b1Y4VFZyTHNF?oc=5",
+      "id": "97fade30c4c49fe5",
+      "period": "history_7d",
+      "title": "【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜 - mirai.com.tw",
+      "source": "mirai.com.tw",
+      "published_at": "2026-07-31T03:06:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0dHc05EbXhhSHJHSTdPcjh6Q19wM2hQTVJqMmxKRFhYQjJFOUVrMnN3cFlscHc0b1N2Y2ZtZlBmaXBJajhSTzliV01teUhYM3VBX2k1MHZ1MEhvWjRZeHBLTHFhekdSVEpnQk5ENGE5VDN5bTE2QjdVMmo2cmhOemE3R0F6QzRkRXdvbE9YREdfRFFrdk12OW9sbUlFSkJreWNZRkJfVEZ2cExUa1E?oc=5",
       "matched_keywords": [
         "餐飲趨勢",
-        "台灣餐飲市場",
-        "觀光餐飲"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGdsREpKdXlBWW10dkYyb2xwQTFRdl9GbVR2Z1VPTm5Dbk1DU0tCLW1EY0ZIVldoZG5JZHdDZmNrR25NZHZyem10UmxRYmJzR1lwcE51QS02elE3MmJjMU9wN1MwZU1SSVU3dlMybExiSTBNbHYyTERtOVlQdi1oUzRJLWdWR2Flc1FjeHN1Q1N5UTV5b2IxVVZ5b1Y4VFZyTHNF?oc=5\" target=\"_blank\">【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">未來流通研究所</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 餐飲趨勢、台灣餐飲市場、觀光餐飲，可作為「市場情報」的輔助觀察。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜 - 未來流通研究所」，可放在 市場情報 脈絡下觀察。【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜&nbsp;&nbsp;未來流通研究所",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢、台灣餐飲市場」切入。"
-      }
-    },
-    {
-      "id": "49b1a016323cc4d4",
-      "period": "today",
-      "title": "盛夏暢遊北橫！角板山香菇主題饗宴與桃走券8月限時登場 - 蕃新聞",
-      "source": "蕃新聞",
-      "published_at": "2026-07-31T02:37:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xelN5TWtOLWtzckpZNmExMnExdG9FVGt0b25QYl9PeXNkQWxhVTRiblQ0cHVDMGVHbFlQQjFTT3piQXd0ZmZPakRBTzUxdEUwVHc?oc=5",
-      "matched_keywords": [
-        "餐飲行銷"
-      ],
-      "categories": [
-        "marketing"
-      ],
-      "category_labels": [
-        "行銷靈感"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xelN5TWtOLWtzckpZNmExMnExdG9FVGt0b25QYl9PeXNkQWxhVTRiblQ0cHVDMGVHbFlQQjFTT3piQXd0ZmZPakRBTzUxdEUwVHc?oc=5\" target=\"_blank\">盛夏暢遊北橫！角板山香菇主題饗宴與桃走券8月限時登場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">蕃新聞</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。",
-        "classification": "行銷靈感",
-        "summary_zh": "這則新聞聚焦於「盛夏暢遊北橫！角板山香菇主題饗宴與桃走券8月限時登場 - 蕃新聞」，可放在 行銷靈感 脈絡下觀察。盛夏暢遊北橫！角板山香菇主題饗宴與桃走券8月限時登場&nbsp;&nbsp;蕃新聞",
-        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷」切入。"
-      }
-    },
-    {
-      "id": "bdd4abca543d6ab2",
-      "period": "today",
-      "title": "新竹海線暑假爆發！ 8月三大漁港活動輪番登場 - 旅遊新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "source": "PChome Online 新聞",
-      "published_at": "2026-07-31T02:37:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQU10dHlLU2FMR19IV0QzZzVnS1U1X2d5d00wcl9tRGhqZjNubnJuYU1PcTNiWThaLWxnNlFiRkNiRWJFY2xQZXhidmVnYXVWOE1kdEtPOU5iOWFFYmFUZzI5ck1sTjNqYzRid2hEVkVEMzhodUQ5MWVfbTZtS2hBb3Y0Nkg0UjVEUVE?oc=5",
-      "matched_keywords": [
-        "精釀啤酒"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQU10dHlLU2FMR19IV0QzZzVnS1U1X2d5d00wcl9tRGhqZjNubnJuYU1PcTNiWThaLWxnNlFiRkNiRWJFY2xQZXhidmVnYXVWOE1kdEtPOU5iOWFFYmFUZzI5ck1sTjNqYzRid2hEVkVEMzhodUQ5MWVfbTZtS2hBb3Y0Nkg0UjVEUVE?oc=5\" target=\"_blank\">新竹海線暑假爆發！ 8月三大漁港活動輪番登場 - 旅遊新聞 - PChome Online 新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PChome Online 新聞</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「新竹海線暑假爆發！ 8月三大漁港活動輪番登場 - 旅遊新聞 - PChome Online 新聞 - PChome Online 新聞」，可放在 精釀啤酒 脈絡下觀察。新竹海線暑假爆發！ 8月三大漁港活動輪番登場 - 旅遊新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。"
-      }
-    },
-    {
-      "id": "aa985726b40bbae2",
-      "period": "today",
-      "title": "新竹海線暑假爆發！ 8月三大漁港活動輪番登場 - 花花日報",
-      "source": "花花日報",
-      "published_at": "2026-07-31T02:37:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JSmE5TEx1WU1ocEtFNVlwZ1ZiejRnYWZzNDgzMy1lakZIRHM1TTExeG9hakdVVFJqYXRiUmJxcjJEWjF6VWJ1RkNSVHEtMWw2ZE9vZXM1eFh3RFpGZ1NBbHg1QTA5NVNqVi0ySXl0bw?oc=5",
-      "matched_keywords": [
-        "啤酒節"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1JSmE5TEx1WU1ocEtFNVlwZ1ZiejRnYWZzNDgzMy1lakZIRHM1TTExeG9hakdVVFJqYXRiUmJxcjJEWjF6VWJ1RkNSVHEtMWw2ZE9vZXM1eFh3RFpGZ1NBbHg1QTA5NVNqVi0ySXl0bw?oc=5\" target=\"_blank\">新竹海線暑假爆發！ 8月三大漁港活動輪番登場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">花花日報</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「新竹海線暑假爆發！ 8月三大漁港活動輪番登場 - 花花日報」，可放在 精釀啤酒 脈絡下觀察。新竹海線暑假爆發！ 8月三大漁港活動輪番登場&nbsp;&nbsp;花花日報",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。"
-      }
-    },
-    {
-      "id": "dd16b34c171cdaa8",
-      "period": "today",
-      "title": "房租翻倍住不起 32歲女子改住朋友家衣帽間成功存錢 - 世界新聞網",
-      "source": "世界新聞網",
-      "published_at": "2026-07-31T02:00:50+00:00",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VTVlRM0lELUM4dzFsZmhna1hBVThkaU9fOHJYYy1CSE9fZS16ZzJ5bTBheE5Ccjh6V2NwbGxfSTFuTDZabVNqd1o5SXl5cmpUYk5KUnJvajdzdlJFdkp2Zkxwc3dYU2lqNjhSanVrcjNJZw?oc=5",
-      "matched_keywords": [
-        "世界料理"
-      ],
-      "categories": [
-        "world_cuisine"
-      ],
-      "category_labels": [
-        "世界料理趨勢"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1VTVlRM0lELUM4dzFsZmhna1hBVThkaU9fOHJYYy1CSE9fZS16ZzJ5bTBheE5Ccjh6V2NwbGxfSTFuTDZabVNqd1o5SXl5cmpUYk5KUnJvajdzdlJFdkp2Zkxwc3dYU2lqNjhSanVrcjNJZw?oc=5\" target=\"_blank\">房租翻倍住不起 32歲女子改住朋友家衣帽間成功存錢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界新聞網</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 世界料理，但目前訊號較弱，可低優先追蹤。",
-        "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「房租翻倍住不起 32歲女子改住朋友家衣帽間成功存錢 - 世界新聞網」，可放在 世界料理趨勢 脈絡下觀察。房租翻倍住不起 32歲女子改住朋友家衣帽間成功存錢&nbsp;&nbsp;世界新聞網",
-        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
-      }
-    },
-    {
-      "id": "183a0499519563bb",
-      "period": "today",
-      "title": "台積電嘉義設廠帶動消費 莫內饗宴下月試營運、饗食天堂開幕期曝 - udn.com",
-      "source": "udn.com",
-      "published_at": "2026-07-31T01:40:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JSTFHekRwTE1YU1kydTVXSHVqc1JDLXlNaDBmdXEyTEs2VWVVYVRkdHBqdWhRU0lQa2RwWGU2V3lMWTQtYVlxM2g0c1pjUU1Q0gFWQVVfeXFMTlE5QzJPVndzWk1aclN4WFZzMFhsSWVNX0FDWHN2c2hSZHg5YVFRb2Y1eEIwUWluMlJwTFR0X20taGd1QUVGOXFPM1FyeElmdHU0YzdJOFE?oc=5",
-      "matched_keywords": [
         "台灣餐飲市場"
       ],
       "categories": [
@@ -330,23 +858,23 @@
       "category_labels": [
         "市場情報"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JSTFHekRwTE1YU1kydTVXSHVqc1JDLXlNaDBmdXEyTEs2VWVVYVRkdHBqdWhRU0lQa2RwWGU2V3lMWTQtYVlxM2g0c1pjUU1Q0gFWQVVfeXFMTlE5QzJPVndzWk1aclN4WFZzMFhsSWVNX0FDWHN2c2hSZHg5YVFRb2Y1eEIwUWluMlJwTFR0X20taGd1QUVGOXFPM1FyeElmdHU0YzdJOFE?oc=5\" target=\"_blank\">台積電嘉義設廠帶動消費 莫內饗宴下月試營運、饗食天堂開幕期曝</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">udn.com</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0dHc05EbXhhSHJHSTdPcjh6Q19wM2hQTVJqMmxKRFhYQjJFOUVrMnN3cFlscHc0b1N2Y2ZtZlBmaXBJajhSTzliV01teUhYM3VBX2k1MHZ1MEhvWjRZeHBLTHFhekdSVEpnQk5ENGE5VDN5bTE2QjdVMmo2cmhOemE3R0F6QzRkRXdvbE9YREdfRFFrdk12OW9sbUlFSkJreWNZRkJfVEZ2cExUa1E?oc=5\" target=\"_blank\">【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mirai.com.tw</font>",
       "ai": {
         "worth_reading": true,
         "score": 3,
-        "reason": "命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。",
+        "reason": "命中 餐飲趨勢、台灣餐飲市場，可作為「市場情報」的輔助觀察。",
         "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「台積電嘉義設廠帶動消費 莫內饗宴下月試營運、饗食天堂開幕期曝 - udn.com」，可放在 市場情報 脈絡下觀察。台積電嘉義設廠帶動消費 莫內饗宴下月試營運、饗食天堂開幕期曝&nbsp;&nbsp;udn.com",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。"
+        "summary_zh": "這則新聞聚焦於「【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜 - mirai.com.tw」，可放在 市場情報 脈絡下觀察。【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜&nbsp;&nbsp;mirai.com.tw",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢、台灣餐飲市場」切入。"
       }
     },
     {
-      "id": "d9beeb2e72c5cc75",
-      "period": "today",
-      "title": "「活力高雄」進擊首爾、釜山！ 高雄國際觀光隊拓展多元商機 | Newtalk - LINE TODAY",
-      "source": "LINE TODAY",
-      "published_at": "2026-07-31T01:35:48+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZE5kVWRVVjg4eXNISTF4OEpVZ3RpOEREemdtN3dvS09pQW90WmNLUEh1LWxZTzEwSUd4QWxRNW1qYk1Dd3I0MTFUYVRKMEpSZDdMV0hn?oc=5",
+      "id": "b6d9302d4cce2d8e",
+      "period": "history_7d",
+      "title": "【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜 - mirai.com.tw",
+      "source": "mirai.com.tw",
+      "published_at": "2026-07-31T02:48:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGdsREpKdXlBWW10dkYyb2xwQTFRdl9GbVR2Z1VPTm5Dbk1DU0tCLW1EY0ZIVldoZG5JZHdDZmNrR25NZHZyem10UmxRYmJzR1lwcE51QS02elE3MmJjMU9wN1MwZU1SSVU3dlMybExiSTBNbHYyTERtOVlQdi1oUzRJLWdWR2Flc1FjeHN1Q1N5UTV5b2IxVVZ5b1Y4VFZyTHNF?oc=5",
       "matched_keywords": [
         "觀光餐飲"
       ],
@@ -356,19 +884,45 @@
       "category_labels": [
         "市場情報"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZE5kVWRVVjg4eXNISTF4OEpVZ3RpOEREemdtN3dvS09pQW90WmNLUEh1LWxZTzEwSUd4QWxRNW1qYk1Dd3I0MTFUYVRKMEpSZDdMV0hn?oc=5\" target=\"_blank\">「活力高雄」進擊首爾、釜山！ 高雄國際觀光隊拓展多元商機 | Newtalk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINE TODAY</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGdsREpKdXlBWW10dkYyb2xwQTFRdl9GbVR2Z1VPTm5Dbk1DU0tCLW1EY0ZIVldoZG5JZHdDZmNrR25NZHZyem10UmxRYmJzR1lwcE51QS02elE3MmJjMU9wN1MwZU1SSVU3dlMybExiSTBNbHYyTERtOVlQdi1oUzRJLWdWR2Flc1FjeHN1Q1N5UTV5b2IxVVZ5b1Y4VFZyTHNF?oc=5\" target=\"_blank\">【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mirai.com.tw</font>",
       "ai": {
         "worth_reading": false,
         "score": 2,
         "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
         "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「「活力高雄」進擊首爾、釜山！ 高雄國際觀光隊拓展多元商機 | Newtalk - LINE TODAY」，可放在 市場情報 脈絡下觀察。「活力高雄」進擊首爾、釜山！ 高雄國際觀光隊拓展多元商機 | Newtalk&nbsp;&nbsp;LINE TODAY",
+        "summary_zh": "這則新聞聚焦於「【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜 - mirai.com.tw」，可放在 市場情報 脈絡下觀察。【商業數據圖解】2025台灣「餐飲與觀光休閒」產業市佔率英雄榜&nbsp;&nbsp;mirai.com.tw",
         "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
       }
     },
     {
-      "id": "e6077c5890ad4529",
-      "period": "today",
+      "id": "1d77c544b76013fa",
+      "period": "history_7d",
+      "title": "鄰近藝文特區的桃園海鮮火鍋吃到飽帝王蟹、和牛與高級海鮮交織質感海陸饗宴 - Life 生活網",
+      "source": "Life 生活網",
+      "published_at": "2026-07-31T01:33:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQWnpDUWJicXdlSHFNM1l6QjVfaVJaUU45VFlzaEdKeDBPUlQwbm1hUVB2QUhXNDh6NTdyT24xdjV6R01oMW1CS081REZJVUtTZ0FJNE5uMkZJSU9NTzBtUkF4RGxvSjJaODhaU0cxU1NHLXo5VEhjNE1qYjI3OGtqbUJ0alFnOHlfLTdDZHZJS0pNc2Noc0hYZk52cVhlTjVQcEtkY0pNUzUyY2RNaTVvUl9uQnlNTzZUT0h0c1ZiRVRtVm5VaG5QcjdBVmlnLVJLTmlaSi1SY0JLbHd5aDdWN2dJOTJRR2N5TzcwVGtpamRVWVRybnBoOGxPNFgxU0FMLWlDSDhtNlJhR19mZ0l0VHlsb0RRdFRURFNibGVhRzdRb0cxaTNPaURKZzI0QW9uOG5HNDJ5bmhyUXF1ZGd1SXlLNTNEUHRzOHdHbDhxQTNsM2tYRjNIcHJZZUc2V3RZdHpqc2RaMGVvWFNMN2JpNkFQQktZZi16VFZPOUk0cFN3X3FMZWxBOXhhc1lFeHJkWG56SEZXNXp1SXhsUTg3bTNlNVE?oc=5",
+      "matched_keywords": [
+        "餐廳社群行銷"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxQWnpDUWJicXdlSHFNM1l6QjVfaVJaUU45VFlzaEdKeDBPUlQwbm1hUVB2QUhXNDh6NTdyT24xdjV6R01oMW1CS081REZJVUtTZ0FJNE5uMkZJSU9NTzBtUkF4RGxvSjJaODhaU0cxU1NHLXo5VEhjNE1qYjI3OGtqbUJ0alFnOHlfLTdDZHZJS0pNc2Noc0hYZk52cVhlTjVQcEtkY0pNUzUyY2RNaTVvUl9uQnlNTzZUT0h0c1ZiRVRtVm5VaG5QcjdBVmlnLVJLTmlaSi1SY0JLbHd5aDdWN2dJOTJRR2N5TzcwVGtpamRVWVRybnBoOGxPNFgxU0FMLWlDSDhtNlJhR19mZ0l0VHlsb0RRdFRURFNibGVhRzdRb0cxaTNPaURKZzI0QW9uOG5HNDJ5bmhyUXF1ZGd1SXlLNTNEUHRzOHdHbDhxQTNsM2tYRjNIcHJZZUc2V3RZdHpqc2RaMGVvWFNMN2JpNkFQQktZZi16VFZPOUk0cFN3X3FMZWxBOXhhc1lFeHJkWG56SEZXNXp1SXhsUTg3bTNlNVE?oc=5\" target=\"_blank\">鄰近藝文特區的桃園海鮮火鍋吃到飽帝王蟹、和牛與高級海鮮交織質感海陸饗宴</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Life 生活網</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 餐廳社群行銷，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「鄰近藝文特區的桃園海鮮火鍋吃到飽帝王蟹、和牛與高級海鮮交織質感海陸饗宴 - Life 生活網」，可放在 行銷靈感 脈絡下觀察。鄰近藝文特區的桃園海鮮火鍋吃到飽帝王蟹、和牛與高級海鮮交織質感海陸饗宴&nbsp;&nbsp;Life 生活網",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐廳社群行銷」切入。"
+      }
+    },
+    {
+      "id": "13788daac545573f",
+      "period": "history_7d",
       "title": "台北暢飲比利時啤酒文化 松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗 - Yahoo新聞",
       "source": "Yahoo新聞",
       "published_at": "2026-07-31T01:31:28+00:00",
@@ -393,47 +947,66 @@
       }
     },
     {
-      "id": "9f755e559107882e",
-      "period": "today",
+      "id": "cf25ad006d9d19f4",
+      "period": "history_7d",
       "title": "台北暢飲比利時啤酒文化 松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗 - 蕃新聞",
       "source": "蕃新聞",
       "published_at": "2026-07-31T01:17:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Zdjd2cTJ2RjlhSnJseUVZSVVPeHJPcUhrRGUwbS1FV3BaUnJPTXNiUVhaTmhweC1ZQUxGREJLY255NXpRbzBHZnNyRkRqWk80dkE?oc=5",
       "matched_keywords": [
-        "啤酒餐廳",
-        "酒吧新開幕",
-        "酒吧活動",
         "craft beer Taiwan"
       ],
       "categories": [
-        "competitors",
-        "marketing",
         "craft_beer"
       ],
       "category_labels": [
-        "競品異動",
-        "行銷靈感",
         "精釀啤酒"
       ],
       "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Zdjd2cTJ2RjlhSnJseUVZSVVPeHJPcUhrRGUwbS1FV3BaUnJPTXNiUVhaTmhweC1ZQUxGREJLY255NXpRbzBHZnNyRkRqWk80dkE?oc=5\" target=\"_blank\">台北暢飲比利時啤酒文化 松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">蕃新聞</font>",
       "ai": {
         "worth_reading": true,
         "score": 5,
-        "reason": "命中 啤酒餐廳、酒吧新開幕、酒吧活動，且與「競品異動」高度相關，值得優先閱讀。",
-        "classification": "競品異動",
-        "summary_zh": "這則新聞聚焦於「台北暢飲比利時啤酒文化 松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗 - 蕃新聞」，可放在 競品異動、行銷靈感、精釀啤酒 脈絡下觀察。台北暢飲比利時啤酒文化 松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗&nbsp;&nbsp;蕃新聞",
-        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「啤酒餐廳、酒吧新開幕」切入。"
+        "reason": "命中 craft beer Taiwan，且與「精釀啤酒」高度相關，值得優先閱讀。",
+        "classification": "精釀啤酒",
+        "summary_zh": "這則新聞聚焦於「台北暢飲比利時啤酒文化 松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗 - 蕃新聞」，可放在 精釀啤酒 脈絡下觀察。台北暢飲比利時啤酒文化 松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗&nbsp;&nbsp;蕃新聞",
+        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「craft beer Taiwan」切入。"
       }
     },
     {
-      "id": "269ad1fad09f3c36",
-      "period": "today",
-      "title": "Lily滴酒不沾自爆「男友是小李」 BURBERRY聯名調酒登場 - 鏡新聞",
-      "source": "鏡新聞",
-      "published_at": "2026-07-31T00:40:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWlNSUDZyRFVxaE56X3JDNjh1dENTcXBNRDZJUTVhVE1OZnNrbHFuOWE5TktnLTNCSkVxMklYZzFrb1dZVk1PU3dmeFlWdWNPSXlDRVZZb1YyamF6dWljWXp3Mm9xNTjSAWdBVV95cUxQWVpTUlA2ckRVcWhOel9yQzY4dXRDU3FwTUQ2SVE1YVRNTmZza2xxbjlhOU5LZy0zQkpFcTJJWGcxa29XWVZNT1N3ZnhZVnVjT0l5Q0VWWW9WMmphenVpY1l6dzJvcTU4?oc=5",
+      "id": "f0ea8f0732fb01d0",
+      "period": "history_7d",
+      "title": "養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材 - CARTURE 車勢文化",
+      "source": "CARTURE 車勢文化",
+      "published_at": "2026-07-31T00:43:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVo2Mno1UTBZczVWUFI0TGtBZjdTLXhrbUpyUjdCUXF4NXJYdGVMRHdhRTFGd2lnaFBqbEd4NEVNRm1mMzVqUmlfM2xTeElRazcxdEtzM0U4TXZNNzc0akpKWEt3ZHE3MEZRMWNjMmVhV1VlbVN1MTQyVEY4YUk0WjRRbVA3bFNqcDVGeFNrd2I1SGkxcGMwSkE4amRPVnZhNFJBMXEzQm9vdU9lZ3BDUXF3VjY4U3lCa2w3dzl2NXd2bzVBRVJBSW5xbExsUEdMWWZnT1NLNGhuTTRHdEN4anJfU0pmWDh2S0hrTDFPNUhHMWJlbF9VRDVPV202anRyOEd0YnMxTXRqRHdzX0dEZWVScHA5TlMxdlB4c3VOakRJVUJIUzI3SnY5c29leExybGtOSktCUXJSVHJ2S243eF9fckZxN3RFRE1NUS1nZkNzTkZiVTlkeDJydWZ5R2lXWWtvdVFRZEx0emlNNkhPTEVCWlZiR2UyN1J4a0t4Wm5MV0dIYktCdw?oc=5",
       "matched_keywords": [
-        "酒吧活動"
+        "異國料理"
+      ],
+      "categories": [
+        "world_cuisine"
+      ],
+      "category_labels": [
+        "世界料理趨勢"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVo2Mno1UTBZczVWUFI0TGtBZjdTLXhrbUpyUjdCUXF4NXJYdGVMRHdhRTFGd2lnaFBqbEd4NEVNRm1mMzVqUmlfM2xTeElRazcxdEtzM0U4TXZNNzc0akpKWEt3ZHE3MEZRMWNjMmVhV1VlbVN1MTQyVEY4YUk0WjRRbVA3bFNqcDVGeFNrd2I1SGkxcGMwSkE4amRPVnZhNFJBMXEzQm9vdU9lZ3BDUXF3VjY4U3lCa2w3dzl2NXd2bzVBRVJBSW5xbExsUEdMWWZnT1NLNGhuTTRHdEN4anJfU0pmWDh2S0hrTDFPNUhHMWJlbF9VRDVPV202anRyOEd0YnMxTXRqRHdzX0dEZWVScHA5TlMxdlB4c3VOakRJVUJIUzI3SnY5c29leExybGtOSktCUXJSVHJ2S243eF9fckZxN3RFRE1NUS1nZkNzTkZiVTlkeDJydWZ5R2lXWWtvdVFRZEx0emlNNkhPTEVCWlZiR2UyN1J4a0t4Wm5MV0dIYktCdw?oc=5\" target=\"_blank\">養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CARTURE 車勢文化</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 異國料理，但目前訊號較弱，可低優先追蹤。",
+        "classification": "世界料理趨勢",
+        "summary_zh": "這則新聞聚焦於「養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材 - CARTURE 車勢文化」，可放在 世界料理趨勢 脈絡下觀察。養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材&nbsp;&nbsp;CARTURE 車勢文化",
+        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
+      }
+    },
+    {
+      "id": "293fe478a4fe462c",
+      "period": "history_7d",
+      "title": "餐飲行銷補助申請逾6千件　王美花：再向政院爭取補助預算 - 三立新聞網SETN.com",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-07-31T00:19:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUxtbFAwaDdMRW44cm9iZHBrWEoxWjFwUVA0LUhBX2tFTDJzcGh5b05yeHdMU3pzczYzdmtsclhGSDRvQkFZN1R0aW5ZbUJjTVVRX1pQa3haRjRqT2tYcHF2M1hVck1JclBMRERmMkM2WDhiQ0hxNEw3UG9EWHFCeEZmSk1FUmxJ0gFMQVVfeXFMTmp2ckY1dTlwLWgwY0lDTnAxZHZlMDl0c0taV00wdGQtalZHTXQ2NEhvSlRGRzdGS24zRGpKYVY5c1pNT0RwSExPaDFmag?oc=5",
+      "matched_keywords": [
+        "餐飲行銷"
       ],
       "categories": [
         "marketing"
@@ -441,97 +1014,19 @@
       "category_labels": [
         "行銷靈感"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWlNSUDZyRFVxaE56X3JDNjh1dENTcXBNRDZJUTVhVE1OZnNrbHFuOWE5TktnLTNCSkVxMklYZzFrb1dZVk1PU3dmeFlWdWNPSXlDRVZZb1YyamF6dWljWXp3Mm9xNTjSAWdBVV95cUxQWVpTUlA2ckRVcWhOel9yQzY4dXRDU3FwTUQ2SVE1YVRNTmZza2xxbjlhOU5LZy0zQkpFcTJJWGcxa29XWVZNT1N3ZnhZVnVjT0l5Q0VWWW9WMmphenVpY1l6dzJvcTU4?oc=5\" target=\"_blank\">Lily滴酒不沾自爆「男友是小李」 BURBERRY聯名調酒登場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鏡新聞</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUxtbFAwaDdMRW44cm9iZHBrWEoxWjFwUVA0LUhBX2tFTDJzcGh5b05yeHdMU3pzczYzdmtsclhGSDRvQkFZN1R0aW5ZbUJjTVVRX1pQa3haRjRqT2tYcHF2M1hVck1JclBMRERmMkM2WDhiQ0hxNEw3UG9EWHFCeEZmSk1FUmxJ0gFMQVVfeXFMTmp2ckY1dTlwLWgwY0lDTnAxZHZlMDl0c0taV00wdGQtalZHTXQ2NEhvSlRGRzdGS24zRGpKYVY5c1pNT0RwSExPaDFmag?oc=5\" target=\"_blank\">餐飲行銷補助申請逾6千件　王美花：再向政院爭取補助預算</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三立新聞網SETN.com</font>",
       "ai": {
         "worth_reading": false,
         "score": 2,
-        "reason": "命中 酒吧活動，但目前訊號較弱，可低優先追蹤。",
+        "reason": "命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。",
         "classification": "行銷靈感",
-        "summary_zh": "這則新聞聚焦於「Lily滴酒不沾自爆「男友是小李」 BURBERRY聯名調酒登場 - 鏡新聞」，可放在 行銷靈感 脈絡下觀察。Lily滴酒不沾自爆「男友是小李」 BURBERRY聯名調酒登場&nbsp;&nbsp;鏡新聞",
-        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動」切入。"
+        "summary_zh": "這則新聞聚焦於「餐飲行銷補助申請逾6千件　王美花：再向政院爭取補助預算 - 三立新聞網SETN.com」，可放在 行銷靈感 脈絡下觀察。餐飲行銷補助申請逾6千件 王美花：再向政院爭取補助預算&nbsp;&nbsp;三立新聞網SETN.com",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷」切入。"
       }
     },
     {
-      "id": "a165304a872445be",
-      "period": "today",
-      "title": "台北板橋馥華艾美酒店　開幕 - 好房網News",
-      "source": "好房網News",
-      "published_at": "2026-07-31T00:34:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByWnROZHpYdUgzcXo1OGxoUWFPYl9JZkM5UVdxT2dKZ2Niblo0VEZfT2xESEZFN1Q4aG9UbFd2ZjBoTW9la3Boa2ZYVlJycGZPcGtJUTh3ckl6MzRRU0lSblpyTU5MUk45VXZ6RTJEanPSAXBBVV95cUxQclp0TmR6WHVIM3F6NThsaFFhT2JfSWZDOVFXcU9nSmdjYm5aNFRGX09sREhGRTdUOGhvVGxXdmYwaE1vZWtwaGtmWFZScnBmT3BrSVE4d3JJejM0UVNJUm5ack1OTFJOOVV2ekUyRGpz?oc=5",
-      "matched_keywords": [
-        "酒吧新開幕"
-      ],
-      "categories": [
-        "competitors"
-      ],
-      "category_labels": [
-        "競品異動"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFByWnROZHpYdUgzcXo1OGxoUWFPYl9JZkM5UVdxT2dKZ2Niblo0VEZfT2xESEZFN1Q4aG9UbFd2ZjBoTW9la3Boa2ZYVlJycGZPcGtJUTh3ckl6MzRRU0lSblpyTU5MUk45VXZ6RTJEanPSAXBBVV95cUxQclp0TmR6WHVIM3F6NThsaFFhT2JfSWZDOVFXcU9nSmdjYm5aNFRGX09sREhGRTdUOGhvVGxXdmYwaE1vZWtwaGtmWFZScnBmT3BrSVE4d3JJejM0UVNJUm5ack1OTFJOOVV2ekUyRGpz?oc=5\" target=\"_blank\">台北板橋馥華艾美酒店　開幕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">好房網News</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。",
-        "classification": "競品異動",
-        "summary_zh": "這則新聞聚焦於「台北板橋馥華艾美酒店　開幕 - 好房網News」，可放在 競品異動 脈絡下觀察。台北板橋馥華艾美酒店 開幕&nbsp;&nbsp;好房網News",
-        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
-      }
-    },
-    {
-      "id": "72ad5b0013ddfed9",
-      "period": "today",
-      "title": "韓國旅客瘋南台灣！高雄60人觀光隊出擊首爾釜山 攜手CJ ENM搶韓流商機 - 蕃新聞",
-      "source": "蕃新聞",
-      "published_at": "2026-07-30T22:54:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoXzBYVTd6OUFVZV95SloyVFlxd0lHM0MxbmR6RW95NlgwMkZrczBUc0JxTE42TF94SmlIUXdVaE5TUERObUJ6ZmZrOFFkUG8zMEE?oc=5",
-      "matched_keywords": [
-        "觀光餐飲"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoXzBYVTd6OUFVZV95SloyVFlxd0lHM0MxbmR6RW95NlgwMkZrczBUc0JxTE42TF94SmlIUXdVaE5TUERObUJ6ZmZrOFFkUG8zMEE?oc=5\" target=\"_blank\">韓國旅客瘋南台灣！高雄60人觀光隊出擊首爾釜山 攜手CJ ENM搶韓流商機</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">蕃新聞</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「韓國旅客瘋南台灣！高雄60人觀光隊出擊首爾釜山 攜手CJ ENM搶韓流商機 - 蕃新聞」，可放在 市場情報 脈絡下觀察。韓國旅客瘋南台灣！高雄60人觀光隊出擊首爾釜山 攜手CJ ENM搶韓流商機&nbsp;&nbsp;蕃新聞",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
-      }
-    },
-    {
-      "id": "9d1c4bbf6340654d",
-      "period": "today",
-      "title": "越南不缺連鎖品牌 真正缺的是治理！台灣餐飲出海最大的機會在哪？ - 食力 foodNEXT",
-      "source": "食力 foodNEXT",
-      "published_at": "2026-07-30T20:12:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ramFrLU9HUGpwX1NtUXpfM2NXS2kyeV8xSnRJWWJkZEE0eEVTLVBJam5FSXdNVG9wR1ZNcFpwRjVVdUZyTkg5Q0NpMWEzV0xOdjcwY3g1VzFkS0dDYTFBaVZNNFRIMDFQRGc?oc=5",
-      "matched_keywords": [
-        "台灣餐飲市場"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9ramFrLU9HUGpwX1NtUXpfM2NXS2kyeV8xSnRJWWJkZEE0eEVTLVBJam5FSXdNVG9wR1ZNcFpwRjVVdUZyTkg5Q0NpMWEzV0xOdjcwY3g1VzFkS0dDYTFBaVZNNFRIMDFQRGc?oc=5\" target=\"_blank\">越南不缺連鎖品牌 真正缺的是治理！台灣餐飲出海最大的機會在哪？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">食力 foodNEXT</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「越南不缺連鎖品牌 真正缺的是治理！台灣餐飲出海最大的機會在哪？ - 食力 foodNEXT」，可放在 市場情報 脈絡下觀察。越南不缺連鎖品牌 真正缺的是治理！台灣餐飲出海最大的機會在哪？&nbsp;&nbsp;食力 foodNEXT",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。"
-      }
-    },
-    {
-      "id": "9d5e9989ddd1df3f",
-      "period": "today",
+      "id": "79b8153e798de6e5",
+      "period": "history_7d",
       "title": "板橋新地標開箱！台北板橋馥華艾美酒店開幕，高空泳池與絕美酒吧亮點一次看。|旅遊 - WalkerLand 窩客島",
       "source": "WalkerLand 窩客島",
       "published_at": "2026-07-30T18:36:00+00:00",
@@ -553,112 +1048,6 @@
         "classification": "競品異動",
         "summary_zh": "這則新聞聚焦於「板橋新地標開箱！台北板橋馥華艾美酒店開幕，高空泳池與絕美酒吧亮點一次看。|旅遊 - WalkerLand 窩客島」，可放在 競品異動 脈絡下觀察。板橋新地標開箱！台北板橋馥華艾美酒店開幕，高空泳池與絕美酒吧亮點一次看。|旅遊&nbsp;&nbsp;WalkerLand 窩客島",
         "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
-      }
-    },
-    {
-      "id": "5a38526ddee1769e",
-      "period": "today",
-      "title": "西班牙米其林二星主廚 主理之ORIGEN純正西班牙餐廳今夏推出三道全新料理 - CARTURE 車勢文化",
-      "source": "CARTURE 車勢文化",
-      "published_at": "2026-07-30T16:39:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQX3JYYmVwdzZLYXZ4eHBJQmNleUl1bWhaVzhWNmdHWVUzODV2aTJzQzd4S0tWeS16bW1LNjdBbU1lcFZJQl82SG1ObjhnUmc1U1dZYXBsdHU4MFM0dEw0Z2g0OXh0ckpOSmd1alNNZGpESWdlTEM5WkQ2T3ByS2NoQ0hTMkZjLXgyS3ZIY216UDNRNXZ3eFl0YnhlUjcyWTlGaFIycmNSZC15N1p2NFBOc0t2WWV1V2ZkQTRKc21zWGlXSUFZN0hwU25zaXkyeDFkTUdlQzhTVjdkOTYyRzlxNDJWaWZSZHhWaGJSTUstZkxMZVdwc053dUFSUlJmdncyTUxVRjlQeHpCcGdreDJxOEhzbnk5Ri1RY3pZWEhORmd1SXk4bHllb1dVVkh6WHpZaUhPTjBUM3lGQzJaUGJLdVpQSjVteE0wdEVkQ2pZN2JrMWJwOUQwM2dNa3c0alBSQVU5TGdoM1Q2SXdTTlZ6UjZSTDVPeGdvU2Z4R0d1QWJuenNnMTJITXlNdWRBWmxsY1ZucnFxU0NiaWFGdy1ZcmUxTVUwbjVySm5Ld2dPR1pHU3dDVzJwNWdFN090VGxwbTBVbldCemlBdkdzb3ZJQQ?oc=5",
-      "matched_keywords": [
-        "餐飲趨勢"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0ANBVV95cUxQX3JYYmVwdzZLYXZ4eHBJQmNleUl1bWhaVzhWNmdHWVUzODV2aTJzQzd4S0tWeS16bW1LNjdBbU1lcFZJQl82SG1ObjhnUmc1U1dZYXBsdHU4MFM0dEw0Z2g0OXh0ckpOSmd1alNNZGpESWdlTEM5WkQ2T3ByS2NoQ0hTMkZjLXgyS3ZIY216UDNRNXZ3eFl0YnhlUjcyWTlGaFIycmNSZC15N1p2NFBOc0t2WWV1V2ZkQTRKc21zWGlXSUFZN0hwU25zaXkyeDFkTUdlQzhTVjdkOTYyRzlxNDJWaWZSZHhWaGJSTUstZkxMZVdwc053dUFSUlJmdncyTUxVRjlQeHpCcGdreDJxOEhzbnk5Ri1RY3pZWEhORmd1SXk4bHllb1dVVkh6WHpZaUhPTjBUM3lGQzJaUGJLdVpQSjVteE0wdEVkQ2pZN2JrMWJwOUQwM2dNa3c0alBSQVU5TGdoM1Q2SXdTTlZ6UjZSTDVPeGdvU2Z4R0d1QWJuenNnMTJITXlNdWRBWmxsY1ZucnFxU0NiaWFGdy1ZcmUxTVUwbjVySm5Ld2dPR1pHU3dDVzJwNWdFN090VGxwbTBVbldCemlBdkdzb3ZJQQ?oc=5\" target=\"_blank\">西班牙米其林二星主廚 主理之ORIGEN純正西班牙餐廳今夏推出三道全新料理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CARTURE 車勢文化</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 餐飲趨勢，可作為「市場情報」的輔助觀察。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「西班牙米其林二星主廚 主理之ORIGEN純正西班牙餐廳今夏推出三道全新料理 - CARTURE 車勢文化」，可放在 市場情報 脈絡下觀察。西班牙米其林二星主廚 主理之ORIGEN純正西班牙餐廳今夏推出三道全新料理&nbsp;&nbsp;CARTURE 車勢文化",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢」切入。"
-      }
-    },
-    {
-      "id": "f1f065066a3c4e20",
-      "period": "today",
-      "title": "京都寶池皇家王子大飯店將舉辦京都五山送火「松崎妙法」護摩木祈願活動 - haveagood-holiday.com",
-      "source": "haveagood-holiday.com",
-      "published_at": "2026-07-30T16:11:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFRVeDQxLWRVOHNVeWhlcUxINTdNWXRJLTlPZFBYMzFHeUNOR0xLMTduVkZiTlluVjVlV1dQa2YxXzlsZUNTMDU0blYwUEdYN2VNTVFtOXdicTVTX3NuVVBlYzB6WkV0Mkc0S1NhWVNNM2J2QTZsY3llY3VYbWFaclJIRjJ2YThnN0taWlo0dXl3SE5YOGg2YlRuV2ZUWWNva284OS1WalNleEU?oc=5",
-      "matched_keywords": [
-        "精釀啤酒"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFRVeDQxLWRVOHNVeWhlcUxINTdNWXRJLTlPZFBYMzFHeUNOR0xLMTduVkZiTlluVjVlV1dQa2YxXzlsZUNTMDU0blYwUEdYN2VNTVFtOXdicTVTX3NuVVBlYzB6WkV0Mkc0S1NhWVNNM2J2QTZsY3llY3VYbWFaclJIRjJ2YThnN0taWlo0dXl3SE5YOGg2YlRuV2ZUWWNva284OS1WalNleEU?oc=5\" target=\"_blank\">京都寶池皇家王子大飯店將舉辦京都五山送火「松崎妙法」護摩木祈願活動</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">haveagood-holiday.com</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「京都寶池皇家王子大飯店將舉辦京都五山送火「松崎妙法」護摩木祈願活動 - haveagood-holiday.com」，可放在 精釀啤酒 脈絡下觀察。京都寶池皇家王子大飯店將舉辦京都五山送火「松崎妙法」護摩木祈願活動&nbsp;&nbsp;haveagood-holiday.com",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。"
-      }
-    },
-    {
-      "id": "1c8d7bf3bee0138c",
-      "period": "today",
-      "title": "全新 ★3 米拉（泳裝）加入《異世界廚房》，機率提升中 —— 全新精選轉蛋現正開放 - haveagood-holiday.com",
-      "source": "haveagood-holiday.com",
-      "published_at": "2026-07-30T16:04:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzFJVEhTcE0tc3BwYTFteERvTFotQ1hLZXNRemF0clduSFBjVEZxa0ZlTmg3ekVYOHUtT18tWHRqbldDWFJpTzRneklaRmhYUElFeERFTV93MTdsNjZpeEhySi1obW9zYl9OdEhibmhwVFNJMlNjQTd1TWJuVW1GS2NRRzdBYklkS1NfamM1X3RVcm5Xdnc?oc=5",
-      "matched_keywords": [
-        "世界料理"
-      ],
-      "categories": [
-        "world_cuisine"
-      ],
-      "category_labels": [
-        "世界料理趨勢"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzFJVEhTcE0tc3BwYTFteERvTFotQ1hLZXNRemF0clduSFBjVEZxa0ZlTmg3ekVYOHUtT18tWHRqbldDWFJpTzRneklaRmhYUElFeERFTV93MTdsNjZpeEhySi1obW9zYl9OdEhibmhwVFNJMlNjQTd1TWJuVW1GS2NRRzdBYklkS1NfamM1X3RVcm5Xdnc?oc=5\" target=\"_blank\">全新 ★3 米拉（泳裝）加入《異世界廚房》，機率提升中 —— 全新精選轉蛋現正開放</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">haveagood-holiday.com</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 世界料理，但目前訊號較弱，可低優先追蹤。",
-        "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「全新 ★3 米拉（泳裝）加入《異世界廚房》，機率提升中 —— 全新精選轉蛋現正開放 - haveagood-holiday.com」，可放在 世界料理趨勢 脈絡下觀察。全新 ★3 米拉（泳裝）加入《異世界廚房》，機率提升中 —— 全新精選轉蛋現正開放&nbsp;&nbsp;haveagood-holiday.com",
-        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
-      }
-    }
-  ],
-  "history_7d": [
-    {
-      "id": "e80977a2af4a02ed",
-      "period": "history_7d",
-      "title": "養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材 - CARTURE 車勢文化",
-      "source": "CARTURE 車勢文化",
-      "published_at": "2026-07-30T12:43:11+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMldIM1RFMTMwSFk0am9HMnVVeEZsRE9RX0tRNE9jaXo3MTJIc0R1NmtmV2pUX0tVLWFSRjZhcThHSmNkUG9Ra3A2RmtfcWxBZGlvZy1hd21IYXF5SERvRWhJVVkyel9COUhINjFZNXlleUF6YndodGFSQ1YwOUtiWDhOSm10aFJXMEpTZHprdlRPYnRienQyVnFrc0ppSlhrZ1BueFF5YWtRR3BhbFhwVi1mdHNsQnJiNV9UNXF3UldYX3l2bGRWNHM1UUE2ZExieHUtRDdyOUNqbFV4WEhwcmZOcnBjaWpVRFRJd29HM0l4bUhQS0l5dkVwcGM2UFZQQVRMUW5aa2NjTTI1dTRYUnE3Z0Z0TEpCWDQ4SzFjOEtrTmE5b1F6bjFDc0UyQXktMWh6ZGEwaVo4ZjdaZnJYbA?oc=5",
-      "matched_keywords": [
-        "異國料理"
-      ],
-      "categories": [
-        "world_cuisine"
-      ],
-      "category_labels": [
-        "世界料理趨勢"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMldIM1RFMTMwSFk0am9HMnVVeEZsRE9RX0tRNE9jaXo3MTJIc0R1NmtmV2pUX0tVLWFSRjZhcThHSmNkUG9Ra3A2RmtfcWxBZGlvZy1hd21IYXF5SERvRWhJVVkyel9COUhINjFZNXlleUF6YndodGFSQ1YwOUtiWDhOSm10aFJXMEpTZHprdlRPYnRienQyVnFrc0ppSlhrZ1BueFF5YWtRR3BhbFhwVi1mdHNsQnJiNV9UNXF3UldYX3l2bGRWNHM1UUE2ZExieHUtRDdyOUNqbFV4WEhwcmZOcnBjaWpVRFRJd29HM0l4bUhQS0l5dkVwcGM2UFZQQVRMUW5aa2NjTTI1dTRYUnE3Z0Z0TEpCWDQ4SzFjOEtrTmE5b1F6bjFDc0UyQXktMWh6ZGEwaVo4ZjdaZnJYbA?oc=5\" target=\"_blank\">養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CARTURE 車勢文化</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 異國料理，但目前訊號較弱，可低優先追蹤。",
-        "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材 - CARTURE 車勢文化」，可放在 世界料理趨勢 脈絡下觀察。養心茶樓推出全新菜色，主打異國調味重新詮釋植物食材&nbsp;&nbsp;CARTURE 車勢文化",
-        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
       }
     },
     {
@@ -714,12 +1103,12 @@
       }
     },
     {
-      "id": "35e870caf45fbcdb",
+      "id": "30bc422c721bdc15",
       "period": "history_7d",
-      "title": "養心茶樓新菜登場 巧用火候展蔬食新風貌 | 信傳媒 - LINE TODAY",
-      "source": "LINE TODAY",
-      "published_at": "2026-07-30T08:01:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80TnJKNE5MZ0RhdFlqYnREZS1fczF2QWN3ZnZiaHRNVi1namZ6V21sbFhWbUNFczJySTkzbUNWdGM2d2pXZkU2TjFyTUVMNEIzV3pHV3ZR?oc=5",
+      "title": "養心茶樓新菜登場 巧用火候展蔬食新風貌 - 信傳媒",
+      "source": "信傳媒",
+      "published_at": "2026-07-30T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWUsxVktfUnFYcEtsUmxvYXl2OGhSQzhPQzlzdXhqdkZDLXFWUk9Xc0daRnA5ekVKUktmRXJyeWlxRmRLTTVKWHU2V1I1ZmdrZVpGUmp3bU05QQ?oc=5",
       "matched_keywords": [
         "異國料理"
       ],
@@ -729,47 +1118,21 @@
       "category_labels": [
         "世界料理趨勢"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE80TnJKNE5MZ0RhdFlqYnREZS1fczF2QWN3ZnZiaHRNVi1namZ6V21sbFhWbUNFczJySTkzbUNWdGM2d2pXZkU2TjFyTUVMNEIzV3pHV3ZR?oc=5\" target=\"_blank\">養心茶樓新菜登場 巧用火候展蔬食新風貌 | 信傳媒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINE TODAY</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWUsxVktfUnFYcEtsUmxvYXl2OGhSQzhPQzlzdXhqdkZDLXFWUk9Xc0daRnA5ekVKUktmRXJyeWlxRmRLTTVKWHU2V1I1ZmdrZVpGUmp3bU05QQ?oc=5\" target=\"_blank\">養心茶樓新菜登場 巧用火候展蔬食新風貌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">信傳媒</font>",
       "ai": {
         "worth_reading": false,
         "score": 2,
         "reason": "命中 異國料理，但目前訊號較弱，可低優先追蹤。",
         "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「養心茶樓新菜登場 巧用火候展蔬食新風貌 | 信傳媒 - LINE TODAY」，可放在 世界料理趨勢 脈絡下觀察。養心茶樓新菜登場 巧用火候展蔬食新風貌 | 信傳媒&nbsp;&nbsp;LINE TODAY",
+        "summary_zh": "這則新聞聚焦於「養心茶樓新菜登場 巧用火候展蔬食新風貌 - 信傳媒」，可放在 世界料理趨勢 脈絡下觀察。養心茶樓新菜登場 巧用火候展蔬食新風貌&nbsp;&nbsp;信傳媒",
         "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
       }
     },
     {
-      "id": "c28205e4da83da04",
+      "id": "9847343f6d55cbc9",
       "period": "history_7d",
-      "title": "漢來、八方雲集輸了！「台灣最賺錢餐飲集團」大賺128億：食材新鮮吃很飽、CP 超高值得再訪 - 風傳媒",
-      "source": "風傳媒",
-      "published_at": "2026-07-30T07:57:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VV00xOVB5RHY2TF80QnRpOGVxVVpHS3otWlRkcG9Ld0tiRHRDb3lrb2ZKSHRDbl9rUzZReHZIaHdaRzZ2N2Q5ZFlPS2swRFpo?oc=5",
-      "matched_keywords": [
-        "台灣餐飲市場"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VV00xOVB5RHY2TF80QnRpOGVxVVpHS3otWlRkcG9Ld0tiRHRDb3lrb2ZKSHRDbl9rUzZReHZIaHdaRzZ2N2Q5ZFlPS2swRFpo?oc=5\" target=\"_blank\">漢來、八方雲集輸了！「台灣最賺錢餐飲集團」大賺128億：食材新鮮吃很飽、CP 超高值得再訪</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">風傳媒</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「漢來、八方雲集輸了！「台灣最賺錢餐飲集團」大賺128億：食材新鮮吃很飽、CP 超高值得再訪 - 風傳媒」，可放在 市場情報 脈絡下觀察。漢來、八方雲集輸了！「台灣最賺錢餐飲集團」大賺128億：食材新鮮吃很飽、CP 超高值得再訪&nbsp;&nbsp;風傳媒",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。"
-      }
-    },
-    {
-      "id": "8fbc8c2a08e570c1",
-      "period": "history_7d",
-      "title": "亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看 - elle.com",
-      "source": "elle.com",
+      "title": "亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看 - ELLE",
+      "source": "ELLE",
       "published_at": "2026-07-30T07:48:06+00:00",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVW1XZVozWUhYX0p5bU42MHM1ZnhlaWNOVWRVMzRpQlVQODcteEhaa0dpWFExNV9qb3h5UlowM3RWRG9ub0RwWC1ObzNHdWJJd2p3Ukw0UjhDZ21YYTVSVTVINWRMVFB1M2NhUXdnbw?oc=5",
       "matched_keywords": [
@@ -781,21 +1144,21 @@
       "category_labels": [
         "競品異動"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVW1XZVozWUhYX0p5bU42MHM1ZnhlaWNOVWRVMzRpQlVQODcteEhaa0dpWFExNV9qb3h5UlowM3RWRG9ub0RwWC1ObzNHdWJJd2p3Ukw0UjhDZ21YYTVSVTVINWRMVFB1M2NhUXdnbw?oc=5\" target=\"_blank\">亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elle.com</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVW1XZVozWUhYX0p5bU42MHM1ZnhlaWNOVWRVMzRpQlVQODcteEhaa0dpWFExNV9qb3h5UlowM3RWRG9ub0RwWC1ObzNHdWJJd2p3Ukw0UjhDZ21YYTVSVTVINWRMVFB1M2NhUXdnbw?oc=5\" target=\"_blank\">亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELLE</font>",
       "ai": {
         "worth_reading": true,
         "score": 4,
         "reason": "命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。",
         "classification": "競品異動",
-        "summary_zh": "這則新聞聚焦於「亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看 - elle.com」，可放在 競品異動 脈絡下觀察。亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看&nbsp;&nbsp;elle.com",
+        "summary_zh": "這則新聞聚焦於「亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看 - ELLE」，可放在 競品異動 脈絡下觀察。亞洲酒吧大神聯手！UNCOMMON Taipei正式開幕，亞洲早餐調酒、翻玩經典酒單一次看&nbsp;&nbsp;ELLE",
         "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
       }
     },
     {
-      "id": "fa0d42bf68ecfd09",
+      "id": "c7ca60e8bc027f58",
       "period": "history_7d",
-      "title": "OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋 - udn.com",
-      "source": "udn.com",
+      "title": "OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋 - UDN",
+      "source": "UDN",
       "published_at": "2026-07-30T07:14:39+00:00",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1RXl6amY3eTNfUXc2V3FISFJLOW1XZlUzc095S05HcTB4ZDdtTmpabmVvZDV3Y08xMUZCY0Y5MVhSUk96anpENFdOQ3F5SmVW0gFWQVVfeXFMUFU1dkh3RksxWDZoOGVoc2dVcjB6R1lUTGtGTzRVYmhwOXhlV0VQYmpiVjhhQlNJZnpWXzFVdUpVVGY4aDlvOFowcGFsak5IYW1XTklpRXc?oc=5",
       "matched_keywords": [
@@ -807,21 +1170,21 @@
       "category_labels": [
         "會員經濟"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1RXl6amY3eTNfUXc2V3FISFJLOW1XZlUzc095S05HcTB4ZDdtTmpabmVvZDV3Y08xMUZCY0Y5MVhSUk96anpENFdOQ3F5SmVW0gFWQVVfeXFMUFU1dkh3RksxWDZoOGVoc2dVcjB6R1lUTGtGTzRVYmhwOXhlV0VQYmpiVjhhQlNJZnpWXzFVdUpVVGY4aDlvOFowcGFsak5IYW1XTklpRXc?oc=5\" target=\"_blank\">OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">udn.com</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1RXl6amY3eTNfUXc2V3FISFJLOW1XZlUzc095S05HcTB4ZDdtTmpabmVvZDV3Y08xMUZCY0Y5MVhSUk96anpENFdOQ3F5SmVW0gFWQVVfeXFMUFU1dkh3RksxWDZoOGVoc2dVcjB6R1lUTGtGTzRVYmhwOXhlV0VQYmpiVjhhQlNJZnpWXzFVdUpVVGY4aDlvOFowcGFsak5IYW1XTklpRXc?oc=5\" target=\"_blank\">OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
       "ai": {
         "worth_reading": true,
         "score": 4,
         "reason": "命中 餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。",
         "classification": "會員經濟",
-        "summary_zh": "這則新聞聚焦於「OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋 - udn.com」，可放在 會員經濟 脈絡下觀察。OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋&nbsp;&nbsp;udn.com",
+        "summary_zh": "這則新聞聚焦於「OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋 - UDN」，可放在 會員經濟 脈絡下觀察。OPENPOINT生態圈再擴增！uniopen會員點數折抵最高享0元吃拉麵、火鍋&nbsp;&nbsp;UDN",
         "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「餐飲會員」切入。"
       }
     },
     {
-      "id": "4509ad0b0e97c024",
+      "id": "58fd72eda3014781",
       "period": "history_7d",
-      "title": "把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能 - elle.com",
-      "source": "elle.com",
+      "title": "把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能 - ELLE",
+      "source": "ELLE",
       "published_at": "2026-07-30T06:38:05+00:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82ck16UzFQcC1PelZCV002ZG1ST1dzWjQzSG1CeXlNTzgtS3BmZ3IzWF9rb2xlRHJRa2x1bmtXV3I3cDZmS1ZCd2tkUDJLNUYtZHNvenJXZ19hc2Q2b2VEd0c3eUQtLTBkYmI2d1B6NWhIUlVWQUZMQ3hR?oc=5",
       "matched_keywords": [
@@ -833,40 +1196,14 @@
       "category_labels": [
         "世界料理趨勢"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE82ck16UzFQcC1PelZCV002ZG1ST1dzWjQzSG1CeXlNTzgtS3BmZ3IzWF9rb2xlRHJRa2x1bmtXV3I3cDZmS1ZCd2tkUDJLNUYtZHNvenJXZ19hc2Q2b2VEd0c3eUQtLTBkYmI2d1B6NWhIUlVWQUZMQ3hR?oc=5\" target=\"_blank\">把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elle.com</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE82ck16UzFQcC1PelZCV002ZG1ST1dzWjQzSG1CeXlNTzgtS3BmZ3IzWF9rb2xlRHJRa2x1bmtXV3I3cDZmS1ZCd2tkUDJLNUYtZHNvenJXZ19hc2Q2b2VEd0c3eUQtLTBkYmI2d1B6NWhIUlVWQUZMQ3hR?oc=5\" target=\"_blank\">把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELLE</font>",
       "ai": {
         "worth_reading": true,
         "score": 4,
         "reason": "命中 世界料理，且與「世界料理趨勢」高度相關，值得優先閱讀。",
         "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能 - elle.com」，可放在 世界料理趨勢 脈絡下觀察。把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能&nbsp;&nbsp;elle.com",
+        "summary_zh": "這則新聞聚焦於「把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能 - ELLE」，可放在 世界料理趨勢 脈絡下觀察。把世界級食材帶回日常！Mia C’bon連續第3年成為《臺灣米其林指南2026》頂級生鮮合作夥伴、頒發年輕主廚大獎，開啟料理無限可能&nbsp;&nbsp;ELLE",
         "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
-      }
-    },
-    {
-      "id": "cb022ddcfa20cd4e",
-      "period": "history_7d",
-      "title": "亞洲三大酒吧大師的跨國交會：台北「UNCOMMON Taipei」時髦登場，以待客之道與雙面酒單重新定義理想酒吧 - TRAVELER Luxe旅人誌",
-      "source": "TRAVELER Luxe旅人誌",
-      "published_at": "2026-07-30T03:00:21+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55WEh3akZ3TmpzUUduN0ZfVUVfTlFRZVpqc1pQN1MxQnAzUzVZX2pzZlYyZnduR2NwdnZUUmwyWGVYcGdJMUtpMk15ME5YbmlsLTlzeDc4U2pxcG92MThWaA?oc=5",
-      "matched_keywords": [
-        "酒吧新開幕"
-      ],
-      "categories": [
-        "competitors"
-      ],
-      "category_labels": [
-        "競品異動"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE55WEh3akZ3TmpzUUduN0ZfVUVfTlFRZVpqc1pQN1MxQnAzUzVZX2pzZlYyZnduR2NwdnZUUmwyWGVYcGdJMUtpMk15ME5YbmlsLTlzeDc4U2pxcG92MThWaA?oc=5\" target=\"_blank\">亞洲三大酒吧大師的跨國交會：台北「UNCOMMON Taipei」時髦登場，以待客之道與雙面酒單重新定義理想酒吧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRAVELER Luxe旅人誌</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 酒吧新開幕，可作為「競品異動」的輔助觀察。",
-        "classification": "競品異動",
-        "summary_zh": "這則新聞聚焦於「亞洲三大酒吧大師的跨國交會：台北「UNCOMMON Taipei」時髦登場，以待客之道與雙面酒單重新定義理想酒吧 - TRAVELER Luxe旅人誌」，可放在 競品異動 脈絡下觀察。亞洲三大酒吧大師的跨國交會：台北「UNCOMMON Taipei」時髦登場，以待客之道與雙面酒單重新定義理想酒吧&nbsp;&nbsp;TRAVELER Luxe旅人誌",
-        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
       }
     },
     {
@@ -896,36 +1233,10 @@
       }
     },
     {
-      "id": "9698a81811cf1fd7",
+      "id": "ad4435678eddc686",
       "period": "history_7d",
-      "title": "客食新星征戰環球廚藝賽 翻轉紅蔥頭、紫蘇奪雙銀 - 客新聞 HakkaNews",
-      "source": "客新聞 HakkaNews",
-      "published_at": "2026-07-30T02:11:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xb05Lb3VOeDNCMzVTTnVEVmZLWVJwSVkzdFlFcVdKM0R4bnNqQzJfSzJJYVVDUm1GWTJ5eE9JWEc0aXRib2F2Mm0xbTAxRlJv?oc=5",
-      "matched_keywords": [
-        "世界料理"
-      ],
-      "categories": [
-        "world_cuisine"
-      ],
-      "category_labels": [
-        "世界料理趨勢"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xb05Lb3VOeDNCMzVTTnVEVmZLWVJwSVkzdFlFcVdKM0R4bnNqQzJfSzJJYVVDUm1GWTJ5eE9JWEc0aXRib2F2Mm0xbTAxRlJv?oc=5\" target=\"_blank\">客食新星征戰環球廚藝賽 翻轉紅蔥頭、紫蘇奪雙銀</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">客新聞 HakkaNews</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 世界料理，但目前訊號較弱，可低優先追蹤。",
-        "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「客食新星征戰環球廚藝賽 翻轉紅蔥頭、紫蘇奪雙銀 - 客新聞 HakkaNews」，可放在 世界料理趨勢 脈絡下觀察。客食新星征戰環球廚藝賽 翻轉紅蔥頭、紫蘇奪雙銀&nbsp;&nbsp;客新聞 HakkaNews",
-        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
-      }
-    },
-    {
-      "id": "bc40fa1031848a2d",
-      "period": "history_7d",
-      "title": "統一超上半年EPS 6.03元，營運穩健成長- 新聞 - MoneyDJ",
-      "source": "MoneyDJ",
+      "title": "統一超上半年EPS 6.03元，營運穩健成長- 新聞 - moneydj.com",
+      "source": "moneydj.com",
       "published_at": "2026-07-30T02:05:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFlpbC1QOFI4dHVaOU1KelJKRXpNMzBUNVllNHR2LVpWM0c2azY5OFZqNngtTURnSU1ucHUwWjJzZmFYX21ZZzBtX3h2UXRQczNCVEdpSUxFeUdGcTNWSE05cjZsUDhURGFpTC1VLTdleHl3VjFtTE82enBUS2NrckpsM29OcWNIMG4xa1o4YjNZUQ?oc=5",
       "matched_keywords": [
@@ -937,49 +1248,23 @@
       "category_labels": [
         "會員經濟"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFlpbC1QOFI4dHVaOU1KelJKRXpNMzBUNVllNHR2LVpWM0c2azY5OFZqNngtTURnSU1ucHUwWjJzZmFYX21ZZzBtX3h2UXRQczNCVEdpSUxFeUdGcTNWSE05cjZsUDhURGFpTC1VLTdleHl3VjFtTE82enBUS2NrckpsM29OcWNIMG4xa1o4YjNZUQ?oc=5\" target=\"_blank\">統一超上半年EPS 6.03元，營運穩健成長- 新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoneyDJ</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFlpbC1QOFI4dHVaOU1KelJKRXpNMzBUNVllNHR2LVpWM0c2azY5OFZqNngtTURnSU1ucHUwWjJzZmFYX21ZZzBtX3h2UXRQczNCVEdpSUxFeUdGcTNWSE05cjZsUDhURGFpTC1VLTdleHl3VjFtTE82enBUS2NrckpsM29OcWNIMG4xa1o4YjNZUQ?oc=5\" target=\"_blank\">統一超上半年EPS 6.03元，營運穩健成長- 新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">moneydj.com</font>",
       "ai": {
         "worth_reading": true,
         "score": 3,
         "reason": "命中 會員經濟，可作為「會員經濟」的輔助觀察。",
         "classification": "會員經濟",
-        "summary_zh": "這則新聞聚焦於「統一超上半年EPS 6.03元，營運穩健成長- 新聞 - MoneyDJ」，可放在 會員經濟 脈絡下觀察。統一超上半年EPS 6.03元，營運穩健成長- 新聞&nbsp;&nbsp;MoneyDJ",
+        "summary_zh": "這則新聞聚焦於「統一超上半年EPS 6.03元，營運穩健成長- 新聞 - moneydj.com」，可放在 會員經濟 脈絡下觀察。統一超上半年EPS 6.03元，營運穩健成長- 新聞&nbsp;&nbsp;moneydj.com",
         "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。"
       }
     },
     {
-      "id": "94564111291c6855",
+      "id": "755067555f5955a2",
       "period": "history_7d",
-      "title": "討論牆 | 曼谷啤酒餐廳大火27死63傷！多數罹難者困廁所 總理、市長連夜勘災 - LINE TODAY",
-      "source": "LINE TODAY",
-      "published_at": "2026-07-30T01:10:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aRnJmTG9pc3FiMWE1SmxqVkhiZ2tZRzN0MU01aTl1SjBOZmVnZnR2dFpSRFRGSUQyN01OUEMxVXp1cWtBRVBpMnVMNXUxeFlfZTFEQndLcXNmbkUxWXlrdWhfZ28?oc=5",
-      "matched_keywords": [
-        "啤酒餐廳"
-      ],
-      "categories": [
-        "competitors"
-      ],
-      "category_labels": [
-        "競品異動"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aRnJmTG9pc3FiMWE1SmxqVkhiZ2tZRzN0MU01aTl1SjBOZmVnZnR2dFpSRFRGSUQyN01OUEMxVXp1cWtBRVBpMnVMNXUxeFlfZTFEQndLcXNmbkUxWXlrdWhfZ28?oc=5\" target=\"_blank\">討論牆 | 曼谷啤酒餐廳大火27死63傷！多數罹難者困廁所 總理、市長連夜勘災</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LINE TODAY</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 啤酒餐廳，且與「競品異動」高度相關，值得優先閱讀。",
-        "classification": "競品異動",
-        "summary_zh": "這則新聞聚焦於「討論牆 | 曼谷啤酒餐廳大火27死63傷！多數罹難者困廁所 總理、市長連夜勘災 - LINE TODAY」，可放在 競品異動 脈絡下觀察。討論牆 | 曼谷啤酒餐廳大火27死63傷！多數罹難者困廁所 總理、市長連夜勘災&nbsp;&nbsp;LINE TODAY",
-        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「啤酒餐廳」切入。"
-      }
-    },
-    {
-      "id": "687ce6252a7457cf",
-      "period": "history_7d",
-      "title": "【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理 - Japaholic",
-      "source": "Japaholic",
+      "title": "【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理 - japaholic.com",
+      "source": "japaholic.com",
       "published_at": "2026-07-30T00:31:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40U1p0dXNxd2MwMW1Rb0M4Y0ViRW01ZDNYdTMzVFgzRnJwTU9rbi12QjFvZUdUcG1Pci1NZi1xR1h3OVNOd0ZvaTFkVGZjd3l5MzdSWWppRXVsaEJfaGVZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNSWxjZUN4RjEtV09KZ1V4WlgzRXhkOUZHZ0lpQXVQejFBWGtXU0hacFNlUXFiMGtibXoySWtHczZqVUNURmZTN3RUdGN5YjMzM0RHZXJZQllPVzZNQjBGRjdQZEo0MnktVjZUdnRZd3JmVjNoeC1wbmk2ZmJxS2pINmlIUkJEa21OTVF5S2p4SnpENnFIZjNoOFNpV1R1X3lrTmFnOEQ5VnAxVURIdGFRMlJBcWtzaURTU09lVVo0RV9EaW9mQWd3VDNORXNiQTU2WGdKUENjcDQtdzdNRlpLSEFaVllERzNEd1FvV2tYUEp4NlVlTmlCZWYtOFRvcE9WTHhpanZsSjZsN0xwR1JDUXBKbjlNeXpZckVxYkYxYmlzamVFaGhqcmFwMW84TldVblh6YWJXRTB2VUNqUDIwSWJ4UmtjQkdRN090dTdVaEE1dWowS0F4bEt3N2FjNWlfNHA0dkpfeG13aV9xdGhJeHZxdmptVGFDXzJ4cjZQbEtXLXdzb0loTVg5TWh1ZmZmdEFwZjNjVExONURwdTlKWFgzYzRmbWlmazVoZzRJN1M4djl2TFItV2NDLS1aWDVDTllEQVQwZFpGUWZVSkRqSU1ybEhicllJS2FlYmhPblVyQQ?oc=5",
       "matched_keywords": [
         "美食趨勢"
       ],
@@ -989,13 +1274,13 @@
       "category_labels": [
         "世界料理趨勢"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE40U1p0dXNxd2MwMW1Rb0M4Y0ViRW01ZDNYdTMzVFgzRnJwTU9rbi12QjFvZUdUcG1Pci1NZi1xR1h3OVNOd0ZvaTFkVGZjd3l5MzdSWWppRXVsaEJfaGVZ?oc=5\" target=\"_blank\">【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Japaholic</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gNBVV95cUxNSWxjZUN4RjEtV09KZ1V4WlgzRXhkOUZHZ0lpQXVQejFBWGtXU0hacFNlUXFiMGtibXoySWtHczZqVUNURmZTN3RUdGN5YjMzM0RHZXJZQllPVzZNQjBGRjdQZEo0MnktVjZUdnRZd3JmVjNoeC1wbmk2ZmJxS2pINmlIUkJEa21OTVF5S2p4SnpENnFIZjNoOFNpV1R1X3lrTmFnOEQ5VnAxVURIdGFRMlJBcWtzaURTU09lVVo0RV9EaW9mQWd3VDNORXNiQTU2WGdKUENjcDQtdzdNRlpLSEFaVllERzNEd1FvV2tYUEp4NlVlTmlCZWYtOFRvcE9WTHhpanZsSjZsN0xwR1JDUXBKbjlNeXpZckVxYkYxYmlzamVFaGhqcmFwMW84TldVblh6YWJXRTB2VUNqUDIwSWJ4UmtjQkdRN090dTdVaEE1dWowS0F4bEt3N2FjNWlfNHA0dkpfeG13aV9xdGhJeHZxdmptVGFDXzJ4cjZQbEtXLXdzb0loTVg5TWh1ZmZmdEFwZjNjVExONURwdTlKWFgzYzRmbWlmazVoZzRJN1M4djl2TFItV2NDLS1aWDVDTllEQVQwZFpGUWZVSkRqSU1ybEhicllJS2FlYmhPblVyQQ?oc=5\" target=\"_blank\">【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">japaholic.com</font>",
       "ai": {
         "worth_reading": true,
         "score": 3,
         "reason": "命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。",
         "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理 - Japaholic」，可放在 世界料理趨勢 脈絡下觀察。【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理&nbsp;&nbsp;Japaholic",
+        "summary_zh": "這則新聞聚焦於「【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理 - japaholic.com」，可放在 世界料理趨勢 脈絡下觀察。【東京美食】傳奇名店轉生！日本饕客也喜愛的飯田橋「Tokyo BHAVAN」南印度料理&nbsp;&nbsp;japaholic.com",
         "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「美食趨勢」切入。"
       }
     },
@@ -1026,32 +1311,6 @@
       }
     },
     {
-      "id": "4d05a4387e30b064",
-      "period": "history_7d",
-      "title": "人氣餐酒Buffet插旗新竹！URBAN PARADISE８月開幕，生蠔、麵包蟹吃到飽 - 食尚玩家",
-      "source": "食尚玩家",
-      "published_at": "2026-07-29T11:45:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VDJKdVBCV194MExXa1FlZHpMdlQ0X290STk5a09WYmdkN2I3RXFOUXA0SlEyMzF6SjBkU242TEhpM0VDQ0d2VFgwMF9Zenc5dHB6YkFXYWc3UdIBWkFVX3lxTE42VDJKdVBCV194MExXa1FlZHpMdlQ0X290STk5a09WYmdkN2I3RXFOUXA0SlEyMzF6SjBkU242TEhpM0VDQ0d2VFgwMF9Zenc5dHB6YkFXYWc3UQ?oc=5",
-      "matched_keywords": [
-        "精釀啤酒"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VDJKdVBCV194MExXa1FlZHpMdlQ0X290STk5a09WYmdkN2I3RXFOUXA0SlEyMzF6SjBkU242TEhpM0VDQ0d2VFgwMF9Zenc5dHB6YkFXYWc3UdIBWkFVX3lxTE42VDJKdVBCV194MExXa1FlZHpMdlQ0X290STk5a09WYmdkN2I3RXFOUXA0SlEyMzF6SjBkU242TEhpM0VDQ0d2VFgwMF9Zenc5dHB6YkFXYWc3UQ?oc=5\" target=\"_blank\">人氣餐酒Buffet插旗新竹！URBAN PARADISE８月開幕，生蠔、麵包蟹吃到飽</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">食尚玩家</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 5,
-        "reason": "命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「人氣餐酒Buffet插旗新竹！URBAN PARADISE８月開幕，生蠔、麵包蟹吃到飽 - 食尚玩家」，可放在 精釀啤酒 脈絡下觀察。人氣餐酒Buffet插旗新竹！URBAN PARADISE８月開幕，生蠔、麵包蟹吃到飽&nbsp;&nbsp;食尚玩家",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。"
-      }
-    },
-    {
       "id": "70b27aa52c5efb17",
       "period": "history_7d",
       "title": "統一超上半年賺逾62億元！ 每股獲利6元 創同期次高 - Yahoo股市",
@@ -1078,10 +1337,10 @@
       }
     },
     {
-      "id": "0d8f7533a962ad24",
+      "id": "145fed16759d944f",
       "period": "history_7d",
-      "title": "逛賣場享異國餐 華山長輩開眼界 - cdns.com.tw",
-      "source": "cdns.com.tw",
+      "title": "逛賣場享異國餐 華山長輩開眼界 - 中華新聞雲／中華日報",
+      "source": "中華新聞雲／中華日報",
       "published_at": "2026-07-29T11:39:28+00:00",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95OFloLVhNQUEwcTNEN0lOX1B1SnNrbjhkcVU3T0RYenRXTXJSUE1Bdm9WWkNKTDhrVndvaUxxTVR1MmtxcmtEM0pQZUo5a3V5TEE?oc=5",
       "matched_keywords": [
@@ -1093,13 +1352,13 @@
       "category_labels": [
         "世界料理趨勢"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE95OFloLVhNQUEwcTNEN0lOX1B1SnNrbjhkcVU3T0RYenRXTXJSUE1Bdm9WWkNKTDhrVndvaUxxTVR1MmtxcmtEM0pQZUo5a3V5TEE?oc=5\" target=\"_blank\">逛賣場享異國餐 華山長輩開眼界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cdns.com.tw</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE95OFloLVhNQUEwcTNEN0lOX1B1SnNrbjhkcVU3T0RYenRXTXJSUE1Bdm9WWkNKTDhrVndvaUxxTVR1MmtxcmtEM0pQZUo5a3V5TEE?oc=5\" target=\"_blank\">逛賣場享異國餐 華山長輩開眼界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中華新聞雲／中華日報</font>",
       "ai": {
         "worth_reading": false,
         "score": 2,
         "reason": "命中 異國料理，但目前訊號較弱，可低優先追蹤。",
         "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「逛賣場享異國餐 華山長輩開眼界 - cdns.com.tw」，可放在 世界料理趨勢 脈絡下觀察。逛賣場享異國餐 華山長輩開眼界&nbsp;&nbsp;cdns.com.tw",
+        "summary_zh": "這則新聞聚焦於「逛賣場享異國餐 華山長輩開眼界 - 中華新聞雲／中華日報」，可放在 世界料理趨勢 脈絡下觀察。逛賣場享異國餐 華山長輩開眼界&nbsp;&nbsp;中華新聞雲／中華日報",
         "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
       }
     },
@@ -1156,38 +1415,12 @@
       }
     },
     {
-      "id": "da24f766fa34277e",
+      "id": "24f96d4542728dd8",
       "period": "history_7d",
-      "title": "在台北暢飲比利時啤酒文化！松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗 - 經濟日報",
-      "source": "經濟日報",
-      "published_at": "2026-07-29T08:00:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MSW5lSU5tWUt3aDFtZ1FDd3ViMllGNFdSaC1IVWJHOVg2ZXE3NFNRWFBKcF9ZdXFQOXYzOC1BVm9qRkR6ZzE2S0JXeDBjM2U5X3AxcVJSaTFQaFE2a2hCSHV30gFiQVVfeXFMTkxJbmVJTm1ZS3doMW1nUUN3dWIyWUY0V1JoLUhVYkc5WDZlcTc0U1FYUEpwX1l1cVA5djM4LUFWb2pGRHpnMTZLQld4MGMzZTlfcDFxUlJpMVBoUTZraEJIdXc?oc=5",
-      "matched_keywords": [
-        "craft beer Taiwan"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MSW5lSU5tWUt3aDFtZ1FDd3ViMllGNFdSaC1IVWJHOVg2ZXE3NFNRWFBKcF9ZdXFQOXYzOC1BVm9qRkR6ZzE2S0JXeDBjM2U5X3AxcVJSaTFQaFE2a2hCSHV30gFiQVVfeXFMTkxJbmVJTm1ZS3doMW1nUUN3dWIyWUY0V1JoLUhVYkc5WDZlcTc0U1FYUEpwX1l1cVA5djM4LUFWb2pGRHpnMTZLQld4MGMzZTlfcDFxUlJpMVBoUTZraEJIdXc?oc=5\" target=\"_blank\">在台北暢飲比利時啤酒文化！松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 5,
-        "reason": "命中 craft beer Taiwan，且與「精釀啤酒」高度相關，值得優先閱讀。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「在台北暢飲比利時啤酒文化！松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗 - 經濟日報」，可放在 精釀啤酒 脈絡下觀察。在台北暢飲比利時啤酒文化！松山歐式餐酒館主打現拉精釀生啤+沉浸式歐洲微醺體驗&nbsp;&nbsp;經濟日報",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「craft beer Taiwan」切入。"
-      }
-    },
-    {
-      "id": "bb2b4989a00338af",
-      "period": "history_7d",
-      "title": "全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯 - udn.com",
-      "source": "udn.com",
+      "title": "全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯 - UDN",
+      "source": "UDN",
       "published_at": "2026-07-29T07:37:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MUU3M3hMb3JPVUw5R01tdDV1TExfOVB3UjFLNzlyb3pmVEk1ZWxNOTVfd1g1TGlLWEtlbWJ0bWgtaVlzZlJqdFN1SmwyUkliMjJ3NUhn0gFWQVVfeXFMTncxRTczeExvck9VTDlHTW10NXVMTF85UHdSMUs3OXJvemZUSTVlbE05NV93WDVMaUtYS2VtYnRtaC1pWXNmUmp0U3VKbDJSSWIyMnc1SGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TaXVWaXFtZEZIV240YnNOLUJiZ1g2QWZsZGNqN1RCb2FGcDRkbHpoakN5V0ZlVTZ4c0NfejViODVwczFBWUNFaUJqR0oyRS1Z0gFWQVVfeXFMTncxRTczeExvck9VTDlHTW10NXVMTF85UHdSMUs3OXJvemZUSTVlbE05NV93WDVMaUtYS2VtYnRtaC1pWXNmUmp0U3VKbDJSSWIyMnc1SGc?oc=5",
       "matched_keywords": [
         "會員經濟"
       ],
@@ -1197,13 +1430,13 @@
       "category_labels": [
         "會員經濟"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MUU3M3hMb3JPVUw5R01tdDV1TExfOVB3UjFLNzlyb3pmVEk1ZWxNOTVfd1g1TGlLWEtlbWJ0bWgtaVlzZlJqdFN1SmwyUkliMjJ3NUhn0gFWQVVfeXFMTncxRTczeExvck9VTDlHTW10NXVMTF85UHdSMUs3OXJvemZUSTVlbE05NV93WDVMaUtYS2VtYnRtaC1pWXNmUmp0U3VKbDJSSWIyMnc1SGc?oc=5\" target=\"_blank\">全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">udn.com</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TaXVWaXFtZEZIV240YnNOLUJiZ1g2QWZsZGNqN1RCb2FGcDRkbHpoakN5V0ZlVTZ4c0NfejViODVwczFBWUNFaUJqR0oyRS1Z0gFWQVVfeXFMTncxRTczeExvck9VTDlHTW10NXVMTF85UHdSMUs3OXJvemZUSTVlbE05NV93WDVMaUtYS2VtYnRtaC1pWXNmUmp0U3VKbDJSSWIyMnc1SGc?oc=5\" target=\"_blank\">全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
       "ai": {
         "worth_reading": true,
         "score": 4,
         "reason": "命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。",
         "classification": "會員經濟",
-        "summary_zh": "這則新聞聚焦於「全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯 - udn.com」，可放在 會員經濟 脈絡下觀察。全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯&nbsp;&nbsp;udn.com",
+        "summary_zh": "這則新聞聚焦於「全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯 - UDN」，可放在 會員經濟 脈絡下觀察。全聯揭電商新戰略！1630萬會員當後盾AI導購、小時達、全電商全面串聯&nbsp;&nbsp;UDN",
         "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。"
       }
     },
@@ -1264,58 +1497,6 @@
       }
     },
     {
-      "id": "694f8a948af025ed",
-      "period": "history_7d",
-      "title": "經濟部推「人進、品出、店出」戰略 打造臺灣美食進軍全球新布局 | 熱門亮點 | 商情 - 經濟日報",
-      "source": "經濟日報",
-      "published_at": "2026-07-29T02:01:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EYVlCclZsZ1k0ZEp6RUhDZlJFTkh5dVdVVFA3LURFVHlRSDRHMkNLcFAyMTVYLWZQbFRuLXRjQjdyRDJEdlhLc24zdHlkeXRVODQyQUJ2aXhOdw?oc=5",
-      "matched_keywords": [
-        "台灣餐飲市場"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EYVlCclZsZ1k0ZEp6RUhDZlJFTkh5dVdVVFA3LURFVHlRSDRHMkNLcFAyMTVYLWZQbFRuLXRjQjdyRDJEdlhLc24zdHlkeXRVODQyQUJ2aXhOdw?oc=5\" target=\"_blank\">經濟部推「人進、品出、店出」戰略 打造臺灣美食進軍全球新布局 | 熱門亮點 | 商情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「經濟部推「人進、品出、店出」戰略 打造臺灣美食進軍全球新布局 | 熱門亮點 | 商情 - 經濟日報」，可放在 市場情報 脈絡下觀察。經濟部推「人進、品出、店出」戰略 打造臺灣美食進軍全球新布局 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。"
-      }
-    },
-    {
-      "id": "ea70dbce5c64c56d",
-      "period": "history_7d",
-      "title": "33歲男大熊湖攀岩喪命 懷孕8周亞裔妻盼募款度難關 - 世界新聞網",
-      "source": "世界新聞網",
-      "published_at": "2026-07-28T18:20:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vOWJRdzdfMVd4NmhaY2poWHhILWoyQ3hRZVROZDNmWUR2SG4tS0FwRTRIZy02QTJhbjQ0emxQSWcwNWJNYTJqQUJWT05TT0UzUlN4dFQzMWh0MXFEbGVXMmlB0gFnQVVfeXFMT09fT2ZJSUtEWU1Dei1yeGM3N2ljUGlnTUtXcE43NGhKS2dpblhENTZINkU4eHhCVjdfSFpwVGk2VVRtak92WDV2Y3NTUS1XMXU3Qm9yLXZJWlVSeWVieThpZUROUEtCNA?oc=5",
-      "matched_keywords": [
-        "啤酒餐廳"
-      ],
-      "categories": [
-        "competitors"
-      ],
-      "category_labels": [
-        "競品異動"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vOWJRdzdfMVd4NmhaY2poWHhILWoyQ3hRZVROZDNmWUR2SG4tS0FwRTRIZy02QTJhbjQ0emxQSWcwNWJNYTJqQUJWT05TT0UzUlN4dFQzMWh0MXFEbGVXMmlB0gFnQVVfeXFMT09fT2ZJSUtEWU1Dei1yeGM3N2ljUGlnTUtXcE43NGhKS2dpblhENTZINkU4eHhCVjdfSFpwVGk2VVRtak92WDV2Y3NTUS1XMXU3Qm9yLXZJWlVSeWVieThpZUROUEtCNA?oc=5\" target=\"_blank\">33歲男大熊湖攀岩喪命 懷孕8周亞裔妻盼募款度難關</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界新聞網</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 啤酒餐廳，可作為「競品異動」的輔助觀察。",
-        "classification": "競品異動",
-        "summary_zh": "這則新聞聚焦於「33歲男大熊湖攀岩喪命 懷孕8周亞裔妻盼募款度難關 - 世界新聞網」，可放在 競品異動 脈絡下觀察。33歲男大熊湖攀岩喪命 懷孕8周亞裔妻盼募款度難關&nbsp;&nbsp;世界新聞網",
-        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「啤酒餐廳」切入。"
-      }
-    },
-    {
       "id": "b5a9c69331fce6f5",
       "period": "history_7d",
       "title": "世界最北端 Fine Dining 餐廳「Huset」：Snøhetta 改造昔日社區中心，將極地風土化為餐桌風景 - MOT TIMES 明日誌",
@@ -1342,63 +1523,11 @@
       }
     },
     {
-      "id": "4d57a8cd0d81ba7e",
-      "period": "history_7d",
-      "title": "韓式辣味青江菜末炒雞胸肉 by Vivivya - 愛料理",
-      "source": "愛料理",
-      "published_at": "2026-07-28T15:01:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qOHZNOURaWUFUSGlBNFFKa19QODY3SndSSXVwRkZZdlNMdWJYbGRzN002MUNXeFVsUFZjeHVFazRXdG94R0E?oc=5",
-      "matched_keywords": [
-        "異國料理"
-      ],
-      "categories": [
-        "world_cuisine"
-      ],
-      "category_labels": [
-        "世界料理趨勢"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qOHZNOURaWUFUSGlBNFFKa19QODY3SndSSXVwRkZZdlNMdWJYbGRzN002MUNXeFVsUFZjeHVFazRXdG94R0E?oc=5\" target=\"_blank\">韓式辣味青江菜末炒雞胸肉 by Vivivya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">愛料理</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 異國料理，可作為「世界料理趨勢」的輔助觀察。",
-        "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「韓式辣味青江菜末炒雞胸肉 by Vivivya - 愛料理」，可放在 世界料理趨勢 脈絡下觀察。韓式辣味青江菜末炒雞胸肉 by Vivivya&nbsp;&nbsp;愛料理",
-        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「異國料理」切入。"
-      }
-    },
-    {
-      "id": "f93bbca8d7962402",
-      "period": "history_7d",
-      "title": "IP萌經濟超有效 麥味登再推小熊維尼今年門市挑戰再增百家 - 鏡週刊Mirror Media",
-      "source": "鏡週刊Mirror Media",
-      "published_at": "2026-07-28T13:11:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvQmRCT0tTdFp3TnhQZDc0MjBxNGMzeEhiOUxVQ3R4SFpYU2h6TDBwbFJIWThSaGk3V0hSVU9FVHBPME5rX29fdTJGZ2RSa2I3MTJ5MXI4UkxKZFR5T0VaRk1POXMwd9IBa0FVX3lxTFBaMW5YMEN4RF8yOUlfME1veGdvU1BPeTh3QXZmUzAwT0dWeUU2Y3RfYkJxVUFMSDlsMkQ4RnZkeUlDdjBlX2ljTHRIdEtSanF2dWk3UEtpRWJmVDU4RmNYaDQtSlppU2ZKRFh3?oc=5",
-      "matched_keywords": [
-        "會員經濟"
-      ],
-      "categories": [
-        "membership"
-      ],
-      "category_labels": [
-        "會員經濟"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvQmRCT0tTdFp3TnhQZDc0MjBxNGMzeEhiOUxVQ3R4SFpYU2h6TDBwbFJIWThSaGk3V0hSVU9FVHBPME5rX29fdTJGZ2RSa2I3MTJ5MXI4UkxKZFR5T0VaRk1POXMwd9IBa0FVX3lxTFBaMW5YMEN4RF8yOUlfME1veGdvU1BPeTh3QXZmUzAwT0dWeUU2Y3RfYkJxVUFMSDlsMkQ4RnZkeUlDdjBlX2ljTHRIdEtSanF2dWk3UEtpRWJmVDU4RmNYaDQtSlppU2ZKRFh3?oc=5\" target=\"_blank\">IP萌經濟超有效 麥味登再推小熊維尼今年門市挑戰再增百家</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鏡週刊Mirror Media</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 會員經濟，可作為「會員經濟」的輔助觀察。",
-        "classification": "會員經濟",
-        "summary_zh": "這則新聞聚焦於「IP萌經濟超有效 麥味登再推小熊維尼今年門市挑戰再增百家 - 鏡週刊Mirror Media」，可放在 會員經濟 脈絡下觀察。IP萌經濟超有效 麥味登再推小熊維尼今年門市挑戰再增百家&nbsp;&nbsp;鏡週刊Mirror Media",
-        "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。"
-      }
-    },
-    {
       "id": "378129da62a0d5b2",
       "period": "history_7d",
       "title": "台灣味飄香全球 人進、品出、店出3方針 | NOWNEWS今日新聞 - LINE TODAY",
       "source": "LINE TODAY",
-      "published_at": "2026-07-28T12:31:45+00:00",
+      "published_at": "2026-07-28T11:30:50+00:00",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tSVJWd1h0MXl0YkpUZzMwaURhY0RNSUlPMnU0SGV4N2dReUtQMkFnVXo3UDdkbzJiSE1iXzFjUk5pZTFnWE5YMk1JRW5LRmI3emFQRmh3?oc=5",
       "matched_keywords": [
         "台灣餐飲市場"
@@ -1417,32 +1546,6 @@
         "classification": "市場情報",
         "summary_zh": "這則新聞聚焦於「台灣味飄香全球 人進、品出、店出3方針 | NOWNEWS今日新聞 - LINE TODAY」，可放在 市場情報 脈絡下觀察。台灣味飄香全球 人進、品出、店出3方針 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY",
         "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。"
-      }
-    },
-    {
-      "id": "128a55cbb5f12945",
-      "period": "history_7d",
-      "title": "武漢肺炎／台中觀光餐飲業度寒冬防疫大作戰盼突圍| 生活 - 三立新聞網SETN.com",
-      "source": "三立新聞網SETN.com",
-      "published_at": "2026-07-28T12:24:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Qb2psZGdXSjF1VlRUQjB3dk9YNmJ2UDJnbXJ1MGg2cldZbXJIOUFHaDRhMXpndzYxZUlzMGNBSXgxUzNnRXVBUXROUm9talVNbE9wWFF5NzNwa1VT?oc=5",
-      "matched_keywords": [
-        "觀光餐飲"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Qb2psZGdXSjF1VlRUQjB3dk9YNmJ2UDJnbXJ1MGg2cldZbXJIOUFHaDRhMXpndzYxZUlzMGNBSXgxUzNnRXVBUXROUm9talVNbE9wWFF5NzNwa1VT?oc=5\" target=\"_blank\">武漢肺炎／台中觀光餐飲業度寒冬防疫大作戰盼突圍| 生活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三立新聞網SETN.com</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「武漢肺炎／台中觀光餐飲業度寒冬防疫大作戰盼突圍| 生活 - 三立新聞網SETN.com」，可放在 市場情報 脈絡下觀察。武漢肺炎／台中觀光餐飲業度寒冬防疫大作戰盼突圍| 生活&nbsp;&nbsp;三立新聞網SETN.com",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
       }
     },
     {
@@ -1472,40 +1575,14 @@
       }
     },
     {
-      "id": "71133513ef8ec342",
+      "id": "7b951f049ab5cc2e",
       "period": "history_7d",
-      "title": "高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮 - udn 女子漾",
-      "source": "udn 女子漾",
-      "published_at": "2026-07-28T10:03:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bW5aYlFzMzY3NnpOaE1QMW1SaFdZYkxRZml3WFpjRVo3bGs3eTFVRVNJYnhqSm1IQk9jVmFPekNoLWNhdXBCTHZmNm10RWN2U3ZyTFAzalBHRk1DYlY4T0xxSFphZmhtRGFWOUJOZDRPX0tXN2Mtd243enJuZ9IBYkFVX3lxTE9xYUlKQThzbFdXR3NBWUVMNWN1d0lzcGRiNE1NOWQ3aDRBV3FsTkJJeHhCcDdhRzZIVVFzcHlyNldlbWpLNkh0UkVlbEp0REg5MnpvUmpuMGkxbUFVUS1WSER3?oc=5",
+      "title": "商業署推3大策略　助68個餐飲品牌布局12國 - money.udn.com",
+      "source": "money.udn.com",
+      "published_at": "2026-07-28T06:07:17+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15b0JGUEstdkUta1hpOHM1OGFZMWRKS0lXRVBOOUtkX3dzYWc1RTBfMGNaQkY4RjJsMEtjNWtQYmhWSVdKdXdObWpubGdSM2hfV0stdUkzejR5QdIBX0FVX3lxTE1oZ3NtOFBjLTZrMFkwaXFINU5xRTloN08tNUJJWUlDT2hibk1PQmVQV0cydWNmWkZlYzVKc3ZkYWxOc1lfZGs0VzNDYkJybFI2SVBJVHNQaTEzSXBtTGVv?oc=5",
       "matched_keywords": [
-        "餐廳社群行銷"
-      ],
-      "categories": [
-        "marketing"
-      ],
-      "category_labels": [
-        "行銷靈感"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bW5aYlFzMzY3NnpOaE1QMW1SaFdZYkxRZml3WFpjRVo3bGs3eTFVRVNJYnhqSm1IQk9jVmFPekNoLWNhdXBCTHZmNm10RWN2U3ZyTFAzalBHRk1DYlY4T0xxSFphZmhtRGFWOUJOZDRPX0tXN2Mtd243enJuZ9IBYkFVX3lxTE9xYUlKQThzbFdXR3NBWUVMNWN1d0lzcGRiNE1NOWQ3aDRBV3FsTkJJeHhCcDdhRzZIVVFzcHlyNldlbWpLNkh0UkVlbEp0REg5MnpvUmpuMGkxbUFVUS1WSER3?oc=5\" target=\"_blank\">高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">udn 女子漾</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 餐廳社群行銷，但目前訊號較弱，可低優先追蹤。",
-        "classification": "行銷靈感",
-        "summary_zh": "這則新聞聚焦於「高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮 - udn 女子漾」，可放在 行銷靈感 脈絡下觀察。高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮&nbsp;&nbsp;udn 女子漾",
-        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐廳社群行銷」切入。"
-      }
-    },
-    {
-      "id": "32e448a870141fb7",
-      "period": "history_7d",
-      "title": "台灣美食展7/31盛大登場 - 台灣民眾電子報",
-      "source": "台灣民眾電子報",
-      "published_at": "2026-07-28T08:54:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uS0RFUDl3NVJEdXJ1ZnRYRFkwek8xSERhQzRhUDRwZDRIaTZnWWhaQTNoMHcxLWUxYldxejhrcEh6cjhOYlBVMQ?oc=5",
-      "matched_keywords": [
-        "觀光餐飲"
+        "台灣餐飲市場"
       ],
       "categories": [
         "market"
@@ -1513,14 +1590,40 @@
       "category_labels": [
         "市場情報"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uS0RFUDl3NVJEdXJ1ZnRYRFkwek8xSERhQzRhUDRwZDRIaTZnWWhaQTNoMHcxLWUxYldxejhrcEh6cjhOYlBVMQ?oc=5\" target=\"_blank\">台灣美食展7/31盛大登場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">台灣民眾電子報</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE15b0JGUEstdkUta1hpOHM1OGFZMWRKS0lXRVBOOUtkX3dzYWc1RTBfMGNaQkY4RjJsMEtjNWtQYmhWSVdKdXdObWpubGdSM2hfV0stdUkzejR5QdIBX0FVX3lxTE1oZ3NtOFBjLTZrMFkwaXFINU5xRTloN08tNUJJWUlDT2hibk1PQmVQV0cydWNmWkZlYzVKc3ZkYWxOc1lfZGs0VzNDYkJybFI2SVBJVHNQaTEzSXBtTGVv?oc=5\" target=\"_blank\">商業署推3大策略　助68個餐飲品牌布局12國</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">money.udn.com</font>",
       "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。",
         "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「台灣美食展7/31盛大登場 - 台灣民眾電子報」，可放在 市場情報 脈絡下觀察。台灣美食展7/31盛大登場&nbsp;&nbsp;台灣民眾電子報",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
+        "summary_zh": "這則新聞聚焦於「商業署推3大策略　助68個餐飲品牌布局12國 - money.udn.com」，可放在 市場情報 脈絡下觀察。商業署推3大策略 助68個餐飲品牌布局12國&nbsp;&nbsp;money.udn.com",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。"
+      }
+    },
+    {
+      "id": "9fd3be41dfc43e97",
+      "period": "history_7d",
+      "title": "今夏必訪青島國際啤酒節的理由| 國泰 HK - Cathay Pacific",
+      "source": "Cathay Pacific",
+      "published_at": "2026-07-28T05:49:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGtLbXhqcTkyNmU1ekM5VnZnYkZrZ1JXanVSamp5QzJlNURYcndIdVRRU3ZacklhWlUtWlFuMDRSX3pCUUxNMlJYLU5hQVlic253ekRwZWFVaUR2VjJsaFU1RHJKbExKM2h3dGZLRTVBc0FSTTJuQldKc2ZGd0I5MzF1YTFmeWtmVmhibWQ3Q2djb3Fm?oc=5",
+      "matched_keywords": [
+        "啤酒節"
+      ],
+      "categories": [
+        "craft_beer"
+      ],
+      "category_labels": [
+        "精釀啤酒"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGtLbXhqcTkyNmU1ekM5VnZnYkZrZ1JXanVSamp5QzJlNURYcndIdVRRU3ZacklhWlUtWlFuMDRSX3pCUUxNMlJYLU5hQVlic253ekRwZWFVaUR2VjJsaFU1RHJKbExKM2h3dGZLRTVBc0FSTTJuQldKc2ZGd0I5MzF1YTFmeWtmVmhibWQ3Q2djb3Fm?oc=5\" target=\"_blank\">今夏必訪青島國際啤酒節的理由| 國泰 HK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cathay Pacific</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 4,
+        "reason": "命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。",
+        "classification": "精釀啤酒",
+        "summary_zh": "這則新聞聚焦於「今夏必訪青島國際啤酒節的理由| 國泰 HK - Cathay Pacific」，可放在 精釀啤酒 脈絡下觀察。今夏必訪青島國際啤酒節的理由| 國泰 HK&nbsp;&nbsp;Cathay Pacific",
+        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。"
       }
     },
     {
@@ -1532,8 +1635,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUmNZVV9PdnBXaUNDRWFKbkd6VXlrN3lWMDJfLTlQVU9lUjJIX0ZxUklDMTZGRTRGVUtpYmtjMS1iYjlaVURkMWJoQ0F1c1RjSGFIbzFZNDN0VDBfYXBvTXdlQWNnVFNaZFNTVF9sbVZPQVlNazZmVERicnhGLXpvZFB2clRyWC1CaXdDNHkxNThMRzQ0?oc=5",
       "matched_keywords": [
         "啤酒餐廳",
-        "精釀啤酒",
-        "啤酒節"
+        "精釀啤酒"
       ],
       "categories": [
         "competitors",
@@ -1547,7 +1649,7 @@
       "ai": {
         "worth_reading": true,
         "score": 5,
-        "reason": "命中 啤酒餐廳、精釀啤酒、啤酒節，且與「競品異動」高度相關，值得優先閱讀。",
+        "reason": "命中 啤酒餐廳、精釀啤酒，且與「競品異動」高度相關，值得優先閱讀。",
         "classification": "競品異動",
         "summary_zh": "這則新聞聚焦於「今夏必訪青島國際啤酒節的理由| 國泰航空TW - Cathay Pacific」，可放在 競品異動、精釀啤酒 脈絡下觀察。今夏必訪青島國際啤酒節的理由| 國泰航空TW&nbsp;&nbsp;Cathay Pacific",
         "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「啤酒餐廳、精釀啤酒」切入。"
@@ -1606,29 +1708,29 @@
       }
     },
     {
-      "id": "311b3a799732ad6d",
+      "id": "9d100819688bb88a",
       "period": "history_7d",
-      "title": "不用請假不用搭飛機！在台吃遍全世界最道地料理｜節目資訊｜20260727 - 女人我最大",
-      "source": "女人我最大",
-      "published_at": "2026-07-27T13:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FRkRkcjN3Rk9GcDBqY2Z1ZVZYV2dvclBmNkJUcGt6YTNKS1o0ZnhfWk5yaW82blVIQ2ZZSUNMdG9iN2VsbGJSOWtwSzBUSk9n?oc=5",
+      "title": "「混東區潮FUN夏日趴」超強卡司嗨翻東區！聽團×微醺×美食×靜音派對吃喝玩樂再抽富國島雙人機加酒 - travel.taipei",
+      "source": "travel.taipei",
+      "published_at": "2026-07-28T02:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GWjd5WFRZYXJ6MS1tMm9wbDFrUGpZM205OHBHRlUzM09jd3p6YWkwWmREMnFZVmxRQThGdldOeHEzMGRDZG1PNXlyM1A5NlZ1ZXRrTWIxeGFscEJUbmo0?oc=5",
       "matched_keywords": [
-        "世界料理"
+        "酒吧活動"
       ],
       "categories": [
-        "world_cuisine"
+        "marketing"
       ],
       "category_labels": [
-        "世界料理趨勢"
+        "行銷靈感"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FRkRkcjN3Rk9GcDBqY2Z1ZVZYV2dvclBmNkJUcGt6YTNKS1o0ZnhfWk5yaW82blVIQ2ZZSUNMdG9iN2VsbGJSOWtwSzBUSk9n?oc=5\" target=\"_blank\">不用請假不用搭飛機！在台吃遍全世界最道地料理｜節目資訊｜20260727</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">女人我最大</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GWjd5WFRZYXJ6MS1tMm9wbDFrUGpZM205OHBHRlUzM09jd3p6YWkwWmREMnFZVmxRQThGdldOeHEzMGRDZG1PNXlyM1A5NlZ1ZXRrTWIxeGFscEJUbmo0?oc=5\" target=\"_blank\">「混東區潮FUN夏日趴」超強卡司嗨翻東區！聽團×微醺×美食×靜音派對吃喝玩樂再抽富國島雙人機加酒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">travel.taipei</font>",
       "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 世界料理，可作為「世界料理趨勢」的輔助觀察。",
-        "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「不用請假不用搭飛機！在台吃遍全世界最道地料理｜節目資訊｜20260727 - 女人我最大」，可放在 世界料理趨勢 脈絡下觀察。不用請假不用搭飛機！在台吃遍全世界最道地料理｜節目資訊｜20260727&nbsp;&nbsp;女人我最大",
-        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 酒吧活動，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「「混東區潮FUN夏日趴」超強卡司嗨翻東區！聽團×微醺×美食×靜音派對吃喝玩樂再抽富國島雙人機加酒 - travel.taipei」，可放在 行銷靈感 脈絡下觀察。「混東區潮FUN夏日趴」超強卡司嗨翻東區！聽團×微醺×美食×靜音派對吃喝玩樂再抽富國島雙人機加酒&nbsp;&nbsp;travel.taipei",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動」切入。"
       }
     },
     {
@@ -1656,6 +1758,32 @@
         "classification": "品牌監控",
         "summary_zh": "這則新聞聚焦於「一個人也能吃，CP值高的泰式個人套餐，240元起還能免費續白飯吃到飽！ - 陳小可的吃喝玩樂」，可放在 品牌監控 脈絡下觀察。一個人也能吃，CP值高的泰式個人套餐，240元起還能免費續白飯吃到飽！&nbsp;&nbsp;陳小可的吃喝玩樂",
         "abv_value": "可協助 ABV 掌握品牌被討論的情境，及早回應口碑與搜尋需求。本則可從「ABV Bar Kitchen、ABV 地中海餐酒館」切入。"
+      }
+    },
+    {
+      "id": "bfca0cd9ff2ff552",
+      "period": "history_7d",
+      "title": "集結14家米其林必比登名店-台灣美食展7/31盛大登場 主打「風土醞釀」 - 勁報",
+      "source": "勁報",
+      "published_at": "2026-07-27T09:28:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90SXBlbDgzbXlIVjdyWWpyb29xenBxaTdGNDFLZXgzVVpOZWZwbldqUFE0QTNiSjhXOWs1MnFNSVdUekRGaEkybEVLN09KZ3JlYnc2RFdqWXk0MzdXeGVUNnZnOXBlLWxvZmpLYlNaRQ?oc=5",
+      "matched_keywords": [
+        "觀光餐飲"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE90SXBlbDgzbXlIVjdyWWpyb29xenBxaTdGNDFLZXgzVVpOZWZwbldqUFE0QTNiSjhXOWs1MnFNSVdUekRGaEkybEVLN09KZ3JlYnc2RFdqWXk0MzdXeGVUNnZnOXBlLWxvZmpLYlNaRQ?oc=5\" target=\"_blank\">集結14家米其林必比登名店-台灣美食展7/31盛大登場 主打「風土醞釀」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">勁報</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「集結14家米其林必比登名店-台灣美食展7/31盛大登場 主打「風土醞釀」 - 勁報」，可放在 市場情報 脈絡下觀察。集結14家米其林必比登名店-台灣美食展7/31盛大登場 主打「風土醞釀」&nbsp;&nbsp;勁報",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
       }
     },
     {
@@ -1711,81 +1839,55 @@
       }
     },
     {
-      "id": "661cc1fc1b174230",
+      "id": "1b03f7bcce7e1d1b",
       "period": "history_7d",
-      "title": "高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮 - tromnimedia.com",
-      "source": "tromnimedia.com",
-      "published_at": "2026-07-27T02:04:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UTBuV0QwUDVzclZPOVl6UTNJM2hTYWQzSGQzaTNmaTNjOE9SRHBfVVJteUVna3VydWlIZF92M09NWVVuRi02aThFWkd1RzBXZEZ2TjlkQnI?oc=5",
+      "title": "怪物級野火引發「火積雲」　法國、西班牙已撤32.5萬人 - 三立新聞網SETN.com",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-07-26T22:59:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hS2ZuYjdmbXV5LVFzU2RSdGJQaDhvMmlOUm9jT0VPUFdhaDYxQkFqSVZmbGsyVkNLNkRjdnEtMzMtV1BfbVJtTNIBTEFVX3lxTE1wTUV2OVlmUkh0T1BuMGpjT0F5UDVuaFJHczE2RERYWFBvc3dEQ0dSNkZzd085ZlR5Vkc3Zk0tOTRYRTFtb2xGdUxYYVI?oc=5",
       "matched_keywords": [
-        "觀光餐飲"
+        "啤酒餐廳"
       ],
       "categories": [
-        "market"
+        "competitors"
       ],
       "category_labels": [
-        "市場情報"
+        "競品異動"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UTBuV0QwUDVzclZPOVl6UTNJM2hTYWQzSGQzaTNmaTNjOE9SRHBfVVJteUVna3VydWlIZF92M09NWVVuRi02aThFWkd1RzBXZEZ2TjlkQnI?oc=5\" target=\"_blank\">高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tromnimedia.com</font>",
-      "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮 - tromnimedia.com」，可放在 市場情報 脈絡下觀察。高雄米其林再創巔峰！57家餐廳入選、勇奪6星1綠星及侍酒師大獎 美食魅力引爆觀光熱潮&nbsp;&nbsp;tromnimedia.com",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
-      }
-    },
-    {
-      "id": "eae8f3d3aa9c0d2b",
-      "period": "history_7d",
-      "title": "美股：美國運通Q2利潤超預期惟費用擴張，上週五股價重挫4.3%淪為道瓊最大魯蛇 - 富聯網",
-      "source": "富聯網",
-      "published_at": "2026-07-27T00:14:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGo0T3RiZERIdWVURHJaaktXTGtBYU50N3ZZQ0g2Z2hXbi1WSHo0UGJkOUVCaXk3X2k3QUtYSlBLMWV6bTJGTzVGdThCTW5BU1pKMFVtSEZNSWE1YmZjQ0k0LXAxT0ExY0s5TDNsU203Z2xqTC0teGFxdDhEb3IyYzZNZy1rUzRJ?oc=5",
-      "matched_keywords": [
-        "餐飲會員"
-      ],
-      "categories": [
-        "membership"
-      ],
-      "category_labels": [
-        "會員經濟"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGo0T3RiZERIdWVURHJaaktXTGtBYU50N3ZZQ0g2Z2hXbi1WSHo0UGJkOUVCaXk3X2k3QUtYSlBLMWV6bTJGTzVGdThCTW5BU1pKMFVtSEZNSWE1YmZjQ0k0LXAxT0ExY0s5TDNsU203Z2xqTC0teGFxdDhEb3IyYzZNZy1rUzRJ?oc=5\" target=\"_blank\">美股：美國運通Q2利潤超預期惟費用擴張，上週五股價重挫4.3%淪為道瓊最大魯蛇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富聯網</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hS2ZuYjdmbXV5LVFzU2RSdGJQaDhvMmlOUm9jT0VPUFdhaDYxQkFqSVZmbGsyVkNLNkRjdnEtMzMtV1BfbVJtTNIBTEFVX3lxTE1wTUV2OVlmUkh0T1BuMGpjT0F5UDVuaFJHczE2RERYWFBvc3dEQ0dSNkZzd085ZlR5Vkc3Zk0tOTRYRTFtb2xGdUxYYVI?oc=5\" target=\"_blank\">怪物級野火引發「火積雲」　法國、西班牙已撤32.5萬人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三立新聞網SETN.com</font>",
       "ai": {
         "worth_reading": true,
         "score": 3,
-        "reason": "命中 餐飲會員，可作為「會員經濟」的輔助觀察。",
-        "classification": "會員經濟",
-        "summary_zh": "這則新聞聚焦於「美股：美國運通Q2利潤超預期惟費用擴張，上週五股價重挫4.3%淪為道瓊最大魯蛇 - 富聯網」，可放在 會員經濟 脈絡下觀察。美股：美國運通Q2利潤超預期惟費用擴張，上週五股價重挫4.3%淪為道瓊最大魯蛇&nbsp;&nbsp;富聯網",
-        "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「餐飲會員」切入。"
+        "reason": "命中 啤酒餐廳，可作為「競品異動」的輔助觀察。",
+        "classification": "競品異動",
+        "summary_zh": "這則新聞聚焦於「怪物級野火引發「火積雲」　法國、西班牙已撤32.5萬人 - 三立新聞網SETN.com」，可放在 競品異動 脈絡下觀察。怪物級野火引發「火積雲」 法國、西班牙已撤32.5萬人&nbsp;&nbsp;三立新聞網SETN.com",
+        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「啤酒餐廳」切入。"
       }
     },
     {
-      "id": "293fe478a4fe462c",
+      "id": "d557eeee5aaa9618",
       "period": "history_7d",
-      "title": "餐飲行銷補助申請逾6千件　王美花：再向政院爭取補助預算 - 三立新聞網SETN.com",
-      "source": "三立新聞網SETN.com",
-      "published_at": "2026-07-26T17:09:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUxtbFAwaDdMRW44cm9iZHBrWEoxWjFwUVA0LUhBX2tFTDJzcGh5b05yeHdMU3pzczYzdmtsclhGSDRvQkFZN1R0aW5ZbUJjTVVRX1pQa3haRjRqT2tYcHF2M1hVck1JclBMRERmMkM2WDhiQ0hxNEw3UG9EWHFCeEZmSk1FUmxJ0gFMQVVfeXFMTmp2ckY1dTlwLWgwY0lDTnAxZHZlMDl0c0taV00wdGQtalZHTXQ2NEhvSlRGRzdGS24zRGpKYVY5c1pNT0RwSExPaDFmag?oc=5",
+      "title": "泰警突襲飯店破獲中國灰色產業 涉賭博毒品性交易 - 世界新聞網",
+      "source": "世界新聞網",
+      "published_at": "2026-07-26T18:44:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lM3hhLXJ4OGVGU0t0WXlSaldDSm9BZGlnY3MzaU42N3hTclpEb21oX3ZyUjVENGZ0ak84NU1qcXZWVU5NS0F3WjZNTlpPM3JzTzZjSFJnZm9tMUJUNExMVVF30gFnQVVfeXFMTlpMZm01S0dQdVVfemFjRUVpNlRDaVltLWlnR0RSbEQyT0tGdXNmdjlkZ2pCdWJlUmMxM0pmTW5LVWlNdERsM2ctc0NncFZIenlzYXU0RWdvTUlmYVRPdmNMLUNUaklyTQ?oc=5",
       "matched_keywords": [
-        "餐飲行銷"
+        "啤酒餐廳"
       ],
       "categories": [
-        "marketing"
+        "competitors"
       ],
       "category_labels": [
-        "行銷靈感"
+        "競品異動"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUxtbFAwaDdMRW44cm9iZHBrWEoxWjFwUVA0LUhBX2tFTDJzcGh5b05yeHdMU3pzczYzdmtsclhGSDRvQkFZN1R0aW5ZbUJjTVVRX1pQa3haRjRqT2tYcHF2M1hVck1JclBMRERmMkM2WDhiQ0hxNEw3UG9EWHFCeEZmSk1FUmxJ0gFMQVVfeXFMTmp2ckY1dTlwLWgwY0lDTnAxZHZlMDl0c0taV00wdGQtalZHTXQ2NEhvSlRGRzdGS24zRGpKYVY5c1pNT0RwSExPaDFmag?oc=5\" target=\"_blank\">餐飲行銷補助申請逾6千件　王美花：再向政院爭取補助預算</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三立新聞網SETN.com</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lM3hhLXJ4OGVGU0t0WXlSaldDSm9BZGlnY3MzaU42N3hTclpEb21oX3ZyUjVENGZ0ak84NU1qcXZWVU5NS0F3WjZNTlpPM3JzTzZjSFJnZm9tMUJUNExMVVF30gFnQVVfeXFMTlpMZm01S0dQdVVfemFjRUVpNlRDaVltLWlnR0RSbEQyT0tGdXNmdjlkZ2pCdWJlUmMxM0pmTW5LVWlNdERsM2ctc0NncFZIenlzYXU0RWdvTUlmYVRPdmNMLUNUaklyTQ?oc=5\" target=\"_blank\">泰警突襲飯店破獲中國灰色產業 涉賭博毒品性交易</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界新聞網</font>",
       "ai": {
-        "worth_reading": false,
-        "score": 2,
-        "reason": "命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。",
-        "classification": "行銷靈感",
-        "summary_zh": "這則新聞聚焦於「餐飲行銷補助申請逾6千件　王美花：再向政院爭取補助預算 - 三立新聞網SETN.com」，可放在 行銷靈感 脈絡下觀察。餐飲行銷補助申請逾6千件 王美花：再向政院爭取補助預算&nbsp;&nbsp;三立新聞網SETN.com",
-        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷」切入。"
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 啤酒餐廳，可作為「競品異動」的輔助觀察。",
+        "classification": "競品異動",
+        "summary_zh": "這則新聞聚焦於「泰警突襲飯店破獲中國灰色產業 涉賭博毒品性交易 - 世界新聞網」，可放在 競品異動 脈絡下觀察。泰警突襲飯店破獲中國灰色產業 涉賭博毒品性交易&nbsp;&nbsp;世界新聞網",
+        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「啤酒餐廳」切入。"
       }
     },
     {
@@ -1841,10 +1943,10 @@
       }
     },
     {
-      "id": "327e9ab80b64d9cd",
+      "id": "6806ce5e11af7b35",
       "period": "history_7d",
-      "title": "市圖城市灶咖 認識世界飲食 - cdns.com.tw",
-      "source": "cdns.com.tw",
+      "title": "市圖城市灶咖 認識世界飲食 - 中華新聞雲／中華日報",
+      "source": "中華新聞雲／中華日報",
       "published_at": "2026-07-25T11:40:48+00:00",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQUlKek1RX2pSSTFuUUs5OHc1alEtVDkwc2FFeVk1d0JIMWRYbl9wT05rbFJ5enQ5U2p0ZHNWLUdoaW9iT0lzX2p3eTFkcGFydlE?oc=5",
       "matched_keywords": [
@@ -1856,14 +1958,66 @@
       "category_labels": [
         "世界料理趨勢"
       ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQUlKek1RX2pSSTFuUUs5OHc1alEtVDkwc2FFeVk1d0JIMWRYbl9wT05rbFJ5enQ5U2p0ZHNWLUdoaW9iT0lzX2p3eTFkcGFydlE?oc=5\" target=\"_blank\">市圖城市灶咖 認識世界飲食</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cdns.com.tw</font>",
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQUlKek1RX2pSSTFuUUs5OHc1alEtVDkwc2FFeVk1d0JIMWRYbl9wT05rbFJ5enQ5U2p0ZHNWLUdoaW9iT0lzX2p3eTFkcGFydlE?oc=5\" target=\"_blank\">市圖城市灶咖 認識世界飲食</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中華新聞雲／中華日報</font>",
       "ai": {
         "worth_reading": false,
         "score": 2,
         "reason": "命中 世界料理，但目前訊號較弱，可低優先追蹤。",
         "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「市圖城市灶咖 認識世界飲食 - cdns.com.tw」，可放在 世界料理趨勢 脈絡下觀察。市圖城市灶咖 認識世界飲食&nbsp;&nbsp;cdns.com.tw",
+        "summary_zh": "這則新聞聚焦於「市圖城市灶咖 認識世界飲食 - 中華新聞雲／中華日報」，可放在 世界料理趨勢 脈絡下觀察。市圖城市灶咖 認識世界飲食&nbsp;&nbsp;中華新聞雲／中華日報",
         "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「世界料理」切入。"
+      }
+    },
+    {
+      "id": "33148b4ec42ad967",
+      "period": "history_7d",
+      "title": "勇奪6星1綠星、高雄57家餐廳榮登米其林，再摘侍酒師大獎史上最佳成績觀光局力推高雄美食引爆觀光熱潮 - 視傳媒",
+      "source": "視傳媒",
+      "published_at": "2026-07-25T11:36:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFJ2MmZiN1FfOHFRc3ZORktpbWU0anN5eHFUU1hURzN5bncwMTdCNzlPakpleHZjVjlNODIzYThHa2lQZlZrQjFlRmo0TEJNbEdzUHh4d0UwcEJnN1V3ZnluRDZJZWVNZDdpUzZVaWhIVXNSWE9NbFVCQTVveUl2aA?oc=5",
+      "matched_keywords": [
+        "觀光餐飲"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFJ2MmZiN1FfOHFRc3ZORktpbWU0anN5eHFUU1hURzN5bncwMTdCNzlPakpleHZjVjlNODIzYThHa2lQZlZrQjFlRmo0TEJNbEdzUHh4d0UwcEJnN1V3ZnluRDZJZWVNZDdpUzZVaWhIVXNSWE9NbFVCQTVveUl2aA?oc=5\" target=\"_blank\">勇奪6星1綠星、高雄57家餐廳榮登米其林，再摘侍酒師大獎史上最佳成績觀光局力推高雄美食引爆觀光熱潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">視傳媒</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「勇奪6星1綠星、高雄57家餐廳榮登米其林，再摘侍酒師大獎史上最佳成績觀光局力推高雄美食引爆觀光熱潮 - 視傳媒」，可放在 市場情報 脈絡下觀察。勇奪6星1綠星、高雄57家餐廳榮登米其林，再摘侍酒師大獎史上最佳成績觀光局力推高雄美食引爆觀光熱潮&nbsp;&nbsp;視傳媒",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
+      }
+    },
+    {
+      "id": "1f86ddc547b249d8",
+      "period": "history_7d",
+      "title": "成熟大人專場！Häagen-Dazs打造期間限定「獨享Bar」 - 中華新聞雲／中華日報",
+      "source": "中華新聞雲／中華日報",
+      "published_at": "2026-07-25T06:53:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcF9zaGNvRkZzeHUxTXd3ZU5KVmxCTzMwWjlPYlRwN21PVVJOTnNFVW1TNUJXOW1tM05teXJyUFFYbWI0Zlc3UnR6MjA4cFFlVkE?oc=5",
+      "matched_keywords": [
+        "酒吧活動"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "category_labels": [
+        "行銷靈感"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcF9zaGNvRkZzeHUxTXd3ZU5KVmxCTzMwWjlPYlRwN21PVVJOTnNFVW1TNUJXOW1tM05teXJyUFFYbWI0Zlc3UnR6MjA4cFFlVkE?oc=5\" target=\"_blank\">成熟大人專場！Häagen-Dazs打造期間限定「獨享Bar」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中華新聞雲／中華日報</font>",
+      "ai": {
+        "worth_reading": false,
+        "score": 2,
+        "reason": "命中 酒吧活動，但目前訊號較弱，可低優先追蹤。",
+        "classification": "行銷靈感",
+        "summary_zh": "這則新聞聚焦於「成熟大人專場！Häagen-Dazs打造期間限定「獨享Bar」 - 中華新聞雲／中華日報」，可放在 行銷靈感 脈絡下觀察。成熟大人專場！Häagen-Dazs打造期間限定「獨享Bar」&nbsp;&nbsp;中華新聞雲／中華日報",
+        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動」切入。"
       }
     },
     {
@@ -1893,6 +2047,32 @@
         "classification": "市場情報",
         "summary_zh": "這則新聞聚焦於「風土醞釀台灣味再升級台灣美食展7／31世貿登場- 日報 - 工商時報」，可放在 市場情報、世界料理趨勢 脈絡下觀察。風土醞釀台灣味再升級台灣美食展7／31世貿登場- 日報&nbsp;&nbsp;工商時報",
         "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲、美食趨勢」切入。"
+      }
+    },
+    {
+      "id": "68aa51d737e81766",
+      "period": "history_7d",
+      "title": "雲朗父親節住房餐飲活動整理！君品蛋糕、雲品攀岩挑戰致敬老爸 - 輕旅行",
+      "source": "輕旅行",
+      "published_at": "2026-07-24T16:05:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Sb0pubEs2X1RmM2xlSUxfSVFrd1F4bWJTSHJqVGlxTHVYTUZZQjJFRWpKZjlwNHpKXzFQd29rUkl2UDlOOEtzelk1Y2t4Zw?oc=5",
+      "matched_keywords": [
+        "觀光餐飲"
+      ],
+      "categories": [
+        "market"
+      ],
+      "category_labels": [
+        "市場情報"
+      ],
+      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Sb0pubEs2X1RmM2xlSUxfSVFrd1F4bWJTSHJqVGlxTHVYTUZZQjJFRWpKZjlwNHpKXzFQd29rUkl2UDlOOEtzelk1Y2t4Zw?oc=5\" target=\"_blank\">雲朗父親節住房餐飲活動整理！君品蛋糕、雲品攀岩挑戰致敬老爸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">輕旅行</font>",
+      "ai": {
+        "worth_reading": true,
+        "score": 3,
+        "reason": "命中 觀光餐飲，可作為「市場情報」的輔助觀察。",
+        "classification": "市場情報",
+        "summary_zh": "這則新聞聚焦於「雲朗父親節住房餐飲活動整理！君品蛋糕、雲品攀岩挑戰致敬老爸 - 輕旅行」，可放在 市場情報 脈絡下觀察。雲朗父親節住房餐飲活動整理！君品蛋糕、雲品攀岩挑戰致敬老爸&nbsp;&nbsp;輕旅行",
+        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「觀光餐飲」切入。"
       }
     },
     {
@@ -1945,188 +2125,6 @@
         "classification": "會員經濟",
         "summary_zh": "這則新聞聚焦於「震撼！Verizon 預測2026年自由現金流成長9%-10%，回購計畫提升至45億美元！ - CMoney投資網誌」，可放在 會員經濟 脈絡下觀察。震撼！Verizon 預測2026年自由現金流成長9%-10%，回購計畫提升至45億美元！&nbsp;&nbsp;CMoney投資網誌",
         "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「顧客忠誠計畫」切入。"
-      }
-    },
-    {
-      "id": "c41a78d04d73562b",
-      "period": "history_7d",
-      "title": "打破「喝倒才算盡興」！韓國飲酒新哲學登台 - 三立新聞網SETN.com",
-      "source": "三立新聞網SETN.com",
-      "published_at": "2026-07-24T15:36:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12WUhoNUFFb2FRQzRZVW9QaFE1dWlEZFg2MXlaNEliUGFwbmFpTWRULWVYVm9FQzlyaG5jUHlfUS1wZDk1Zi1wcdIBTEFVX3lxTFBSR0hUUHF2bnpwT0w1MTR4a2J6NTgwWkw2dXVpTUtacHJkcE9QN0lIUkpmTi1ta0d2Y0xuYndaU3ZBWE0tWFdVX0o5OGI?oc=5",
-      "matched_keywords": [
-        "啤酒節"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE12WUhoNUFFb2FRQzRZVW9QaFE1dWlEZFg2MXlaNEliUGFwbmFpTWRULWVYVm9FQzlyaG5jUHlfUS1wZDk1Zi1wcdIBTEFVX3lxTFBSR0hUUHF2bnpwT0w1MTR4a2J6NTgwWkw2dXVpTUtacHJkcE9QN0lIUkpmTi1ta0d2Y0xuYndaU3ZBWE0tWFdVX0o5OGI?oc=5\" target=\"_blank\">打破「喝倒才算盡興」！韓國飲酒新哲學登台</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三立新聞網SETN.com</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 啤酒節，可作為「精釀啤酒」的輔助觀察。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「打破「喝倒才算盡興」！韓國飲酒新哲學登台 - 三立新聞網SETN.com」，可放在 精釀啤酒 脈絡下觀察。打破「喝倒才算盡興」！韓國飲酒新哲學登台&nbsp;&nbsp;三立新聞網SETN.com",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。"
-      }
-    },
-    {
-      "id": "bbb8307d567e9d79",
-      "period": "history_7d",
-      "title": "別讓創意被演算法埋沒！2026食創獎社群行銷創新徵件中 最高百萬行銷資源等你拿 - 食力 foodNEXT",
-      "source": "食力 foodNEXT",
-      "published_at": "2026-07-24T12:40:13+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04V1dJRjllcEVPQnB6bTdOSnFrT3g1TTdWWDVwSzAxbWc0U0c1NF9VSGhkYjdkRFNSdUliSWtoWW84RW9WMHJOc1JqRS1yNHF5MUtFbEpNOXNoZE91SUtJMTlYdVg?oc=5",
-      "matched_keywords": [
-        "餐飲行銷"
-      ],
-      "categories": [
-        "marketing"
-      ],
-      "category_labels": [
-        "行銷靈感"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE04V1dJRjllcEVPQnB6bTdOSnFrT3g1TTdWWDVwSzAxbWc0U0c1NF9VSGhkYjdkRFNSdUliSWtoWW84RW9WMHJOc1JqRS1yNHF5MUtFbEpNOXNoZE91SUtJMTlYdVg?oc=5\" target=\"_blank\">別讓創意被演算法埋沒！2026食創獎社群行銷創新徵件中 最高百萬行銷資源等你拿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">食力 foodNEXT</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 餐飲行銷，可作為「行銷靈感」的輔助觀察。",
-        "classification": "行銷靈感",
-        "summary_zh": "這則新聞聚焦於「別讓創意被演算法埋沒！2026食創獎社群行銷創新徵件中 最高百萬行銷資源等你拿 - 食力 foodNEXT」，可放在 行銷靈感 脈絡下觀察。別讓創意被演算法埋沒！2026食創獎社群行銷創新徵件中 最高百萬行銷資源等你拿&nbsp;&nbsp;食力 foodNEXT",
-        "abv_value": "可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷」切入。"
-      }
-    },
-    {
-      "id": "d4faf5ca35211d62",
-      "period": "history_7d",
-      "title": "樂天市場公布人氣跨境商品 甜點、日用品、職人商品成三大消費趨勢 - 經濟日報",
-      "source": "經濟日報",
-      "published_at": "2026-07-24T07:57:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53TWpSVVJuQnNQeFpaSGo1YlY1YzZHREdWZ0JTZzBlNnJZazNnSkZyMF9NTnVxNjNzTGlfM0E1dHBGbTIxRWFzVHlWdks5MkZtVmltN3FwREtzU1XSAWBBVV95cUxQeTZFMlE1OXN4Zjg1cHhRUlE4UE5acXBDbkR2QkVTZ1NJYTlpdE1xMkhSbzlmU3Z0SDhnRmJvVmRDRVc4ZTBUOGxiVE4zUUhWbFF6Z3NxNGdEUWFja3ZFXzc?oc=5",
-      "matched_keywords": [
-        "美食趨勢"
-      ],
-      "categories": [
-        "world_cuisine"
-      ],
-      "category_labels": [
-        "世界料理趨勢"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE53TWpSVVJuQnNQeFpaSGo1YlY1YzZHREdWZ0JTZzBlNnJZazNnSkZyMF9NTnVxNjNzTGlfM0E1dHBGbTIxRWFzVHlWdks5MkZtVmltN3FwREtzU1XSAWBBVV95cUxQeTZFMlE1OXN4Zjg1cHhRUlE4UE5acXBDbkR2QkVTZ1NJYTlpdE1xMkhSbzlmU3Z0SDhnRmJvVmRDRVc4ZTBUOGxiVE4zUUhWbFF6Z3NxNGdEUWFja3ZFXzc?oc=5\" target=\"_blank\">樂天市場公布人氣跨境商品 甜點、日用品、職人商品成三大消費趨勢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 美食趨勢，且與「世界料理趨勢」高度相關，值得優先閱讀。",
-        "classification": "世界料理趨勢",
-        "summary_zh": "這則新聞聚焦於「樂天市場公布人氣跨境商品 甜點、日用品、職人商品成三大消費趨勢 - 經濟日報」，可放在 世界料理趨勢 脈絡下觀察。樂天市場公布人氣跨境商品 甜點、日用品、職人商品成三大消費趨勢&nbsp;&nbsp;經濟日報",
-        "abv_value": "可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「美食趨勢」切入。"
-      }
-    },
-    {
-      "id": "c1c918ce3e27b49d",
-      "period": "history_7d",
-      "title": "高雄啤酒節 周子瑜彩排「What is love.第一天」【最新快訊】 - ttv.com.tw",
-      "source": "ttv.com.tw",
-      "published_at": "2026-07-24T07:04:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82TjNZTUY4U1l1aGFEdlBXQURlTFJveTR3V09RckhpdnNiOHJpeFlRdklCaGtsYl9EdUUwTjZQSy1FeGdMLXpvMHlaLW5adlROWmU2N3lRM1d0WTc0cE5TV1MxSE83c2wzU0F5SjFiVnRFQzN0SzI4dTNfd1Y?oc=5",
-      "matched_keywords": [
-        "啤酒節"
-      ],
-      "categories": [
-        "craft_beer"
-      ],
-      "category_labels": [
-        "精釀啤酒"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE82TjNZTUY4U1l1aGFEdlBXQURlTFJveTR3V09RckhpdnNiOHJpeFlRdklCaGtsYl9EdUUwTjZQSy1FeGdMLXpvMHlaLW5adlROWmU2N3lRM1d0WTc0cE5TV1MxSE83c2wzU0F5SjFiVnRFQzN0SzI4dTNfd1Y?oc=5\" target=\"_blank\">高雄啤酒節 周子瑜彩排「What is love.第一天」【最新快訊】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ttv.com.tw</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。",
-        "classification": "精釀啤酒",
-        "summary_zh": "這則新聞聚焦於「高雄啤酒節 周子瑜彩排「What is love.第一天」【最新快訊】 - ttv.com.tw」，可放在 精釀啤酒 脈絡下觀察。高雄啤酒節 周子瑜彩排「What is love.第一天」【最新快訊】&nbsp;&nbsp;ttv.com.tw",
-        "abv_value": "可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。"
-      }
-    },
-    {
-      "id": "1637de8d1f2e56b9",
-      "period": "history_7d",
-      "title": "《臺灣米其林2026》評新竹客家料理 「直白有力、真實不做作的美味」 - 客新聞 HakkaNews",
-      "source": "客新聞 HakkaNews",
-      "published_at": "2026-07-24T03:54:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWDBHbmpuZGZUSU9OTkpTdTZLNWc5alJhSTJOY2RBaUhOa3NkUEFnb3lXRURwRWQ4TWVXSVBrLXlNNTg4ZDVHWVFJMWFJQ215?oc=5",
-      "matched_keywords": [
-        "餐飲趨勢"
-      ],
-      "categories": [
-        "market"
-      ],
-      "category_labels": [
-        "市場情報"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sWDBHbmpuZGZUSU9OTkpTdTZLNWc5alJhSTJOY2RBaUhOa3NkUEFnb3lXRURwRWQ4TWVXSVBrLXlNNTg4ZDVHWVFJMWFJQ215?oc=5\" target=\"_blank\">《臺灣米其林2026》評新竹客家料理 「直白有力、真實不做作的美味」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">客新聞 HakkaNews</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 3,
-        "reason": "命中 餐飲趨勢，可作為「市場情報」的輔助觀察。",
-        "classification": "市場情報",
-        "summary_zh": "這則新聞聚焦於「《臺灣米其林2026》評新竹客家料理 「直白有力、真實不做作的美味」 - 客新聞 HakkaNews」，可放在 市場情報 脈絡下觀察。《臺灣米其林2026》評新竹客家料理 「直白有力、真實不做作的美味」&nbsp;&nbsp;客新聞 HakkaNews",
-        "abv_value": "可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢」切入。"
-      }
-    },
-    {
-      "id": "dd22c18650038224",
-      "period": "history_7d",
-      "title": "比演唱會難搶！好市多「超級食物」補貨了 會員曝現況：不到10分快沒了 - Yahoo新聞",
-      "source": "Yahoo新聞",
-      "published_at": "2026-07-24T02:34:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPaEZsZlVtQ1pVbG9yVXRkcUtSWkFmX2pqUWlwaEZ5YjNCNnAtVkJ4NVBickpKZUdJRGtXanFFYzdzQlJqLXFKR1ZTeXE2RGg0NDFxeXVsQXJrYjh4RFJyQXhnN0QwNUE3YXo0WGFMTnp2bzRtY2hKU0dFdHBVR0xaNmtlcFlVd1ZuWEJ3OGQwc3Y5Q2pVUEozOWRUamk0Sk9adFhxZjlQeDViWmV6WVJfYUhVZGZmek1TU2pqaVFsUzVXSjZRR2w2V0k2M1FOYXhYV1FCMW9ocmNBX0tkd3VqRUtuSHhJQUc0Mm5aSS1ON2EydXdfU3RYbmxJRXZ5cDdYTFRWd0VNUW5mMUprSWkyTkFUN0ZIYk5BMVNSdDdVZEZGalJnYWJzWTVvSTdxWGxtRnhlMFRrS3o0ZWNLT1BFakczeWtfRXZJXy1fcGR2LXBrUTMy?oc=5",
-      "matched_keywords": [
-        "餐飲會員"
-      ],
-      "categories": [
-        "membership"
-      ],
-      "category_labels": [
-        "會員經濟"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxPaEZsZlVtQ1pVbG9yVXRkcUtSWkFmX2pqUWlwaEZ5YjNCNnAtVkJ4NVBickpKZUdJRGtXanFFYzdzQlJqLXFKR1ZTeXE2RGg0NDFxeXVsQXJrYjh4RFJyQXhnN0QwNUE3YXo0WGFMTnp2bzRtY2hKU0dFdHBVR0xaNmtlcFlVd1ZuWEJ3OGQwc3Y5Q2pVUEozOWRUamk0Sk9adFhxZjlQeDViWmV6WVJfYUhVZGZmek1TU2pqaVFsUzVXSjZRR2w2V0k2M1FOYXhYV1FCMW9ocmNBX0tkd3VqRUtuSHhJQUc0Mm5aSS1ON2EydXdfU3RYbmxJRXZ5cDdYTFRWd0VNUW5mMUprSWkyTkFUN0ZIYk5BMVNSdDdVZEZGalJnYWJzWTVvSTdxWGxtRnhlMFRrS3o0ZWNLT1BFakczeWtfRXZJXy1fcGR2LXBrUTMy?oc=5\" target=\"_blank\">比演唱會難搶！好市多「超級食物」補貨了 會員曝現況：不到10分快沒了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 4,
-        "reason": "命中 餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。",
-        "classification": "會員經濟",
-        "summary_zh": "這則新聞聚焦於「比演唱會難搶！好市多「超級食物」補貨了 會員曝現況：不到10分快沒了 - Yahoo新聞」，可放在 會員經濟 脈絡下觀察。比演唱會難搶！好市多「超級食物」補貨了 會員曝現況：不到10分快沒了&nbsp;&nbsp;Yahoo新聞",
-        "abv_value": "可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「餐飲會員」切入。"
-      }
-    },
-    {
-      "id": "cb952465fa0cad7b",
-      "period": "history_7d",
-      "title": "台北新餐酒地標UNCOMMON開幕 大冰紅、紫菜包飯創意調酒超吸睛 - Yahoo新聞",
-      "source": "Yahoo新聞",
-      "published_at": "2026-07-24T00:14:54+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPby1seXJycUw1X1BPUi03d3g0NFowZ2p0WU00WUpEc3llN3FhejRlMVhpMG5FSEVFUDdVSlRyR2lNMWFvZ1lTcnRkRGRSa0l0SVZKTHpSQjZSdHBSSG04Z0NmSnhvZmxiNnEycHhYc3hQV0ZIUTVSby1wNm9TMGRrcjdvY3lVUHRXb2EzazRzYjlFTlV2SXBmdE9hVkRSTUF6dEs3TlpvZVk4VTltVUNuU1Vveng0X2JrOFRINVNuU2pQMERSRFRFc1NJNTlUQ2FlWG1BV0lXbXI4VTcyamhlSlNYTnN4R3o3U3U5Z1hIeHRydUtTVkh3V3dJS1hOUThKU0dTRmRNMEFPUzVJZGJUWXB2Skg5dUFYZWUxQnV1NzBnNGlKVWhIQUJvNnNRVzV6THhRSDlFbUg5N19saklwaEdiVV9HR3VaN2FZVUZBX1p1LUxwdTBKa0FORkpDOVBvSVFhOVp0NUJYTXNJZi1xSEpZR0hIR3RoNUctMlhSNA?oc=5",
-      "matched_keywords": [
-        "酒吧新開幕"
-      ],
-      "categories": [
-        "competitors"
-      ],
-      "category_labels": [
-        "競品異動"
-      ],
-      "raw_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wJBVV95cUxPby1seXJycUw1X1BPUi03d3g0NFowZ2p0WU00WUpEc3llN3FhejRlMVhpMG5FSEVFUDdVSlRyR2lNMWFvZ1lTcnRkRGRSa0l0SVZKTHpSQjZSdHBSSG04Z0NmSnhvZmxiNnEycHhYc3hQV0ZIUTVSby1wNm9TMGRrcjdvY3lVUHRXb2EzazRzYjlFTlV2SXBmdE9hVkRSTUF6dEs3TlpvZVk4VTltVUNuU1Vveng0X2JrOFRINVNuU2pQMERSRFRFc1NJNTlUQ2FlWG1BV0lXbXI4VTcyamhlSlNYTnN4R3o3U3U5Z1hIeHRydUtTVkh3V3dJS1hOUThKU0dTRmRNMEFPUzVJZGJUWXB2Skg5dUFYZWUxQnV1NzBnNGlKVWhIQUJvNnNRVzV6THhRSDlFbUg5N19saklwaEdiVV9HR3VaN2FZVUZBX1p1LUxwdTBKa0FORkpDOVBvSVFhOVp0NUJYTXNJZi1xSEpZR0hIR3RoNUctMlhSNA?oc=5\" target=\"_blank\">台北新餐酒地標UNCOMMON開幕 大冰紅、紫菜包飯創意調酒超吸睛</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
-      "ai": {
-        "worth_reading": true,
-        "score": 5,
-        "reason": "命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。",
-        "classification": "競品異動",
-        "summary_zh": "這則新聞聚焦於「台北新餐酒地標UNCOMMON開幕 大冰紅、紫菜包飯創意調酒超吸睛 - Yahoo新聞」，可放在 競品異動 脈絡下觀察。台北新餐酒地標UNCOMMON開幕 大冰紅、紫菜包飯創意調酒超吸睛&nbsp;&nbsp;Yahoo新聞",
-        "abv_value": "可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。"
       }
     }
   ]
