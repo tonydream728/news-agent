@@ -1,280 +1,304 @@
 # ABV 每日五層情報報告
 
-產生時間：2026-08-10T11:04:36.739388+08:00
+產生時間：2026-08-11T10:57:49.562539+08:00
 時區：Asia/Taipei
 
 ## 當日最新新聞
-資料區間：2026-08-10T00:00:00+08:00 至 2026-08-10T11:04:36.739388+08:00
+資料區間：2026-08-11T00:00:00+08:00 至 2026-08-11T10:57:49.562539+08:00
 
 ### 第一層：關鍵字新聞列表
-- [巨幕點餐與數位迴轉鏈翻轉府城餐飲！ 壽司郎DIGIRO首度登台南新光三越 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE50S0xianp1NVF0dmY1WnBubi14eDNSUjdOLUlzbXJpYXhPamJ5ai15ZXloeE1mbUwxLWtKVWFTZ3dod3FIam9UN2ZWN0tjSFVkWFE?oc=5)
-  - 來源：蕃新聞
-  - 日期：2026-08-10T02:50:00+00:00
-  - 命中關鍵字：台灣餐飲市場
-- [六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞 - MoneyDJ](https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDJGMFhnd3RvYURpZ2tqU2xOMkk1RmVpekUzTk9vMEVNa1hEbEhlT3BEelcteG1XdTloYTQyWnZyN1E5cGJzMnNlMjRSTlJSV0ZpR0N3Y2JGRHdrYk1xaUdIMnBEUVNVckZjYXRXTUtTSG9IU0RRUTk5U09QTGZHR1RR?oc=5)
-  - 來源：MoneyDJ
-  - 日期：2026-08-10T02:44:00+00:00
-  - 命中關鍵字：會員經濟
-- [中台灣4縣市 齊赴星國引客 - 中國時報- 翻爆](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkd6d21CUmFCVE1helV2NE5MNUcydkxkOWNNRlBaSGlDTjVjNTdrMlFuV0pWSGZwM2NESFBtU2JhWEVwS2lsNkRsQ25rdGY2ejMwalRXWXlTRmpfRUVic21Pb2lHR1V3cnVkR0g2cHRrUXlQdlpZNEoxN2dBZGhuLUdWVUszeWtO?oc=5)
-  - 來源：中國時報- 翻爆
-  - 日期：2026-08-10T02:03:45+00:00
-  - 命中關鍵字：美食趨勢
-- [「飛鳥・藤原宮都」列入世界遺產！ - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZZDlvOExXSXB4TmVDOUdWeDFYTFpuREhIY3pRT1o4OVhkNFVzemxLUTIxZXN4VU1adVFIa0gzaHdwTFdnMkFYSDZiWnlpcm91WkR3dEl1YUU?oc=5)
-  - 來源：Taiwan News
-  - 日期：2026-08-10T02:00:00+00:00
-  - 命中關鍵字：世界料理
-- [韓國農林畜產食品部與aT攜手參展2026香港美食商貿博覽 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seldRcWRGX3IyVmc2WWhEUzJibHFrNC13UGszV0Q1NlRhZk5LR0pSSEZCMFJrYlVXSU1oTFl4T1I4VC1KMGo2VEZTaUd2OGdEVkJvVjBaMkE?oc=5)
-  - 來源：Taiwan News
-  - 日期：2026-08-10T02:00:00+00:00
-  - 命中關鍵字：美食趨勢
-- [巨城吃到飽「URBAN PARADISE」8/17試營運　早上10點開放訂位 - ETtoday旅遊雲](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OV01uLXhZMGVoZ2V5blRzYVp4QmcxRHl3d1EtWnFaXzBaMTlaMkVVZFVWSk1Hdk1FNDZHVTVMTF8yd2xOWXVPTFllbGtwNW5pVXZaYTJYcmxNQdIBT0FVX3lxTFBwVDhLQkZoV0pvU1J4MHVlanFMbzJPY1M2Y09WSGZxYWt1RVhORGZzTGJycHZkeVlEV3JQUVAtOUI0NGVVZGYteTVhT2RPS0U?oc=5)
-  - 來源：ETtoday旅遊雲
-  - 日期：2026-08-10T01:30:00+00:00
+- [河海音樂季週末唱進淡水 10組樂團接力開唱 - 民眾新聞網](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WUXdEdFIwRmkwTWN6aGVwYTFXWi16Z1ljTzh1NV9HZXFyVzNYN2J0WUtwREpBdzRJM3JRb1dJRE03NXZyakl4d0tVSzZSalVYdmc?oc=5)
+  - 來源：民眾新聞網
+  - 日期：2026-08-11T02:24:44+00:00
   - 命中關鍵字：異國料理
-- [本周開盤前 五件國際事不可不知 - 世界新聞網](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGI1LTBXY25YQW0xQkNlZmd6Q20xMWdOUlhERHpsYm5xSHJSRTg0RVdQQk9Fd0dJemNFQTNObHNPME42QjdJZ2dxaE4yYnBtSV95U0x3RUV3dnRjc1VFaE9JS1FhMFR1YVR4cFo5WURrN2lBQjEzWHFxaWFMVDBBbnVB0gFnQVVfeXFMTUdOdUFLY0hwZ3RiRVRieFJnUUY2Q1AwY3JJY3VWZ1JFRG1ncE9VUjFMQ3NrT1NPZHFkLUhndzBOZWJFMG11dy1XY0RuT1BQU3hFZy1wbGVfcTFrcFFmbkhIb0Fqa1FDcw?oc=5)
-  - 來源：世界新聞網
-  - 日期：2026-08-09T23:24:13+00:00
-  - 命中關鍵字：世界料理
-- [經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文 - news.tvb.com](https://news.google.com/rss/articles/CBMizwJBVV95cUxQeVpRS1YtZWRzclJSbkx2M0FHN3g1bS1TZjVHVWZWRmRpdnBZdHZfMEdkUzZRcHVRaDM2SjFpSlBaeFJTWjNkY0JxYzJpSk11X1VNNlNrNGwwUWtVcW1fNjdzR0VhSjUyQTh5a2NEX2xNTGM3aXBBbmR5dEhET1FndVlPaXJmNzRyTFppOXNOd2VlN3FSNC1GczNvRGZ0QXBHNElPajB6UFVNTkdKdEE5QlA2T0JjTnc1ZlBVakc4OEZPc21ONGVsX0FINVkyWFlvc0w2SWdKMmxFZHRfRTRpU0c1Z3hTNWdUdC01ZkxXTGFCQjZBdkhxNElhTElvUnVMZGl5bnpsNUNrUERldF8xVl8tUVBRNFd2eG5oWEh2YlpKX3lfUm1UZGFvbE1vOGFyTmlOVWk5bkN1TjNiMUhnOWZmTDhHN2JUSUVHcU1wbw?oc=5)
-  - 來源：news.tvb.com
-  - 日期：2026-08-09T22:54:00+00:00
-  - 命中關鍵字：酒吧活動、精釀啤酒、啤酒節
-- [埔里鎮以西部牛仔風 歡慶父親節 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xZkpaM3NlT3ZKeDdEMmNaZVl1NnpObEwwYjBOYTl0ZFVYT0ZIZ2lwZnFPX1hZc2tGUlROYm1nb2JyT0VBSW1iYjJ5M0VIQXZDV1E?oc=5)
-  - 來源：蕃新聞
-  - 日期：2026-08-09T22:05:14+00:00
-  - 命中關鍵字：啤酒節
-- [防範屯墾者暴力 以軍封鎖約旦河西岸基督徒村莊 - ftvnews.com.tw](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9palp2ZWkwOTJWblQ1aG16WVNtbUx4dlJEMTNBem1nblA3cEh3UUd2alhpT1BKUXJfcFlyZ2dVQnpOQU9DQTJTRjVfcnZZeU1Ob0JTWWNiX21vUm9yTXRoYg?oc=5)
-  - 來源：ftvnews.com.tw
-  - 日期：2026-08-09T21:31:19+00:00
-  - 命中關鍵字：精釀啤酒
-- [紐約哈德遜河谷這家墨西哥餐廳 主打東海岸海鮮 - 世界新聞網](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTBLMXpvb01ybVBZc0k5ZmJhWk1qQzZ5OWZlRFA3eVRLS0NYbExTam5uMnFvWTRtMkg4RTRFbFE5OVlxOUk2bGVaWmlPZ19XVTRHem5PejZCTEI3RGVLVFNJMDZRZUxaNU8yb191MDZweU5QTWdwTzh1X1NYU0RnWV9B0gFnQVVfeXFMUEFuRmM2ZWdteUNSdFlZX1pVVk5QS3huVWNpN25uV3FOTVZCanhtSlMxTkRKUHhpTGZMb1RGNkc0WHlwWlhiekpJRkNQejFCNEw4TFRLOFVtdTNRbGFqN0VkQmJ4clZUaw?oc=5)
-  - 來源：世界新聞網
-  - 日期：2026-08-09T18:37:53+00:00
-  - 命中關鍵字：世界料理
-- [搶攻日本觀光客！台中聯手星宇航空 KOL踩線推廣中台灣魅力 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE02d29TbVRwdHdpYjZ0Q2NrYmk2QXJjZFlkWkhOaTQwbXFjRnNBR2xCU3E4RW1RSXJ0cF9tVWpHalVzT1BVU0l0dldoRHZ4blZJOFE?oc=5)
-  - 來源：蕃新聞
-  - 日期：2026-08-09T17:04:52+00:00
+- [台南聚餐選這不踩雷！好吃又好看，從正餐到點心一次滿足你！ - udn 女子漾](https://news.google.com/rss/articles/CBMif0FVX3lxTE5ra1ljalF6RmZYa0FRdS1NNk8yakd4R25JcVQ2TGR1LUFaaDBkTERrVHhPbUpPXy1UOHB2WDhuanVTWGR4ZWkzbEQtLVdJWXRpal9Ga282TWxkdzI2WXdqalJkamFuSTFvRElmZTVfWk9DYmRQY25zZ1c0X21GQWPSAWJBVV95cUxQenMtT2JMUjJVQm9famM3SHlDWVNRbG0wc0xqQWcxSHh5Y3A3VmRhbXRhaFZZWTBERUR2WnRlTWRBUVlDN2x5Y0Jta21iMGVzVjNIdWRJUEZsUzkxbGJkRzF5Zw?oc=5)
+  - 來源：udn 女子漾
+  - 日期：2026-08-11T02:23:22+00:00
+  - 命中關鍵字：異國料理
+- [《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪 - 富聯網](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXk2OWVTYjR6OVZIR1hveS1NbXpLN0dBYlhKczFfR0N1Qk8xOGVxTlBIN3VROGxTT0dlTUE0Y0lZTWNrckxRQWhKVGVHbUh2WExGYVF4aGFYOWVObG9WWERobFh3UkNhQlp5cGUzclBNaHJiZjhQR0hqSkREMkRmcFJhb0VHamZi?oc=5)
+  - 來源：富聯網
+  - 日期：2026-08-11T02:22:00+00:00
   - 命中關鍵字：餐飲行銷、觀光餐飲
-- [日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通 - 報新聞](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMU1GOWxWVEZlNG8ta09ZRVVSTVNJbmp3OFVqQWJmcEZvQ0JZZG9FRE0xX3NwcGprRXBob2JtdEswR1JCSmRNZWxyVW5SSmhfS1h0aVZBaWJDQTRYSmJQZFdhSlZkUWExT2k1Nk9HTEp3VVR6SVNtOXZwNHFQZEY5OWZtQzNwRlEyR2FuUTZSMEdDVXpjNkJkOGZTVXVLRTVfcTdR?oc=5)
-  - 來源：報新聞
-  - 日期：2026-08-09T17:03:09+00:00
-  - 命中關鍵字：酒吧新開幕
-- [越南旅遊熱潮再升溫！峴港洲際度假村打造建築、生態與美食的奢華旅程 - PChome Online新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFYwWmpac3FSTlBvUV9NWlZ1d1o1YWVBbmw2Q3d2cE9hYU5RYVUzRUZBMzNIS0Z1OGp6dUh6UzN2dFZMb0VSZmRVMXRiRGlmZU9JVHphVWJDcFZNaHkxWmtDQ3hhMEJNSDc2aXFQV0NUd3k2M1FYVGNGVHdqLXphWmtVUE9nZllGeG9Z?oc=5)
-  - 來源：PChome Online新聞
-  - 日期：2026-08-09T16:52:33+00:00
-  - 命中關鍵字：美食趨勢
-- [深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會 - utravel.com.hk](https://news.google.com/rss/articles/CBMirANBVV95cUxORTJveWlfM2xMYTNuUTVqUUdGWHhNVDhZekxkMXF4UE9TdFAxUEdQTkJXWjgtYTkzTExLNGhrMmxHRF82R0pnblBCNENMYTdXNUltdkJ0bktTbkh5bjlxOUNNWFdsNjBWZV9VSVFub19nRDNDWXJqRE5TRjAxREV3TF9mQ05uMy1KQ1JPdEVDMjdFeXlvRjBkWW1kSV93cDFvcl9FMFpwWmptSHR1NXFmQmdXVEdnRklmckhHWnlVcnh0Tmg3a2lUb1hZcmNNSDBieG8xUVdLU05JRFBlSHdCbVNFeGJPVmprODhPX0dTY1FOYVR3UGMtZ09vbDhfQUxuaGN4czZDNkhxT0xOYk1RekwzLThreXJtcUtYQUxnTXhxTEg1ZUJfT3FVakhJMFRMUlQ2V0VlM3ZDQnZud21xMFNTRGZXb21mSjhNU3hvM0pKQlpuZ19FSUx0cDk2NFlsTGtQemI4UFc2WTQtSDFFejdkbWNoQVpwbmgweWtCZ1hack8wVGR0d3Utb2lLTkJjV2x1TWxHVWNEV3JkWm80dVdkVGYyZlZ5OFFQYw?oc=5)
-  - 來源：utravel.com.hk
-  - 日期：2026-08-09T16:30:43+00:00
-  - 命中關鍵字：精釀啤酒
-- [凱悅亞太區 推「細味美食，舒適相伴」 - 香港經濟日報HKET](https://news.google.com/rss/articles/CBMioAJBVV95cUxOanBtZ0taU2pTM0NRLUVrc0pJX1JISW5oVldwUUE2Z2RLVXZjMGFlODNwUHVHNi1NLXVLNnVncERnMFN6dzRON0tjenpGUVZDQnB4TzFRNTlTV1N3ZlJSdXdiTjMxNHRwNEx4U1JrODFRRDRNTndmTW15NlFBU3I0TnlZS3pkekZKT1AyRGVIbjhtN2pBWHVzc1FEQktGWnJndjZfTDYwVVE4RjdIYmFIb0lndm5ZM1EyVnNMSmo2MFRSLTIyRE1TaHppR2xxU3ZVa21WNXQ5eWszYi1kT1dUdjN0T0N3YkZCVXJZZEVucEl3T2puR3U5cDNaRllXclBFR0hFMWtVcmdYeDY5amdXQ0l1NDBxY0Z4ZE5VLUFxWF8?oc=5)
+- [兆元餐飲進入微利時代 品牌如何用AI守住獲利？ - 食力 foodNEXT](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUc2JrX29ycTRpVFpUcXlKWmJVbENZUmJLa2RsOU9xZHl1MWVLVVhaRkFHaGFnVTBiV3M4Yk9nejZVS0dEWGhZNnNQR18zbXZ6MU5BZE14M2R4eFp1UXhSRUxvV0FLQQ?oc=5)
+  - 來源：食力 foodNEXT
+  - 日期：2026-08-11T02:03:45+00:00
+  - 命中關鍵字：台灣餐飲市場
+- [中元拜拜添南洋風味！箱購椰漿氣派耐放成澎派供品新寵 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GTGVLbDlmTWZPME9XN3JLZGZnZE13UjlVdmdJR3Zfc1RNME5NUFd0a0tERUFQQzgzX0hjczZWSFBHdkxHQlRWa0lkYWxRS05vNnc?oc=5)
+  - 來源：蕃新聞
+  - 日期：2026-08-11T02:02:00+00:00
+  - 命中關鍵字：異國料理
+- [美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」 - 香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0Tk1OWG81WHRqUl9QalV6VnhtRGozZEhzZVctZ1VCWDdlWUM2cm40M2hpNGFZVmh1VVYxaGxsY2NjbUtXN2ZCX0tWcHYybDI0?oc=5)
   - 來源：香港經濟日報HKET
-  - 日期：2026-08-09T16:09:35+00:00
+  - 日期：2026-08-11T02:00:00+00:00
+  - 命中關鍵字：美食趨勢
+- [振宇五金7月營收刷新猷，百店布局將達陣- 新聞 - moneydj.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQS1REWllvMk1nNUtnRTZOWWEwd3gtY0M2d3JvT0VpRDBSQ1ZILXRUVUFlemlDN191SjJXR1kweUg5cUhUaWVvVXFWS29sLWgxanVFc240X2RVeGJ6REoxUDI0cFk1Q1V1eDNoWkZlMEp5UnRGREhjM0NEMENnSmhJQ0VuME5fYXJkcHcyMlBrNlRmUQ?oc=5)
+  - 來源：moneydj.com
+  - 日期：2026-08-11T01:48:00+00:00
+  - 命中關鍵字：會員經濟
+- [台灣新聞報Taiwan-News Post - taiwan-news.com.tw](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Hdjh5SDNKcVFTUldqbWVKZG1nZUJfckRRaTFrSjd1eFNrckJBQjdoRkpzNEdqRENRZElMbFBRci1mY0NQYWVXekIyU3JuMjd0RGhxQW9xNXRrekVL?oc=5)
+  - 來源：taiwan-news.com.tw
+  - 日期：2026-08-10T23:49:01+00:00
+  - 命中關鍵字：台灣餐飲市場
+- [五毛錢起步 慈悲醫路從後山走向世界 - Yahoo](https://news.google.com/rss/articles/CBMikgJBVV95cUxQbFhhczRMd3ZwZUs0TGo2TUVvYzBHa25kUnJXTVRSSlU1UXRlc2pIUzBCa1dYQ1dqWF9sUlVBLWpxLXRVYlBjLXlGNnFqS1BfX2FLSHJZZC1LVWlvTWF6bEdhcFQweXpwRFVpU05UMm9FQ21MTGFUR2dPQWtRN2xPaTRsNTJLc2NpM01COVVlTVM5Wm51QnNEaWUtOWFCZHlnREtScjJqbm9PQnNIVVJ1NkxDcjZUSFlIVk16REtfX1Y4MEJ2TVNIdkJuNkhuNFd0SGdQTTQ2NHFfRFFsTXliaVlDUEx1bGdNeEs1SlhWUVZwVXpKbUdwMDBfY1dWd1pmSS1YWXdBakhqU05nMWhIalVR?oc=5)
+  - 來源：Yahoo
+  - 日期：2026-08-10T22:40:13+00:00
+  - 命中關鍵字：世界料理
+- [台積電再迎大單 傳微軟計劃明年大幅提高下一代自研AI晶片產量 - 世界新聞網](https://news.google.com/rss/articles/CBMifkFVX3lxTFA5U2FBdHpZZDlSZnZNVTJtT2FTWWFoUzM3N1dfUll5NVdNQjZTSHRBZWpYNWV6OGtXakdONFh2ZDY0c2dqd0drWDBzaTJVQ2Jwd0FzSEQ5TXNkaVlRTXhyaEJsUE0yZGIweUFUSHkyMTlBV3Y0NXZZdUw4SWVVQdIBZ0FVX3lxTE9nV2lSbHhUREJrVER6eGZvbi1MYnUxbGJVamEyYTk4RU9tMlkySWJTeWpVeV9iODNDM2dHd3FNU0plaVd5d0F5M1BjQ1VtWEtSSnV5eEFKR2lsWmI4c201MUR0RUluOWc?oc=5)
+  - 來源：世界新聞網
+  - 日期：2026-08-10T22:27:30+00:00
+  - 命中關鍵字：世界料理
+- [包下微風松高整層、斥資近2億 企業家合資打造信義區頂級會所餐廳 - 台灣民眾電子報](https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwaGttT2RodHpkZ0Y5bEFnUDd4cG82b3JuZkxCcnBkYU9yWWJrN1puaVMyaDlYdEhPVDN1dXZsd1hndzhZd01odA?oc=5)
+  - 來源：台灣民眾電子報
+  - 日期：2026-08-10T17:59:00+00:00
+  - 命中關鍵字：台灣餐飲市場
+- [善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrX1lLay0zT1BmclhzOXdfemxPYXFBYkN3N3ptRXF0TDJzd1o5OXdjSFFOS01TQUFFM0EwakJUVVNMaUpGd0NRaW9BV0RhT2duaDJZYzZB?oc=5)
+  - 來源：LINE TODAY
+  - 日期：2026-08-10T17:12:22+00:00
   - 命中關鍵字：餐飲趨勢
-- [歡聚科隆島·暢抒校友情 ——校友聯2026年科隆珊萊島旅遊側記 - United News Ph](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hdzlMeVktNlJ6dHlaZ1B3S3haQno1M2tLWXJPZi1maC1mdHJpQ2VnM3JwX1kzZF9FYmRjZ1c0WG54cTVqQ2U1ZlYxT2RZVkhXdkhLbWRMRjZIcE10MWRobUhR?oc=5)
-  - 來源：United News Ph
-  - 日期：2026-08-09T16:05:22+00:00
-  - 命中關鍵字：精釀啤酒
-- [臺南酒吧推薦「Classics by Swallow」：從氣氛到冰塊，把極致的細節藏在一杯Highball裡 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OMWNBaXZ1YWF3UWIxZExIVzhSN2ZTYmNwd0NxQ1h1Q2YyYkxnMmd3RzRIUUc1QmFacnlTeWZxV0F2MmpaUS1rOGFBYnpyRVBtbU56emJrYkoxd3FQNG1RWERn?oc=5)
-  - 來源：Marie Claire 美麗佳人
-  - 日期：2026-08-09T16:00:00+00:00
-  - 命中關鍵字：酒吧新開幕
+- [連鎖餐飲費大廚 撤「全國小炒肉大王」 - china.hket.com](https://news.google.com/rss/articles/CBMirAJBVV95cUxQUnd2eFdKbVRiUGhDWTNZSlZpdk40LXRhWVNjM09jU0R6ZG1JUmROb3dfQUM3ZUlISlNBMGRrb0xWeVpSR1JBYUFDMWVCb0lNVmNUZzRrLV8xbTFNMDFtcThwN0ZNc1dfZXdnd2kzWUFrM0VaeWNybUJWUHRzM2NzZnd6SFRvUW1NdXFyMFJxVDZUSjZnU1FEck1jZkdMdThrZ3UyMnBXNkk3aHJQdlN4TVU3X0k4V1F2S3ltTWtmRWRHS090WHBRSjRNVFY3S2FTTmVNT1ZLSXZhcXVWSkZRaDFlMW1HSXAzNFdPVXNNbWxWYUw1eS1qOFBSTHVHaGxFcFJrRS1nZEh4eXFOZXVCNkZBdGpBdXM4b0VGTXJQdWp2Znk4YXdoaDNqM1I?oc=5)
+  - 來源：china.hket.com
+  - 日期：2026-08-10T16:29:45+00:00
+  - 命中關鍵字：餐飲趨勢
+- [美食商貿博覽 吸內地品牌「借港出海」 - 香港經濟日報HKET](https://news.google.com/rss/articles/CBMioAJBVV95cUxOMnJCeEZ4ZXVPdFhpTTVxbnFUTjU2VTBuZ2JFYVBuWjl6cWE2MkFfNU1DTFpRbjM3dmozOVpVd1EwVElSb05ZeV9FZVRicm54VENkdmotVlZVVzNMM1VXbFFNNk11T2dBdjJuU0JrMGg3cXhFXy1wTlkyd0hKLURqTFJuUVlaMU1tRTZLMDZiZ1MwSnhlNkt0TFBwNkJSUlRlR2xQNzJJWUFQWG5Ua1ppd1FKT093RWlKZ0J5SHJFbi1jUUJnUm9tVkJidjlPeEZYQ3Jsa2dEV0EtaWViSTNZOWNYbHlzOWNjRGhLQ1ZUVWpVRHNUcmg0c0Qzcl9kX1I1SnBhRTVkUlNlYzJmOTkyd2E1VzVORUktcU8tMW96S3E?oc=5)
+  - 來源：香港經濟日報HKET
+  - 日期：2026-08-10T16:19:35+00:00
+  - 命中關鍵字：美食趨勢
+- [鎖定金字塔頂端！萬事達全新「世界傳奇卡」登台 頂級客專屬福利 - 三立新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LQk5GLVprYVFGWkowZWJlTGFEX1NxMjVRVElWVXMwY21nYTBxQ1dfa3J2UDRxOEdhcmpmLTBRVzJoSTctTWNrbkhicw?oc=5)
+  - 來源：三立新聞
+  - 日期：2026-08-10T16:10:36+00:00
+  - 命中關鍵字：餐飲趨勢
+- [強勢海外ETF出列！美國科技龍頭股、權值股領軍 專家這樣說 - 財經新聞 - PChome Online 新聞 - PChome Online新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1JpT2VRMDNQeFFROUx5UENVbzh3bFFXTlZnTzY5ajExckQzZ3REcFlyOW1pTkVmTjZMZVhqNHJpbUllampUUjFDSXlEd3FBbGZ4ckNkN3B2SVVXYnZGaEY4Sl9Qa2l5Y2h5cHo3c2xwenNzTzNwSTRoMl9IakxIb3ZjOG9oaml5clRB?oc=5)
+  - 來源：PChome Online新聞
+  - 日期：2026-08-10T16:02:00+00:00
+  - 命中關鍵字：餐飲趨勢
 
 ### 第二層：AI 智能篩選
-- 巨幕點餐與數位迴轉鏈翻轉府城餐飲！ 壽司郎DIGIRO首度登台南新光三越 - 蕃新聞
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
-- 六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞 - MoneyDJ
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：會員經濟
-  - 理由：命中 會員經濟，可作為「會員經濟」的輔助觀察。
-- 中台灣4縣市 齊赴星國引客 - 中國時報- 翻爆
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
-- 「飛鳥・藤原宮都」列入世界遺產！ - Taiwan News
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
-- 韓國農林畜產食品部與aT攜手參展2026香港美食商貿博覽 - Taiwan News
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
-- 巨城吃到飽「URBAN PARADISE」8/17試營運　早上10點開放訂位 - ETtoday旅遊雲
+- 河海音樂季週末唱進淡水 10組樂團接力開唱 - 民眾新聞網
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：世界料理趨勢
   - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
-- 本周開盤前 五件國際事不可不知 - 世界新聞網
+- 台南聚餐選這不踩雷！好吃又好看，從正餐到點心一次滿足你！ - udn 女子漾
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：世界料理趨勢
-  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
-- 經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文 - news.tvb.com
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：行銷靈感
-  - 理由：命中 酒吧活動、精釀啤酒、啤酒節，且與「行銷靈感」高度相關，值得優先閱讀。
-- 埔里鎮以西部牛仔風 歡慶父親節 - 蕃新聞
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 啤酒節，可作為「精釀啤酒」的輔助觀察。
-- 防範屯墾者暴力 以軍封鎖約旦河西岸基督徒村莊 - ftvnews.com.tw
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 精釀啤酒，可作為「精釀啤酒」的輔助觀察。
-- 紐約哈德遜河谷這家墨西哥餐廳 主打東海岸海鮮 - 世界新聞網
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
-- 搶攻日本觀光客！台中聯手星宇航空 KOL踩線推廣中台灣魅力 - 蕃新聞
+  - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
+- 《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪 - 富聯網
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：行銷靈感
   - 理由：命中 餐飲行銷、觀光餐飲，可作為「行銷靈感」的輔助觀察。
-- 日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通 - 報新聞
+- 兆元餐飲進入微利時代 品牌如何用AI守住獲利？ - 食力 foodNEXT
   - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：競品異動
-  - 理由：命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。
-- 越南旅遊熱潮再升溫！峴港洲際度假村打造建築、生態與美食的奢華旅程 - PChome Online新聞
+  - 評分：3 / 5
+  - 分類：市場情報
+  - 理由：命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。
+- 中元拜拜添南洋風味！箱購椰漿氣派耐放成澎派供品新寵 - 蕃新聞
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：世界料理趨勢
-  - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
-- 深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會 - utravel.com.hk
+  - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
+- 美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」 - 香港經濟日報HKET
   - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。
-- 凱悅亞太區 推「細味美食，舒適相伴」 - 香港經濟日報HKET
+  - 評分：3 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。
+- 振宇五金7月營收刷新猷，百店布局將達陣- 新聞 - moneydj.com
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：會員經濟
+  - 理由：命中 會員經濟，可作為「會員經濟」的輔助觀察。
+- 台灣新聞報Taiwan-News Post - taiwan-news.com.tw
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
+- 五毛錢起步 慈悲醫路從後山走向世界 - Yahoo
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- 台積電再迎大單 傳微軟計劃明年大幅提高下一代自研AI晶片產量 - 世界新聞網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- 包下微風松高整層、斥資近2億 企業家合資打造信義區頂級會所餐廳 - 台灣民眾電子報
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
+- 善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報 - LINE TODAY
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
+- 連鎖餐飲費大廚 撤「全國小炒肉大王」 - china.hket.com
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：市場情報
   - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
-- 歡聚科隆島·暢抒校友情 ——校友聯2026年科隆珊萊島旅遊側記 - United News Ph
+- 美食商貿博覽 吸內地品牌「借港出海」 - 香港經濟日報HKET
   - 是否值得閱讀：是
   - 評分：3 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 精釀啤酒，可作為「精釀啤酒」的輔助觀察。
-- 臺南酒吧推薦「Classics by Swallow」：從氣氛到冰塊，把極致的細節藏在一杯Highball裡 - Marie Claire 美麗佳人
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：競品異動
-  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
+  - 分類：世界料理趨勢
+  - 理由：命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。
+- 鎖定金字塔頂端！萬事達全新「世界傳奇卡」登台 頂級客專屬福利 - 三立新聞
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
+- 強勢海外ETF出列！美國科技龍頭股、權值股領軍 專家這樣說 - 財經新聞 - PChome Online 新聞 - PChome Online新聞
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
 
 ### 第三層：戰情報告
-#### 1. 經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文 - news.tvb.com
-- 摘要：這則新聞聚焦於「經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文 - news.tvb.com」，可放在 行銷靈感、精釀啤酒 脈絡下觀察。經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文&nbsp;&nbsp;news.tvb.com
-- 對 ABV 的可能影響：可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動、精釀啤酒」切入。
-- 原文：https://news.google.com/rss/articles/CBMizwJBVV95cUxQeVpRS1YtZWRzclJSbkx2M0FHN3g1bS1TZjVHVWZWRmRpdnBZdHZfMEdkUzZRcHVRaDM2SjFpSlBaeFJTWjNkY0JxYzJpSk11X1VNNlNrNGwwUWtVcW1fNjdzR0VhSjUyQTh5a2NEX2xNTGM3aXBBbmR5dEhET1FndVlPaXJmNzRyTFppOXNOd2VlN3FSNC1GczNvRGZ0QXBHNElPajB6UFVNTkdKdEE5QlA2T0JjTnc1ZlBVakc4OEZPc21ONGVsX0FINVkyWFlvc0w2SWdKMmxFZHRfRTRpU0c1Z3hTNWdUdC01ZkxXTGFCQjZBdkhxNElhTElvUnVMZGl5bnpsNUNrUERldF8xVl8tUVBRNFd2eG5oWEh2YlpKX3lfUm1UZGFvbE1vOGFyTmlOVWk5bkN1TjNiMUhnOWZmTDhHN2JUSUVHcU1wbw?oc=5
+#### 1. 《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪 - 富聯網
+- 摘要：這則新聞聚焦於「《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪 - 富聯網」，可放在 行銷靈感、市場情報 脈絡下觀察。《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪&nbsp;&nbsp;富聯網
+- 對 ABV 的可能影響：可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「餐飲行銷、觀光餐飲」切入。
+- 原文：https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXk2OWVTYjR6OVZIR1hveS1NbXpLN0dBYlhKczFfR0N1Qk8xOGVxTlBIN3VROGxTT0dlTUE0Y0lZTWNrckxRQWhKVGVHbUh2WExGYVF4aGFYOWVObG9WWERobFh3UkNhQlp5cGUzclBNaHJiZjhQR0hqSkREMkRmcFJhb0VHamZi?oc=5
 
-#### 2. 日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通 - 報新聞
-- 摘要：這則新聞聚焦於「日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通 - 報新聞」，可放在 競品異動 脈絡下觀察。日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通&nbsp;&nbsp;報新聞
-- 對 ABV 的可能影響：可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。
-- 原文：https://news.google.com/rss/articles/CBMiowFBVV95cUxQMU1GOWxWVEZlNG8ta09ZRVVSTVNJbmp3OFVqQWJmcEZvQ0JZZG9FRE0xX3NwcGprRXBob2JtdEswR1JCSmRNZWxyVW5SSmhfS1h0aVZBaWJDQTRYSmJQZFdhSlZkUWExT2k1Nk9HTEp3VVR6SVNtOXZwNHFQZEY5OWZtQzNwRlEyR2FuUTZSMEdDVXpjNkJkOGZTVXVLRTVfcTdR?oc=5
+#### 2. 兆元餐飲進入微利時代 品牌如何用AI守住獲利？ - 食力 foodNEXT
+- 摘要：這則新聞聚焦於「兆元餐飲進入微利時代 品牌如何用AI守住獲利？ - 食力 foodNEXT」，可放在 市場情報 脈絡下觀察。兆元餐飲進入微利時代 品牌如何用AI守住獲利？&nbsp;&nbsp;食力 foodNEXT
+- 對 ABV 的可能影響：可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「台灣餐飲市場」切入。
+- 原文：https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUc2JrX29ycTRpVFpUcXlKWmJVbENZUmJLa2RsOU9xZHl1MWVLVVhaRkFHaGFnVTBiV3M4Yk9nejZVS0dEWGhZNnNQR18zbXZ6MU5BZE14M2R4eFp1UXhSRUxvV0FLQQ?oc=5
 
-#### 3. 深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會 - utravel.com.hk
-- 摘要：這則新聞聚焦於「深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會 - utravel.com.hk」，可放在 精釀啤酒 脈絡下觀察。深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會&nbsp;&nbsp;utravel.com.hk
-- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。
-- 原文：https://news.google.com/rss/articles/CBMirANBVV95cUxORTJveWlfM2xMYTNuUTVqUUdGWHhNVDhZekxkMXF4UE9TdFAxUEdQTkJXWjgtYTkzTExLNGhrMmxHRF82R0pnblBCNENMYTdXNUltdkJ0bktTbkh5bjlxOUNNWFdsNjBWZV9VSVFub19nRDNDWXJqRE5TRjAxREV3TF9mQ05uMy1KQ1JPdEVDMjdFeXlvRjBkWW1kSV93cDFvcl9FMFpwWmptSHR1NXFmQmdXVEdnRklmckhHWnlVcnh0Tmg3a2lUb1hZcmNNSDBieG8xUVdLU05JRFBlSHdCbVNFeGJPVmprODhPX0dTY1FOYVR3UGMtZ09vbDhfQUxuaGN4czZDNkhxT0xOYk1RekwzLThreXJtcUtYQUxnTXhxTEg1ZUJfT3FVakhJMFRMUlQ2V0VlM3ZDQnZud21xMFNTRGZXb21mSjhNU3hvM0pKQlpuZ19FSUx0cDk2NFlsTGtQemI4UFc2WTQtSDFFejdkbWNoQVpwbmgweWtCZ1hack8wVGR0d3Utb2lLTkJjV2x1TWxHVWNEV3JkWm80dVdkVGYyZlZ5OFFQYw?oc=5
+#### 3. 美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」 - 香港經濟日報HKET
+- 摘要：這則新聞聚焦於「美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」 - 香港經濟日報HKET」，可放在 世界料理趨勢 脈絡下觀察。美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」&nbsp;&nbsp;香港經濟日報HKET
+- 對 ABV 的可能影響：可支援 ABV 菜單故事、主題餐期與跨國料理溝通角度。本則可從「美食趨勢」切入。
+- 原文：https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0Tk1OWG81WHRqUl9QalV6VnhtRGozZEhzZVctZ1VCWDdlWUM2cm40M2hpNGFZVmh1VVYxaGxsY2NjbUtXN2ZCX0tWcHYybDI0?oc=5
 
-#### 4. 六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞 - MoneyDJ
-- 摘要：這則新聞聚焦於「六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞 - MoneyDJ」，可放在 會員經濟 脈絡下觀察。六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞&nbsp;&nbsp;MoneyDJ
+#### 4. 振宇五金7月營收刷新猷，百店布局將達陣- 新聞 - moneydj.com
+- 摘要：這則新聞聚焦於「振宇五金7月營收刷新猷，百店布局將達陣- 新聞 - moneydj.com」，可放在 會員經濟 脈絡下觀察。振宇五金7月營收刷新猷，百店布局將達陣- 新聞&nbsp;&nbsp;moneydj.com
 - 對 ABV 的可能影響：可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。
-- 原文：https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDJGMFhnd3RvYURpZ2tqU2xOMkk1RmVpekUzTk9vMEVNa1hEbEhlT3BEelcteG1XdTloYTQyWnZyN1E5cGJzMnNlMjRSTlJSV0ZpR0N3Y2JGRHdrYk1xaUdIMnBEUVNVckZjYXRXTUtTSG9IU0RRUTk5U09QTGZHR1RR?oc=5
+- 原文：https://news.google.com/rss/articles/CBMikgFBVV95cUxQS1REWllvMk1nNUtnRTZOWWEwd3gtY0M2d3JvT0VpRDBSQ1ZILXRUVUFlemlDN191SjJXR1kweUg5cUhUaWVvVXFWS29sLWgxanVFc240X2RVeGJ6REoxUDI0cFk1Q1V1eDNoWkZlMEp5UnRGREhjM0NEMENnSmhJQ0VuME5fYXJkcHcyMlBrNlRmUQ?oc=5
 
-#### 5. 埔里鎮以西部牛仔風 歡慶父親節 - 蕃新聞
-- 摘要：這則新聞聚焦於「埔里鎮以西部牛仔風 歡慶父親節 - 蕃新聞」，可放在 精釀啤酒 脈絡下觀察。埔里鎮以西部牛仔風 歡慶父親節&nbsp;&nbsp;蕃新聞
-- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。
-- 原文：https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xZkpaM3NlT3ZKeDdEMmNaZVl1NnpObEwwYjBOYTl0ZFVYT0ZIZ2lwZnFPX1hZc2tGUlROYm1nb2JyT0VBSW1iYjJ5M0VIQXZDV1E?oc=5
+#### 5. 善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報 - LINE TODAY
+- 摘要：這則新聞聚焦於「善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報 - LINE TODAY」，可放在 市場情報 脈絡下觀察。善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報&nbsp;&nbsp;LINE TODAY
+- 對 ABV 的可能影響：可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢」切入。
+- 原文：https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrX1lLay0zT1BmclhzOXdfemxPYXFBYkN3N3ptRXF0TDJzd1o5OXdjSFFOS01TQUFFM0EwakJUVVNMaUpGd0NRaW9BV0RhT2duaDJZYzZB?oc=5
 
 ### 第四層：社群內容靈感池
-#### 經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文 - news.tvb.com
-- FB/IG 貼文角度：用「經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文 - news.tvb.com」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+#### 《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪 - 富聯網
+- FB/IG 貼文角度：用「《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪 - 富聯網」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 行銷靈感？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「行銷靈感」相關的餐酒體驗或活動。
-- SEO 文章題目：行銷靈感趨勢怎麼看？從「經濟日報社論｜盛事經濟須深耕 人氣轉化真財氣｜全文 - news.tvb.com」看餐酒館內容與選品機會
+- SEO 文章題目：行銷靈感趨勢怎麼看？從「《觀光股》全家餐飲7月營收登峰 H2成長動能續添薪 - 富聯網」看餐酒館內容與選品機會
 
-#### 日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通 - 報新聞
-- FB/IG 貼文角度：用「日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通 - 報新聞」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 競品異動？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「競品異動」相關的餐酒體驗或活動。
-- SEO 文章題目：競品異動趨勢怎麼看？從「日本大阪難波新住宿亮相！Centara Life正式開幕，300間客房坐擁市中心便利交通 - 報新聞」看餐酒館內容與選品機會
+#### 兆元餐飲進入微利時代 品牌如何用AI守住獲利？ - 食力 foodNEXT
+- FB/IG 貼文角度：用「兆元餐飲進入微利時代 品牌如何用AI守住獲利？ - 食力 foodNEXT」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 市場情報？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「市場情報」相關的餐酒體驗或活動。
+- SEO 文章題目：市場情報趨勢怎麼看？從「兆元餐飲進入微利時代 品牌如何用AI守住獲利？ - 食力 foodNEXT」看餐酒館內容與選品機會
 
-#### 深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會 - utravel.com.hk
-- FB/IG 貼文角度：用「深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會 - utravel.com.hk」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
-- SEO 文章題目：精釀啤酒趨勢怎麼看？從「深圳8月免費好去處活動懶人包！潮流文藝手作/微醺市集/夏日音樂會 - utravel.com.hk」看餐酒館內容與選品機會
+#### 美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」 - 香港經濟日報HKET
+- FB/IG 貼文角度：用「美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」 - 香港經濟日報HKET」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 世界料理趨勢？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「世界料理趨勢」相關的餐酒體驗或活動。
+- SEO 文章題目：世界料理趨勢趨勢怎麼看？從「美食商貿｜香港冀加強亞太食品貿易樞紐 吸海外品牌「借港出海」 - 香港經濟日報HKET」看餐酒館內容與選品機會
 
-#### 六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞 - MoneyDJ
-- FB/IG 貼文角度：用「六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞 - MoneyDJ」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+#### 振宇五金7月營收刷新猷，百店布局將達陣- 新聞 - moneydj.com
+- FB/IG 貼文角度：用「振宇五金7月營收刷新猷，百店布局將達陣- 新聞 - moneydj.com」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 會員經濟？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「會員經濟」相關的餐酒體驗或活動。
-- SEO 文章題目：會員經濟趨勢怎麼看？從「六角/王座上半年獲利佳，下半年動能正向 - 台股 - 新聞 - MoneyDJ」看餐酒館內容與選品機會
+- SEO 文章題目：會員經濟趨勢怎麼看？從「振宇五金7月營收刷新猷，百店布局將達陣- 新聞 - moneydj.com」看餐酒館內容與選品機會
 
-#### 埔里鎮以西部牛仔風 歡慶父親節 - 蕃新聞
-- FB/IG 貼文角度：用「埔里鎮以西部牛仔風 歡慶父親節 - 蕃新聞」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
-- SEO 文章題目：精釀啤酒趨勢怎麼看？從「埔里鎮以西部牛仔風 歡慶父親節 - 蕃新聞」看餐酒館內容與選品機會
+#### 善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報 - LINE TODAY
+- FB/IG 貼文角度：用「善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報 - LINE TODAY」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 市場情報？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「市場情報」相關的餐酒體驗或活動。
+- SEO 文章題目：市場情報趨勢怎麼看？從「善用聯準會政策模糊性 投顧：觀察三大趨勢並非衰退訊號 | 太報 - LINE TODAY」看餐酒館內容與選品機會
 
 ### 第五層：企業級輿情/趨勢分析
 #### 各分類新聞數量
-- 市場情報：3
-- 會員經濟：1
 - 世界料理趨勢：7
-- 行銷靈感：2
-- 精釀啤酒：5
-- 競品異動：2
-- 高分新聞數量：3
+- 行銷靈感：1
+- 市場情報：8
+- 會員經濟：1
+- 高分新聞數量：0
 
 #### 熱門詞
-- 精釀啤酒：4
-- 蕃新聞：3
-- 美食趨勢：3
-- 世界料理：3
-- 新聞：2
-- Taiwan：2
-- 世界新聞網：2
-- 啤酒節：2
-- 酒吧新開幕：2
-- 巨幕點餐與數位迴轉鏈翻轉府城餐飲：1
+- 餐飲趨勢：4
+- 異國料理：3
+- 台灣餐飲市場：3
+- 新聞：3
+- 借港出海：2
+- 香港經濟日報：2
+- HKET：2
+- 美食趨勢：2
+- 世界料理：2
+- PChome：2
 
 #### 趨勢判斷
-今日以「世界料理趨勢」聲量最高，共 7 則；熱門詞集中在 精釀啤酒、蕃新聞、美食趨勢，代表內容可圍繞消費場景、選品與活動溝通展開。
+今日以「市場情報」聲量最高，共 8 則；熱門詞集中在 餐飲趨勢、異國料理、台灣餐飲市場，代表內容可圍繞消費場景、選品與活動溝通展開。
 
 #### ABV 可行動建議
-- 本週安排一則「世界料理趨勢」主題貼文，連結 ABV 的實際菜色、酒款或門市活動。
-- 針對「精釀啤酒」製作短影音腳本，讓店內體驗變成可分享的內容資產。
+- 本週安排一則「市場情報」主題貼文，連結 ABV 的實際菜色、酒款或門市活動。
+- 針對「餐飲趨勢」製作短影音腳本，讓店內體驗變成可分享的內容資產。
 - 把高分新聞轉成 LINE 分眾推播素材，測試會員回訪與訂位反應。
 
 ## 昨日往前七日歷史新聞
-資料區間：2026-08-03T00:00:00+08:00 至 2026-08-10T00:00:00+08:00
+資料區間：2026-08-04T00:00:00+08:00 至 2026-08-11T00:00:00+08:00
 
 ### 第一層：關鍵字新聞列表
+- [每股配6.8元的它 前7月營收也不俗 - 三立新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZRXh1X0V6ejdkaEJiWGdfZ2ROQXF3ek5NVnpaVDY1WGp0VVVGLV9jVF9LMUh1RGM2dE8xUTBDX2V3N3hFaENxczlJMA?oc=5)
+  - 來源：三立新聞
+  - 日期：2026-08-10T13:05:17+00:00
+  - 命中關鍵字：餐飲行銷
+- [屏東旅遊購GO節登錄破5600萬！抽出第3台百萬汽車 - 中華新聞雲／中華日報](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xa055QlkyZkJwSUVCWG1Vek85VG1hVWk5OFk2YThuT1A5bG5GQVFsdzNTRGR1d3VvZ09XRXVDeWYyTEFjY0ZNVzV0ZDUwcDJ6Ymc?oc=5)
+  - 來源：中華新聞雲／中華日報
+  - 日期：2026-08-10T10:45:37+00:00
+  - 命中關鍵字：觀光餐飲
+- [曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際 - cna.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSnpKY1FSZDdoMnY0YVBldU40X3JtMEx3eTNId1J1R085dlU3Vm5SYXU0TW1fRVAyTnVJZlgwb2dRWkJDVHo4SFNqUGczamE4aHBpakZuc3VTTllrbzl3?oc=5)
+  - 來源：cna.com.tw
+  - 日期：2026-08-10T10:40:00+00:00
+  - 命中關鍵字：啤酒餐廳
+- [從在地餐桌到世界舞台 專訪「予島 YuDao」主廚楊柏偉 - 環境資訊中心](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CeFAwRHZlN1pGNHFkVTY2cEdGZzhKR1FMSHdpbjdoME1yZ3FsUlM5bklrVUNPejhqSTZKSjNmbDl1R3ltZ1N1VQ?oc=5)
+  - 來源：環境資訊中心
+  - 日期：2026-08-10T09:46:28+00:00
+  - 命中關鍵字：世界料理
+- [KPMF高雄公園音樂節8/15售票！SUPER JUNIOR-K.R.Y.、盧廣仲開唱，票價、座位圖、卡司陣容一次看 - 商周](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LcDE4a0ZWZUdxM2lDREwyNjBROU5LUUVuVW5QT3d5TUZDVVZTTnhsWEpNOEcza3dYUnRMZTF3enZxQzBTdWtWQVlOd2RZUjNHQjlaeVByRkxNczhzMmIwUUVn?oc=5)
+  - 來源：商周
+  - 日期：2026-08-10T09:25:30+00:00
+  - 命中關鍵字：啤酒節
+- [Hotel MVSA 攜手燈燈庵 推出兩款中秋限定禮盒 一次收藏兩種世界餐桌文化的中秋心意 - 台灣民眾電子報](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kNVBWMnlYd056UzFKQ0lZRHotRnRqMDFDWlB3QzlCODZCQlRvck53NkdxbEcwZmxhQmtYT01JYmpMcjdULXBuTA?oc=5)
+  - 來源：台灣民眾電子報
+  - 日期：2026-08-10T08:07:16+00:00
+  - 命中關鍵字：世界料理
+- [炎夏最消暑！人間粉雪天堂，來計畫冬天前進日本長野 Hakuba Valley 滑雪之旅吧 - TRAVELER Luxe旅人誌](https://news.google.com/rss/articles/CBMiYEFVX3lxTE03OW9GNm43eVdRaFZmWXdHX3N4bFBpX25hLUd4eHZuX2xEMGdkb283cDNWUTVsbVlFYmJ5anpkbVVFeTdHY2xUOFBsT1BWQVFWcFpPc0tiV1BJRHRnbnlvQQ?oc=5)
+  - 來源：TRAVELER Luxe旅人誌
+  - 日期：2026-08-10T08:05:17+00:00
+  - 命中關鍵字：精釀酒吧
+- [全家餐飲今年二度調薪！8月平均加薪5％ 新手起薪3.8萬元 | 經濟日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBadEpqbkt3bXhVdEN2bW1VanhvNG5oUkhfZFkwRFFWN1ZwLUZYSHpPTjVfYjBVV2EyTVpCVjJyODRxeU45cG0wZ0xNUVkyUjRCcmoyTUxR?oc=5)
+  - 來源：LINE TODAY
+  - 日期：2026-08-10T07:45:26+00:00
+  - 命中關鍵字：餐飲行銷
+- [海峽會廚藝總監赴馬參賽 勇奪國際廚藝競賽五項殊榮 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBldm1PYXNGZjNtRWpleDNiWU96eWdicEVPZWZoSlc4WlQtT1RDRFlsSkdyTUZWb2tfVGxPZjNBem55dDJBZ3hpTG1EMWQxNk9sYkVZODU1RVE?oc=5)
+  - 來源：Taiwan News
+  - 日期：2026-08-10T06:49:00+00:00
+  - 命中關鍵字：世界料理
+- [韓流教父 GD 權志龍代言！常陸野貓頭鷹「雛菊愛爾啤酒」登陸惠康 - RePlayHK](https://news.google.com/rss/articles/CBMi9gJBVV95cUxOekhSTVN5ZXBBR1VNWlAtWDZ6ckdUQmh0M0FrSHdxUFZ2V3VWSXpqVzlhTGVYc3dMTGx3MlBtQTJYYllYaFRCamhoU3d6dUxBZ2tfX093SC0xeHM1VExDVGhBbjFwLUFrc0lTcy1wdnlncThObDVVV2VkTzFPRDBRQzEzUUJaS1lTYU9MaHpCS0VjOGtveDZ3RFpiWnBXcnF1Yy1jd2lvZ0s1QTRsX0VBODg2bVZrZlFNU2ZMWGF2UzEyQ094Nlg5Q21Yb3JidnhERnZkclVhWVhoS0g4YU1SYjRfbG5jclEzSzg5bTZobnFBTXQ5S2RjV1IxN2JjeXpFd3BxdnBkeU9aWDJEdDMxT19TTUhtVkFIUW9SR0xic05JUktIRks3Vk51bTdxT0RQZTR6UXM0Qk1fSFRuaXpYNGNrTEJIYUVlWXAyOGh6b2dlU3RIVmZUU2xYdnllS09ZYkpkY285NmJiaXZHMDFCOXhqcHhhUQ?oc=5)
+  - 來源：RePlayHK
+  - 日期：2026-08-10T05:05:57+00:00
+  - 命中關鍵字：精釀啤酒
+- [韓國農林畜產食品部與aT攜手參展2026香港美食商貿博覽 - 國際新聞 - PChome Online 新聞 - PChome Online新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR1BQWUNNZDVlSkdJS3l5Vm5jQXczWXNoemVza0gzWDR4OHVaSzdKWXQtRThyZk5HOWl1d19vYTMyLWpRWWI4cXRwMzNfNGJ2VUhVMjh3UXFtcUVueEo0eUZEa0Fvb0V1Vi1GQVNrV2dUS0FHYS03YmswZzZVWGlEQWxWZmNuY2ZqZmln?oc=5)
+  - 來源：PChome Online新聞
+  - 日期：2026-08-10T02:00:00+00:00
+  - 命中關鍵字：美食趨勢
 - [宜家擴大二手轉售業務 吸引撿便宜族與設計迷 - Business Insider Taiwan](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YNVo3UFJVVFlBLTRoenpUeC1KdmNwZC1wdHlBSEY1Vl9NNmtZQ2NaMm1YRGo5dXZSZU10VzFEdVRjdTdpUlZwZWJxcWZMRmZxWHNlWWpn?oc=5)
   - 來源：Business Insider Taiwan
   - 日期：2026-08-09T09:47:01+00:00
   - 命中關鍵字：顧客忠誠計畫
-- [《藍色監獄》高橋文哉7件事：令和第一假面騎士、有廚師證照，足球苦練一年完美開踢 - Bella.tw儂儂](https://news.google.com/rss/articles/CBMifEFVX3lxTE5ISDE4NVhZUEg5X1p6TVc4MTlXOFQ5VEUxcXJBUm1vQVdOQ05hX2xnbHBGcGR3RUtLY3d4TC1XS3FXekhGcTJGZE9qZV9KTWhhMDlYNkNmUnFkeFBQUWNaek1pZDdsQlJaUG9ORm9vRDhfSHk1cnI1RHYxWUs?oc=5)
-  - 來源：Bella.tw儂儂
-  - 日期：2026-08-09T09:45:12+00:00
-  - 命中關鍵字：世界料理
-- [客家水粄 by Sharon Wu - icook.tw](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YT0FQekRrcFF0Ri1INFRxbnpaVFk4VjM3bkprTC0zeUVrNzUxTDlGWkpVRVFuMHVhZzV2VkJhMDJHVFhqQUE?oc=5)
-  - 來源：icook.tw
+- [客家水粄 by Sharon Wu - 愛料理](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YT0FQekRrcFF0Ri1INFRxbnpaVFk4VjM3bkprTC0zeUVrNzUxTDlGWkpVRVFuMHVhZzV2VkJhMDJHVFhqQUE?oc=5)
+  - 來源：愛料理
   - 日期：2026-08-09T09:44:28+00:00
   - 命中關鍵字：異國料理
+- [飛捷Q3接單能見度明朗 拉貨力道顯著優於去年同期 - TradingView](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jT05Nek9YZmFRRl9MUlhzU0ZxbFhoWk1FcW1Ub2pERkt3TnhiTEVPby1WMHRPdDg3NTVBQWVEa2RwN0dGOE5SUzA2cDJLTEk2XzBPcGpibTlFN1hFenByN0ZtS1Q?oc=5)
+  - 來源：TradingView
+  - 日期：2026-08-09T08:14:03+00:00
+  - 命中關鍵字：餐飲趨勢
 - [新埔打鐵坑美食旅遊新提案 走進百年老宅嚐新竹傳統客家菜 順遊果園、農場與歷史景點 - Life 生活網](https://news.google.com/rss/articles/CBMimgNBVV95cUxOTEt2bGpLem92S1A1NVdmTUVRUVFWUmVKQXlCZTFvS2xFMG9tTVcwRUJ3bERjbHRkcFVMRXV0V3Rod19WMjREazVTSWNfd1hzT2JRXzN1T3NmSEJpVGNtb3pSU21TTzJsX29jUHY3UTVnaXN4T0R0bEdVODJYVi00VTJaYVBzRC1ySzN3NlZ3bFdxUmFCMm9LU0FEc2Q4OUt5dTAtaFBrM3pqb3lpOGNaYTNEOHpsLW1aNDE1Y0Y4aTJURHJVR01MX1ExZjVCSVJuYkdOdkVpSUlaNXRRbGI2TlpMeTRrb0gzd1FXb0hGTjk2d0h4VXAtcTZNMHNGSWNRQzczaVdkUV9YRUpnV3ZfMDhLRmlpUWRRV3hzamFkV3IwcVctbmNycEtkNE5IOVVLN1ZfSkJQZUJXdTdEb2hhbWpSZHJ6d2MtalloM3JCUmRRVFpJODVYVmFLNWpnY0VBN3kxcUZRQjhqSWdackhzb1JuU0dFc1REeEFLMV8tcTd4ZmY2X0c1MTEzTllvWWR3T3NZb0x6VGliQQ?oc=5)
   - 來源：Life 生活網
   - 日期：2026-08-09T08:13:03+00:00
@@ -283,18 +307,18 @@
   - 來源：世界新聞網
   - 日期：2026-08-09T06:26:00+00:00
   - 命中關鍵字：美食趨勢
-- [天母啤酒節登場 全球32家酒廠共襄盛舉 - 台視全球資訊網](https://news.google.com/rss/articles/CBMifEFVX3lxTE11eEtyVlhNWmhJdVd2d2tQSVdGd0cxZ0RTaDlycHZESGQtbVpremlDUE4tNEFBYlYyajRmTUQ5aGVvMjNfNm55Mi0tM0tVM2swUUZpdjlWNXM4Sm4xWjgyeUxvcHlKUkdUbVNMVy1xbDFNT2N0X2VhdmlMdTI?oc=5)
-  - 來源：台視全球資訊網
-  - 日期：2026-08-09T05:23:55+00:00
-  - 命中關鍵字：啤酒節
-- [深化日本市場國際行銷 台中攜星宇航空邀KOL踩線推廣中台灣觀光 - taichung.gov.tw](https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Z1pvbUtMUHg0TVU0ZkRRTjl1TkcwWjF1YkE1SHBCS1FWOENRQmxkVUo5R3ctOENrSXhyTkw0dmxCbHkzVzh4bU1oN3IxUHhqZlE?oc=5)
-  - 來源：taichung.gov.tw
-  - 日期：2026-08-09T01:45:13+00:00
-  - 命中關鍵字：觀光餐飲
+- [酒吧老闆收編浪喵後「來應徵的員工全是貓咪」 客人讚爆：來這不喝酒只擼毛孩 - pets.udn.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRmNZREk4SEw1c1NXSVFZSjRLbFJ1TmNldjhsODFtQ3VWX2RNODJwT2liMnpCRkwyb1hGc2pUa2tsRlZ2X0Q4UWQ3WHNqbzBLTXozTVVyc0RzYjlESUdN0gFfQVVfeXFMTk9GY1lESThITDVzU1dJUVlKNEtsUnVOY2V2OGw4MW1DdVZfZE04MnBPaWIyekJGTDJvWEZzalRra2xGVnZfRDhRZDdYc2pvMEtNejNNVXJzRHNiOURJR00?oc=5)
+  - 來源：pets.udn.com
+  - 日期：2026-08-09T05:40:48+00:00
+  - 命中關鍵字：酒吧活動
 - [台灣名店／良食美景　「餐」透細膩 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRmhybExoR3g4UFJuZHloSDhwQy1WVDBuakdGWFd3SlhwV3dmUkxXOE9LX3hDYmpLb21UQVhCU1VPcGJXR28yRXJZRVlGUXNrY3ZrUnd6RVBjVGPSAWBBVV95cUxOU1lxek9jTF93akZ5SllYUXhpTTBpc1BNbzlLNHk3N1pFSXBYdGhCYkdjeXhqeE9kOE8yaEJhQXlHckxrZ2JGZjRvS0VyeFdBSENYSkdON0lxRk1CdDZKbWI?oc=5)
   - 來源：鏡週刊Mirror Media
   - 日期：2026-08-08T22:28:59+00:00
   - 命中關鍵字：啤酒餐廳
+- [王品上半年EPS衝上9.86元！Q2營收獲利雙創新高，品牌矩陣如何跑贏餐飲大盤？ - tw.news.yahoo.com](https://news.google.com/rss/articles/CBMisgNBVV95cUxNOGxMMGpibUg0eF9WYUhNOHZYV0E5WTNaVkxMOFl0WXV2M0NLdy1PanVEQjFXc1I0ZGF3eFV3Y0IyYXJ0TEJaNGpVZjl2dmphYUVzUUl5UkFnMDhrMFFLM0c3OUk0QU9wLUpOdC1YcnNtelFYaFZ4RGNRWGNzNkFZaGhPN05fNzFLMFR1WndzTkxsN1F5dUxuTnNZVXAtdW1HZVVRaTBjdGx3ME1yQ0NNS1RZb2NfXzYzTjlXVWF1Qi1NRWlEcVpZRFRMR2dCRnpERzBsa0dveVRaa2N4eEp3NW1GNUctZVRrdzZVazFwVlRjSUluZmw5Um1TOXVnUlo2ZmlON1ZoVWNGd1I0a0MyOC0zMG1ielFITHR6eG1JM0pFZGRDZzVkVnlUYlotWmwwWndHWUppVEZ5RldLOG5YdVoxemN3c2UxWHA4blpsSlNkd1llRTVDclFFTEpBa01aQmpCVGMxU0xTOUhfUFhIVmN3OGtrMFdJWG8zZjc4ajRmWFktSFBEWDQ2NjlUdHM4M0UwQ2Y3X29YbTB2NE1PbVRJWm9KREFHYTgyV21aTVA5UQ?oc=5)
+  - 來源：tw.news.yahoo.com
+  - 日期：2026-08-08T15:59:35+00:00
+  - 命中關鍵字：台灣餐飲市場
 - [臺北新酒吧「UNCOMMON Taipei」開幕！曼谷、新加坡酒吧人聯手打造成熟大人專屬夜生活 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DZC1IQkNpODkzdVJlcEJUdTh0M0JkZHF5dGVSY3NTYmpNR0Y1angySE5SZ0ZtUTR4Y3QwSEVPWC1PYlk3aGQydFgyMnFBZHJ6QXRFUEVWRmVSTVU3OGRTR2t3?oc=5)
   - 來源：Marie Claire 美麗佳人
   - 日期：2026-08-08T12:00:00+00:00
@@ -303,34 +327,34 @@
   - 來源：更生新聞網
   - 日期：2026-08-08T11:53:45+00:00
   - 命中關鍵字：觀光餐飲
-- [不被廚房框住的人生Le Café李尚耕把世界閱歷煮進每一道料理– 其它 - pronews.tw](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwd1RDdGlfbVI1ZVZkTGhmdFB4aHktUVhWSlczQkFyMmlTZTdmS203UWF3aXY0OVItY2dzSDhKR3RTSkY3MXpOUmdTOEJFdw?oc=5)
-  - 來源：pronews.tw
+- [不被廚房框住的人生Le Café李尚耕把世界閱歷煮進每一道料理– 其它 - 創新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwd1RDdGlfbVI1ZVZkTGhmdFB4aHktUVhWSlczQkFyMmlTZTdmS203UWF3aXY0OVItY2dzSDhKR3RTSkY3MXpOUmdTOEJFdw?oc=5)
+  - 來源：創新聞
   - 日期：2026-08-08T09:50:16+00:00
   - 命中關鍵字：世界料理
 - [王品挾兩大利多大漲 盤中擠下饗賓重返餐飲股王 漢來飆8.5%逼歷史新高 - 經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE45LTF4UGFwZmdkb181bVFJbVlQSHQtOGxicXVVcUJLNW95VHZHOGw5VkJaVVgwdEtBVVJmcGVkQ2lFNUROWkkxX3hmR3BGLVFJYVhhcnREUVdoZ9IBX0FVX3lxTE1fSEQtbGhETXJsYlRPVS1oOTlQSWprUWw0T0FSMHlxTkpzQ2EzTWJodVI2dEZtZWU1cHRMYm05Z1RHci01WHJ3Q0ZXYkxNN1E0M0diWWtxUzlsV21KTVc4?oc=5)
   - 來源：經濟日報
   - 日期：2026-08-08T09:00:00+00:00
   - 命中關鍵字：觀光餐飲
-- [澎湖打造海陸雙品牌2-1》嚴選在地頂級水產「澎湖優鮮」擦亮黃金招牌- 生活 - 自由時報](https://news.google.com/rss/articles/CBMiakFVX3lxTFBBRUJORE1HTTNnVkJtQ2E4clRNN2ZlWS1SeEZDOWpkQWNObV8wc0xRMVlBcFhLMWIzTXlwSzlaQ1NkdGFnc0lFTDRvV0tPRW9uOFNfY3hSdlZGWHlTZG1mak5iQUVIQW1wRVE?oc=5)
-  - 來源：自由時報
-  - 日期：2026-08-08T03:00:00+00:00
-  - 命中關鍵字：餐廳社群行銷
+- [中台灣觀光獲新加坡業者熱烈迴響！中市觀旅局整合星國觀光資源 - 更生新聞網](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxWkd3SzF5dE4yTXNmZkl0WVkzTjNjUVRjOHQtbnJUUDk3bG1SWEp4NkItQ2VUd3prbTlteUF5R0dqemZuemFEZ1Jn?oc=5)
+  - 來源：更生新聞網
+  - 日期：2026-08-08T05:35:47+00:00
+  - 命中關鍵字：美食趨勢
+- [帝王級食補端上餐桌 立馬吃一鍋團團甲魚鍋新品發表 - 勁報](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiS2wtQWR3eU1TNWZTb3EtQlV1YnphOS1ydUo3dTdWWWw4ODRKYjNlUEVNNVl2V2ZRTE4yMGdBRWNPUDJnYThBYkJRVkVhQXphOVlEdFphWTh1aEFTZjA4Z2lmZ1lPNVdOZ1c1Q1UwQQ?oc=5)
+  - 來源：勁報
+  - 日期：2026-08-07T18:11:30+00:00
+  - 命中關鍵字：餐飲行銷
 - [「啤酒節高繩門CITY2026」 - VISIT MINATO CITY](https://news.google.com/rss/articles/CBMiXkFVX3lxTE45OC1xblU2U3o2bGIwb0tSU3Jpb1dqak1IVmVYLS11RVJjZXhRY2ZaMlB1VzljNWxDWWxORnc3QkNyYVdnWkpsVHJvcTRNUHN4OTRYZ1ZVMzdBalpiWUE?oc=5)
   - 來源：VISIT MINATO CITY
   - 日期：2026-08-07T11:04:18+00:00
   - 命中關鍵字：精釀啤酒、啤酒節
+- [京鼎董事會通過泰國二期投資持續強化全球製造布局| 2026九合一選舉 - UDN](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fN3M4eF9CTzBtNzJ4MTNGX0hhMDRLeVl4cFBqU2hlbFRWV3NSQVdRWDR0U2Z2VURlY1VmSHBlbExWTk5MTWNvbGRsRVRpcnNMa2JwZ3VB?oc=5)
+  - 來源：UDN
+  - 日期：2026-08-07T11:02:49+00:00
+  - 命中關鍵字：啤酒餐廳
 - [假日約吃飯好累？Ｚ世代瘋「軟社交」 改約手作課、品鑑會，靠共同體驗真正充電 - DQ 地球圖輯隊](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1nVDVsdXlTQlhfakNzQXlaclVIYW9rd3g4czRRbklURnVzX0xGYVpaMEZJdTFpYjBRbEdUcTkzakZ2TTQ?oc=5)
   - 來源：DQ 地球圖輯隊
   - 日期：2026-08-07T08:36:52+00:00
   - 命中關鍵字：酒吧活動
-- [餐費最低只要8元！爸爸身分證「8」愈多折愈大 入場再送冰涼生啤酒 - 經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rMmgxRWhrUVZQeGhYY1hkdEpldEFCeHdTTFJRY2dhRUNUZHR1NlA5aF81R1VWdTRlSnNJV2FfOE42SE9qNUFvV1ZlMVc2SktyX1BoMHMzVThCMmpa0gFiQVVfeXFMTVgxRjFiS2VBUmhXU25QRnlFNlFqbTBhTWhJLTI0YndNUkRRdWc2Wjd2TUJBc3VUWWtDMG1FTm1EcXF3eXNPWnFiQjZCbGRXbkllZW11QUUwSUJmRERlWlBobUE?oc=5)
-  - 來源：經濟日報
-  - 日期：2026-08-07T08:01:20+00:00
-  - 命中關鍵字：啤酒餐廳
-- [韓國熱賣到不行：常陸野貓頭鷹雛菊愛爾啤酒登陸香港，跟著 GD 微醺！ - Popbee](https://news.google.com/rss/articles/CBMidEFVX3lxTE9iN3MydEtGSFZqbDRoU0tBQ1JWVmJSdGpUaEpzQk1yYkhlVHJ5NWY1RlpwczZldUdoQlJkcGttcmhwb0Z4U0NmNDR4cnZkcWVDcXR5U21aN2tKVXF4WFFLRWtVOUJLeTBSZUZIaFQ0QTNVazIz?oc=5)
-  - 來源：Popbee
-  - 日期：2026-08-07T06:39:40+00:00
-  - 命中關鍵字：精釀啤酒
 - [【迪士尼拚轉型】Disney+大升級！攜「這」短影音巨頭 擴大娛樂新霸業 - 三立新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZVjZiOHZ6bW51TE1MdU1NeVdrMVF6ckFseXpQM1Vycm1ZQW5QNUNZblpFOHR2MHZRS1Ntc3RJZXRtUzFaM1pISWdMNA?oc=5)
   - 來源：三立新聞
   - 日期：2026-08-07T06:05:24+00:00
@@ -343,68 +367,48 @@
   - 來源：鏡報
   - 日期：2026-08-07T06:05:00+00:00
   - 命中關鍵字：餐廳社群行銷
-- [平價也能吃到餐廳級德國豬腳 慢火現烤堅持打造松山區排隊美食 - Life 生活網](https://news.google.com/rss/articles/CBMimANBVV95cUxQVFNZcFJJNHdEdE5paVpucXJnZkNUMU9weERKVXRKLWRRZUVNY08wa1lWNm5wUVdUME11eVVyM3h6RFlXc1diUXExaU12d2ttanhhZUZVZXZrYjlXY3k2YlNXdi0wQkNwWHo4Q25NdllpcTRueWJSYmZWc25HNUtrUm12NXN1U1hlc01kQ0VoWWllbmt0SnltWjZoM1FQX293N2VzU3Z6VmlreXk3T1lHM3AzNDdLVmNoZjRjYWpVTVhxbHpPNnA1NmlLcEo2U1daZWFfSUp5UDZld2VtQ0UxMTRGQnR0ek41b19JQ1VvYWlUNDhlTEhVV2NaREc0TWJaVF9DVkZVT19nTElkQ0NhcWFobmw5RE5laTgwMkIzeTVxSlBudHRITU9JQVVUb0JfZXNnTG94MmJPT3ZYbnprY3hUTzJ6SHdOaFoySUx0ZC1tTWdDcXdfUmNYRkdpZ2JFUXVQc1hBRWNyVmg0YWxhQkdnbTVySUFBR3duQkFyS3hMdDY2RE9mV2NXOHJhLWF2SEJvNnZpcG0?oc=5)
-  - 來源：Life 生活網
-  - 日期：2026-08-07T02:47:35+00:00
-  - 命中關鍵字：餐廳社群行銷
-- [缺工、成本漲還能更賺 揭餐飲業上半年成長密碼 - Yahoo新聞](https://news.google.com/rss/articles/CBMixgJBVV95cUxPRHMzNTRTdmo5WmhlUTFYOXlFQTQyV3NNajIyY1BoNnE5NElDNmlBOU40S2tTWUg1azZXNEtIQloyOTl3ZjRSWDlOWG5vS3dVV2NXeGJfVXhXM0dwbDVNaWRfY09nU0x1a1hSSURmYjBSQXlsMVkwVzZnbmk4ZHJObXhPaXdVdURSWFJ0NlA2bHdVVndid1BhRWc0cTk1U1pMNVpYQ0pyZkZ4Z0prNEVoQ0xGLW1jd2tMbjAyLTk3VUZpampwSm00WTBpQWlYM1VZcjlOMHVoRVRndDlhY3c1ZUd5cm1ZaGIya016eGZDT0xqM3dUeTNNbnlrUE4yM1hCNHlOcWZDS3k4U1p6a3hSMjRYT0U1cW9oNUJsRS1xczFqLWdqTmdpdVptU3BPZmdYbzhOSml1MXJXMVZqTFkwT01NdWNQZw?oc=5)
-  - 來源：Yahoo新聞
-  - 日期：2026-08-07T01:43:33+00:00
+- [京都站萬怡酒店11/16開幕　走3分鐘到車站、享當日行李配送 - ETtoday旅遊雲](https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Ym5INVlpdlNIeWpEd0ExWVdhdjVHODJtZG5qQ2tYYXZBalpucG5XU1NnbkY2Rm1GSDV5VldEUDBWTnlEMHByZUg3Z1Y4NmZPZ0diRVRDdEJUUdIBT0FVX3lxTFBNTW1zYXRFbUVFckY4RW9lOVg1RGtubHQ4T2pTNU1Lb1Q4TUVueUdrU2JNLTNtMDAtWWY0OHF1cFlsWTE1M0xFT3NqLXhtMHc?oc=5)
+  - 來源：ETtoday旅遊雲
+  - 日期：2026-08-07T04:09:00+00:00
+  - 命中關鍵字：酒吧新開幕
+- [缺工、成本漲還能更賺 揭餐飲業上半年成長密碼 - 民報](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pc05GdDgzNFZTLXhLbXVRSmk3NGxNRjNWS0trRzAtTF9jc09jRm1BbEdzVnNRZWcyYXNwTjBtbkRmNXlSZ3A2MDBfeWg1bTBZbDBfUHctWURoOWNVU0V3M3h3ZE8?oc=5)
+  - 來源：民報
+  - 日期：2026-08-07T01:26:35+00:00
   - 命中關鍵字：台灣餐飲市場
 - [AFA Awards 首屆30強出爐奧丁丁、東聯互動等6家台企晉級9月台北角逐五大獎｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTFBEdEQ0OFl4ZXZWVExkaVktcDJkaTYyYjU1aUl3WHFQblVqbUJOYzhnVWVXOVpKdWFxMW5wVmpQSlpiNnlySXhodzJmWUQ4ZGdoMEtSZU1sS2w0TFdJZ1JMLU8zbG9nVHd3MzhpWS1IYmZwd0pnUWc?oc=5)
   - 來源：sinotrade.com.tw
   - 日期：2026-08-06T19:40:00+00:00
   - 命中關鍵字：會員經濟
-- [Costco日本製電飯鍋減25元 值得入嗎？這功能華人超愛 - 世界新聞網](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aODVMMFFWM3VleEg1c2loQTh4OEV3VG9qc3FjclNzd0lscW1FSEdKcFptQkNlV2lCOTNiZUdCd0phR1l0SFQ5WEZ4TDR3cWtiM1JGWkVtQUl2ZHhNVjgwcWRrTFFBeGvSAWdBVV95cUxOWjg1TDBRVjN1ZXhINXNpaEE4eDhFd1RvanNxY3JTc3dJbHFtRUhHSnBabUJDZVdpQjkzYmVHQndKYUdZdEhUOVhGeEw0d3FrYjNSRlpFbUFJdmR4TVY4MHFka0xRQXhr?oc=5)
-  - 來源：世界新聞網
-  - 日期：2026-08-06T18:25:44+00:00
-  - 命中關鍵字：世界料理
 - [零售、餐飲迎來Agentic AI！91APP 發表 AgentOne，AI 不只對話、更能執行任務｜商周 - 商周](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HeTZJb3F1WlZhRm4xVUs4VklwTjNTbEdmLVI4YW5TNnJ3QTZKRmpBT01TUTFyb1RaeTVxMUJBLXhWTWhsaUVXVHhlSmRROVNLbnJ0QUNxbXg0YnpPTmVnS0xCZTNwNldH?oc=5)
   - 來源：商周
   - 日期：2026-08-06T16:00:00+00:00
   - 命中關鍵字：餐飲會員
-- [涵蓋餐飲、日常消費及旅遊三大消費面向美國運通耀金卡全面升級核心權益- 商情 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rZWQydl9oRDZWVW5TYkxmTWNoLW5VN2Z6R2J6dC1rMU1MZXM3YmY2NkhsMm1YZUdvb2VUTEcyczc1QVpKTWdWaU52d1FBNVNldzBjVG1LQmw1czRFOEZv?oc=5)
-  - 來源：工商時報
-  - 日期：2026-08-06T13:29:00+00:00
-  - 命中關鍵字：餐飲會員
-- [經濟熱潮帶旺餐飲 王品、漢來美食上半年賺近1股本 - cna.com.tw](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MRkozbERxV3dYcW1IRkxNRUlkMnNSalJkWlo3VmVpb1RDSVkxSDNKVEF6WHhnU29PYnRVTUtIdlJXVk5TaWFlRU95enpTTlRvR0c4dWE0SUt6RXRycmc?oc=5)
-  - 來源：cna.com.tw
-  - 日期：2026-08-06T12:21:00+00:00
-  - 命中關鍵字：台灣餐飲市場
-- [「時光郵驛．情深傳遞」 高雄洲際展開七夕傳情任務 - 生活新聞 - PChome Online 新聞 - PChome Online新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXJ2V05JV05RYVNKUXpmX0dVMi1uVHV4LWoxamV1MmU0VXVhZUw0SzlZTVNMRmpaLVAxTWxPRW5jMjl4dnlNTUp1YUg5S0pqdmJrZkpreF9pWmlyRmpuVjVfYmFzSEdlNi1Ed1BWM1U0UnVWTVJJbGZHVEJEM1BLYUN6clFGYkVfaEEw?oc=5)
-  - 來源：PChome Online新聞
-  - 日期：2026-08-06T11:41:15+00:00
-  - 命中關鍵字：酒吧活動
-- [股民賺翻狂聚餐？王品上半年賺破8億元 年增25%創同期新高 - Yahoo股市](https://news.google.com/rss/articles/CBMigANBVV95cUxPSHlyb2JjalVoZE9QTFdUd2ZobkZqSlVKQXRlMDhLMGhuQ3kxYjZVRThRX0FkVFBaOEx5WWJWS2FTNFZuT1FUZ1hzUjFPb0wteDE4U2k5STVmSmJHZU5yYnRHaVY2cHNMZGlmQ3lCaWdaQUFMTmdoTEVXc0lFUjFZVmpoZWREc1FqaHk0bXhSRGtIRl8xVU5RN251bDl5c0VVNmhUeWItTWViZWprQjJWbU56Ql9VQm5TWDlTcUx5TUJBSU9YM3puMWF3OXJidVZ4SnZpUEQwOE5mTkFUQVBRbm9mYk4tYVVjbFhfMkwycFpKZEpzREQ4Wk5tNUpsV2dfUDlUZWwwVlJlNURJSjdpc2RldXR1VHNiSjNQeGJLU2dYRXZ6V3VlNDFfNW9CUkNqRDB2N29JdjVlNU1Hb0R2TVhOSVlndS1STGthUGtIWFVlR0kxd2RXaU9rTmZJQnU0alpMSTJwUG5mUjVzdzFna0NNNHFZaHVYOWZSTEFoV1I?oc=5)
-  - 來源：Yahoo股市
-  - 日期：2026-08-06T11:01:37+00:00
-  - 命中關鍵字：觀光餐飲
-- [走進「Polux」臺北店，與法籍頑童主廚 Paul Pairet 對談：「我不做妥協的美味」 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMQWhod3BHRmludzZmRUprdm9RckhzRFNPMTh1enVlMEJ1YV95b0ZGSTNnRlBwSGxpNlR0X0VXN0RDTzF3X2Y4NERPekQ5X2RIZE85cGkyaGRsLTJiUzhERlB3?oc=5)
-  - 來源：Marie Claire 美麗佳人
-  - 日期：2026-08-06T10:23:31+00:00
-  - 命中關鍵字：世界料理
+- [漢來美食財報／上半年 EPS 9.21元創新高 已逼近去年全年水準 - 經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fMzVwSWtQVFdqQVJMOUtwT2k5ZV9wUkpXaWZteGs2bWRCN2x4NWt4R3k1azFzZ2lFSWk3Mmt0MWF4SDNual8td0ZubDJHNkFUSndzU0E2akRUa1HSAWBBVV95cUxNbVNWM2FvakJJLTFxRGVvQThHT1pNa05FRGZadE9lTm95cVZFLXBkTl9NX0k4ak0xSkJhdVNPbm5UdmNCc280Z2tILWRhOVFKcklMVWVLRU5XVlR6ZFB3Z2o?oc=5)
+  - 來源：經濟日報
+  - 日期：2026-08-06T10:21:48+00:00
+  - 命中關鍵字：餐飲趨勢
 - [8月吃什麼｜古蹟餐廳「輝室」新廚上桌新派台灣菜、台中勤美洲際明娟樓12大手工港點品職人手藝、台北晶華酒店栢麗廳復刻日式屋台祭典 - Vogue Taiwan](https://news.google.com/rss/articles/CBMiakFVX3lxTE5MWk5QZGVZWEppeDVRcU5xVERsZTlqMDhFU0VGbXFJNjJ4ZDFzeHgtbEppMFV5aGZDREN1b2w1Z2NTVDlHTnpLcEpVOENwNzZGMk8yMWZzN25WRUlLRnBQZ3p1dkxWOUdLSXc?oc=5)
   - 來源：Vogue Taiwan
   - 日期：2026-08-06T10:14:31+00:00
   - 命中關鍵字：異國料理
-- [漢來美食上半年大賺9.21元 創歷史新高 - 自由財經](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMFJoM2h3b0tEZzRJR21xZk5PSlJzQ3VJbDBCWnNiV2x1cFBoWXctR2t4S2FYM0N2TlJZVmQxZUtCVEJ6bl92Q2tlVk9GcDBTN000M1B6NEgwREp4WFR3?oc=5)
-  - 來源：自由財經
-  - 日期：2026-08-06T10:07:13+00:00
-  - 命中關鍵字：餐飲趨勢
 - [人氣聚餐餐廳精選，燒肉火鍋異國料理一次滿足味蕾饗宴。|美食 - WalkerLand 窩客島](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HZnpJTGc3WmF6VDAtQm82WmZEMmQxR1c5ZU01SUpkd29sUXViWW9ERnVxRkdMQ1VLS0lWb0RURXZVSDdRRUktV2dEUHFTT0cwSWhFRzlEOXV0aDM5U0E?oc=5)
   - 來源：WalkerLand 窩客島
   - 日期：2026-08-06T07:30:00+00:00
   - 命中關鍵字：異國料理
+- [2026年8月壽星生日餐廳優惠！火鍋、燒烤、吃到飽，90+餐廳生日優惠一覽 - travel.yam.com](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXS2lRVUxjbmdhTEgzekx5Rm5PSk1yY1BXakh4VmMtQ2dJTjJGcC1fZ0w4c1RVN3RISGszUEtfa2pDbGptUzAtNkRIMDYtQQ?oc=5)
+  - 來源：travel.yam.com
+  - 日期：2026-08-06T07:00:00+00:00
+  - 命中關鍵字：餐飲會員
+- [日本「1款漢堡」賣1600元！日作家嚇傻直呼：不如中秋烤肉 - 民視財經網](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGWTNjQmdjVjhSR3prRkRvbGRTaW5wd2lhX3huNEM4NGdXZ0RhUzBhVWEtRklCM0pIVkRBOW81dzRYZWtWT1NCSE10Y2RmYXhMS0pER3JnX0hYNmlJcmdRT1FPcjdydw?oc=5)
+  - 來源：民視財經網
+  - 日期：2026-08-06T06:28:20+00:00
+  - 命中關鍵字：觀光餐飲
 - [美國運通耀金卡全面升級 全新金屬卡面結合多元回饋打造質感生活體驗 - 樂聯網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsZ0ljeS1WbkZkN1pTSUpOc2VpT2lDRVlXS0JJakd2THlBUzZTcEZmNXFVZTQ3U1E4ekgtVmxacXZHWkJUSUwxcGZJQQ?oc=5)
   - 來源：樂聯網
   - 日期：2026-08-06T04:24:00+00:00
   - 命中關鍵字：餐飲會員
-- [全家上半年每股賺3.69元 創同期次高 - 自由財經](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdTBXM3lscDl1YzNPMHVIU0lhZ2lpbHU1S096aGZsU0oxSUM1V09TTnhHa1RVTjFYc1ZLTTZyNXVHYWRaQ1VOREZjTzBESHJSdTd4TXh0QURjNjd0TTFN?oc=5)
-  - 來源：自由財經
-  - 日期：2026-08-06T02:19:35+00:00
-  - 命中關鍵字：會員經濟
-- [宜蘭頭城特色美食 澳式炸魚薯條打造當地異國海鮮料理新體驗 - Yahoo新聞](https://news.google.com/rss/articles/CBMimANBVV95cUxOdEQtdnVGb0JGYUFpZno5TGZ6TG1WMGhWQjYxd1dkb1dFWnhYU3R4dUtGUXFUR1JWdDN3V0Y4a2RDQjdJX3p6U1FrTDhzTVpobUI3THJwbThlaU1GakhDVVctakFGZ0hiamVEb1hVbjY3djhQSzVTMXozc0gwRjdjckJDdWdVRFVPQmh2eEdlTEJGNENSQnJsS05Ic2toWmU4U09vZllhY1l0c3FVUzB6YzZoM1BOWmlEd2J0ZHJiTklBQmwyVVlrNVhwQW14TzFIY2l1UXdJdXV6bU5XNXNlSTlqbGVOVTdOUnBvbGhMMzM5SFZqWmZ2b1BEV0xaMEkyTkJPUm93dDVxeUtCWmtmb2tpWDJLVFA3UGRVMG1UbGNOOG9VNzZmdFlXelEtcTgtRG9EQXFDS3F6NW1KSElkTGdyZG53OUs1bDNYc25iZ1R1LWEyZlhLTU9OYUNxcWRPcWJoWHBUckdjekNrb1k2RkxBSFYxM0pYelhlX3V2YnpFLWpWblc3UFV0OVU2OFNoWkg3ck5tWl8?oc=5)
-  - 來源：Yahoo新聞
+- [宜蘭頭城特色美食 澳式炸魚薯條打造當地異國海鮮料理新體驗 - tw.news.yahoo.com](https://news.google.com/rss/articles/CBMimANBVV95cUxOdEQtdnVGb0JGYUFpZno5TGZ6TG1WMGhWQjYxd1dkb1dFWnhYU3R4dUtGUXFUR1JWdDN3V0Y4a2RDQjdJX3p6U1FrTDhzTVpobUI3THJwbThlaU1GakhDVVctakFGZ0hiamVEb1hVbjY3djhQSzVTMXozc0gwRjdjckJDdWdVRFVPQmh2eEdlTEJGNENSQnJsS05Ic2toWmU4U09vZllhY1l0c3FVUzB6YzZoM1BOWmlEd2J0ZHJiTklBQmwyVVlrNVhwQW14TzFIY2l1UXdJdXV6bU5XNXNlSTlqbGVOVTdOUnBvbGhMMzM5SFZqWmZ2b1BEV0xaMEkyTkJPUm93dDVxeUtCWmtmb2tpWDJLVFA3UGRVMG1UbGNOOG9VNzZmdFlXelEtcTgtRG9EQXFDS3F6NW1KSElkTGdyZG53OUs1bDNYc25iZ1R1LWEyZlhLTU9OYUNxcWRPcWJoWHBUckdjekNrb1k2RkxBSFYxM0pYelhlX3V2YnpFLWpWblc3UFV0OVU2OFNoWkg3ck5tWl8?oc=5)
+  - 來源：tw.news.yahoo.com
   - 日期：2026-08-06T01:56:55+00:00
   - 命中關鍵字：異國料理
 - [啤酒升級，殺死精釀 - 富途牛牛](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vWmdMMnpabHpaMUsxSWk3X3ViNjBiWUU2REd2X3F1VFZXVmx3alVuRFFGdUpvUnZfM1pqRkY0SkNYeEpfVjlQZEJEVHN5TUlrMnc?oc=5)
@@ -415,40 +419,36 @@
   - 來源：食力 foodNEXT
   - 日期：2026-08-05T20:14:38+00:00
   - 命中關鍵字：台灣餐飲市場
-- [AMAZZING CLUB 9周年會員晚宴 從海洋到餐桌實踐永續 - 倡議家](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OUHpJRmhpMTlNZXc5Q1pXWVR1TzRGaVIyd0tDc3NPRl9uWk0yYUdxSGtBNWZCanpvbmRjLUF3elZQYXBKbzFfQ3dtUGpnam9FMXI1R2k2SnU0MGRLM1RPZEtVTXTSAWRBVV95cUxPTlB6SUZoaTE5TWV3OUNaV1lUdU80RmlSMndLQ3NzT0ZfblpNMmFHcUhrQTVmQmp6b25kYy1Bd3pWUGFwSm8xX0N3bVBqZ2pvRTFyNUdpNkp1NDBkSzNUT2RLVU10?oc=5)
-  - 來源：倡議家
-  - 日期：2026-08-05T16:00:00+00:00
-  - 命中關鍵字：餐飲會員
+- [漢來美食上半年大賺9.21元 創歷史新高 - 自由時報](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PMTNFMV9KOTNlejVUamJIR3RlWUU3YWZ3MHhLYndUaDdkY28xTUJoWks4OEtKR25TaXRudGhCX3h6YmhaS3VOWkl6UE9pdTJNbFBSTFlzNGU?oc=5)
+  - 來源：自由時報
+  - 日期：2026-08-05T19:07:00+00:00
+  - 命中關鍵字：餐飲趨勢
 - [共享單車不再拚低價？大陸三巨頭轉戰會員經濟 破解虧損困局 | 大陸政經 | 兩岸 - 經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ka0M3WEk4OHZZLVdjSkpiOWVsbG9abENqMlYwU2lRUGFvVnlJVzZOVXFIejZGa1o0YXpfZU16X3Zid2tiV1o4LXRQMzI1UlRKR0RuRlYtTWN1dw?oc=5)
   - 來源：經濟日報
   - 日期：2026-08-05T15:42:01+00:00
   - 命中關鍵字：會員經濟
-- [台北板橋馥華艾美酒店亮相！以策展概念串聯15位藝術家作品打造旅宿新風景 - 500輯](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ab0pFNjhOdDhPZFZiclV6RVVibjZiYzhjRGpRa3ZwemNTLWZQSzBBRW04WC1obkpUWXNnOG1uODV3S0dBMnpWTktDSVZ0bG9BdmUzZHJVSi1ISmVTRDE0RtIBZkFVX3lxTE1vTU54Ynk1ODBCY0IteHN3bnB0c290UEc2WVlFS3JmRDlmZE9CSkdaSm1PaXpWbUZxYzZ6Wk1ydHMtYXE5WlJtWGM1Y3VGd0dUUm1ENXhJNWVYc0tmc0lfazFqLWRldw?oc=5)
-  - 來源：500輯
-  - 日期：2026-08-05T08:48:29+00:00
-  - 命中關鍵字：酒吧新開幕
-- [這一鍋餐飲集團8月起寵粉會員 全台30間門市天天送雙人套餐 - Yahoo新聞](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOUlZIZWJ3Z1VjSFM4Ym1JTjRXSkpDeDJwYi1EdExJeFZCUzlNb3JUUWl1NXJuQXhuY2M4eTBCU2lPLUd5WEQtQjVUSTlHbktDTTVlclVwN19iWEkwVmtBV0l2aUpxUWVHT09EbFNpMkVVaU9sZW56YUM3UXFFM0hOMXNIR2dpTDNmbTJyZVVwbEQwRUUtcmtPX3duZmc3S1FjTGplVlN3UFhNX2Y4ZXRqXzVkZlBuQXNudGNRUUNFZlcweUVlWjRTR0dnRm0yUmFzYWZMa2NBY2lVRHJMeC1DS3FqQUdyTi1FdHBEQlVrRGVMa240dXF0LVF0dmYzdEIxb3hreEhCR1lJS1JIWVhCZEJXNkp0bUEwSWJfdG1BeW5SLU5jWWF3WVJDd1ZyNWJ0RThReXVyd3ZrUUk3UUo3VFVxMF9MNTZhYVQteGRvVkRwUUVlVERJdDVpcC1DU0ItZ1B3dHVJeGV2LWViWVZXcnVMTlBPWjNTamc?oc=5)
-  - 來源：Yahoo新聞
+- [【專題報導】萬興教會接待ILT 雙語繪本開啟對話 - 台灣教會公報新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EYTJ3Tld6OEdOZ2wzS3lMNE82Ymh4NGp3MDB6dGMwUmRSVVdSM1kwTGRfQ3BMX2lGVnlUM01sSElrbUpHd1pJanlPOA?oc=5)
+  - 來源：台灣教會公報新聞網
+  - 日期：2026-08-05T08:39:49+00:00
+  - 命中關鍵字：異國料理
+- [這一鍋餐飲集團8月起寵粉會員 全台30間門市天天送雙人套餐 - tw.news.yahoo.com](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOUlZIZWJ3Z1VjSFM4Ym1JTjRXSkpDeDJwYi1EdExJeFZCUzlNb3JUUWl1NXJuQXhuY2M4eTBCU2lPLUd5WEQtQjVUSTlHbktDTTVlclVwN19iWEkwVmtBV0l2aUpxUWVHT09EbFNpMkVVaU9sZW56YUM3UXFFM0hOMXNIR2dpTDNmbTJyZVVwbEQwRUUtcmtPX3duZmc3S1FjTGplVlN3UFhNX2Y4ZXRqXzVkZlBuQXNudGNRUUNFZlcweUVlWjRTR0dnRm0yUmFzYWZMa2NBY2lVRHJMeC1DS3FqQUdyTi1FdHBEQlVrRGVMa240dXF0LVF0dmYzdEIxb3hreEhCR1lJS1JIWVhCZEJXNkp0bUEwSWJfdG1BeW5SLU5jWWF3WVJDd1ZyNWJ0RThReXVyd3ZrUUk3UUo3VFVxMF9MNTZhYVQteGRvVkRwUUVlVERJdDVpcC1DU0ItZ1B3dHVJeGV2LWViWVZXcnVMTlBPWjNTamc?oc=5)
+  - 來源：tw.news.yahoo.com
   - 日期：2026-08-05T07:50:52+00:00
   - 命中關鍵字：餐飲會員
 - [First Watch餐飲集團2026年第2季財報：持續創新與市場佔有率提升！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWdTTG5XTXluUF94SENxUm1FMTd0REcxbzZLYmJVR0JWSXR6T1hjU1pKXzBnVEQ0aVMxMloxX3NlaXFKeXNlOW9NVEtmRlFHT3FyU0tveFJHM1ktNlh1aEdOOWRhU1hDVkNoejI2Ti03bjV2RGEwLU1UUllOS3dOR3ZDOW5QcFJ4UHpBcHFB?oc=5)
   - 來源：CMoney投資網誌
   - 日期：2026-08-05T04:35:37+00:00
   - 命中關鍵字：餐飲行銷
-- [7-ELEVEN 攜米其林泰菜名店推泰味新品星級饗宴年業績破35億元| 2026九合一選舉 - UDN](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TN1NkRENNMVBaa25LUkN6bGZVNGtaZGQ0b2lYaXBSR0hZYlpuWldvUF9uRWhZVVRPN1lZS1JCOXBFYktnV2pudkhvVjV6NTNscWM0cDVB?oc=5)
-  - 來源：UDN
-  - 日期：2026-08-05T03:44:53+00:00
-  - 命中關鍵字：異國料理
-- [2026東京惠比壽逛街攻略｜敘敘苑分店、啤酒博物館與夜景展望台必訪 - funliday.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYTNtU3JkV2hrMnNPLWtXZ3Q2Nm9lckZqa3NGem1QaElDUUdpVlBodXgzaUtJcjB4V016RFlzZzVMNUlDdFR6TFRWN3YzSE9lTFZEYzAyZmY0aXJOWEk5anRfYzdVVEtkb2JhSGp1bw?oc=5)
+- [2026東京酒吧10選｜The SG Club、Gen Yamamoto等必訪特色Bar一次看！ - funliday.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWnpQUkFKUUdsSW93ZWFuc3lhYXczcEVvYzF5M0l5cFZXcW9mY2I4cXJMXzdFYl85Wlp5TVh2VHNLQTByeG10YkVpYlg5WnF5MHRz?oc=5)
   - 來源：funliday.com
-  - 日期：2026-08-05T00:35:00+00:00
-  - 命中關鍵字：啤酒餐廳
+  - 日期：2026-08-05T01:00:00+00:00
+  - 命中關鍵字：酒吧新開幕
 - [2026新加坡米其林指南揭曉！45家餐廳上榜 江振誠再披廚師袍摘二星 - 知新聞](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nc2hpdVlsNXdnMXE3WDZVV0xsY2JhOGlQSko1MW05ekE1aWItQUhxZENyaTduYnM0ZDRaQmgtWXdTc2NXYjRZamRxMHhJS2puU21HUWR3Qi1PaF92dkRQT21MbFk5aWtpUW90QzlEbw?oc=5)
   - 來源：知新聞
   - 日期：2026-08-04T23:52:00+00:00
   - 命中關鍵字：啤酒餐廳
-- [討論牆 | 今年中秋最夯 台中林酒店【燒烤啤酒節】 - today.line.me](https://news.google.com/rss/articles/CBMid0FVX3lxTE41MmV0ZXAzalNCcmxOVUgtU0ZtRlZ3T2IwRFNBYVJ6RU1mT2NnTWpUbWsyTWJUdXNJSXY0Y3JuMUNJTk9EX2FaUXgwOEsyeHZLelg4QjM1T0tpX3ZGV1FwaXJ3V1g0dXlhZE9VVHJLdFpGeU02c05v?oc=5)
-  - 來源：today.line.me
+- [討論牆 | 今年中秋最夯 台中林酒店【燒烤啤酒節】 - LINE TODAY](https://news.google.com/rss/articles/CBMid0FVX3lxTE41MmV0ZXAzalNCcmxOVUgtU0ZtRlZ3T2IwRFNBYVJ6RU1mT2NnTWpUbWsyTWJUdXNJSXY0Y3JuMUNJTk9EX2FaUXgwOEsyeHZLelg4QjM1T0tpX3ZGV1FwaXJ3V1g0dXlhZE9VVHJLdFpGeU02c05v?oc=5)
+  - 來源：LINE TODAY
   - 日期：2026-08-04T15:38:48+00:00
   - 命中關鍵字：啤酒節
 - [三分天下！水果、精釀啤酒銷售翻倍竄升| 生活 - 三立新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0VMbWNQa3ZHUnZBd0Y1TGZzZ19NQnI4NEMxeWxfQXQ1NzdGYm02RkgzSkZ0RlBNX1BWUFFna3NFM0VkcmpUQk92WTRSUVdWcFY2UXRib3hvWWlmdktFUVdndGRvbzhLVE9yWEU5NDRleGxaT21ILWk2bEw1T2JITWNYSG1sRlFQR1hBMDJR?oc=5)
@@ -463,18 +463,10 @@
   - 來源：更生新聞網
   - 日期：2026-08-04T10:48:36+00:00
   - 命中關鍵字：餐飲行銷
-- [高雄暑假旅遊再添亮點　頂樓酒吧、雙城住房登場 - NOWnews今日新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5icTVoQ1FDNjYtOElpOFZwWGtvS2VvSUxlZUZfVzNLVnV4WGZweS02dkRZQ2ZMcmU1RWtfLUJrd1pzWUFFZktpT2dkbUvSAVJBVV95cUxNZjI3R28wTUJVcks0Mmdfc1dmV3UyZU9DR2tRbzJQQm1hZ2FvNGhqeXNZanphQW96Z2tDMmlNeXUwSXBsUTdKM2dITkpCZ1loVy1R?oc=5)
-  - 來源：NOWnews今日新聞
-  - 日期：2026-08-04T10:25:59+00:00
-  - 命中關鍵字：酒吧新開幕
 - [神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト](https://news.google.com/rss/articles/CBMid0FVX3lxTE9xY0RfcVd6aW1sbjNxM2pYTjZyaVBWNnFPY2phSFdUQ2Q1VGxLUTFVQ3BnRHdXOF9VLWwyM1dhbVFqQ0hZZkxJSktCOGFKMGNtcWZiMTkzbmxyMFpmYXZTb2FySU1DdmVoOU9abFdhNEl1LWJKTzlj?oc=5)
   - 來源：Feel KOBE 神戸公式観光サイト
   - 日期：2026-08-04T08:08:31+00:00
-  - 命中關鍵字：酒吧活動、精釀啤酒
-- [無酒精飲品也能喝出儀式感！「CharPard夏栢悅」三大風味系列一次認識 - ELLE](https://news.google.com/rss/articles/CBMidkFVX3lxTE1vX0hCdTl3WkQ5YlRWdURXTVhCS093RHEzLXQ4NUpHdzBJcGdlMVI1NzdwSjVXem1EUEs4eENZMFZ5Z0cteXhWc3dDNkRwYTBNM3YxNmMxODI3bUF3clROb1NoNHByclVITWViZ3BoVXFKQVZfOHc?oc=5)
-  - 來源：ELLE
-  - 日期：2026-08-04T07:53:19+00:00
-  - 命中關鍵字：餐飲趨勢
+  - 命中關鍵字：精釀啤酒
 - [Wingstop Q2 財報分析：銷售成長卻未達預期，忠誠計畫助力應對城市市場挑戰！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVk5SSGhwRkVncU1Tb1pKblhCSVFoYTBkcE56ekN0ZUR3SmdQbzA1YVRWQnZaa25EOVRNWi1nSzF0S0RvMVdmb1RLZXU4WjJHV1dnbnRBQmVQc0NtUVVkNXhySUhPbGNxQ0FQZHVKWUFFUlNRaEF4d1lpdVBITmxpT3FWSlEtZEU2X3plX2t3?oc=5)
   - 來源：CMoney投資網誌
   - 日期：2026-08-04T06:22:52+00:00
@@ -487,10 +479,6 @@
   - 來源：鉅亨網
   - 日期：2026-08-04T03:34:27+00:00
   - 命中關鍵字：餐飲趨勢
-- [來台國際旅客消費創新高 體驗型與獨立行成觀光新趨勢 - 財經新聞 - PChome Online 新聞 - PChome Online新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWTNoNzBBZWVFNmZHZGhVbXNNTjhQMkZ1REdEb2dHLWJJeE5CVFNVR205YjVzZ0VnLVlzQ3JQUTg4MC1PWWFMVlpwcXhXWmZQcEdHOXhWbnV3NVpKdmR3OGtJRVJFZUx4SE9rTkJnQTZ4UWEwbmlMZEkwT2Y3cDlIWXFUT09oT1BTcUVnZA?oc=5)
-  - 來源：PChome Online新聞
-  - 日期：2026-08-04T00:21:18+00:00
-  - 命中關鍵字：美食趨勢
 - [夏日醉FUN情報／中山站最新地標！金妮開箱KK Bar金酒吧 限定高粱調酒、聯名甜點一次收集 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TajBQbzY5QzlucnJhM044UHlpRzY5SWQ5WmNSNmNXSzdhRURpV3g0UF8yYU95OEx1RzVTZ1ZYYXp5Yy1kMXdlMnNxS1NIQ1BVNC1wS0lrZlZoaWM?oc=5)
   - 來源：鏡週刊Mirror Media
   - 日期：2026-08-03T23:00:00+00:00
@@ -499,67 +487,90 @@
   - 來源：客新聞 HakkaNews
   - 日期：2026-08-03T17:08:59+00:00
   - 命中關鍵字：美食趨勢
-- [智慧經營／饗賓餐旅集團董事長陳毅航 打造世界級餐飲品牌 - 經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83WkpCYTJqbVZjV1RtWDE5eDN1bmt2WURLTjhrSXl3RXNXbklFS056WXhWRmV6dnJsTEhBQV9zRTBaN3B3WUF4dmN6clZKdGpGWXpLRnRzN3JHNzdu0gFiQVVfeXFMT3M3cDA0Rzk2LTQza2hPVHliR0lObkQ1TV8wRGZmYWhVRWNvaXJZcUxZSkEySjRXeXV4QzdYYkhBVHF5SklXbVVoTHJabXRvaXdqNFBHelZ0cVhUbFRuTmw4Znc?oc=5)
-  - 來源：經濟日報
+- [藏壽司2027年開泰國首店| 2026九合一選舉 - UDN](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1ZE9ENnBJZTgzM2tEUEZVeXV4MDlvMTg4RHV0a0hlMGJiWm5JcVpib0pVY0NwZWRleXBaQ2tuOWhlMGhzWEc0MlhHY1YxLThSMml4OGt3?oc=5)
+  - 來源：UDN
+  - 日期：2026-08-03T16:33:58+00:00
+  - 命中關鍵字：啤酒餐廳
+- [飲料依糖量課稅、餐廳揭露營養資訊！阿聯酋健康政策如何走進人民餐桌？ - 食力 foodNEXT](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kX0F1TGwzOF9QUEhoekhJemNoUW84LW1QQk9pZjBaNU5rajBaMk0yQl9Ca21ydktIWV85NWVwdmhVaXlHb2RTQjhKU2R3WTF1UWk0SmxtdDVUWHZLQjJwTF8yeWxyYnNM?oc=5)
+  - 來源：食力 foodNEXT
+  - 日期：2026-08-03T16:04:21+00:00
+  - 命中關鍵字：餐廳社群行銷
+- [智慧經營／饗賓餐旅集團董事長陳毅航打造世界級餐飲品牌| 2026九合一選舉 - UDN](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjam9wcWFKMTBLUTIyZ3kzMUlNYi1BLU5vWHRLdE1mVkp4SWM0UFJ3NWZwNnM0TlNNaE1TTFdOWHlWSjJhU0xRMDk5cGhIYm5USUhyQXFB?oc=5)
+  - 來源：UDN
   - 日期：2026-08-03T16:03:21+00:00
-  - 命中關鍵字：世界料理
-- [[台北城東凱悅尚萃酒店812大徵才] - 1111.com.tw](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zOWJNSk5rdGRTeWgzSG9sbENCYWZpalNHelFfQmQxYTB1RlpOa2Ntb2MxUDYwaTVXNU9jZFp5ZzQ2R2M5Qk9aRkNQMFpRbHdjVEHSAVJBVV95cUxPMzliTUpOa3RkU3loM0hvbGxDQmFmaWpTR3pRX0JkMWEwdUZaTmtjbW9jMVA2MGk1VzVPY2RaeWc0NkdjOUJPWkZDUDBaUWx3Y1RB?oc=5)
-  - 來源：1111.com.tw
-  - 日期：2026-08-03T08:40:00+00:00
-  - 命中關鍵字：酒吧新開幕
-- [「台北板橋馥華艾美」開幕實景：高空泳池、101景觀房、餐廳酒吧與藝術亮點 - ELLE](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFlhbzZTRHFWampwLXo1RzFaRDBrdUpYMXlxU1VJTTRRczJFSFZPR21IZzJjektzRTZUdU1jYVFuTUdfOHpiWUlfQi1BbWN0LWxyZl9RcXNpVmYxNUVFZlhwMEhfTzgzeF9xWTd5bGJULWNMdEZ3VklOTU5NQWwtMlNGSGw?oc=5)
-  - 來源：ELLE
-  - 日期：2026-08-03T07:00:00+00:00
-  - 命中關鍵字：酒吧新開幕
-- [慕尼黑啤酒節2026 in 芝公園 - GO TOKYO, The Official Tokyo Travel Guide](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxRTdZWHdVZ01MUFliT1BIOHUxZzJ3Rk1pM0dfaUdRbHV3bkZnVkw5TVY2UExIbVNHZm5NNTZRMFR3UUViUUotTTdLVFA1U2w5ZURobGRaZV8wbEJP?oc=5)
-  - 來源：GO TOKYO, The Official Tokyo Travel Guide
-  - 日期：2026-08-03T07:00:00+00:00
-  - 命中關鍵字：啤酒節
-- [環球廚藝挑戰賽 中信科大餐飲系勇奪6面獎牌 - cna.com.tw](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1bHhHekM0Ym9tcmlXVFFTaXhYSzN2N2twTjFrOHVBOW0xcVI0dTd4ZUxkeFJaWnp0NHZhZThLLVlwMzZrc3h1cXdVbmhwSng1WnptTVNR?oc=5)
-  - 來源：cna.com.tw
-  - 日期：2026-08-03T06:19:37+00:00
-  - 命中關鍵字：餐飲趨勢
-- [台灣會員經濟兩極化：七成企業重壓CRM，僅一成五真正靠會員賺到錢 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qMnE5WGFDRXJYUVQ5NHhRRHo5ZVNWci1tWHA4XzBOSVR0QWltTldaQVpOZks3MVpITzBMbUJpQm55Q1VOSXRxUzRGU3pUNHBDQnc?oc=5)
-  - 來源：蕃新聞
-  - 日期：2026-08-03T05:55:00+00:00
-  - 命中關鍵字：會員經濟
-- [北京酒吧推AI新玩法　消費即送DeepSeek V4 Flash無限API - ETtoday AI科技](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0cW5BVnFQbnVFek15Ul9nLXpQWGNoREdQQ0N0M2xobFFrRXpKdk9vVHpDQURzT29DNXFCNnEwNE5BWVdGTnJxMmUxUdIBSkFVX3lxTE9kMXdPZEp1dGhnT0NDT050NEhNbWQzRElZLVhGOWM3dTZlNy1sUzhtZUdpVVZxU3gweGdRVE5PZEtieVY0MnFjX2Zn?oc=5)
-  - 來源：ETtoday AI科技
-  - 日期：2026-08-03T04:51:00+00:00
-  - 命中關鍵字：酒吧活動
-- [總統接見台灣廚藝美食協會 肯定臺灣餐飲人才實力 盼持續以臺灣好滋味讓世界回味無窮 - president.gov.tw](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iWGJoR3NQYllzU28wMHhadllCOXEyYkY5UnFxeUpaQ013VVFEdld5akN2enYtd0prcGhrMGVLYTFMdEowQ2VOZzg2X1BEMGgx?oc=5)
-  - 來源：president.gov.tw
-  - 日期：2026-08-03T04:00:17+00:00
-  - 命中關鍵字：觀光餐飲
-- [【餐飲IP聯名熱1】不僅K董愛聯名！餐飲業也瘋IP經濟 最高業績增一倍 - Yahoo股市](https://news.google.com/rss/articles/CBMitANBVV95cUxNLVZ5eDFzN1VUMURUbnJTaTlQamE3cTBWZEFWTjNBTmJsck9rUURSaWNnODB3Z0prVE9sdllBM1MtY2lPOUNsOUFNS3hLc21mQVBDLUI4WkY0WXE5Q2RVYk5Jd2xjN3lYcVUxd0d5UjNrY0JKWWVSMFY1OFVYanl1MS1oejdmVEFldFplSTk5RV9vME9BeWU3SDJfeGZXdzBjbnYwOF9Celo4M2g0RGI0X215RTVMdzRfSUhuQWNpX1dXa21Rb3E1YXdPellxUnR2U0MwWlNyckxZWkxKZmltd3Y1Uk1zSjUwaUY0T0JXcC13Ny05OE52dGxjbjg1VXZiV0NtQzhYT0EydDlqOGMxMTE1Uzh0NEtzbU93QU9JMlpmMnE2MEhDV1BiRnBiVVNvTjBnNnR2MWNwR0JINk9vYW14U2ZZZTgtZENtaERQWFhkX2pOTHR0b2p0UlhpMV9Gd0kyZU50Vk0yeThFUW9IcDVZLXFSSlN4T3dncjZFNzJYMHlsMXdxTlpzQ0dscVFhdldyY01HR3VLY09jNlR1V2ZXU0ZSUEJ1N3Exc1NXYkZiNzZE?oc=5)
-  - 來源：Yahoo股市
-  - 日期：2026-08-03T03:09:15+00:00
-  - 命中關鍵字：餐飲行銷
-- [高雄加盟展聚焦AI應用 智慧加盟成創業新趨勢 | 熱門亮點 | 商情 - 經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCcENHSTBGcF9VLXptQUtlTzZnbUE1ZFFlYTA2WkQ2YjVQQnBuOXo1dVg5NG1iUlQxR3drQ0ZhdVdsQ25nREZoSmo2VE51RkVkT1ZGRXFTSGJYZw?oc=5)
-  - 來源：經濟日報
-  - 日期：2026-08-03T02:01:42+00:00
-  - 命中關鍵字：餐飲趨勢
-- [商業署「臺灣好食館」進駐美食展 集結32品牌展現臺灣餐飲創新實力 | 熱門亮點 | 商情 - 經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiSnYzdnU0eGZGRzM5UjB4S2VVWkpJSm5ObWE1ZWdObHVXWkVaekN4WmtTUXU5bHpzcmFPbnR4c2tyZzNVNTlzb2NvdFFWVXJNcHZJNlk1ZXFpUQ?oc=5)
-  - 來源：經濟日報
-  - 日期：2026-08-03T02:01:37+00:00
-  - 命中關鍵字：餐飲行銷、台灣餐飲市場
+  - 命中關鍵字：台灣餐飲市場
 
 ### 第二層：AI 智能篩選
+- 每股配6.8元的它 前7月營收也不俗 - 三立新聞
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
+- 屏東旅遊購GO節登錄破5600萬！抽出第3台百萬汽車 - 中華新聞雲／中華日報
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
+- 曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際 - cna.com.tw
+  - 是否值得閱讀：是
+  - 評分：4 / 5
+  - 分類：競品異動
+  - 理由：命中 啤酒餐廳，且與「競品異動」高度相關，值得優先閱讀。
+- 從在地餐桌到世界舞台 專訪「予島 YuDao」主廚楊柏偉 - 環境資訊中心
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- KPMF高雄公園音樂節8/15售票！SUPER JUNIOR-K.R.Y.、盧廣仲開唱，票價、座位圖、卡司陣容一次看 - 商周
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 啤酒節，可作為「精釀啤酒」的輔助觀察。
+- Hotel MVSA 攜手燈燈庵 推出兩款中秋限定禮盒 一次收藏兩種世界餐桌文化的中秋心意 - 台灣民眾電子報
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- 炎夏最消暑！人間粉雪天堂，來計畫冬天前進日本長野 Hakuba Valley 滑雪之旅吧 - TRAVELER Luxe旅人誌
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：競品異動
+  - 理由：命中 精釀酒吧，可作為「競品異動」的輔助觀察。
+- 全家餐飲今年二度調薪！8月平均加薪5％ 新手起薪3.8萬元 | 經濟日報 - LINE TODAY
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
+- 海峽會廚藝總監赴馬參賽 勇奪國際廚藝競賽五項殊榮 - Taiwan News
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- 韓流教父 GD 權志龍代言！常陸野貓頭鷹「雛菊愛爾啤酒」登陸惠康 - RePlayHK
+  - 是否值得閱讀：是
+  - 評分：4 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。
+- 韓國農林畜產食品部與aT攜手參展2026香港美食商貿博覽 - 國際新聞 - PChome Online 新聞 - PChome Online新聞
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
 - 宜家擴大二手轉售業務 吸引撿便宜族與設計迷 - Business Insider Taiwan
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 顧客忠誠計畫，可作為「會員經濟」的輔助觀察。
-- 《藍色監獄》高橋文哉7件事：令和第一假面騎士、有廚師證照，足球苦練一年完美開踢 - Bella.tw儂儂
+- 客家水粄 by Sharon Wu - 愛料理
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
+- 飛捷Q3接單能見度明朗 拉貨力道顯著優於去年同期 - TradingView
   - 是否值得閱讀：否
   - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
-- 客家水粄 by Sharon Wu - icook.tw
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
 - 新埔打鐵坑美食旅遊新提案 走進百年老宅嚐新竹傳統客家菜 順遊果園、農場與歷史景點 - Life 生活網
   - 是否值得閱讀：否
   - 評分：2 / 5
@@ -570,21 +581,21 @@
   - 評分：3 / 5
   - 分類：世界料理趨勢
   - 理由：命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。
-- 天母啤酒節登場 全球32家酒廠共襄盛舉 - 台視全球資訊網
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。
-- 深化日本市場國際行銷 台中攜星宇航空邀KOL踩線推廣中台灣觀光 - taichung.gov.tw
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：市場情報
-  - 理由：命中 觀光餐飲，可作為「市場情報」的輔助觀察。
+- 酒吧老闆收編浪喵後「來應徵的員工全是貓咪」 客人讚爆：來這不喝酒只擼毛孩 - pets.udn.com
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
 - 台灣名店／良食美景　「餐」透細膩 - 鏡週刊Mirror Media
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：競品異動
   - 理由：命中 啤酒餐廳，可作為「競品異動」的輔助觀察。
+- 王品上半年EPS衝上9.86元！Q2營收獲利雙創新高，品牌矩陣如何跑贏餐飲大盤？ - tw.news.yahoo.com
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：市場情報
+  - 理由：命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。
 - 臺北新酒吧「UNCOMMON Taipei」開幕！曼谷、新加坡酒吧人聯手打造成熟大人專屬夜生活 - Marie Claire 美麗佳人
   - 是否值得閱讀：是
   - 評分：4 / 5
@@ -595,7 +606,7 @@
   - 評分：2 / 5
   - 分類：市場情報
   - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
-- 不被廚房框住的人生Le Café李尚耕把世界閱歷煮進每一道料理– 其它 - pronews.tw
+- 不被廚房框住的人生Le Café李尚耕把世界閱歷煮進每一道料理– 其它 - 創新聞
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：世界料理趨勢
@@ -605,31 +616,31 @@
   - 評分：2 / 5
   - 分類：市場情報
   - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
-- 澎湖打造海陸雙品牌2-1》嚴選在地頂級水產「澎湖優鮮」擦亮黃金招牌- 生活 - 自由時報
+- 中台灣觀光獲新加坡業者熱烈迴響！中市觀旅局整合星國觀光資源 - 更生新聞網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
+- 帝王級食補端上餐桌 立馬吃一鍋團團甲魚鍋新品發表 - 勁報
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：行銷靈感
-  - 理由：命中 餐廳社群行銷，可作為「行銷靈感」的輔助觀察。
+  - 理由：命中 餐飲行銷，可作為「行銷靈感」的輔助觀察。
 - 「啤酒節高繩門CITY2026」 - VISIT MINATO CITY
   - 是否值得閱讀：是
   - 評分：5 / 5
   - 分類：精釀啤酒
   - 理由：命中 精釀啤酒、啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。
+- 京鼎董事會通過泰國二期投資持續強化全球製造布局| 2026九合一選舉 - UDN
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：競品異動
+  - 理由：命中 啤酒餐廳，可作為「競品異動」的輔助觀察。
 - 假日約吃飯好累？Ｚ世代瘋「軟社交」 改約手作課、品鑑會，靠共同體驗真正充電 - DQ 地球圖輯隊
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：行銷靈感
   - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
-- 餐費最低只要8元！爸爸身分證「8」愈多折愈大 入場再送冰涼生啤酒 - 經濟日報
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：競品異動
-  - 理由：命中 啤酒餐廳，且與「競品異動」高度相關，值得優先閱讀。
-- 韓國熱賣到不行：常陸野貓頭鷹雛菊愛爾啤酒登陸香港，跟著 GD 微醺！ - Popbee
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。
 - 【迪士尼拚轉型】Disney+大升級！攜「這」短影音巨頭 擴大娛樂新霸業 - 三立新聞
   - 是否值得閱讀：是
   - 評分：3 / 5
@@ -645,12 +656,12 @@
   - 評分：2 / 5
   - 分類：行銷靈感
   - 理由：命中 餐廳社群行銷，但目前訊號較弱，可低優先追蹤。
-- 平價也能吃到餐廳級德國豬腳 慢火現烤堅持打造松山區排隊美食 - Life 生活網
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐廳社群行銷，但目前訊號較弱，可低優先追蹤。
-- 缺工、成本漲還能更賺 揭餐飲業上半年成長密碼 - Yahoo新聞
+- 京都站萬怡酒店11/16開幕　走3分鐘到車站、享當日行李配送 - ETtoday旅遊雲
+  - 是否值得閱讀：是
+  - 評分：4 / 5
+  - 分類：競品異動
+  - 理由：命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。
+- 缺工、成本漲還能更賺 揭餐飲業上半年成長密碼 - 民報
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：市場情報
@@ -660,67 +671,42 @@
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 會員經濟，可作為「會員經濟」的輔助觀察。
-- Costco日本製電飯鍋減25元 值得入嗎？這功能華人超愛 - 世界新聞網
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
 - 零售、餐飲迎來Agentic AI！91APP 發表 AgentOne，AI 不只對話、更能執行任務｜商周 - 商周
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 餐飲會員，可作為「會員經濟」的輔助觀察。
-- 涵蓋餐飲、日常消費及旅遊三大消費面向美國運通耀金卡全面升級核心權益- 商情 - 工商時報
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：會員經濟
-  - 理由：命中 餐飲會員，可作為「會員經濟」的輔助觀察。
-- 經濟熱潮帶旺餐飲 王品、漢來美食上半年賺近1股本 - cna.com.tw
+- 漢來美食財報／上半年 EPS 9.21元創新高 已逼近去年全年水準 - 經濟日報
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：市場情報
-  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
-- 「時光郵驛．情深傳遞」 高雄洲際展開七夕傳情任務 - 生活新聞 - PChome Online 新聞 - PChome Online新聞
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
-- 股民賺翻狂聚餐？王品上半年賺破8億元 年增25%創同期新高 - Yahoo股市
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
-- 走進「Polux」臺北店，與法籍頑童主廚 Paul Pairet 對談：「我不做妥協的美味」 - Marie Claire 美麗佳人
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
 - 8月吃什麼｜古蹟餐廳「輝室」新廚上桌新派台灣菜、台中勤美洲際明娟樓12大手工港點品職人手藝、台北晶華酒店栢麗廳復刻日式屋台祭典 - Vogue Taiwan
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：世界料理趨勢
   - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
-- 漢來美食上半年大賺9.21元 創歷史新高 - 自由財經
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
 - 人氣聚餐餐廳精選，燒肉火鍋異國料理一次滿足味蕾饗宴。|美食 - WalkerLand 窩客島
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：世界料理趨勢
   - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
+- 2026年8月壽星生日餐廳優惠！火鍋、燒烤、吃到飽，90+餐廳生日優惠一覽 - travel.yam.com
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：會員經濟
+  - 理由：命中 餐飲會員，可作為「會員經濟」的輔助觀察。
+- 日本「1款漢堡」賣1600元！日作家嚇傻直呼：不如中秋烤肉 - 民視財經網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
 - 美國運通耀金卡全面升級 全新金屬卡面結合多元回饋打造質感生活體驗 - 樂聯網
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 餐飲會員，可作為「會員經濟」的輔助觀察。
-- 全家上半年每股賺3.69元 創同期次高 - 自由財經
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：會員經濟
-  - 理由：命中 會員經濟，可作為「會員經濟」的輔助觀察。
-- 宜蘭頭城特色美食 澳式炸魚薯條打造當地異國海鮮料理新體驗 - Yahoo新聞
+- 宜蘭頭城特色美食 澳式炸魚薯條打造當地異國海鮮料理新體驗 - tw.news.yahoo.com
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：世界料理趨勢
@@ -735,22 +721,22 @@
   - 評分：3 / 5
   - 分類：市場情報
   - 理由：命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。
-- AMAZZING CLUB 9周年會員晚宴 從海洋到餐桌實踐永續 - 倡議家
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。
+- 漢來美食上半年大賺9.21元 創歷史新高 - 自由時報
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
 - 共享單車不再拚低價？大陸三巨頭轉戰會員經濟 破解虧損困局 | 大陸政經 | 兩岸 - 經濟日報
   - 是否值得閱讀：是
   - 評分：4 / 5
   - 分類：會員經濟
   - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
-- 台北板橋馥華艾美酒店亮相！以策展概念串聯15位藝術家作品打造旅宿新風景 - 500輯
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：競品異動
-  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
-- 這一鍋餐飲集團8月起寵粉會員 全台30間門市天天送雙人套餐 - Yahoo新聞
+- 【專題報導】萬興教會接待ILT 雙語繪本開啟對話 - 台灣教會公報新聞網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
+- 這一鍋餐飲集團8月起寵粉會員 全台30間門市天天送雙人套餐 - tw.news.yahoo.com
   - 是否值得閱讀：是
   - 評分：4 / 5
   - 分類：會員經濟
@@ -760,22 +746,17 @@
   - 評分：3 / 5
   - 分類：行銷靈感
   - 理由：命中 餐飲行銷，可作為「行銷靈感」的輔助觀察。
-- 7-ELEVEN 攜米其林泰菜名店推泰味新品星級饗宴年業績破35億元| 2026九合一選舉 - UDN
+- 2026東京酒吧10選｜The SG Club、Gen Yamamoto等必訪特色Bar一次看！ - funliday.com
   - 是否值得閱讀：是
   - 評分：3 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
-- 2026東京惠比壽逛街攻略｜敘敘苑分店、啤酒博物館與夜景展望台必訪 - funliday.com
-  - 是否值得閱讀：是
-  - 評分：4 / 5
   - 分類：競品異動
-  - 理由：命中 啤酒餐廳，且與「競品異動」高度相關，值得優先閱讀。
+  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
 - 2026新加坡米其林指南揭曉！45家餐廳上榜 江振誠再披廚師袍摘二星 - 知新聞
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：競品異動
   - 理由：命中 啤酒餐廳，可作為「競品異動」的輔助觀察。
-- 討論牆 | 今年中秋最夯 台中林酒店【燒烤啤酒節】 - today.line.me
+- 討論牆 | 今年中秋最夯 台中林酒店【燒烤啤酒節】 - LINE TODAY
   - 是否值得閱讀：是
   - 評分：4 / 5
   - 分類：精釀啤酒
@@ -795,21 +776,11 @@
   - 評分：2 / 5
   - 分類：行銷靈感
   - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
-- 高雄暑假旅遊再添亮點　頂樓酒吧、雙城住房登場 - NOWnews今日新聞
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：競品異動
-  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
 - 神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト
   - 是否值得閱讀：是
   - 評分：5 / 5
-  - 分類：行銷靈感
-  - 理由：命中 酒吧活動、精釀啤酒，且與「行銷靈感」高度相關，值得優先閱讀。
-- 無酒精飲品也能喝出儀式感！「CharPard夏栢悅」三大風味系列一次認識 - ELLE
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
+  - 分類：精釀啤酒
+  - 理由：命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。
 - Wingstop Q2 財報分析：銷售成長卻未達預期，忠誠計畫助力應對城市市場挑戰！ - CMoney投資網誌
   - 是否值得閱讀：是
   - 評分：4 / 5
@@ -825,11 +796,6 @@
   - 評分：2 / 5
   - 分類：市場情報
   - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
-- 來台國際旅客消費創新高 體驗型與獨立行成觀光新趨勢 - 財經新聞 - PChome Online 新聞 - PChome Online新聞
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。
 - 夏日醉FUN情報／中山站最新地標！金妮開箱KK Bar金酒吧 限定高粱調酒、聯名甜點一次收集 - 鏡週刊Mirror Media
   - 是否值得閱讀：否
   - 評分：2 / 5
@@ -840,61 +806,21 @@
   - 評分：2 / 5
   - 分類：世界料理趨勢
   - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
-- 智慧經營／饗賓餐旅集團董事長陳毅航 打造世界級餐飲品牌 - 經濟日報
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，可作為「世界料理趨勢」的輔助觀察。
-- [台北城東凱悅尚萃酒店812大徵才] - 1111.com.tw
+- 藏壽司2027年開泰國首店| 2026九合一選舉 - UDN
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：競品異動
-  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
-- 「台北板橋馥華艾美」開幕實景：高空泳池、101景觀房、餐廳酒吧與藝術亮點 - ELLE
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：競品異動
-  - 理由：命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。
-- 慕尼黑啤酒節2026 in 芝公園 - GO TOKYO, The Official Tokyo Travel Guide
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。
-- 環球廚藝挑戰賽 中信科大餐飲系勇奪6面獎牌 - cna.com.tw
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
-- 台灣會員經濟兩極化：七成企業重壓CRM，僅一成五真正靠會員賺到錢 - 蕃新聞
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
-- 北京酒吧推AI新玩法　消費即送DeepSeek V4 Flash無限API - ETtoday AI科技
+  - 理由：命中 啤酒餐廳，可作為「競品異動」的輔助觀察。
+- 飲料依糖量課稅、餐廳揭露營養資訊！阿聯酋健康政策如何走進人民餐桌？ - 食力 foodNEXT
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：行銷靈感
-  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
-- 總統接見台灣廚藝美食協會 肯定臺灣餐飲人才實力 盼持續以臺灣好滋味讓世界回味無窮 - president.gov.tw
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
-- 【餐飲IP聯名熱1】不僅K董愛聯名！餐飲業也瘋IP經濟 最高業績增一倍 - Yahoo股市
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
-- 高雄加盟展聚焦AI應用 智慧加盟成創業新趨勢 | 熱門亮點 | 商情 - 經濟日報
+  - 理由：命中 餐廳社群行銷，但目前訊號較弱，可低優先追蹤。
+- 智慧經營／饗賓餐旅集團董事長陳毅航打造世界級餐飲品牌| 2026九合一選舉 - UDN
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：市場情報
-  - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
-- 商業署「臺灣好食館」進駐美食展 集結32品牌展現臺灣餐飲創新實力 | 熱門亮點 | 商情 - 經濟日報
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐飲行銷、台灣餐飲市場，且與「行銷靈感」高度相關，值得優先閱讀。
+  - 理由：命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。
 
 ### 第三層：戰情報告
 #### 1. 「啤酒節高繩門CITY2026」 - VISIT MINATO CITY
@@ -913,14 +839,14 @@
 - 原文：https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0VMbWNQa3ZHUnZBd0Y1TGZzZ19NQnI4NEMxeWxfQXQ1NzdGYm02RkgzSkZ0RlBNX1BWUFFna3NFM0VkcmpUQk92WTRSUVdWcFY2UXRib3hvWWlmdktFUVdndGRvbzhLVE9yWEU5NDRleGxaT21ILWk2bEw1T2JITWNYSG1sRlFQR1hBMDJR?oc=5
 
 #### 4. 神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト
-- 摘要：這則新聞聚焦於「神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト」，可放在 行銷靈感、精釀啤酒 脈絡下觀察。神戶精釀啤酒街 - 夜間活動 - #yakei_site_title&nbsp;&nbsp;Feel KOBE 神戸公式観光サイト
-- 對 ABV 的可能影響：可延伸為社群貼文、短影音或節慶活動主題，協助 ABV 提高內容新鮮度。本則可從「酒吧活動、精釀啤酒」切入。
+- 摘要：這則新聞聚焦於「神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト」，可放在 精釀啤酒 脈絡下觀察。神戶精釀啤酒街 - 夜間活動 - #yakei_site_title&nbsp;&nbsp;Feel KOBE 神戸公式観光サイト
+- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。
 - 原文：https://news.google.com/rss/articles/CBMid0FVX3lxTE9xY0RfcVd6aW1sbjNxM2pYTjZyaVBWNnFPY2phSFdUQ2Q1VGxLUTFVQ3BnRHdXOF9VLWwyM1dhbVFqQ0hZZkxJSktCOGFKMGNtcWZiMTkzbmxyMFpmYXZTb2FySU1DdmVoOU9abFdhNEl1LWJKTzlj?oc=5
 
-#### 5. 天母啤酒節登場 全球32家酒廠共襄盛舉 - 台視全球資訊網
-- 摘要：這則新聞聚焦於「天母啤酒節登場 全球32家酒廠共襄盛舉 - 台視全球資訊網」，可放在 精釀啤酒 脈絡下觀察。天母啤酒節登場 全球32家酒廠共襄盛舉&nbsp;&nbsp;台視全球資訊網
-- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。
-- 原文：https://news.google.com/rss/articles/CBMifEFVX3lxTE11eEtyVlhNWmhJdVd2d2tQSVdGd0cxZ0RTaDlycHZESGQtbVpremlDUE4tNEFBYlYyajRmTUQ5aGVvMjNfNm55Mi0tM0tVM2swUUZpdjlWNXM4Sm4xWjgyeUxvcHlKUkdUbVNMVy1xbDFNT2N0X2VhdmlMdTI?oc=5
+#### 5. 曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際 - cna.com.tw
+- 摘要：這則新聞聚焦於「曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際 - cna.com.tw」，可放在 競品異動 脈絡下觀察。曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際&nbsp;&nbsp;cna.com.tw
+- 對 ABV 的可能影響：可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「啤酒餐廳」切入。
+- 原文：https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSnpKY1FSZDdoMnY0YVBldU40X3JtMEx3eTNId1J1R085dlU3Vm5SYXU0TW1fRVAyTnVJZlgwb2dRWkJDVHo4SFNqUGczamE4aHBpakZuc3VTTllrbzl3?oc=5
 
 ### 第四層：社群內容靈感池
 #### 「啤酒節高繩門CITY2026」 - VISIT MINATO CITY
@@ -943,42 +869,42 @@
 
 #### 神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト
 - FB/IG 貼文角度：用「神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 行銷靈感？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「行銷靈感」相關的餐酒體驗或活動。
-- SEO 文章題目：行銷靈感趨勢怎麼看？從「神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト」看餐酒館內容與選品機會
-
-#### 天母啤酒節登場 全球32家酒廠共襄盛舉 - 台視全球資訊網
-- FB/IG 貼文角度：用「天母啤酒節登場 全球32家酒廠共襄盛舉 - 台視全球資訊網」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
-- SEO 文章題目：精釀啤酒趨勢怎麼看？從「天母啤酒節登場 全球32家酒廠共襄盛舉 - 台視全球資訊網」看餐酒館內容與選品機會
+- SEO 文章題目：精釀啤酒趨勢怎麼看？從「神戶精釀啤酒街 - 夜間活動 - #yakei_site_title - Feel KOBE 神戸公式観光サイト」看餐酒館內容與選品機會
+
+#### 曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際 - cna.com.tw
+- FB/IG 貼文角度：用「曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際 - cna.com.tw」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 競品異動？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「競品異動」相關的餐酒體驗或活動。
+- SEO 文章題目：競品異動趨勢怎麼看？從「曼谷啤酒餐廳奪命大火警方擬以6罪名起訴老闆| 國際 - cna.com.tw」看餐酒館內容與選品機會
 
 ### 第五層：企業級輿情/趨勢分析
 #### 各分類新聞數量
-- 會員經濟：12
-- 世界料理趨勢：14
-- 行銷靈感：13
-- 精釀啤酒：9
-- 市場情報：15
+- 行銷靈感：11
+- 市場情報：13
 - 競品異動：9
-- 高分新聞數量：18
+- 世界料理趨勢：14
+- 精釀啤酒：8
+- 會員經濟：9
+- 高分新聞數量：12
 
 #### 熱門詞
-- 新聞：7
-- 經濟日報：6
-- 世界料理：5
-- 異國料理：5
-- 啤酒節：5
-- 觀光餐飲：5
-- 酒吧新開幕：5
+- 餐飲行銷：5
+- 啤酒餐廳：5
 - 精釀啤酒：5
-- 酒吧活動：5
-- 會員經濟：5
+- 美食趨勢：5
+- 異國料理：5
+- 台灣餐飲市場：5
+- 觀光餐飲：4
+- 世界料理：4
+- 啤酒節：4
+- 經濟日報：4
 
 #### 趨勢判斷
-今日以「市場情報」聲量最高，共 15 則；熱門詞集中在 新聞、經濟日報、世界料理，代表內容可圍繞消費場景、選品與活動溝通展開。
+今日以「世界料理趨勢」聲量最高，共 14 則；熱門詞集中在 餐飲行銷、啤酒餐廳、精釀啤酒，代表內容可圍繞消費場景、選品與活動溝通展開。
 
 #### ABV 可行動建議
-- 本週安排一則「市場情報」主題貼文，連結 ABV 的實際菜色、酒款或門市活動。
-- 針對「新聞」製作短影音腳本，讓店內體驗變成可分享的內容資產。
+- 本週安排一則「世界料理趨勢」主題貼文，連結 ABV 的實際菜色、酒款或門市活動。
+- 針對「餐飲行銷」製作短影音腳本，讓店內體驗變成可分享的內容資產。
 - 把高分新聞轉成 LINE 分眾推播素材，測試會員回訪與訂位反應。
