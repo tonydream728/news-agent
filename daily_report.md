@@ -1,302 +1,348 @@
 # ABV 每日五層情報報告
 
-產生時間：2026-10-21T13:28:53.393266+08:00
+產生時間：2026-10-22T13:33:09.817940+08:00
 時區：Asia/Taipei
 
 ## 當日最新新聞
-資料區間：2026-10-21T00:00:00+08:00 至 2026-10-21T13:28:53.393266+08:00
+資料區間：2026-10-22T00:00:00+08:00 至 2026-10-22T13:33:09.817940+08:00
 
 ### 第一層：關鍵字新聞列表
-- [深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROXFJelhjRF9MSVlCa0pRMkJXZEtVYlNLS1ZXejNIX29QclV2WHRMdDk4cUNJZDFxRkV1RzBIMEJNREtBZkpsVXJISmdDT2pC0gFWQVVfeXFMUGFidDZkTDB1clBTRlpDaHRjcnVvNzVGNFRVN3hobGVyVkFZRkp1RDZCd2xOLTZ0ZThvV1dLMzVCWjNpYXY3b2dPYlhRdjJySHdEV0ltX0E?oc=5)
-  - 來源：UDN
-  - 日期：2026-10-21T04:53:19+00:00
+- [「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞 - 經濟日報](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVU54dDVWZXZTWFFOOFpUWHNzVG1TZUgwdjRCOS1zQlJ5b25NdmdLUWFFYjJVVWtCQTljN1BVWHpMb2prVmRVRzU2NUowWEM3YnpNbHNVeFRnbW13RjZxbWx5WWVucnMzajkxOHBVRWRKczZocGRNVmNaWC1pTmFBellfQQ?oc=5)
+  - 來源：經濟日報
+  - 日期：2026-10-22T05:22:36+00:00
   - 命中關鍵字：會員經濟
-- [AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 - Business Insider Taiwan](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUUdZVVlxcUp2TGVNajVVT1R3b0lnQzZYMXV3by1McVB2VUFMbEl2X0VaR2ZDZkZDWnVfRnVaWG1TcEYxM3BCYzIxVG1laWdiUWdoTmVR?oc=5)
-  - 來源：Business Insider Taiwan
-  - 日期：2026-10-21T04:24:00+00:00
-  - 命中關鍵字：餐飲趨勢
-- [備戰2027台灣燈會！ 苗縣府端「貓裏紅、酸柑茶」赴日交流 - 自由時報](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWek03TXVJOUtWZDdfYzNOZEwxU2VHb2FZQzFVbEJlN0tlMVVUb2V1S2pNWWF4cHhyRVYtV1hvZEpWU2tMVlVNTUEzZDlONGxQMUV6MUxfTmtXM2hzNmI4RFpUOVXSAWpBVV95cUxOLUI3VVdRZWowWXBVN25Lb3Q5NWw4U3l5WHRBTkl3cHI3Ym93OG1tZzFLQWl1V2staW9EVnU5NENwbk5UcmNGVU1Yb21ybnYyZVpnOXF5Nlpud2JCSVV2aU5FY1FrTjZweXNn?oc=5)
-  - 來源：自由時報
-  - 日期：2026-10-21T03:29:41+00:00
-  - 命中關鍵字：觀光餐飲
-- [私立開平餐飲-走進產地學食農！開平餐飲主廚盃教師研習深化跨域教學 - 臺北市政府全球資訊網](https://news.google.com/rss/articles/CBMioAFBVV95cUxPcU5MQWhYNlZIV1o5TndGM3h2WUhhRDVPMnRhR09JTFhRVkpsTkZ1NnRFeVJSZVE3OTlEMWc1TWVHUDEzR2puMTdReUlHMHBuQ1BjcFNMUnpGTHlIZ3l0VFotMW11dW5tQmlBcTRabHFGV043OEV4b2ZWend6VVkxemRiYmhhNEJGc1NBbVYxSnVFbFlCOXd6cmJlRTJwcGxF?oc=5)
-  - 來源：臺北市政府全球資訊網
-  - 日期：2026-10-21T03:26:43+00:00
-  - 命中關鍵字：餐飲趨勢
-- [川普訪中會金正恩？受訪連說2次「我不知道」　北韓官媒曬照闢謠死訊 | 國際 | CTWANT - CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uc0ZyRmliMElsRzBmbmFlWFRrMDZqTE1GSnBsXzNCVDMxUDhpeGJES1VFc3RHaXJOM3pmUDl3Mi1Td2pFSWJjaVo5ODI2MVnSAVRBVV95cUxQTGI2VXBOWTJGV3Fwc2RKWGJ4ME9MZTFKODl2RmxRcGd5aGxlLVh0c3A5NTktRWp1NmZIQVBfUTdlbVp4dWVkX3c1dGZMVkdiVmVWV1A?oc=5)
-  - 來源：CTWANT
-  - 日期：2026-10-21T03:03:26+00:00
-  - 命中關鍵字：會員經濟
-- [雲朗觀光線上旅展10/22開跑！2300元可住翰品酒店 吃牛排免千元 - NOWnews今日新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE92OHRIcHJWeHZTOU5RZ0luc3JnUGFLdk05Z2MxamJNUWhSNVF2WlpmRXRVTzRKOVFUbTAwVDR3bjZreVhjQ0t1aHBWWWFvMmkzb3fSAVJBVV95cUxPdjh0SHByVnh2UzlOUWdJbnNyZ1BhS3ZNOWdjMWpiTVFoUjVRdlpaZkV0VU80SjlRVG0wMFQ0d242a3lYY0NLdWhwVllhbzJpM293?oc=5)
-  - 來源：NOWnews今日新聞
-  - 日期：2026-10-21T02:52:32+00:00
-  - 命中關鍵字：觀光餐飲
-- [應家柏網誌 - 行政架構 - 馬會知多少 - 香港賽馬會](https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0ZScXhEQUFiOWF3cUNfeGcxUTc4c1o5c3VBSURHeVpnMVh4SllxeGFfRlUtalNOaWNsZjgzOTBJVEJPZWs1dFBxUXB3TmF1VkE4cklkbDNpbWtJS1h5Vm1reVVuSnd4bVFTUVRyeEh3ZVNtbzdvWE5xRGxvanRBdllxdklhNkJvTEduOTlXS1RaQ1VhWFlsNGdvVm9JV1oy?oc=5)
-  - 來源：香港賽馬會
-  - 日期：2026-10-21T02:36:48+00:00
-  - 命中關鍵字：啤酒節
-- [讓好技術找到好市場！2026 HAOSHi Demo Day 看好食好事如何加速食農創新落地 - 數位時代](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSS1VRG40R01aZnA0UXpTNUZoeEpVUEdHZEVRLTlCVEdaT3ZlQUZfZ251clZKWWphNEdUVENqV3lzVzJSSWJQVnF5NGVXZUNYa3JYTDBneWFsc05qckNCSmJyajFQdjk4?oc=5)
-  - 來源：數位時代
-  - 日期：2026-10-21T02:36:00+00:00
-  - 命中關鍵字：台灣餐飲市場
-- [實踐大學丁永昱勇奪日本國際伴手禮設計競賽金牌 - 中央社 CNA](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvQS1zVGJYYl9OS1BiMTV2S19jU3RfQlRheDlkN05SamY1bUdMRXAtOE1Ibk9wVkZEOHpBVENSMmJJMDRyeXEtS3NLMWNfR1g5M1BjRFdn?oc=5)
-  - 來源：中央社 CNA
-  - 日期：2026-10-21T02:28:48+00:00
-  - 命中關鍵字：台灣餐飲市場
-- [吃爆最邪惡美食！ 2026高雄鹹酥雞嘉年華10/24開炸 | 中廣新聞網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wOExOVjEwUWdkNGFPeWJtYVFaWlpvVk9ub21HdFktd1dfYXBTRE1Eei1ZbGRJQndVZDZqQndPTnA0YlZIa0pKQlNaX3BXR0EyWVFaNEtn?oc=5)
-  - 來源：LINE TODAY
-  - 日期：2026-10-21T02:26:13+00:00
+- [日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情 - U Travel](https://news.google.com/rss/articles/CBMikgVBVV95cUxPYS1ud3ZVOVA1bUtid2ZRQ1dIcm80TUVRQzh3V2cyQUdaak41SEZwcTdpbjF2bjBxTUwxUWJ4b200THIxSEJUNldtRFVRWGRzNDFYYnk4dGs0RkM1eHdBNXpqQVd2WGJrbk1ZdU5NQWNhV3pKWVpFZkg5UGZrQTBHYk5WNlRtWUdKZm9ENGhTa2F6X2ZweENQUDIyVC03elVmTGZPSUt4TWdoZkFnNzZjeW5jNVNFTnhCWXJVT1B5UFVMX2tMOTNnWC13bFpnU0F5Y2pfeDVESjVVeEp5aGYyWXppWmF4MUt0cDhpOVhEU3RpaFNsbzc0SWN1VEthVm1kM1I0d0tMcmpicjAtX2FCa3NvZEd1SE54MVY4WWN6VkRCa2tFalpTWnF1WVZFM2dFXy1GOWlJelVJRjV6amRrUFdRN3g3UDhrS2RjSldvSlQzR24zNUhGVjl3T2ZMRXVRQW9Wd1NseFNZMUFYZnFlNkFoNjF2SzFEZ09yTWVjT0pwQVJiWFZQZVZZcUhXSENaX1JRenliWVpWQUotZW04bkZxbW1lc01LcXJVMzhCYnZHQkpaXy1lOFFVVkNnRkVtYUJES0psODJuNkM1aVlEVEdESnBTMUFsN3lXYmVkRG4yWnl5alJ1ak50U21EMHUxSWQtbEpSdGlBNVFzTUw0MWJfZmozUlp0eEpFaGxZTkNzdlp3Z3JEdVlOOE84VjUxMVl5emVNeEladDlXRzZ0OC0wVHAyVlp1OFFvdjM2NFNZSGxQSVd2azZLVldGd2VpbjVpSlhsQU9UQkQ1ZU45SEUyRlhXMUNIZnRtTTJwYzFBSWM3NVFTWmdIM1Y4YTEzRXd3UkZZYmIybk14WUhWNUZn?oc=5)
+  - 來源：U Travel
+  - 日期：2026-10-22T05:20:35+00:00
+  - 命中關鍵字：精釀啤酒
+- [香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修 - 香港01](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQbjk5SWxJeFFQNFBFNmtiYUNsYU5KaXVOU2pZRUExOGtJZU9Fb3JoQUdwRUlIMFZvckVWbmx6M1VIdnNvX3pTNFNidERnYkhHa1RPMlU4TU5MSzF5VXAyMkE3WWp5a1lYRGJoNUNhVWVfeU5TYkw3aUtzOHp1T3RWUHF3MDVXWV9VT0JjRW12c3FWWGo2ZEh3LUVtNG1PY29BUEJuTnBjT3VFLXBRM2FzTjJVUUZ6NmJXOU9KSk1QT1NSOU5FQnM1MU1jZ05xZFV5RWJlaHQ0ZVIyY2tUblRwWjh2WWtUa1c3TUtlLW4yb0pUMHBmSWFHSG1mT05iZzVMOG90ZUFGLTZrd0kzU2lBSEdYSDlIRm5sejJLd2JKb0Y3elJUUWZMVmQ3NnlUczVmbS15VkhmT2NxV3AyWGZJU2FsXzBSbHN1SG1ET0lyRVpuOTZjUnlZVEFabkl0ZDlEbXc?oc=5)
+  - 來源：香港01
+  - 日期：2026-10-22T04:50:55+00:00
+  - 命中關鍵字：酒吧新開幕
+- [中市職人傳承新秀作品展10/27登場 六大職類逾60件作品展技藝 - 墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WUjcxV1piN05IWHp1RlZHeTE4Wl8welgxdGhxMDdjZlFIdlJkMUF6SkFvUXlXQm1qeDFDSE1jczlGdw?oc=5)
+  - 來源：墨新聞-MORE News
+  - 日期：2026-10-22T04:35:11+00:00
   - 命中關鍵字：異國料理
-- [平價餐飲漲價潮來了！梁社漢排骨也漲了 平均漲幅約5% - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zczVYT1BjQ1lKN3ZYLVVFUE54ajlTSnpKWnVnMl9HbktNcThsSVZIdXVLdG9HR2lEMWVqYlVocWRtbnV2U3ZYSVUyd0dyeHoz0gFWQVVfeXFMTTRtLURYSUVGTlZHZHFBemdNVGJtZnQ3VFNWVjZEWnpNNE9kdVdFVVhFUHRFRmxOallDVDlFT3JhUDBsdTE0SWFQTWs2eDVKTmtmRGZSYmc?oc=5)
-  - 來源：UDN
-  - 日期：2026-10-21T02:16:20+00:00
-  - 命中關鍵字：台灣餐飲市場
-- [南科帶旺 新市、善化房價走高 - 台灣房屋](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWMwMTVWb2syVmVpZDFuRndrYVA0bzgyTXNlTmM3anRORERnclVMM3JVdDhyTUJ2TkQ0V1JmWm9lY3lzR0dtb2MwTFpydnVPZy1pOVlHNHVNRTAwNks5Q1VvRHE?oc=5)
-  - 來源：台灣房屋
-  - 日期：2026-10-21T01:58:04+00:00
-  - 命中關鍵字：餐飲趨勢
-- [2026「 Negroni Week」引爆全台紅色旋風！119家酒吧響應公益，台北、高雄共創微醺經典 - XINMEDIA欣傳媒](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yY01wa3RkeERoRHo2cHBJd0hkdU5uWGRob0M0Qkhpc3RiRHp4Zmd3UllVMFJWSUxRQm0xQXRWaHZoUFhld1FMNktyQUhTTHFi?oc=5)
-  - 來源：XINMEDIA欣傳媒
-  - 日期：2026-10-21T01:40:00+00:00
+- [亞馬遜爆性侵！女高管出差飯店遭硬上 男主管過程中嗆：就要強X妳 - TVBS新聞網](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PUGZSel9tSjNpN1k0M3NsVkZtR19OdWNPWVZuclQyTF9XbjVZM2NHYTlUWjU3ZjNaUEpuWDJCclhNUHJBaWFqdExfbFFSVmM?oc=5)
+  - 來源：TVBS新聞網
+  - 日期：2026-10-22T04:33:00+00:00
   - 命中關鍵字：酒吧活動
-- [巨星來高雄不等於產業留下來！柯志恩拜會陳鎮川拋「演唱會經濟2.0」三大布局| 徐炳文 | 地方新聞 - 風傳媒](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PTUFVTDIzUVZwLXVuQTF6blVZV0V4UU5Xcml5ems3MWZ3ZE1hYkZKWGVPdFdSUTBUQTk4cWJMT1NMaTdBVFRTbkE4U1Fvdw?oc=5)
-  - 來源：風傳媒
-  - 日期：2026-10-21T01:36:00+00:00
+- [好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxNakRETHRobnZrdGZ3dkFBV2xUWktNVFlOV2M5V2lHajcxWUdiTnFjZVFaYkFrSDdRQUV1d1FRVm1LY1AwLTFmV2RRWmE2MU1WaWpvQmFxOVZjX1dZTXNrS1NmQnAwVzdQa3BWbDFVUFQ2Ykh1TzdnMUN6d245cVVCY2xLdmhJanJ1REJnVg?oc=5)
+  - 來源：PChome Online 新聞
+  - 日期：2026-10-22T04:20:11+00:00
+  - 命中關鍵字：餐飲趨勢
+- [2026曼谷萬聖夜玩什麼？The Standard酒店76樓「亡靈節」高空派對 DJ、特調、異國美食一次滿足 - 食力 foodNEXT](https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUM5Y2t1eHlEOVp2amZHR1NadkdpNW9fcGNLXzU4X3NqUWZuXy0wS0VyM2RLRjhjV2JlNml1WExTbERNYkZ1UzEtMmdYV2JQTGFCeVBSaDJSVHE5MVhZQUE3LTlGTVUzZTB3WE5B?oc=5)
+  - 來源：食力 foodNEXT
+  - 日期：2026-10-22T04:02:49+00:00
+  - 命中關鍵字：台灣餐飲市場
+- [《請世界吃桌》6道手路菜這間吃得到！ - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVklEcTRGa0F1QU81SEFqUzdrRUhucXQxU0V5SjJxTldfZ3h3WGVPdENNbENNbEdBSXZkdG9BYm5SWjNjSmd2cEtBTGZYMk1aY0REeXB2d1lRbjZD0gFiQVVfeXFMTVNfaXRlbHhwbFlZOVM4NjVZYndpNWVEeDhRZlVTVzVJd1Y1U1o5OXpnSjlXenRYdkFtc3FSVHA5QUhyclRtWUwzejhpbUYxVDI2aF9SUlZvdFpYTDNwcDVkT3c?oc=5)
+  - 來源：鏡週刊Mirror Media
+  - 日期：2026-10-22T03:41:00+00:00
+  - 命中關鍵字：世界料理
+- [台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感 - 台灣好新聞](https://news.google.com/rss/articles/CBMi7gRBVV95cUxOVmpZYzhJNU5qMkQ0aV9JdkVfTFZoaTBtNWFjaHlmcVljcDY0SDR5UVZDb2tSS001SF90bXBXTHhoR1BBUU8zRmI2RXdoWXN3Vkc3R2t3UlNZZ0ZxVUdVYlRHaEpaWFNvbUZnc1FBcWEycVdpT1Y1R0pqeG55MG80Q2xXeHY5cG0zU3JHSEJ5ZVNzd0dGanY3NzZZdl96OS1FR3lyM2hjMF9QRlZJYUh5cE1WZWNZLXYtbGNqTkVITE1GVzZ0VEpJTEhnYjBocUxiVUNmLU9jV0RfQzdZeFdJLUY4UFpNV05rQWZ1MWlsZUZuVTNHeXpnQUFlbGxKQWY0MVRORG9zN1JNWDRCQ2tDZ2xGbXhoaEtvM096TEthdVFIYS1KOXJlZEktbFJGcVVYcE9SSHpxMFJkczZQQVFkTExSbzhHYlhMZVZVdHhac0VYVzNVS2xJWkxYNmNOeFJjZGV0RnhkZkQtZWZDY1pmb20wWVNqRVpUYnlzazhwa01hVWo0cmR4WW40c2loSFdleDY2MklIWVhrR0VIbXEzN2lyQkpkaHg2QU9TdXFxSk0zS1dETkVjQmljTGxjYms0TjZkVXVqOVlHOV9fZFg3QnBOWk94eGktQmJ2V21qaTVJRVJ3SmxqaWFzVkJaS3o3eUlmWU9KVzhjdlVnOE9zd2ViQ2p0cG5ZVG9wbndxZExadmktN2x1NFdBVmdUV0puYm5pNFFNWEREbzg5OGJLbl9aeVF5S25hU3I2Yl9PMDNnLTVqVVRDUHlxZEN2LU1YTnB0Uy1Ial80cE5ibnVYYnpjX2FwZXM5R3RkdGt3?oc=5)
+  - 來源：台灣好新聞
+  - 日期：2026-10-22T02:30:51+00:00
+  - 命中關鍵字：餐飲趨勢
+- [食安、健康、一次到位！基隆市衛生局辦理餐飲講習 精進業者食安知能同時推動健康飲食 - 基隆市衛生局](https://news.google.com/rss/articles/CBMia0FVX3lxTE1kWEJRSXdzYUtJOVA4U00yVV9jdldVTE50SnMxdHpxc2xxUFRMOThibDYtRzh5d0dEaFpXWW9tUjJLUmVObzBXcXF2TVNOZWVNNzlveTBVZ0o1OS0tcFdfUlBZZDkwSm1XV2ZJ?oc=5)
+  - 來源：基隆市衛生局
+  - 日期：2026-10-22T01:33:12+00:00
+  - 命中關鍵字：餐飲趨勢
+- [28小時旋風式出訪！盧秀燕宣布打造「台中海線小希臘」拚觀光 沖繩瀨長島成功經驗將引進台灣 - FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5WmJGN1h0SzR5a1JrblJvTzMxdzlWMnNWWUp4Qy05UW1xejAxWnhYUnVNYUpzUm1tdjdwRTFUQ0FDeVl2VWVuVi1jWQ?oc=5)
+  - 來源：FTNN 新聞網
+  - 日期：2026-10-22T01:31:00+00:00
   - 命中關鍵字：觀光餐飲
-- [AI客服普及率達87％！金融保險居冠 資策會揭使用新趨勢 - 自由財經](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mcWllVG9jS3RCLTZ4MGlLMG1HODFCNkVMYlVZRXdvd2tBTWJDaWdOSm9DLWp1MjVnTlRXRVE1dURsZldiZFItdHNHNldQQzlVcURPNktyRV9xZ3JMcnVz0gFkQVVfeXFMUEdiNXZqbjhIVWlVaDE4TlJwLV9YaHljVGxHd2h0bldoQlp4M0tYaEFOMEotM1N6cUREQXNzNEFRSkhFbEV4Nng4VGRmdVZJU0ladVFQamlFM0hMSi1vRGtMa1RQSw?oc=5)
-  - 來源：自由財經
-  - 日期：2026-10-21T00:51:28+00:00
-  - 命中關鍵字：餐飲趨勢
-- [游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance - Facebook](https://news.google.com/rss/articles/CBMihARBVV95cUxNbzRfdGp6cVBJS2xOSGFNWkF6aGl6WGJpdFFtVW5Jd1ZXVWFjMGNUb3Y5UFJWeEdpTTFOZVlTQ3daSXlHell1eHViaDd3MUtNbkQwa0NFNVBQRzFMMFBhczJwRmsydFlUV0tBSmtScXI0alpSdHh1cnRENFRlMVFGVElhVzVfUFdxd3hQb29fRVhxZlhuMko5aXpvZ1ZhQjRZWVRDWmN5NVU3OU40U1YyS3VVZDd2QnJULWNqbXNVQXhyMkdrc0dXanFBNWQ4WktlTXNWTG1uaDVsV2xfNnFfNmxSd19fVlZpeVkySUtvVjhDR0ZlRGtmcU5SX2FZUkRyenc4UG1vem9talY4b3dQdU9CejJHSHViWjU1d3lhMXZ6VGF5dEt6b3Zmb01ZWkFGWjRuemxaanNwUjhuX0kteXhkT0JtdkhUcHp6ZlJoN3RXa2QzZmwzTlplT1VIM0xIY0RISks5d1dzNTBTV3dIR0ZVYWpLN2pwcExXYWctWHlhY29TRklhcmtuRmdyT3JXazdkNjZvQVV1RUhJT1JrbHRFLTJOcnEwLVdvd3FETHVBR0FhRUR3WjltZzNyYm5IcGp2U2tmN25pREZ5enhaQjJjbGg5NE43MTBUc0V2RnZYSGgyeUFvYXBlLTJOTGt3c21HR21rUThyc1lWWmtld19zTHo?oc=5)
-  - 來源：Facebook
-  - 日期：2026-10-21T00:31:37+00:00
+- [3大總舖師攜手！真珠台菜重現《請世界吃桌》6款辦桌料理 再送刮刮卡 - udnSTYLE](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQy0taV85aXV6aW1QQm5BOS13UFJMcnJ6aXNrSGJ4VVRjNnVXRGZSb3djVlo0Wk5tbHZ1TGozLTM4RE5zSXVscWpnSkRGMXRtVFNoZlNhX01fT3RoYWdZd1ZKLXRGYzJWOWprMk8wbE1WZXJncG90aGQtZ0dsRVhlVmNBaUVETUpKbUowdHFn0gFgQVVfeXFMT185bC1yMlBnQVZsRmlsdWNjbEtTYjNIVkxtSFd0aHdRWVVhelVsTE1OSWNiT0pXbEpRWmU2eGdhWExMWE9IeHRVNkZaTFJOcUJfN0gwVWVMVTJDeU8zRXps?oc=5)
+  - 來源：udnSTYLE
+  - 日期：2026-10-22T01:27:43+00:00
+  - 命中關鍵字：世界料理
+- [輝達光革命台鏈大擴產| 產經 - 非凡新聞台](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sUHNuamp0YjU2YS1GNWtkRlV3WFVDVkVWQUNCdGNyeWlmYWFlM21xckxuQUM2R0lfLXFHRU9VaVlMQXJoenVXb0tndVVvaHRoVjgzNTljTjJzZEJHZUR1Yg?oc=5)
+  - 來源：非凡新聞台
+  - 日期：2026-10-22T01:18:54+00:00
   - 命中關鍵字：會員經濟
-- [旅遊行家年度必看！2026 ITF台灣國際旅展11/6-9登場，匯聚最新旅遊趨勢情報，日本館創歷年最大規模 - 臺北旅遊網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRk9KWFJMOHFUVHRHemdyMEcyWEd4NHRVSHdvY0JZWnQxdlRSUGtkcXVWNi1CVHphNVV1dkNfWHpyMGMtQVB0ZUNWWkdOTlNPWkpfNkNJQWNHN3RONXNz?oc=5)
-  - 來源：臺北旅遊網
-  - 日期：2026-10-21T00:30:00+00:00
-  - 命中關鍵字：餐飲趨勢
-- [2026日本國際觀光商品設計競賽 多國好手聚東京 金門伴手禮表現亮眼 奪九金佳績 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TRzdmR1d6LUFuVTdWbUVJNzZHdW1hVm5oQW9pRGE4OXhzLVYzcUJncUZiektGZlM5S2ZaYUZnNDNzbzVteVhzMnVZUGhXdVVtS3c?oc=5)
+- [卡西歐推出指針式G-SHOCK腕表，傳承初代數字表款的功能之美 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xa1JjRDFkTHBWWlZtZURJOGUtZ1NJU1dBNy1vNDR5X1RMNUFwa1BndWtaR2xNdjJMMDFfV2NNb2pfb1d0ZWJINnlvZW5McGJkd0E?oc=5)
   - 來源：蕃新聞
-  - 日期：2026-10-21T00:00:00+00:00
-  - 命中關鍵字：精釀啤酒
-- [美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失 - 巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOMUpYNFV2OFczTWl0WjNqSS1SMHRHOG9lMm5Sc3BRMFZyMkRkSTc1dWN0d0ZwZGFheDBWeXBiOHdFYi1od3Z0RURDNW5odE5qRnA4VkpPdnNGNmJScTAwOFVsTE03c043OGNZam1oSWtkeHRhb2NzaTl2TnFoUnBSLU1fSTVRTjlRSUJNcFNxQ3RBVkNrcVJqZkQtWkJocGp4N3p1UGRzSGtJS2lMTWFaWkpKUklSODU5b0dNeVg0SVR2bV8yYURZQ1owa2dCYko0WTBqdDFURmc5ZWlIRmhISE4ybEYzcnlzMzN0akY3UVI5Z2pQdFJMV0ZLS2Zub1dlNzEzRUdPZkswbFF0em1vTnpsMEs5Z3I3VnltREN6ZjA2WUFKNWZWNk5mSjZGLWUwU1FBYm9sMjJhdXVELXUxQnFaeWxZQVJMOHZXR2d0S3RsXzBqQU9Gcnp2TkV6dTdPeE1uY1MycmRhcml4OEw4?oc=5)
-  - 來源：巴士的報
-  - 日期：2026-10-20T20:25:33+00:00
-  - 命中關鍵字：精釀啤酒
-- [DiDi Global Inc. | DIDIY 股價走勢與即時報價 - BigGo 財經](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wdHhWRnBvNzJwWlkxVDlCS29FY2duc3A1Rm1GVTBpMTduZzdJb2YyWWRqNGxvQXhlcjdqaUdiLW9QSTJWQUVkN3RLcVdoZ0hGREE?oc=5)
-  - 來源：BigGo 財經
-  - 日期：2026-10-20T18:49:08+00:00
-  - 命中關鍵字：會員經濟
-- [馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲](https://news.google.com/rss/articles/CBMiR0FVX3lxTE56aHdaeDl4RVowLUpoekZoY01xWWdqRDlBU3MyaU5CYS14cENXTnhWd1RReUhobXNJcGwxTFBwbXZSZzR4eWxR?oc=5)
-  - 來源：台灣新聞雲
-  - 日期：2026-10-20T18:44:13+00:00
-  - 命中關鍵字：精釀啤酒
-- [7 仔大白兔布丁 $8｜10 月 22 日到貨、雪糕兩件 $55 - KONGGOK](https://news.google.com/rss/articles/CBMib0FVX3lxTE9MVjE1anRyOVh5dU5QNFM3ZExDcHZDZy1Kdkpmd0dMQ3NnTGdfZ21rTFd0UTR0QzZqb1VONnplVENCNHBHVnFsMzlqXzRVZDBGaTEyNVBRUktreUFRQXZQN3RQUjYxQS1Fck52Y3g0OA?oc=5)
-  - 來源：KONGGOK
-  - 日期：2026-10-20T16:36:15+00:00
+  - 日期：2026-10-22T01:00:00+00:00
   - 命中關鍵字：啤酒節
-- [異國料理不只吃道地！「5間餐廳」把台灣食材玩進新菜 - 造咖](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LR1ZWdmhzckxvaTFpRDk4TXNCMXdEenN3bUFrMkdPMDk5ZWV3bTRBdzlEem9aZkZDejdlaFp1ZGNEUmh5LWxpcUtTemQ0azFpYUtYWUxqUQ?oc=5)
-  - 來源：造咖
-  - 日期：2026-10-20T16:12:00+00:00
-  - 命中關鍵字：異國料理
+- [快拿身分證！「對中數字英文」送龍蝦牛肉、生日吃到飽免費、符合資格打5折，全台10 月餐廳優惠 - 風傳媒](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QRG9faWYxWlQ3ZzM4Q3dzUDdfcHNvWFlvZS1GcE1weUN5VDRJa095Uk1qb0xiUFNUY2JhSFBvMHg2RDhndDNBWndtRC04ZjYw?oc=5)
+  - 來源：風傳媒
+  - 日期：2026-10-22T01:00:00+00:00
+  - 命中關鍵字：餐飲會員
+- [《產業》Grab併foodpanda 公平會不准 - 富聯網](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFp4ZURBTFR1YmRQT0UzUEFiSUY5bHdPOEN0bUppSlZaOTJfa0E5U1d3M3VjSHR5c015TE1maHBjaEVMMzRrNFo3Vmt3cTdXc2RDN0ltNmtTRHExRXItbnFjMlRIbHV3eHh5bnV5TVZGVnVKc25IajFLaG1pWmxSNFpxdDVXVVJQ?oc=5)
+  - 來源：富聯網
+  - 日期：2026-10-21T23:44:00+00:00
+  - 命中關鍵字：台灣餐飲市場
+- [「和逸飯店‧台北忠孝館」歡慶13周年！推出住房、餐飲優惠與壽星限定禮遇 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZTm5YUjJSZFJKUUpVdlQ2YWVkWGNCUjB6d25fZDRjNFFRc1pXemhlR1l4ZUhBNFdtRlRPRlYwMzhTWklwNGFhRVNtXzlUS2JjX0E?oc=5)
+  - 來源：蕃新聞
+  - 日期：2026-10-21T23:26:19+00:00
+  - 命中關鍵字：觀光餐飲
+- [3大總舖師攜手！真珠台菜重現《請世界吃桌》6款辦桌料理 再送刮刮卡 - UDN](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaR0J1UHZidkZncEFDUkIwSUtDZDQ2UF9jVGhuVUxZcF9HNUkzamFqdDdqYUFwTXNKXzVOaEdHVldXVGxtbFB2emluQmxFN1JDamk3LXFrc3l5aUg4?oc=5)
+  - 來源：UDN
+  - 日期：2026-10-21T23:06:40+00:00
+  - 命中關鍵字：世界料理
+- [強強聯手：由 Bar Leone 團隊打造，香港瑰麗酒店新酒吧 Bar Camillo 來了 - Popbee](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrMUNIUDJlZTJ6ZVVJMlBVWXRVVEJQZXRCZGNaMG11V0Z3SmxmQkVxdXpqcDdMYmVaSnhFS2Q0TXFvb1FZUGlxelVCVDNpelNIUjhkdlBzLS1oX1FlWlFJTV9PaHZOdlVYNEJpVkVHMkM5ckVyS0FCOHhBZw?oc=5)
+  - 來源：Popbee
+  - 日期：2026-10-21T23:00:40+00:00
+  - 命中關鍵字：酒吧新開幕
+- [少子化衝擊》大企業磁吸人才 中小企陷嚴峻「搶人大戰」 - 自由時報](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DVDZ6VG9wa0Z2cFNncHVUTUlKQmE5WEFVZVhRZ2xMTEcwRkk2YU9UMXFCRDRyNS1RSGRqQ1hkN0lkWjdXeGR4aFBnVkZDVENoQVRtVThZcHM?oc=5)
+  - 來源：自由時報
+  - 日期：2026-10-21T22:06:24+00:00
+  - 命中關鍵字：餐飲趨勢
+- [外食族注意!平價餐飲喊漲 連鎖便當平均漲5% - 非凡新聞台](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiZjZwckF2Wm83Ry1nOVNjOE9DUzhySFVOR1NiNEZwSFZnUkpxcWFPLUZPdHJabEZMdUxyVnplZUZHdlJsQVdva0JwODIwWThtdUxuejgteTJwdjQ?oc=5)
+  - 來源：非凡新聞台
+  - 日期：2026-10-21T21:50:51+00:00
+  - 命中關鍵字：台灣餐飲市場
+- [萬聖鬼魅派對走進百年前神秘謀殺案- 南加生活- 新聞 - 華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wYkd2TnVCcDMxU1cwMHZJdmhsWVZYYzZVdENlWkVtTXVWYzFDTTF6VFp2dkdOVjJ0WEZBMU9TaUxTQnN0TXA1UTFFRG5YOUZld2hPbFR0TVRPeFlrOUxVOVpHSVZ1Zw?oc=5)
+  - 來源：華人今日網
+  - 日期：2026-10-21T20:51:59+00:00
+  - 命中關鍵字：啤酒節
+- [2027全球食品飲料十大趨勢出爐！從營養密度、精準蛋白到AI Innova揭下一波創新方向 - 食力 foodNEXT](https://news.google.com/rss/articles/CBMiakFVX3lxTE91MlpGSmc3MkRFVzZJMFF5TDA1cHE1aGtOSmlIc1UzanVtbFgtXzNmSlRBVmVPbGdiV1pYRWM2eEoxTGxMaDJvVkFmR2YzdUozZjUteFNKdW4ydDh3WFRSdWVEQXhTVm5tZ3c?oc=5)
+  - 來源：食力 foodNEXT
+  - 日期：2026-10-21T20:14:40+00:00
+  - 命中關鍵字：美食趨勢
+- [Betagro取得Freshket多數股權，直接接上餐飲通路 - 行銷人](https://news.google.com/rss/articles/CBMixgJBVV95cUxQTHcwTk1LZ2gxaHN1c1NCSVVFRGd1V3lHc0o2TXh2SU54VHF0SkRiUE5pXzZTSkdIZVRMclVwMzJaUkNuMjlkRGZDUHh0NnJxX0xzVnFtTFNFZlFaMEVnREhudF9fN3Y3d2xIRl9YS051NmdPWEM2Z29MZzZGYWVzTGNsYmczU09mOTBHWXZxV2Z4UUpHZDRFUV8xSHdFTTYzdVlqejFHeU1reGwwNUdrT3ZFYmJrd21EOGVMSXVWVnFEdm1jaWhvQVFOVkw1U1NIUU9OMGlkbjlETHhmN2lxd3VqUGI1REMwUDRrNVpPYnROWUxYWjRyY2U5TmF3NXFMWXN6RjRzSHhPb1BLU3pkU05LcHdiTVNhZTFVRkJENmxpd29qSjlPcEFUNFhMSjQ5SGhPazJON2ZpTWhwODRoQjV5MWZLUQ?oc=5)
+  - 來源：行銷人
+  - 日期：2026-10-21T17:30:35+00:00
+  - 命中關鍵字：餐飲行銷、餐飲趨勢
+- [全台最大炸物派對！「2026高雄鹹酥雞嘉年華」10/24、25登場 - 高雄旅遊網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nMFJlU25VaDVocWIyUzBWdnZLeVVoN2dzZ1BxdlRycXRBRFo0MzJfTDFrZGtJODZlVngzUHoxX19UcHVDeVE3SlIzdDFLeGpMWnlF?oc=5)
+  - 來源：高雄旅遊網
+  - 日期：2026-10-21T17:05:19+00:00
+  - 命中關鍵字：觀光餐飲、異國料理
+- [2026 台北萬聖節懶人包：4 大活動、夜店派對、夜市全攻略 - 蘋果仁](https://news.google.com/rss/articles/CBMiTEFVX3lxTE00WGQ3R1B3SVFiaDI3REsyRFUzMWRHajVNcXJIN0NieFJhUzZFa0xpeHFrQ2NCd2Q5ZWZUTllaWnlEYnRSYVF3MHI3MGY?oc=5)
+  - 來源：蘋果仁
+  - 日期：2026-10-21T16:36:06+00:00
+  - 命中關鍵字：酒吧活動
+- [海尼根首間常駐酒吧，開啟下班社交新宇宙台北信義區新地標！ - Livio生活網](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYR2h6RzJfREx5VWt4T05DTXRmTnZYS1RDanprblQ3SXpvX0lTdDQwbTdEWEhQbVR6OFdwbV9vV3MzZw?oc=5)
+  - 來源：Livio生活網
+  - 日期：2026-10-21T16:09:12+00:00
+  - 命中關鍵字：酒吧活動
+- [觀光新據點 「東引南澳休憩設施」竣工驗收 - 馬祖日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FX2E2Z2JxTUN1Qkd6V0FfbldxOEZYSURzcXRlUVhSOFhaaDlEcGUyNldpelNwZXlHMTZQSWU3eU5DelVQcG5NNzl3MEVhNmkwQThXejVkbmJUQmxJOXc?oc=5)
+  - 來源：馬祖日報
+  - 日期：2026-10-21T16:00:30+00:00
+  - 命中關鍵字：觀光餐飲
 
 ### 第二層：AI 智能篩選
-- 深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
-- AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 - Business Insider Taiwan
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
-- 備戰2027台灣燈會！ 苗縣府端「貓裏紅、酸柑茶」赴日交流 - 自由時報
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
-- 私立開平餐飲-走進產地學食農！開平餐飲主廚盃教師研習深化跨域教學 - 臺北市政府全球資訊網
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
-- 川普訪中會金正恩？受訪連說2次「我不知道」　北韓官媒曬照闢謠死訊 | 國際 | CTWANT - CTWANT
+- 「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞 - 經濟日報
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 會員經濟，可作為「會員經濟」的輔助觀察。
-- 雲朗觀光線上旅展10/22開跑！2300元可住翰品酒店 吃牛排免千元 - NOWnews今日新聞
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
-- 應家柏網誌 - 行政架構 - 馬會知多少 - 香港賽馬會
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 啤酒節，可作為「精釀啤酒」的輔助觀察。
-- 讓好技術找到好市場！2026 HAOSHi Demo Day 看好食好事如何加速食農創新落地 - 數位時代
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：市場情報
-  - 理由：命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。
-- 實踐大學丁永昱勇奪日本國際伴手禮設計競賽金牌 - 中央社 CNA
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
-- 吃爆最邪惡美食！ 2026高雄鹹酥雞嘉年華10/24開炸 | 中廣新聞網 - LINE TODAY
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
-- 平價餐飲漲價潮來了！梁社漢排骨也漲了 平均漲幅約5% - UDN
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
-- 南科帶旺 新市、善化房價走高 - 台灣房屋
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
-- 2026「 Negroni Week」引爆全台紅色旋風！119家酒吧響應公益，台北、高雄共創微醺經典 - XINMEDIA欣傳媒
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
-- 巨星來高雄不等於產業留下來！柯志恩拜會陳鎮川拋「演唱會經濟2.0」三大布局| 徐炳文 | 地方新聞 - 風傳媒
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
-- AI客服普及率達87％！金融保險居冠 資策會揭使用新趨勢 - 自由財經
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
-- 游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance - Facebook
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
-- 旅遊行家年度必看！2026 ITF台灣國際旅展11/6-9登場，匯聚最新旅遊趨勢情報，日本館創歷年最大規模 - 臺北旅遊網
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：市場情報
-  - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
-- 2026日本國際觀光商品設計競賽 多國好手聚東京 金門伴手禮表現亮眼 奪九金佳績 - 蕃新聞
+- 日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情 - U Travel
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：精釀啤酒
   - 理由：命中 精釀啤酒，可作為「精釀啤酒」的輔助觀察。
-- 美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失 - 巴士的報
+- 香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修 - 香港01
   - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。
-- DiDi Global Inc. | DIDIY 股價走勢與即時報價 - BigGo 財經
+  - 評分：3 / 5
+  - 分類：競品異動
+  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
+- 中市職人傳承新秀作品展10/27登場 六大職類逾60件作品展技藝 - 墨新聞-MORE News
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
+- 亞馬遜爆性侵！女高管出差飯店遭硬上 男主管過程中嗆：就要強X妳 - TVBS新聞網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
+- 好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成 - PChome Online 新聞
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
+- 2026曼谷萬聖夜玩什麼？The Standard酒店76樓「亡靈節」高空派對 DJ、特調、異國美食一次滿足 - 食力 foodNEXT
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
+- 《請世界吃桌》6道手路菜這間吃得到！ - 鏡週刊Mirror Media
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- 台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感 - 台灣好新聞
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
+- 食安、健康、一次到位！基隆市衛生局辦理餐飲講習 精進業者食安知能同時推動健康飲食 - 基隆市衛生局
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
+- 28小時旋風式出訪！盧秀燕宣布打造「台中海線小希臘」拚觀光 沖繩瀨長島成功經驗將引進台灣 - FTNN 新聞網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
+- 3大總舖師攜手！真珠台菜重現《請世界吃桌》6款辦桌料理 再送刮刮卡 - udnSTYLE
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 世界料理，可作為「世界料理趨勢」的輔助觀察。
+- 輝達光革命台鏈大擴產| 產經 - 非凡新聞台
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 會員經濟，可作為「會員經濟」的輔助觀察。
-- 馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲
-  - 是否值得閱讀：是
-  - 評分：5 / 5
-  - 分類：精釀啤酒
-  - 理由：命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。
-- 7 仔大白兔布丁 $8｜10 月 22 日到貨、雪糕兩件 $55 - KONGGOK
+- 卡西歐推出指針式G-SHOCK腕表，傳承初代數字表款的功能之美 - 蕃新聞
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：精釀啤酒
   - 理由：命中 啤酒節，可作為「精釀啤酒」的輔助觀察。
-- 異國料理不只吃道地！「5間餐廳」把台灣食材玩進新菜 - 造咖
+- 快拿身分證！「對中數字英文」送龍蝦牛肉、生日吃到飽免費、符合資格打5折，全台10 月餐廳優惠 - 風傳媒
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：會員經濟
+  - 理由：命中 餐飲會員，可作為「會員經濟」的輔助觀察。
+- 《產業》Grab併foodpanda 公平會不准 - 富聯網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
+- 「和逸飯店‧台北忠孝館」歡慶13周年！推出住房、餐飲優惠與壽星限定禮遇 - 蕃新聞
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
+- 3大總舖師攜手！真珠台菜重現《請世界吃桌》6款辦桌料理 再送刮刮卡 - UDN
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：世界料理趨勢
-  - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
+  - 理由：命中 世界料理，可作為「世界料理趨勢」的輔助觀察。
+- 強強聯手：由 Bar Leone 團隊打造，香港瑰麗酒店新酒吧 Bar Camillo 來了 - Popbee
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：競品異動
+  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
+- 少子化衝擊》大企業磁吸人才 中小企陷嚴峻「搶人大戰」 - 自由時報
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
+- 外食族注意!平價餐飲喊漲 連鎖便當平均漲5% - 非凡新聞台
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
+- 萬聖鬼魅派對走進百年前神秘謀殺案- 南加生活- 新聞 - 華人今日網
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 啤酒節，可作為「精釀啤酒」的輔助觀察。
+- 2027全球食品飲料十大趨勢出爐！從營養密度、精準蛋白到AI Innova揭下一波創新方向 - 食力 foodNEXT
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。
+- Betagro取得Freshket多數股權，直接接上餐飲通路 - 行銷人
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：行銷靈感
+  - 理由：命中 餐飲行銷、餐飲趨勢，可作為「行銷靈感」的輔助觀察。
+- 全台最大炸物派對！「2026高雄鹹酥雞嘉年華」10/24、25登場 - 高雄旅遊網
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：市場情報
+  - 理由：命中 觀光餐飲、異國料理，可作為「市場情報」的輔助觀察。
+- 2026 台北萬聖節懶人包：4 大活動、夜店派對、夜市全攻略 - 蘋果仁
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：行銷靈感
+  - 理由：命中 酒吧活動，可作為「行銷靈感」的輔助觀察。
+- 海尼根首間常駐酒吧，開啟下班社交新宇宙台北信義區新地標！ - Livio生活網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
+- 觀光新據點 「東引南澳休憩設施」竣工驗收 - 馬祖日報
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：市場情報
+  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
 
 ### 第三層：戰情報告
-#### 1. 馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲
-- 摘要：這則新聞聚焦於「馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲」，可放在 精釀啤酒 脈絡下觀察。馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場&nbsp;&nbsp;台灣新聞雲
-- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。
-- 原文：https://news.google.com/rss/articles/CBMiR0FVX3lxTE56aHdaeDl4RVowLUpoekZoY01xWWdqRDlBU3MyaU5CYS14cENXTnhWd1RReUhobXNJcGwxTFBwbXZSZzR4eWxR?oc=5
-
-#### 2. 深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN
-- 摘要：這則新聞聚焦於「深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN」，可放在 會員經濟 脈絡下觀察。深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶&nbsp;&nbsp;UDN
+#### 1. 「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞 - 經濟日報
+- 摘要：這則新聞聚焦於「「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞 - 經濟日報」，可放在 會員經濟 脈絡下觀察。「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞&nbsp;&nbsp;經濟日報
 - 對 ABV 的可能影響：可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。
-- 原文：https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROXFJelhjRF9MSVlCa0pRMkJXZEtVYlNLS1ZXejNIX29QclV2WHRMdDk4cUNJZDFxRkV1RzBIMEJNREtBZkpsVXJISmdDT2pC0gFWQVVfeXFMUGFidDZkTDB1clBTRlpDaHRjcnVvNzVGNFRVN3hobGVyVkFZRkp1RDZCd2xOLTZ0ZThvV1dLMzVCWjNpYXY3b2dPYlhRdjJySHdEV0ltX0E?oc=5
+- 原文：https://news.google.com/rss/articles/CBMigwFBVV95cUxQVU54dDVWZXZTWFFOOFpUWHNzVG1TZUgwdjRCOS1zQlJ5b25NdmdLUWFFYjJVVWtCQTljN1BVWHpMb2prVmRVRzU2NUowWEM3YnpNbHNVeFRnbW13RjZxbWx5WWVucnMzajkxOHBVRWRKczZocGRNVmNaWC1pTmFBellfQQ?oc=5
 
-#### 3. 游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance - Facebook
-- 摘要：這則新聞聚焦於「游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance - Facebook」，可放在 會員經濟 脈絡下觀察。游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 h...
-- 對 ABV 的可能影響：可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。
-- 原文：https://news.google.com/rss/articles/CBMihARBVV95cUxNbzRfdGp6cVBJS2xOSGFNWkF6aGl6WGJpdFFtVW5Jd1ZXVWFjMGNUb3Y5UFJWeEdpTTFOZVlTQ3daSXlHell1eHViaDd3MUtNbkQwa0NFNVBQRzFMMFBhczJwRmsydFlUV0tBSmtScXI0alpSdHh1cnRENFRlMVFGVElhVzVfUFdxd3hQb29fRVhxZlhuMko5aXpvZ1ZhQjRZWVRDWmN5NVU3OU40U1YyS3VVZDd2QnJULWNqbXNVQXhyMkdrc0dXanFBNWQ4WktlTXNWTG1uaDVsV2xfNnFfNmxSd19fVlZpeVkySUtvVjhDR0ZlRGtmcU5SX2FZUkRyenc4UG1vem9talY4b3dQdU9CejJHSHViWjU1d3lhMXZ6VGF5dEt6b3Zmb01ZWkFGWjRuemxaanNwUjhuX0kteXhkT0JtdkhUcHp6ZlJoN3RXa2QzZmwzTlplT1VIM0xIY0RISks5d1dzNTBTV3dIR0ZVYWpLN2pwcExXYWctWHlhY29TRklhcmtuRmdyT3JXazdkNjZvQVV1RUhJT1JrbHRFLTJOcnEwLVdvd3FETHVBR0FhRUR3WjltZzNyYm5IcGp2U2tmN25pREZ5enhaQjJjbGg5NE43MTBUc0V2RnZYSGgyeUFvYXBlLTJOTGt3c21HR21rUThyc1lWWmtld19zTHo?oc=5
-
-#### 4. 美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失 - 巴士的報
-- 摘要：這則新聞聚焦於「美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失 - 巴士的報」，可放在 精釀啤酒 脈絡下觀察。美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失&nbsp;&nbsp;巴士的報
+#### 2. 日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情 - U Travel
+- 摘要：這則新聞聚焦於「日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情 - U Travel」，可放在 精釀啤酒 脈絡下觀察。日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情&nbsp;&nbsp;U Travel
 - 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。
-- 原文：https://news.google.com/rss/articles/CBMi7wJBVV95cUxOMUpYNFV2OFczTWl0WjNqSS1SMHRHOG9lMm5Sc3BRMFZyMkRkSTc1dWN0d0ZwZGFheDBWeXBiOHdFYi1od3Z0RURDNW5odE5qRnA4VkpPdnNGNmJScTAwOFVsTE03c043OGNZam1oSWtkeHRhb2NzaTl2TnFoUnBSLU1fSTVRTjlRSUJNcFNxQ3RBVkNrcVJqZkQtWkJocGp4N3p1UGRzSGtJS2lMTWFaWkpKUklSODU5b0dNeVg0SVR2bV8yYURZQ1owa2dCYko0WTBqdDFURmc5ZWlIRmhISE4ybEYzcnlzMzN0akY3UVI5Z2pQdFJMV0ZLS2Zub1dlNzEzRUdPZkswbFF0em1vTnpsMEs5Z3I3VnltREN6ZjA2WUFKNWZWNk5mSjZGLWUwU1FBYm9sMjJhdXVELXUxQnFaeWxZQVJMOHZXR2d0S3RsXzBqQU9Gcnp2TkV6dTdPeE1uY1MycmRhcml4OEw4?oc=5
+- 原文：https://news.google.com/rss/articles/CBMikgVBVV95cUxPYS1ud3ZVOVA1bUtid2ZRQ1dIcm80TUVRQzh3V2cyQUdaak41SEZwcTdpbjF2bjBxTUwxUWJ4b200THIxSEJUNldtRFVRWGRzNDFYYnk4dGs0RkM1eHdBNXpqQVd2WGJrbk1ZdU5NQWNhV3pKWVpFZkg5UGZrQTBHYk5WNlRtWUdKZm9ENGhTa2F6X2ZweENQUDIyVC03elVmTGZPSUt4TWdoZkFnNzZjeW5jNVNFTnhCWXJVT1B5UFVMX2tMOTNnWC13bFpnU0F5Y2pfeDVESjVVeEp5aGYyWXppWmF4MUt0cDhpOVhEU3RpaFNsbzc0SWN1VEthVm1kM1I0d0tMcmpicjAtX2FCa3NvZEd1SE54MVY4WWN6VkRCa2tFalpTWnF1WVZFM2dFXy1GOWlJelVJRjV6amRrUFdRN3g3UDhrS2RjSldvSlQzR24zNUhGVjl3T2ZMRXVRQW9Wd1NseFNZMUFYZnFlNkFoNjF2SzFEZ09yTWVjT0pwQVJiWFZQZVZZcUhXSENaX1JRenliWVpWQUotZW04bkZxbW1lc01LcXJVMzhCYnZHQkpaXy1lOFFVVkNnRkVtYUJES0psODJuNkM1aVlEVEdESnBTMUFsN3lXYmVkRG4yWnl5alJ1ak50U21EMHUxSWQtbEpSdGlBNVFzTUw0MWJfZmozUlp0eEpFaGxZTkNzdlp3Z3JEdVlOOE84VjUxMVl5emVNeEladDlXRzZ0OC0wVHAyVlp1OFFvdjM2NFNZSGxQSVd2azZLVldGd2VpbjVpSlhsQU9UQkQ1ZU45SEUyRlhXMUNIZnRtTTJwYzFBSWM3NVFTWmdIM1Y4YTEzRXd3UkZZYmIybk14WUhWNUZn?oc=5
 
-#### 5. AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 - Business Insider Taiwan
-- 摘要：這則新聞聚焦於「AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 - Business Insider Taiwan」，可放在 市場情報 脈絡下觀察。AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創&nbsp;&nbsp;Business Insider Taiwan
+#### 3. 香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修 - 香港01
+- 摘要：這則新聞聚焦於「香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修 - 香港01」，可放在 競品異動 脈絡下觀察。香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修&nbsp;&nbsp;香港01
+- 對 ABV 的可能影響：可用來追蹤同業展店、活動包裝與產品組合，協助 ABV 調整檔期與店型定位。本則可從「酒吧新開幕」切入。
+- 原文：https://news.google.com/rss/articles/CBMi4gJBVV95cUxQbjk5SWxJeFFQNFBFNmtiYUNsYU5KaXVOU2pZRUExOGtJZU9Fb3JoQUdwRUlIMFZvckVWbmx6M1VIdnNvX3pTNFNidERnYkhHa1RPMlU4TU5MSzF5VXAyMkE3WWp5a1lYRGJoNUNhVWVfeU5TYkw3aUtzOHp1T3RWUHF3MDVXWV9VT0JjRW12c3FWWGo2ZEh3LUVtNG1PY29BUEJuTnBjT3VFLXBRM2FzTjJVUUZ6NmJXOU9KSk1QT1NSOU5FQnM1MU1jZ05xZFV5RWJlaHQ0ZVIyY2tUblRwWjh2WWtUa1c3TUtlLW4yb0pUMHBmSWFHSG1mT05iZzVMOG90ZUFGLTZrd0kzU2lBSEdYSDlIRm5sejJLd2JKb0Y3elJUUWZMVmQ3NnlUczVmbS15VkhmT2NxV3AyWGZJU2FsXzBSbHN1SG1ET0lyRVpuOTZjUnlZVEFabkl0ZDlEbXc?oc=5
+
+#### 4. 好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成 - PChome Online 新聞
+- 摘要：這則新聞聚焦於「好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成 - PChome Online 新聞」，可放在 市場情報 脈絡下觀察。好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成&nbsp;&nbsp;PChome Online 新聞
 - 對 ABV 的可能影響：可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢」切入。
-- 原文：https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUUdZVVlxcUp2TGVNajVVT1R3b0lnQzZYMXV3by1McVB2VUFMbEl2X0VaR2ZDZkZDWnVfRnVaWG1TcEYxM3BCYzIxVG1laWdiUWdoTmVR?oc=5
+- 原文：https://news.google.com/rss/articles/CBMijAFBVV95cUxNakRETHRobnZrdGZ3dkFBV2xUWktNVFlOV2M5V2lHajcxWUdiTnFjZVFaYkFrSDdRQUV1d1FRVm1LY1AwLTFmV2RRWmE2MU1WaWpvQmFxOVZjX1dZTXNrS1NmQnAwVzdQa3BWbDFVUFQ2Ykh1TzdnMUN6d245cVVCY2xLdmhJanJ1REJnVg?oc=5
+
+#### 5. 台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感 - 台灣好新聞
+- 摘要：這則新聞聚焦於「台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感 - 台灣好新聞」，可放在 市場情報 脈絡下觀察。台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感&nbsp;&nbsp;台灣好新聞
+- 對 ABV 的可能影響：可作為 ABV 評估餐飲需求、消費情緒與商圈變化的參考。本則可從「餐飲趨勢」切入。
+- 原文：https://news.google.com/rss/articles/CBMi7gRBVV95cUxOVmpZYzhJNU5qMkQ0aV9JdkVfTFZoaTBtNWFjaHlmcVljcDY0SDR5UVZDb2tSS001SF90bXBXTHhoR1BBUU8zRmI2RXdoWXN3Vkc3R2t3UlNZZ0ZxVUdVYlRHaEpaWFNvbUZnc1FBcWEycVdpT1Y1R0pqeG55MG80Q2xXeHY5cG0zU3JHSEJ5ZVNzd0dGanY3NzZZdl96OS1FR3lyM2hjMF9QRlZJYUh5cE1WZWNZLXYtbGNqTkVITE1GVzZ0VEpJTEhnYjBocUxiVUNmLU9jV0RfQzdZeFdJLUY4UFpNV05rQWZ1MWlsZUZuVTNHeXpnQUFlbGxKQWY0MVRORG9zN1JNWDRCQ2tDZ2xGbXhoaEtvM096TEthdVFIYS1KOXJlZEktbFJGcVVYcE9SSHpxMFJkczZQQVFkTExSbzhHYlhMZVZVdHhac0VYVzNVS2xJWkxYNmNOeFJjZGV0RnhkZkQtZWZDY1pmb20wWVNqRVpUYnlzazhwa01hVWo0cmR4WW40c2loSFdleDY2MklIWVhrR0VIbXEzN2lyQkpkaHg2QU9TdXFxSk0zS1dETkVjQmljTGxjYms0TjZkVXVqOVlHOV9fZFg3QnBOWk94eGktQmJ2V21qaTVJRVJ3SmxqaWFzVkJaS3o3eUlmWU9KVzhjdlVnOE9zd2ViQ2p0cG5ZVG9wbndxZExadmktN2x1NFdBVmdUV0puYm5pNFFNWEREbzg5OGJLbl9aeVF5S25hU3I2Yl9PMDNnLTVqVVRDUHlxZEN2LU1YTnB0Uy1Ial80cE5ibnVYYnpjX2FwZXM5R3RkdGt3?oc=5
 
 ### 第四層：社群內容靈感池
-#### 馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲
-- FB/IG 貼文角度：用「馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
-- SEO 文章題目：精釀啤酒趨勢怎麼看？從「馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲」看餐酒館內容與選品機會
-
-#### 深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN
-- FB/IG 貼文角度：用「深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+#### 「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞 - 經濟日報
+- FB/IG 貼文角度：用「「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞 - 經濟日報」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 會員經濟？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「會員經濟」相關的餐酒體驗或活動。
-- SEO 文章題目：會員經濟趨勢怎麼看？從「深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN」看餐酒館內容與選品機會
+- SEO 文章題目：會員經濟趨勢怎麼看？從「「Music EXPO LIVE 2026」登陸小巨蛋 台新Richart抽票享最高3.3%回饋 | 生活 | 要聞 - 經濟日報」看餐酒館內容與選品機會
 
-#### 游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance - Facebook
-- FB/IG 貼文角度：用「游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance - Facebook」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 會員經濟？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「會員經濟」相關的餐酒體驗或活動。
-- SEO 文章題目：會員經濟趨勢怎麼看？從「游庭皓的財經皓角. . 2026/10/21(三)全台游資氾濫 為何會錢荒?股匯大矛盾!台幣越貶經濟越強？【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance - Facebook」看餐酒館內容與選品機會
-
-#### 美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失 - 巴士的報
-- FB/IG 貼文角度：用「美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失 - 巴士的報」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+#### 日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情 - U Travel
+- FB/IG 貼文角度：用「日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情 - U Travel」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
-- SEO 文章題目：精釀啤酒趨勢怎麼看？從「美國百年建築內啤酒廠疑鬧鬼 監控影到神秘白影及刀具離奇消失 - 巴士的報」看餐酒館內容與選品機會
+- SEO 文章題目：精釀啤酒趨勢怎麼看？從「日本聖誕好去處2026｜東京聖誕市集首度進駐新豐洲！獨特灣岸風光＋聖誕老人造型吉拿棒＋三色熱紅酒附門票交通詳情 - U Travel」看餐酒館內容與選品機會
 
-#### AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 - Business Insider Taiwan
-- FB/IG 貼文角度：用「AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 - Business Insider Taiwan」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+#### 香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修 - 香港01
+- FB/IG 貼文角度：用「香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修 - 香港01」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 競品異動？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「競品異動」相關的餐酒體驗或活動。
+- SEO 文章題目：競品異動趨勢怎麼看？從「香港新酒店15間2026｜灣仔＋啟德！人均$262起 1間奢華5星新裝修 - 香港01」看餐酒館內容與選品機會
+
+#### 好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成 - PChome Online 新聞
+- FB/IG 貼文角度：用「好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成 - PChome Online 新聞」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 市場情報？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「市場情報」相關的餐酒體驗或活動。
-- SEO 文章題目：市場情報趨勢怎麼看？從「AI餐飲管理半年簽六品牌、智慧養殖省工七成 好食好事Demo Day 9集結16組新創 - Business Insider Taiwan」看餐酒館內容與選品機會
+- SEO 文章題目：市場情報趨勢怎麼看？從「好食好事Demo Day集結16組新創 AI餐飲半年簽6品牌、智慧養殖省工7成 - PChome Online 新聞」看餐酒館內容與選品機會
+
+#### 台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感 - 台灣好新聞
+- FB/IG 貼文角度：用「台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感 - 台灣好新聞」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 市場情報？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「市場情報」相關的餐酒體驗或活動。
+- SEO 文章題目：市場情報趨勢怎麼看？從「台北異國餐飲吹「日常慢食風」！天母歐陸餐館轉譯瑞士與義法料理從早午餐到桌邊甜點打造微度假感 - 台灣好新聞」看餐酒館內容與選品機會
 
 ### 第五層：企業級輿情/趨勢分析
 #### 各分類新聞數量
-- 會員經濟：4
-- 市場情報：11
-- 精釀啤酒：5
-- 世界料理趨勢：2
-- 行銷靈感：1
-- 高分新聞數量：4
+- 會員經濟：3
+- 精釀啤酒：3
+- 競品異動：2
+- 世界料理趨勢：6
+- 行銷靈感：4
+- 市場情報：12
+- 高分新聞數量：0
 
 #### 熱門詞
 - 餐飲趨勢：5
-- 會員經濟：4
-- 觀光餐飲：3
+- 觀光餐飲：4
+- 酒吧活動：3
 - 台灣餐飲市場：3
-- 精釀啤酒：3
-- UDN：2
-- Demo：2
-- Day：2
-- CTWANT：2
-- 啤酒節：2
+- 請世界吃桌：3
+- 世界料理：3
+- 會員經濟：2
+- 酒吧新開幕：2
+- 登場：2
+- 異國料理：2
 
 #### 趨勢判斷
-今日以「市場情報」聲量最高，共 11 則；熱門詞集中在 餐飲趨勢、會員經濟、觀光餐飲，代表內容可圍繞消費場景、選品與活動溝通展開。
+今日以「市場情報」聲量最高，共 12 則；熱門詞集中在 餐飲趨勢、觀光餐飲、酒吧活動，代表內容可圍繞消費場景、選品與活動溝通展開。
 
 #### ABV 可行動建議
 - 本週安排一則「市場情報」主題貼文，連結 ABV 的實際菜色、酒款或門市活動。
@@ -304,37 +350,65 @@
 - 把高分新聞轉成 LINE 分眾推播素材，測試會員回訪與訂位反應。
 
 ## 昨日往前七日歷史新聞
-資料區間：2026-10-14T00:00:00+08:00 至 2026-10-21T00:00:00+08:00
+資料區間：2026-10-15T00:00:00+08:00 至 2026-10-22T00:00:00+08:00
 
 ### 第一層：關鍵字新聞列表
-- [廚房也能創造社會影響力！團膳業者翻新製程、採用永續食材收服年輕世代的胃- 營養好食 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUeWlwSi1xNDFaaV9OZFdHWDlzRElsWUtsdmlyQ0poVlVZSUNEenVkU1BtbmxockxpTDZnLUxEVUxzUmIzMDRwRWxLeTc1ZUZINnJONDdn?oc=5)
-  - 來源：TVBS 健康2.0
-  - 日期：2026-10-20T12:13:00+00:00
+- [台中最大「日式變裝遊行」本週回歸！18個主題市集，百家啤酒、美食餐車進駐 - 食尚玩家](https://news.google.com/rss/articles/CBMiV0FVX3lxTE83c1k2Yms5V2pNYWRKSVlERW1sTFhuQmVhSUE3bm5qZ1BpSFlwelY5NzlRZGsxQk5MOTdTYms5b2Ztc3JJa0ttMXdiSnRCWHJoZWZHb1M2SdIBXEFVX3lxTE1UamhrSHlHejNwaWwxTlUtc3QtNnpOM01fSzJsYm81RjdCQmY2bGwtQ0E4VjRScnFZLWJ2eTZUaVB2aDRiYVJxejAtS0VfVGhNQkxMY2o3ZlZGU1NK?oc=5)
+  - 來源：食尚玩家
+  - 日期：2026-10-21T09:57:00+00:00
+  - 命中關鍵字：啤酒節
+- [紐約聖誕老人酒吧巡遊活動在前主辦人被控詐欺後回歸並由新團隊管理 - Business Insider Taiwan](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSlJkLWQyOXhMRjEwV1ZkT2FKNW5NNUVMcEZ4OEpwdW10WDZWaVd4ZkR3aHpjaTlBbFlSYloxTXJGQUt1QWUxcEhQTlJNU2VSN21DRldn?oc=5)
+  - 來源：Business Insider Taiwan
+  - 日期：2026-10-21T09:00:02+00:00
+  - 命中關鍵字：酒吧活動
+- [群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場 - 報新聞](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjF4dk1aWDNweGZQWGJ6NU9xTkcyWV9Ub0pUU0trMGN0NlEwNEdzR0tmTHNXbUh3UTlCZUg5T2VpY19GZWZCUm4zUjNUTlRLRFhURDVYMnNuQnN6eVRRNk9McFRyc0dlamxoVVRnTzgyaHBjLW5XaXhtaWFHNzBaVzlNZldIYmJsRERtWWgyMmsxV2hxLWNTNVFWcExyamRPb3NSenpDbVpZOFRvak8tM1d0QUZGalBNSmpsdEFQRVhuMUR1ZnBxd05uUFZHeVpINUdDN0NjZk82M25vS1dsSE9KRXhIZ21DUWlVdklsc19ELW50YWV4Z3Q3LTVwTFpRQ2xFbk5XQlNleHRtYnVTbFhHZjFJTWJ5SkVLazZpNG9UR1gtTnhvQWJQOWJ4d1RndmNrWm5qamZ1UUVMb21CSGhBZnRCc2hUUFNtS21WVW5LNEp5cVhGZFJaR21hb1cwNnJHbEJ3?oc=5)
+  - 來源：報新聞
+  - 日期：2026-10-21T08:29:18+00:00
+  - 命中關鍵字：啤酒節
+- [AI助攻旅宿業搶訂單！胡智鈞獲台中、高雄旅館公會邀課 分享26年經營實戰 - 記者爆料網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KUmppU04zM2pJZHg3aTFPQTdNamNTaF9QVXRrdmItRzVtVE9HTzdYdHRVdVVpY0VCUWZLRC1aRWJ3cVAwNlZzdmR3bEhrdw?oc=5)
+  - 來源：記者爆料網
+  - 日期：2026-10-21T07:03:00+00:00
+  - 命中關鍵字：餐飲行銷
+- [把《世界辦桌》搬回台灣！真珠台灣佳味六道辦桌手路菜368元起滿額再送刮刮卡- 樂活 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2dGF6Sm1oOXA0dzItaDBwaWZUX1VtWnhJQWlldG1ybkxHbzBlTEZOZTdOVDRneTF6V09hV0RqOENmZEhienhRNTBLYjhZVFNHVHdZaUppVkt1aHNQVURz?oc=5)
+  - 來源：工商時報
+  - 日期：2026-10-21T06:24:00+00:00
+  - 命中關鍵字：世界料理
+- [崑大餐飲系AI智慧餐飲教師研習 串聯教學創新與永續應用 - 中華新聞雲／中華日報](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQLXlSU2FtLVpka2toUVpFRzJFR1FEWll6Vi1qUFJFWW9hMWJzem1oVFBtRV9jSzl2SndIeHY2RDJoZlZzMU8zdzEwRF9MNUZIWXc?oc=5)
+  - 來源：中華新聞雲／中華日報
+  - 日期：2026-10-21T06:16:32+00:00
+  - 命中關鍵字：餐飲行銷
+- [2912 統一超- 深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶- 股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFZlFBbjl6U1ZuSzhVVkpabWtNWGFCMnByeEFEQ3psZ3NGdjNRNFhITHZIdzk4UnBCWFFDQ0tibDNfWkVqR3p1SHhNc1pVXzFyYlVPSTFybkg?oc=5)
+  - 來源：CMoney
+  - 日期：2026-10-21T05:24:13+00:00
+  - 命中關鍵字：會員經濟
+- [深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROXFJelhjRF9MSVlCa0pRMkJXZEtVYlNLS1ZXejNIX29QclV2WHRMdDk4cUNJZDFxRkV1RzBIMEJNREtBZkpsVXJISmdDT2pC0gFWQVVfeXFMUGFidDZkTDB1clBTRlpDaHRjcnVvNzVGNFRVN3hobGVyVkFZRkp1RDZCd2xOLTZ0ZThvV1dLMzVCWjNpYXY3b2dPYlhRdjJySHdEV0ltX0E?oc=5)
+  - 來源：UDN
+  - 日期：2026-10-21T04:53:19+00:00
+  - 命中關鍵字：會員經濟
+- [馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲](https://news.google.com/rss/articles/CBMiR0FVX3lxTE56aHdaeDl4RVowLUpoekZoY01xWWdqRDlBU3MyaU5CYS14cENXTnhWd1RReUhobXNJcGwxTFBwbXZSZzR4eWxR?oc=5)
+  - 來源：台灣新聞雲
+  - 日期：2026-10-20T18:44:13+00:00
+  - 命中關鍵字：精釀啤酒
+- [異國料理不只吃道地！「5間餐廳」把台灣食材玩進新菜 - 造咖](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LR1ZWdmhzckxvaTFpRDk4TXNCMXdEenN3bUFrMkdPMDk5ZWV3bTRBdzlEem9aZkZDejdlaFp1ZGNEUmh5LWxpcUtTemQ0azFpYUtYWUxqUQ?oc=5)
+  - 來源：造咖
+  - 日期：2026-10-20T16:12:00+00:00
   - 命中關鍵字：異國料理
 - [旅館公會接連邀課!胡智鈞分享AI實戰與親子旅宿轉型經驗從台中到高雄旅宿業者反應熱烈以26年經營歷練與實務案例傳授新思維 - 墨新聞-MORE News](https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iWnZwOW00Vm50ZzVuRjM0eWVfMHp6bm9JaHA1SUs1T2hxNndkZmRBenVoc2pnT1RSdncxY2NxcDVtZw?oc=5)
   - 來源：墨新聞-MORE News
   - 日期：2026-10-20T11:39:20+00:00
   - 命中關鍵字：餐飲行銷
+- [台中購物節即將登場 膳馨餐飲集團加碼響應 - 獨家報導](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPU0QtSlp1VEoxM2x1T05LcVh3VDBPdDNlVEk1NWYwY3JYNFBkTExodk5FRnQxYWR3bWswSE9DR1V3UnpZNG9QTEVPSXhnd19iUWZ4VllEVVZNSk9jY1pjbmhSV0RVODlUd1lQYk1DYS1zVTZRWWw5SWphTTJrTHBFYUtfZkhGZzNXeVExZUw4Z3M1WXk2UWVrUml6X0VMUk1ZSlVZOXB0VENFd0habS1GT0tabmRmS1VGdXlrci0ySmhhVnNPbkhYdDdRRGpUYkNyMHluUlJGVXlaZGwyaDJhWlpUMUg1RjhzOHAtaEFOd01xQ2dvM3JKc19XNHpDQ0p6dTVXdnoybjFyZHRZRnVxeG5DTk9wY1M3MWIyeVRGRWs0WEgxbGhtS0ZtbjdJTTFrT3JzbmRoT1dYOW8?oc=5)
+  - 來源：獨家報導
+  - 日期：2026-10-20T11:31:07+00:00
+  - 命中關鍵字：餐飲會員
 - [印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組裝方式，配合節 - Facebook](https://news.google.com/rss/articles/CBMi3AdBVV95cUxNa0tEM3BSVmpZRGRmTDJLeFN3ZngwM1FIR0puN3EzeXZzb3l4RHJ1enFhNDRveEt0eGZjc1didWZCVUFhTXQzN0dObzQ4aURiTE42T0l3S2RtY0xJdzk0dTJ5NWt2a0dCSHJxTlRYWjZUS21iLW43VGNPdTBvRTJjcVdWanZJWUFlUWQxdGQxbVRZWUIzR1FNZWkyQ1VxeURQRFhFSG5wZ3RuYW9NQjdvRmN0TnltNHdITHRMeWhQSVNsVWppMF9OTnE4VDFaSktDLU1JOHFWaHdvNGJiNlJDM2xBVFpoQTkxM0dLMXlnbnZzcEIzczREREtXdjE4UkQ2TVFCZUxyWTdxaUhWRmlrRkktS09QeEY5X2Y3Y0xabmswUlVmTTRTTGt2dmN1WGJyVU9zQTVPd256ZlhzVHltMWhfNTNRYldqdlR5S2hxcWpoQ1BTVzFIRVpsTVBOSmtzbXJ2UnJ3MG1ydi1tZkxBcnl4LWpOXzdEMEhoVkRMVGRDS3RmeUlxSkxvcDVCMng5NXkwQ2JkZC1ZMzkyakdpTzFLQ3puV1lDTGFySDFnT09HYm5FaklfM3R1ODhDWXRGdmwtZWpWclpveVJGTlBUSm9JQTNqUGttRUhkXzhEaVRDT2JmQnRJSTl6LTVPWXlXTmhRaDJOX28xVVVrVnpiTG9VMURUMVpPOE8tRHlMYzM5Z1gzZVVLUXAzaG1tSml4TlZOM3ZaSlMtSUgyYjItTGVvM09pdk1OYWFoWDNUbjU3c3JIUnItWGdwVmFZWGZSZzMya0Yzb0p1OVZ3YlFoMmRjX0xxaUhSaWZLZGpKU2dyRm56anNqSVN0NkRObkE5WER3RDJXZndPMEQ5WEN5bXZxYjctMUlQcnZlN0RvNTd6djJJSThoQldzaEVGeFNfbUtJVEYyZElJYzdRZkc5UGdQbEI0RnhVRTEzajhMRVcxTUpyRkpXR1FDZVFpV2Y2V2lsN3RfNXBzdDBtNDlSdHkyaEZZeTNGQmlDUVJoZ0YtbkdGNDVDMnlDeS03bFhSRms5VWV3OTVXUkhTLXp1b3R3UWoyOTdub09NNE5TY0N2cVBnYUVEUUE4ODRCc0p1M1NtSFBwbWJzZlJNQmdWOVF0R05oRkxWekZZeXoySi11QTVsOVN3cEVKRkpkRVBTQjVXMndJa0wwZ3cyYkZTSV9xdnVaLVVHYnlrVkRSaVNkeGh3cjRaR3BiblFrQlAwSldUZVdvb0pYVnNpS014ek9aaXc4RTRvQzFtWGtyVGtzRVkyVkxFSTkwQzBURUxuc0pvVHVCWXBrY1lz?oc=5)
   - 來源：Facebook
   - 日期：2026-10-20T10:00:24+00:00
   - 命中關鍵字：啤酒節
-- [Negroni Week全台119家酒吧響應公益 南北派對滿場舉杯 - 壹蘋新聞網](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMW00X1hkQ3prVzRlUjNVOWhmV0pGYW9OWDAtdWJnaTZhdUVOdE5QYVhjQWNBaE9kQng5VFA5NDl3aXVtRnRNSUUxeEthOXl1bGR5RHp0cEEtYnVsckR3MmZYTzJLV3NOLTBHaGlYUFpXOEdPODNaRXFveVpRcFlBb2FLY2U?oc=5)
-  - 來源：壹蘋新聞網
-  - 日期：2026-10-20T09:20:00+00:00
+- [70秒乾杯！工程師參加喝酒挑戰喪命 酒吧老闆落跑遭通緝 - Yahoo新聞](https://news.google.com/rss/articles/CBMi7AJBVV95cUxONDZKRmNaR3BySVpYcVJnanhrZ2ZWZkN6d1BmQzVOenRsRWFxS0lyOTltdGprc1FlM1h5RDFJdU1feHd3LVpTTlBOUnFLN1JkN1VCUFdidTlVWVlaZ3VtOUtrVm5NRjgxMExQOFlMSnFhRnBKTkYtMG1Ob2JGdU1UcFoyM0MtRkhMajJ5SlZKNkFKUWE2Mk96ZkFWUVJqYTdEdGQ3V1J3NmczWjA2VjFHc1IwamZ3UlRJMlZKekdBZGtsUXFJN25vR3p1WDREMmJXQzNSLUQ1YUUyaTVHSmk3X3RYZUo0THpiRzZ3TFF0Skx5NnZiSjRWVUNjOXhYcjUtb09qWHRhckVFQnVTQ29HcHF1V295UW1KXzdfa0FvNXJfcENoUS02ZEVrWU9ZaGpyLWtKbDBPWXdzdENzZ2lPOGJxakFrS1VCX2NFWUF0WDJVSnF1NlFWZkpZZ3d0Q0drdWlHdXhPZGNVUkk3?oc=5)
+  - 來源：Yahoo新聞
+  - 日期：2026-10-20T05:37:57+00:00
   - 命中關鍵字：酒吧活動
-- [10部女生必看美食動漫推薦：《能幹貓今天也憂鬱》下班回家有貓咪煮飯太幸福！《迷宮飯》越看越餓配飯神作 - Cosmopolitan](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVFLY0FvR3I4RHJNV3JlazJjNHhOU2hBQ0p1d1pjV2xqUG1fQW45WF9WN2UxZmJPUHl2aEZjNHVfU3ZrZWNYWXRpMUpscWJhMjlyNXJSTk1qRDhtZTNGWmo5c2RTUW0zUmwxajBwdmtFZm9TaWwyUDRRaENlUm00bDdlVDJHTy1MdHc?oc=5)
-  - 來源：Cosmopolitan
-  - 日期：2026-10-20T08:13:16+00:00
-  - 命中關鍵字：世界料理
-- [深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - 聚財網](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yRWJYalF1ajZoUG5wMjNrbm94SE4xMEctTXlROVpqTjV2b1l1SVJDMk9Gc19aY2F1YmFneEI2cjlmdy1VZmk0Tjd0dzc?oc=5)
-  - 來源：聚財網
-  - 日期：2026-10-20T05:25:00+00:00
-  - 命中關鍵字：會員經濟
-- [好市多熟食區新制未滿月 傳「雙標」！ 網點名這幾家不必掃會員 - 知新聞](https://news.google.com/rss/articles/CBMib0FVX3lxTE5YUlpKb2xmWHhHR0xGWmFmNzRuUmlVdEhsRlR5YkFEcm1mZUZ1OVB3cDFaVjZSbjdXUG9TcDFfN0Zuc3dwYVlIdHVYSkFwR09OZm1HTER3RUNQb3NIR1FsWHdfZ2RjVUdud2JzYWcxTQ?oc=5)
-  - 來源：知新聞
-  - 日期：2026-10-20T04:24:00+00:00
-  - 命中關鍵字：餐飲會員
 - [台北松山意舍酒店Que餐廳搞怪美食、啤酒無限暢飲- 生活 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Cek1mdWt1UkVmRWJ5ZTByNHpBWjlVS3EzZll2U0wyT2ZaSlZtcThHbEdzZ1FqcTVtSzJNRXlPZlhSNXE1NFBOS0oyQWtyZENhWWlLcU1nYmhzazExQVBz?oc=5)
   - 來源：工商時報
   - 日期：2026-10-20T02:03:00+00:00
@@ -347,14 +421,18 @@
   - 來源：食力 foodNEXT
   - 日期：2026-10-19T16:10:58+00:00
   - 命中關鍵字：台灣餐飲市場
+- [軒尼詩把奶茶變調酒了！信義區紅色貨櫃酒吧登場，免費入場還能玩金色麥克風接唱 - ELLE](https://news.google.com/rss/articles/CBMibkFVX3lxTE9TQkF3a1JsOGRCVVNNZW1zb25GbWw1eWVldnJiT2RMNXVPYTl2Zk45MTJSRVl4VHJYZ3dGdlJsRTIzOVY1NFNpZkhXanluZE5sXzNTSzZKY0Zqdklxa0lVYjRINXFtYWEtek5RLXVB?oc=5)
+  - 來源：ELLE
+  - 日期：2026-10-19T15:45:13+00:00
+  - 命中關鍵字：酒吧活動
+- [「2026高雄鹹酥雞嘉年華」10/24、25登場　88家品牌齊聚大遠百 - 今傳媒 JNEWS](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uS0dpSXlzM3MzREtvSU5YYzVwV09YVjlhWmRydWVXQUh4OVA2SzRiMkVHMDUxdURVLXJRNU91QXM3elNJM3FYY002N2o5RFowUmfSAVJBVV95cUxObktHaUl5czNzM0RLb0lOWGM1cFdPWFY5YVpkcnVlV0FIeDlQNks0YjJFRzA1MXVEVS1yUTVPdUFzN3pTSTNxWGNNNjdqOURaMFJn?oc=5)
+  - 來源：今傳媒 JNEWS
+  - 日期：2026-10-19T14:23:22+00:00
+  - 命中關鍵字：異國料理
 - [Accor Plus 報告：價格與住宿權益帶動旅遊忠誠度 - 新聞與統計 - IndexBox](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXlDUVJEZlRZMFVnSXFRd2NtbGd4RU1NMVE1bHV6NHRwdVBrSndnSWlacGxrWW9fMEpGcE81OXJyVlk5Z1RrMU9oMXlKRlhmWkxGNGtZZXNmbXRSYXhwbXZrMkJpTDNQRlNYWEtPdVJPSXpCMXZaRzMwWXlsQUd3bWx1ZTdWLWdMRWVvdzBwcklIRktENWc0TG5QQUtfSWlKbGF6TzZ0MTZhdXFPN2pER0lCNnNkd0o4bmdtelZHOA?oc=5)
   - 來源：IndexBox
   - 日期：2026-10-19T13:41:29+00:00
   - 命中關鍵字：顧客忠誠計畫
-- [美式賣場「熟食區新制」傳取消？ 多家分店免刷會員卡- 生活 - 華視新聞網](https://news.google.com/rss/articles/CBMibEFVX3lxTE5NLVVQSlo2NnRvN3p0ZXZ5dXdfM1V3bUtBeWxqLVRoNEJHNUtIMmFPZXFHLS1rUUhVNGJNUk1jTTVhYTFsYW5abmdKQ1pCalV6UHlDaFM1ODFUQWVQMnNCaXNhN1F3RXJ3bnJsMw?oc=5)
-  - 來源：華視新聞網
-  - 日期：2026-10-19T12:00:00+00:00
-  - 命中關鍵字：餐飲會員
 - [起司歐包香鬆披薩 by Feng Lin - 愛料理](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9adUZvczBkX09ZRDVTelVjaGJURlFFMVRaYm1seWhuVWxnMldZbXZNbUhKN09vVTRwclFRQTlMbXBxSUR6TVE?oc=5)
   - 來源：愛料理
   - 日期：2026-10-19T11:22:20+00:00
@@ -367,18 +445,10 @@
   - 來源：Yahoo新聞
   - 日期：2026-10-19T10:12:00+00:00
   - 命中關鍵字：餐飲會員
-- [台中購物節串聯美食觀光 膳馨邀民眾品味在地台菜 - https://www.atanews.net/](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1welR6WXJkaW5vN3NFMVFmc3V6cDdCVi0xallwcktXellZRE9DdXYxOFh4dUFuUFZEelZ2b0drbmhGam9rRTFzaVZFREk?oc=5)
-  - 來源：https://www.atanews.net/
-  - 日期：2026-10-19T09:20:04+00:00
-  - 命中關鍵字：觀光餐飲
 - [台灣餐飲業界第一位！台中Fleur de Sel鹽之華法國餐廳主廚黎俞君獲「法國農業功勳勳章」 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ca0VnUTg5X1ZYcE9ZVTlIdjdoN3c4aTNHRnhmS3dzT1UzcW82TWxFUFZVdkJvaVRmMEpwQ18yR2kzcnl1UHg2enlYU044TWw0cGpTWVZaaXJLcjRwYjdV?oc=5)
   - 來源：工商時報
   - 日期：2026-10-19T07:49:00+00:00
   - 命中關鍵字：台灣餐飲市場
-- [冷凍水餃一年商機50億！ 餐飲集團搶進量販通路 - 民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LX2JlOFpKdXotN3dNSWdqWmxLOURHWmxEN0pCQVh1d0RhckU0a1k2aGxxeHZTdVB6QlhZZEMzWUJaVWsxRVczb2xIY1BaZGJlMWJ0eU02UERJbzEwYmVqTg?oc=5)
-  - 來源：民視新聞網
-  - 日期：2026-10-19T05:34:46+00:00
-  - 命中關鍵字：餐飲行銷
 - [【好市多「熟食區新制」上路半個月就破功 多家店傳取消刷會員卡】 試行這半個月，大家覺得效果怎麼樣呢 ... （#豬頭皮） - Facebook](https://news.google.com/rss/articles/CBMihwVBVV95cUxPY2hVN0k5eUwyMWxhLWswbzJVb29ySUdkZTNyc01hclh3TF9XeVg4VUYwNXM4SjdBUG1fZHVuNEtEeU14YmlvS3hKdEdUZ3kyV2dqX3BkT3MyTklWeS1JZFJiYTNjaDd2MTF1dUxmY3R5YThybWp6VFFkTy1LNE5PR3o1eERlOHY0ZVV6NnZsMHhEd0FRUDM0QjRmYWJldW9NcWdsQldObVpZNEhiNHZHM1hDTnNsVlZCWlMxak4xX2VUdGJmYkFrbXAzM2hRWkt2TFpYOWtFVlgzRTM2Q3Bhem5OejNaeWdOTVJKYlpIYURwX2M4bnJUOWQyb0F2MDFWNVJ4NFVSLXdtN2o3MUhRV1I3UE5rRmxWeVd2ODhwb0tub3U1REVCdWFuMnc2TXJ3UUNWNWxIUEJ6aWJ3bnQyOU83NjRnUlA1aFA1ZmdTTE5sNGN4M0Z5QlNlc05kS09LWTI2RU04QV9YVHNubjZ6RWdkdE53R2NOUlZIMXpuQXFkYmEtbEVUMTVQNlhuS1o3Sm4xamdFUHlnU05qNC1TaVpGRGFZQ0RTRGkyTUpaOUhQWUZDdFJrZ3NpQ1hKZ3oxbnpKUlBUcmVnbXJIWl9OVkVQVUNpdUl6WjlsbENmVE9ZdkFQZDJ3dVB5ejZJa2VNbkJ3RWo0ejQ3bXJkOGZhc0pGNUhBRUxiWUxxQTdZaDhqSnZtQnMwb01pck9oMmljYjZ2QW43SU42emllbkswYV8yaENYZjFYcS0xelE2WHcwbkNBTWpBaTFrMmJQRThteTkxTWJPTTdoa3BiRlVkR2pWWDZRVUJEMzVKOWpQQVFLNlp4dUdWZjNUV0l3UXZ0RDV6OHIwaw?oc=5)
   - 來源：Facebook
   - 日期：2026-10-19T05:13:09+00:00
@@ -403,14 +473,14 @@
   - 來源：Sing Tao Daily 星島日報加拿大
   - 日期：2026-10-18T16:17:59+00:00
   - 命中關鍵字：顧客忠誠計畫
+- [觀光圈市集登場 金門加碼贈好禮 - 勁報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NcUFIYmZ3bEhSYmVEZElPYUJ5R041Q3FIUTlNNHpLZXpqUzRRajhxRHk1VEkySl9iczBlby1fRnNjN2ZzWXRyQWktSHdsX2hEMXphZFJJWEZIWno5dXU3RQ?oc=5)
+  - 來源：勁報
+  - 日期：2026-10-18T10:20:41+00:00
+  - 命中關鍵字：精釀啤酒
 - [外食族不忍了！餐廳「1要求」成新趨勢 網戰翻：不應該 - TVBS新聞網](https://news.google.com/rss/articles/CBMiTkFVX3lxTE90bWZWUk1rYUtKTFBLMTd5c0pyeWxmUGRmM2ZlSU1MTVBYM0UtMkhjTkN6UU85ZTNveWpjYndWS1lGbXpJMUg5T0Z3d3RaUQ?oc=5)
   - 來源：TVBS新聞網
   - 日期：2026-10-18T07:47:00+00:00
   - 命中關鍵字：餐飲趨勢
-- [“餐飲大小事”：三星餐廳 Mirazur 登台客座、Nio Teas 開放預購 2026 抹茶倒數月曆 - Tatler Asia](https://news.google.com/rss/articles/CBMifEFVX3lxTE5jcjhKYTM0YnUzMUJmWkZFb210QklkX1p5VmMyNUUxUGFVMzBSdmNERkJwbWJrcHZ0N3p0MlRVRHF4LVV3blVURjktWmRMSVM0d2RsUHB5Q0VUUWhWN3dpNVJMVE5xMlVmUkFxN1lENVhfZzFiYWprY0ZSeTk?oc=5)
-  - 來源：Tatler Asia
-  - 日期：2026-10-18T07:00:00+00:00
-  - 命中關鍵字：美食趨勢
 - [味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊 - LINE TODAY](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFlnLUZsRDh6WHpqMlVickNWT01PckNwQ0U2ZUZNd3Q3V3J6UmYxcDE3U1ZFYW5pQjE0OGRaaUN6ZE41SDROQkhfNU1aNC1rSldqUXBJUWhrWG9kamdJMGZYZDZwUXVRdmFiSHoxWmRuYkNOSXlVYmg0clFLRHlpSmE5QQ?oc=5)
   - 來源：LINE TODAY
   - 日期：2026-10-18T06:35:34+00:00
@@ -427,18 +497,34 @@
   - 來源：食力 foodNEXT
   - 日期：2026-10-17T18:05:03+00:00
   - 命中關鍵字：世界料理
+- [台北板橋馥華艾美酒店3大餐飲亮點！「花漾」自助餐、LUMI Bar星空酒吧，品味極致法式優雅 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiYkFVX3lxTE51Y0NwVU9VSXM3YWpINjd3c25QVjNoRnJiOXJXUFhackxqdHRxWmxtZVJocERQdGVVNEhNWFNFbG5mZXhLVDV5ZTdMY2xLNWk1N2VlX1lhN3JkNUxQTXBubU9R?oc=5)
+  - 來源：Marie Claire 美麗佳人
+  - 日期：2026-10-17T16:46:37+00:00
+  - 命中關鍵字：酒吧新開幕
 - [HOT SPOT｜草莓抹茶單日狂銷400杯「ORII MATCHA」進駐台北東區，日本三大產區抹茶 × 美式餐飲文化，玩出混血新風味 - Vogue Taiwan](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXdnLWlZUDBxa1VjcVZOT3JjUjdEb3FPSGEwTVgza3VaajZjSnVJX0FTX0pfNHV3WGI2NUFZbVM3c2NFTlRCMXFvQWNCWVFxdVh1ZUxydC04Q28ybEh2N285UXhkUHV4bTZGMXlwN2FCbkRuMWpSa1UxYVA1Y0VQMHRtbWlFYkJQT2I3RFppdXVySWQwdVQtY3BYTUhROGVReWJFSW8xZEVLN1JGU194aVpYdVN1aVgyX01hRlk5WFVFeFY2bFJnN2IzNXFTMGg5Rnc?oc=5)
   - 來源：Vogue Taiwan
   - 日期：2026-10-17T16:30:00+00:00
   - 命中關鍵字：餐飲趨勢
+- [美銀、花旗出手限制AI代理 銀行為何開始害怕「智慧理財」？ - 鉅亨網](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUGVTTThUZDBqNXMxZFBneDR3bmNfanJxTFlkTzZLbUU5UnJyaUoyVW5maS1PeUVwY2dLbmVmczVaNUVqdzhvMmtodjhVUkk?oc=5)
+  - 來源：鉅亨網
+  - 日期：2026-10-17T12:00:10+00:00
+  - 命中關鍵字：顧客忠誠計畫
 - [中國消費轉型蘇州台灣美食節調整策略客流量激增| 財經 - Newtalk新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yMXZIQjdpR0NzX2wyRzNRZVFfQnhkWmpGdVR6LTRVTFgtbEVkR0RwZGQyR3IxOEtZaGpvZ1UxN2VwRG4xUXZTTmZWaFplWjFDd0hnSjY0TE9PUE0?oc=5)
   - 來源：Newtalk新聞
   - 日期：2026-10-17T11:19:20+00:00
   - 命中關鍵字：美食趨勢
+- [2026台中酒精路跑再掀熱潮！「龍蛇酒雜」第三屆心動篇10月23、24日登場 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4VXJxR3g2WUtWN1BQaEgtOU1LUFRYQkJsVHFMbEI3dW5DNFBidWZPaW0xX3ZZcFA5RW1UbV9KRlk5SlBpYnYxOTlmQWp3Y3JQWVE?oc=5)
+  - 來源：蕃新聞
+  - 日期：2026-10-17T09:24:00+00:00
+  - 命中關鍵字：精釀啤酒
 - [Los Tacos No. 1 每天服務1,200名紐約市顧客 執行長押注私募股權能助其擴張 - Business Insider Taiwan](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVlRrNkkyZEdwcVJQSERNek1xSEkzUkxqdENONDFVZWxzWjFBNEt0UTVrdDdKWHV0ZjF4ZzNqSFE3elBwZ2JUci1zaHFldUc5WnZkaG53?oc=5)
   - 來源：Business Insider Taiwan
   - 日期：2026-10-17T09:00:01+00:00
   - 命中關鍵字：顧客忠誠計畫
+- [Global Mall新左營車站週年慶開跑! 搶攻會員經濟引進多家人氣餐飲新櫃推出多款「車站獨家」與限定商品消費滿額加碼點數2倍送 - 視傳媒](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWDZ6cUlOcl8wbFVCTmgyMFJWUFNvdXNwWkplbFlUdU1MQnJGRGctMjFWX0U1ZjNyMTNOdkFGQ1BvQTlNVWVXMlBUZnVENzFUM25fX29VTnJBNjFTNUxvLWJjMFdEc3B6bDJfQndncTdzQ2R6NFZDcDRGWTNJSldJZC11bGQ4MjEtbXJDajNXYzdRM1hHanBNRGVKVEpMZlBKLUpQNEJsd0hyRVdIVUpEYVBn?oc=5)
+  - 來源：視傳媒
+  - 日期：2026-10-17T07:08:08+00:00
+  - 命中關鍵字：會員經濟
 - [嘉義「炸雞啤酒市集」今登場！近 200 攤連逛兩天 限定調啤配炸雞、烤蚵辦桌還有戶外KTV - 上報](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtY01yX0Vpb2tCWWc0MGVpUjhZZGotSWJNYllnZmlMXzFOMlFQMzZVM0hXYjdrUWlkRHRRWnJNcHpXUTdzOG9kRThyVGVROWNGbDVpbzJoU01wbEE?oc=5)
   - 來源：上報
   - 日期：2026-10-17T05:00:00+00:00
@@ -446,10 +532,6 @@
 - [中國消費轉型 蘇州台灣美食節調整策略客流量激增 - 信吉衛視+](https://news.google.com/rss/articles/CBMiW0FVX3lxTE92S0FTNDQ1SnljS1pjRnNFZTVmYjZueXJ6QXVkWnFaYzZ2ZVZpSzlrQ2VZNzBlWFQ4aHRhdVloQUtwc21nY3hvSF9tRzRNcVN2REh6ejNZLUZRYzQ?oc=5)
   - 來源：信吉衛視+
   - 日期：2026-10-16T16:00:00+00:00
-  - 命中關鍵字：美食趨勢
-- [2026新竹觀光發展論壇10/19登場！高虹安邀易遊網、國際專家揭開AI旅行新樣貌邀民眾共探未來旅遊趨勢- 政府消息新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTJjYVhDcVYtWTBleVdTOVhsZ252YVhhcXBLQkpvaHF3MHh0eUxqZl9ZcTN4WUZQSDdYSGNxdV9YYzhNUkRHNEk2RS1RZDd4aFJSak5vTlhfT1lTSW53Vk9xdUo0MGdfQkd3RGNQdUFqZnNPSk5TUlZMazc5dC0tOTdCQUdJemhzWkFr?oc=5)
-  - 來源：PChome Online 新聞
-  - 日期：2026-10-16T12:40:16+00:00
   - 命中關鍵字：美食趨勢
 - [搶攻會員經濟！Global Mall新左營車站週年慶10/22開跑 - NOWnews今日新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZSW9aSEIzSUZUNVcwNS1xQzRRdENIZWh4enV2RTJwa2FuQzNHRjgzSE03N0NqN2JseWxLTGlyVVNDUERXZS15RFMwM27SAVJBVV95cUxNREJMTWowRWM4aHRVdFlidlpJY1BIOVRWRlhmSnI2V25DQWoxZzZDTUQzUTd4dW1UZTRRNHNadTM4ZFY5YzRRM0xrYk5oRUwxUFlB?oc=5)
   - 來源：NOWnews今日新聞
@@ -463,14 +545,14 @@
   - 來源：香港01
   - 日期：2026-10-16T09:51:38+00:00
   - 命中關鍵字：啤酒節
-- [GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yXy1Lb01KLU9VR3FwWE5UNzdLLWlvMmdPcGtGOHQzS1lDN0RtdDZFbllpaHFXanBpaG0yQmt4azNTYkNORWVHbkNDR0NzX1VPVk1nc3Rn?oc=5)
-  - 來源：LINE TODAY
-  - 日期：2026-10-16T09:31:43+00:00
-  - 命中關鍵字：會員經濟
-- [Global Mall新左營車站週年慶開跑 搶攻會員經濟 消費滿額加碼點數2倍送 - Yahoo新聞](https://news.google.com/rss/articles/CBMingNBVV95cUxPbXBxaENCb3NkMkFOWlA4ZnlJVEQ4WVlSZlViaGhqU3VmckVCcVhRdzJScGs4X1ZLX21mdkpDazgxMmdndDhidHhYR1YxaTlLSVlfOWZLRXJfaGxRWDFJZXIyTlRBR1RVRGNuSUFSakJLMTZaXzdJajNlTFNhcm94XzZRWEhtYnJNcGNiOHJWLUVqZUwxbEFPak81dWZ4SzlUcHM1Q21kYi0xNW9hY0ZQTlRoNlIxQ1Z6VFBoWUxkN2syaWpiTGhEN3JQMWppUjRabzlubzFsWnRDcFkxOHYtZWE1QmxINmxVTEcxMG95WUdhMWF6VFUtYjNFOVVxT21nanBvQTJNeVNFcXMxSU5vUUcyTVRJWXNQeVJyaDdBN2FFeU5ZTE8xZkhKcTFFQnAwX0F1RXM1LXQ1TldRaWR5ZHZvVXN4RkkzY3U0V1V1QldyczBEQzZQSFFGS01Vei1EbmVxX2w0Tzl4dXFQcHRBTG1Id2kxcnVlc2ViRUpkN1U2dWtUOFhzUWdFYXNHZ1ZQNWd5eDJWRDZLTUltN1E?oc=5)
-  - 來源：Yahoo新聞
-  - 日期：2026-10-16T09:03:41+00:00
-  - 命中關鍵字：會員經濟
+- [Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 - 勁報](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpc3h2U0pvZzNrcjBRVkV4cGhKVThuTXNUZDBTTGxvVnN4Q3ZvcUpTU3EwOWw4dzA4ZThlY3IwMDExWmZfMjU3V05iS240TS1DWEJXUzhDRXRCTXEtcEZmNQ?oc=5)
+  - 來源：勁報
+  - 日期：2026-10-16T09:12:08+00:00
+  - 命中關鍵字：會員經濟、餐飲會員
+- [台南安平雅樂軒高空酒吧新開幕 「味噌調酒」配蜂蜜滷味 - 玩咖Playing](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sWjMtREZ0Qm55eUtOV0NjZmRIU1NvWkwtaFJucWxrdVljS0MxN3Z2MmttMzl4NHJuNzRLQ00wbTFBYzd2S3E0WklaMnFBLTlRM3c?oc=5)
+  - 來源：玩咖Playing
+  - 日期：2026-10-16T09:03:00+00:00
+  - 命中關鍵字：酒吧新開幕
 - [2026第14屆Negroni Week引爆全台紅色旋風！ 119家酒吧響應公益，雙城派對共創微醺經典| 唐可欣 | 品味生活 - 風傳媒](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FWGMyd2Y5QzJBaFhGdGJUZE1oRWJSTkFqUWlTcHdWQVlFTUxZZnZ5c0RuZFBGXzk5STBIMF90TjJYOC1vMU1mQnJCcHZRZw?oc=5)
   - 來源：風傳媒
   - 日期：2026-10-16T08:42:00+00:00
@@ -482,6 +564,10 @@
 - [六福村萬聖節「暗黑破壞神」聯名！Cosplay玩家免費入園還能繪製地獄圖騰- 娛樂新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1NUQ205VGY2Q2FFcjluSjM5NjAyanQzelVpcHpzMVdaV0VUUjlYbkpSdWE3akh5WkgyXy1qQzBLVUdQMktEWGw2QUI0UnZ0WFVyQ2VOeUx5TElzZGdxeURubWIyZlJQeHVDOWpnZmNCNVZxOHJraGtoM0tpNGVJbEk4VGNhUTVQeXZORXBXUzk?oc=5)
   - 來源：PChome Online 新聞
   - 日期：2026-10-16T07:10:02+00:00
+  - 命中關鍵字：啤酒餐廳
+- [萬聖節2026｜將軍澳PopWalk萬聖節嘉年華開鑼 將南公園首辦萬聖派對 3米高發光南瓜成打卡熱點|香港經濟日報 - 香港經濟日報HKET](https://news.google.com/rss/articles/CBMilARBVV95cUxNbW5tazV1c21acFdsb01nOTJoSnd5SXJfTjdraTU2SjAxRk1iU2pENmxUV1pXVm1oMXRYMHlKanBWTHBlNUpXd1dIU0ZEM0dEcGt0dHBTb01uMTFkWXZmUl9NODdlWjFSMFJBdTJXcFYzVHNhemVaRWtEVEEwRmJON09HcFhyTy1iaDBtVTV3M200NkI5YVhuMVB0TlBIU3B1NDdlaE16c3kzdjQ4VF9OeDYwa3N3Z2todmRRUE9fajRMbXpsamhEbS1rOWZabDVfMzBfMUZXdk80bkJCenhNM1BnNmpHMURyakNMOGo0Yk1VcnB5RGlfUXMtMlc5Y2ZpTnBFX2h3N0pkQVVDdzlXcWdPakV3VEpuYVdxTEFid0FsMzkxUHpNT3B5UVNRNEJtWW40MlRTbWkxYmpsdkFDZmc4U2FYMk85YmY5U2NQQVk4OGcxaFd0TXppdjc1N3UtQnFjM2w4ZGJfMU5DdTJhNVRJaG9IX1RvTFNyQ2hOYTFkWlhNa0t6bkZjOXU1LXFQbTVwUXpaLV9XUmQ3UG1BR0ZTZS1jUDRITDJXcV81RWlGSkI3UGJQOVRBb25YZ3RwbTh2Z1JUV3Z0UTF0THlmR0lTQXhHSGtUSFVQR2w4UTNwdk9IYjBHcGY1ZGJPRm9Vd1ZRY0o4QWh5UWdEWDVMZUtBUXpXRTFmeFotaDBRU0VqSWJV?oc=5)
+  - 來源：香港經濟日報HKET
+  - 日期：2026-10-16T05:48:00+00:00
   - 命中關鍵字：啤酒餐廳
 - [獨家／客人越滿越虧錢？看看日本怎麼賺 揭密台灣餐飲業損益黑洞 - Yahoo新聞](https://news.google.com/rss/articles/CBMimwNBVV95cUxOVTZoSG4tdDdOb0pCMlpRNm9CcVF0RzhTTzQ0Z1cxZ0hJUENIVlJSa3lCRVNqZTNuVUVIT2l0UUhDcW9RY2IxNS1xTHlLRS0zWUpBQ1JKU19UQTBTR1ZNaWVlSHN4Wm1vYWpUNkxIYTF1NDl1d252YUd2UXhrTzYzaUdLT0hZYnhoeGhhajNvdlAtelAtUWlNa1ZIZG4xekVZeTdjSlo5Umlpa3hqMnJNdFQ1NGhqbmFZWVVSV2FiYlNYeklwSV9meTVVZll4TEtaQ1l2a3lld2ZCNzNCd0Vfby01Yk01LWNkZXdwblFvWUVTQ3N2NEdISDNvM0ZQZ2VRSWc5Ql9CY3J1dDlkTGJXWEFWQW4zTUY0VDdrNTYxazRKTGl2ODJRRlZOMS16eUhRdDlsbE1ONXYtbllFaDJPQ2NHMGlEZ1M5dEc0V1VHbndGMXhvcmtPd3daN016TnpfYktVOHJLQ183TzV5Y2lXZmVfb3liUWtMVlVOS3R2cGZRbDlvdENhRGtiT0tSaUtGck9CSll1NFdtSk0?oc=5)
   - 來源：Yahoo新聞
@@ -519,83 +605,78 @@
   - 來源：新住民全球新聞網
   - 日期：2026-10-15T01:05:00+00:00
   - 命中關鍵字：異國料理
-- [10 月 16 日（五）東京赤坂酒吧將舉辦《任天堂明星大亂鬥》大賽！冠軍可獲價值 1 萬日圓獎品，落敗者則要喝龍舌蘭！參加費每小時 1,000 日圓 也可單純入場觀賽 - Saiga NAK](https://news.google.com/rss/articles/CBMibkFVX3lxTE1JSXJHUnhKX3B0SW05R3N2eElWU2lQbjJ6N2kyQ3hsZVVEakZXQXdNLUktaXE5cjh0Z3lUTU1EWEtCdzlFdFkwOFBHeUpTM1pZY0VOOEZRTGhxNEVIWC1tWEN5Sl9SaW5zODFyY2dn0gFzQVVfeXFMUFkwWmk0RFVId2x6X3J4b2NJQS1DejBBcmZmY3ZxVGZldENkNkxtMmtXRUV4NUdYbVM5WWg1TGFKclBJWVB3cXlPcXEzbkdSZUlzVVgxblVJSzZsSG5LbGhENVRoXzhoa3ZfQVhtSTZwbnZ0MA?oc=5)
-  - 來源：Saiga NAK
-  - 日期：2026-10-14T22:57:00+00:00
-  - 命中關鍵字：酒吧活動
-- [田媽媽農村料理躍上國際餐桌！台日泰名廚齊聚台東關山，用在地食材激盪8道創意料理 - 微笑台灣](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlFLd001RG5seG5uTUdpRlNfamttaDQ5QWZDOW9yLWg0QmwwZDR3TmJKOFFaOFJSNm5qNjBKbGdKUVZmYThnUWRZN3l6aU1CQWRGUF94WEhlNTIwd0xDOUZVaF9OSW5xbFpHbXBDNVp5aGUyODIxR19NdVJveEZuLVc3S0M?oc=5)
-  - 來源：微笑台灣
-  - 日期：2026-10-14T16:00:00+00:00
-  - 命中關鍵字：世界料理
-- [宜蘭餐飲美學新篇章 DANA刺蔥餐廳 原民風土當代料理重新詮釋 - Life 生活網](https://news.google.com/rss/articles/CBMi7wJBVV95cUxNTUpYbnNpWW9GZnRUd1dLam5FNldOX0NJR0p4eGgya0FiYTBCdVhTUFlDSkdOVEdJX3Q5NlllVVl1SlU3UXZhTXJaYmtSWVRFcThpdFM3eVZ1Z0Q5R1NIWXh0TlY1YXBFRldzdF9SQndPZ0ppNXhjcWxRTkhPQzN1aEdXRDhpN3VtdGtIQWJfOVMxUWRHLTVvRVQySW51T1U1QktxSFZwWnB6UUJXMzBQUUVIYmV4d2VxVHlUa2hZRlREdDZVUngzMnhjTldlamxFQlVjLU1xSUhUNm5jR3drdEVoN3lFakxuQlRGS2J3VWZwd0dxQnhXeER4eDNxTGJoZnB1dlpKOExFRC1lSFpHTTF2bl9UZjhVNjltNi0zaTU0QjNVVW9TYTVJRFN1YWxQcUVmSGt6MWswSWwxbFB5bGpwZ1RjeXhXaWVrNV81cjYtaVZVdGRsam5qQkQ0VVF5ejNmRk5wa18xd0huOEh3?oc=5)
-  - 來源：Life 生活網
-  - 日期：2026-10-14T13:31:40+00:00
-  - 命中關鍵字：餐廳社群行銷
-- [西螺異國料理：從義式主餐到手作甜點 打造完整用餐體驗 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMimgNBVV95cUxQbTliNGJrUDlCRjJrcDBkVlFfcjVvemVndkFncEZLZUFsNWxhUkR2TzhPRDh3czhSc0VkU2JUN1M3ck1HaGd3QVpPWGs5UW0xN0tSSG8zT2FTR0htdFV2RTR0M3d4MWdCNlZDT0R3TUJRT0RNeW5hYUdzVmU1ZElZa0w4UmowTVZhemZXVkt4am5pQnBEekVzUTRxeHJSWTZHelF6YS1RaXVWLVNOcG5UanM4VlBBdnhEc3o0QmpGQ1h0YUVvb09ub2pSM0lya3VkYVhndUtETGhTYm93alFrY0hpamN4UDk3em4tZ0ZqNS1RME1wVVA4ZzNFTmIyal84bDIwNWk5R0tPZTZ4QThLdy1zZkM5VmNLZTlLbHhfcmJmRmRhLS1qNTRzckpSbXVjQnhFWDMxdUN1eDhDcHJjZS1Vcy1iZy1QZ3doUTBGTU5ITDBXRmVaOExXVTRXLXk1Z1VNQnFWV2Z6Nmt1R0dUN0ZtM00ycXlzQXI4Yk53WEEzYUMyLWlQNGsyUGxkOXVjQTlSaDc4STZEQQ?oc=5)
-  - 來源：商傳媒 - SUN MEDIA
-  - 日期：2026-10-14T12:04:46+00:00
-  - 命中關鍵字：異國料理
-- [國際名廚齊聚臺東！日泰臺聯手端出8道創意料理 田媽媽農村美食躍上世界餐桌 - 台灣新聞雲](https://news.google.com/rss/articles/CBMiR0FVX3lxTE53LVZmZmdsQUdzRTZzNTJHMlJ1U3J4QTY3SzJjZG5xZzkyTHRhTVYzZkFtblVlbl9MOU9XN2dKV3hxVm5fbGUw?oc=5)
-  - 來源：台灣新聞雲
-  - 日期：2026-10-14T11:22:55+00:00
-  - 命中關鍵字：世界料理
-- [敏實科大餐飲系舉辦拜師禮 邀名廚劉冠麟與阿基師傳承廚藝 | 中華日報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hQXpRbEtmQ0NPTldpWkRqZG5EU2cwMXEwYjlPVmhyY2tQR3FnQ1VpVFVUVl9BdEtHWVl1QUdiWlhlV2N1Y3hTY1VpTUNkY2hvSmJQYjNn?oc=5)
-  - 來源：LINE TODAY
-  - 日期：2026-10-14T10:10:02+00:00
-  - 命中關鍵字：餐飲行銷
-- [國泰航空攜手FIZZ FIZZ 於信義區打造快閃酒吧 10/2-10/3、10/30-10/31品味城市中的高空滋味 - Cathay Pacific](https://news.google.com/rss/articles/CBMihANBVV95cUxQYlNwbUhhSVNocEtoaWJFSGcwMmRmTlE5S0prVUxWZVNpMVhLUzJ1YVVLSkc5UjFPY1FhdnJGRGoxMGxtcXlVUmpyaWNLRmUwRWViTjUtTmxod3NqZ2RjNUxlczNybTVIeTdlWl9UNnB6NU1zc2NaeHJqeTRkOGE2TnFhMVk3LS1MN1h2NGw2SzVDMlpsMEdFTmdnbnBjRERXRktmX0xLMjhpRDkxYlRyVTRhbDR5T2lkalV3Mm5TUEZkTTBKLXVSOFYxeEFySHNBMEJ4V25acVJERjl3MzZ0MGYtVGViUFUtZ0R1elh2M1JfU2xPLWE1eGpiYmVhYk9aT0VQMFEyRkNqX2szcGdhX2JJRW5MZ1NVZExnOXJ3TGdDUFJxVnA4WWxmeGp5VHdJRkpJMklOdG94azZ0SmxJY3ZpYksxdzVtQ0hlSGpWUkxudVJuLWhObmhIc1ctLTRyMlI3aTc2Rk5pcWdJOWFlM1d4aXgyUEFwZ2dNN052MWMwbEtJ?oc=5)
-  - 來源：Cathay Pacific
-  - 日期：2026-10-14T08:34:00+00:00
-  - 命中關鍵字：酒吧活動
-- [餐點加碼、人力不加碼 Koodie 三工位商用智烹機以精省設備與空間拓展餐飲商機 - 行銷人](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSVdkbjF4YU96NkhsSHhoekNBZzdXUkJhQlY2OWhySHJ6aHRvbFJsa1JXaW5SUWdJRlRqaEF3X2R1T19rdHJPYjVqZmZTYmtKd0JQTEdQTU11Zkc1NFg5T21BZjZpazhTZzNBOWNsb0hmTFA0ZV9pcmhManQwZTNRWWJLT1RPQUc3UWxJU1Y0Q195UWFLSW9UYkd0YmtHU2w2Y21QdTBCWHNGZF9IMnVoMXJkMW44czViR0Y5dURlZzBBNkh3bmhPMFdkQV95NXB4S3Atc3R2RWNNYkRjUTh2eklTdUp6aU9SRHp5LUdnbzFxQ0tMXzV3V3dEdEktZTdwUmRheElUVFBnWWszMExrQXI2dkxfcElOSk90Y0xPRWNQZzNyRHdXTWdlV0ZVVUR4Z2VidGQ1QXJMZHBjbzJWdFM5dXlqQ05ZZllsVVZ3OXlnQ0hGM3NNQmVaTmQ3c2ZOdm1iVDZB?oc=5)
-  - 來源：行銷人
-  - 日期：2026-10-14T07:02:30+00:00
-  - 命中關鍵字：餐飲行銷
-- [「滑」出新商機！TikTok 不只年輕人在看，品牌搶進短影音戰場 - 蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5eWswcHJwWW9USFR3TkEwajZzWUZ4elNWemVySHlOSmppbmg5d3U2X2lJWDhoSnNoVEp0a1dFaHVTOGQ0ZXR2RDhOVUYtWVlNVFE?oc=5)
-  - 來源：蕃新聞
-  - 日期：2026-10-13T22:17:00+00:00
-  - 命中關鍵字：餐廳社群行銷
-- [東京巨蛋城酒吧巡禮活動「Hashigo-zake in TOKYO DOME CITY 2026 AUTUMN」將於10月30日至11月3日盛大回歸 - www.haveagood-holiday.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnpyc2dSNXJoOVNqQTNUVjJrc3FHVzc5UGdoNno0Z3pWQm5PVjhTSXJwaU1zSTVLWDFKTjR0WW11dk9KUU0xVzVYQVpjOTMxcFFzVzI2a0d3cF81ODFDakdrcnRCTElCY1pSQ18xQ1NYY016RUszUVhDb09MMVFQYlB3NDM4RjNSZF9XZzY0LV9fdlk?oc=5)
-  - 來源：www.haveagood-holiday.com
-  - 日期：2026-10-13T18:22:06+00:00
-  - 命中關鍵字：啤酒餐廳
 
 ### 第二層：AI 智能篩選
-- 廚房也能創造社會影響力！團膳業者翻新製程、採用永續食材收服年輕世代的胃- 營養好食 - TVBS 健康2.0
+- 台中最大「日式變裝遊行」本週回歸！18個主題市集，百家啤酒、美食餐車進駐 - 食尚玩家
+  - 是否值得閱讀：是
+  - 評分：4 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。
+- 紐約聖誕老人酒吧巡遊活動在前主辦人被控詐欺後回歸並由新團隊管理 - Business Insider Taiwan
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：行銷靈感
+  - 理由：命中 酒吧活動，可作為「行銷靈感」的輔助觀察。
+- 群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場 - 報新聞
+  - 是否值得閱讀：是
+  - 評分：5 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。
+- AI助攻旅宿業搶訂單！胡智鈞獲台中、高雄旅館公會邀課 分享26年經營實戰 - 記者爆料網
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
+- 把《世界辦桌》搬回台灣！真珠台灣佳味六道辦桌手路菜368元起滿額再送刮刮卡- 樂活 - 工商時報
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：世界料理趨勢
-  - 理由：命中 異國料理，但目前訊號較弱，可低優先追蹤。
+  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- 崑大餐飲系AI智慧餐飲教師研習 串聯教學創新與永續應用 - 中華新聞雲／中華日報
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
+- 2912 統一超- 深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶- 股市爆料同學會 - CMoney
+  - 是否值得閱讀：是
+  - 評分：4 / 5
+  - 分類：會員經濟
+  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
+- 深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - UDN
+  - 是否值得閱讀：是
+  - 評分：4 / 5
+  - 分類：會員經濟
+  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
+- 馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲
+  - 是否值得閱讀：是
+  - 評分：5 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 精釀啤酒，且與「精釀啤酒」高度相關，值得優先閱讀。
+- 異國料理不只吃道地！「5間餐廳」把台灣食材玩進新菜 - 造咖
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
 - 旅館公會接連邀課!胡智鈞分享AI實戰與親子旅宿轉型經驗從台中到高雄旅宿業者反應熱烈以26年經營歷練與實務案例傳授新思維 - 墨新聞-MORE News
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：行銷靈感
   - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
+- 台中購物節即將登場 膳馨餐飲集團加碼響應 - 獨家報導
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：會員經濟
+  - 理由：命中 餐飲會員，可作為「會員經濟」的輔助觀察。
 - 印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組裝方式，配合節 - Facebook
   - 是否值得閱讀：是
   - 評分：4 / 5
   - 分類：精釀啤酒
   - 理由：命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。
-- Negroni Week全台119家酒吧響應公益 南北派對滿場舉杯 - 壹蘋新聞網
+- 70秒乾杯！工程師參加喝酒挑戰喪命 酒吧老闆落跑遭通緝 - Yahoo新聞
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：行銷靈感
   - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
-- 10部女生必看美食動漫推薦：《能幹貓今天也憂鬱》下班回家有貓咪煮飯太幸福！《迷宮飯》越看越餓配飯神作 - Cosmopolitan
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
-- 深化會員經濟！uniopen PRIMA 專屬偶像應援包限量開搶 - 聚財網
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
-- 好市多熟食區新制未滿月 傳「雙標」！ 網點名這幾家不必掃會員 - 知新聞
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。
 - 台北松山意舍酒店Que餐廳搞怪美食、啤酒無限暢飲- 生活 - 工商時報
   - 是否值得閱讀：是
   - 評分：4 / 5
@@ -611,16 +692,21 @@
   - 評分：3 / 5
   - 分類：市場情報
   - 理由：命中 台灣餐飲市場，可作為「市場情報」的輔助觀察。
+- 軒尼詩把奶茶變調酒了！信義區紅色貨櫃酒吧登場，免費入場還能玩金色麥克風接唱 - ELLE
+  - 是否值得閱讀：否
+  - 評分：2 / 5
+  - 分類：行銷靈感
+  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
+- 「2026高雄鹹酥雞嘉年華」10/24、25登場　88家品牌齊聚大遠百 - 今傳媒 JNEWS
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：世界料理趨勢
+  - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
 - Accor Plus 報告：價格與住宿權益帶動旅遊忠誠度 - 新聞與統計 - IndexBox
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 顧客忠誠計畫，可作為「會員經濟」的輔助觀察。
-- 美式賣場「熟食區新制」傳取消？ 多家分店免刷會員卡- 生活 - 華視新聞網
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。
 - 起司歐包香鬆披薩 by Feng Lin - 愛料理
   - 是否值得閱讀：是
   - 評分：3 / 5
@@ -636,21 +722,11 @@
   - 評分：4 / 5
   - 分類：會員經濟
   - 理由：命中 餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。
-- 台中購物節串聯美食觀光 膳馨邀民眾品味在地台菜 - https://www.atanews.net/
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：市場情報
-  - 理由：命中 觀光餐飲，但目前訊號較弱，可低優先追蹤。
 - 台灣餐飲業界第一位！台中Fleur de Sel鹽之華法國餐廳主廚黎俞君獲「法國農業功勳勳章」 - 工商時報
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：市場情報
   - 理由：命中 台灣餐飲市場，但目前訊號較弱，可低優先追蹤。
-- 冷凍水餃一年商機50億！ 餐飲集團搶進量販通路 - 民視新聞網
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
 - 【好市多「熟食區新制」上路半個月就破功 多家店傳取消刷會員卡】 試行這半個月，大家覺得效果怎麼樣呢 ... （#豬頭皮） - Facebook
   - 是否值得閱讀：是
   - 評分：4 / 5
@@ -681,16 +757,16 @@
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 顧客忠誠計畫，可作為「會員經濟」的輔助觀察。
+- 觀光圈市集登場 金門加碼贈好禮 - 勁報
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 精釀啤酒，可作為「精釀啤酒」的輔助觀察。
 - 外食族不忍了！餐廳「1要求」成新趨勢 網戰翻：不應該 - TVBS新聞網
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：市場情報
   - 理由：命中 餐飲趨勢，可作為「市場情報」的輔助觀察。
-- “餐飲大小事”：三星餐廳 Mirazur 登台客座、Nio Teas 開放預購 2026 抹茶倒數月曆 - Tatler Asia
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
 - 味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊 - LINE TODAY
   - 是否值得閱讀：是
   - 評分：5 / 5
@@ -711,21 +787,41 @@
   - 評分：2 / 5
   - 分類：世界料理趨勢
   - 理由：命中 世界料理，但目前訊號較弱，可低優先追蹤。
+- 台北板橋馥華艾美酒店3大餐飲亮點！「花漾」自助餐、LUMI Bar星空酒吧，品味極致法式優雅 - Marie Claire 美麗佳人
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：競品異動
+  - 理由：命中 酒吧新開幕，可作為「競品異動」的輔助觀察。
 - HOT SPOT｜草莓抹茶單日狂銷400杯「ORII MATCHA」進駐台北東區，日本三大產區抹茶 × 美式餐飲文化，玩出混血新風味 - Vogue Taiwan
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：市場情報
   - 理由：命中 餐飲趨勢，但目前訊號較弱，可低優先追蹤。
+- 美銀、花旗出手限制AI代理 銀行為何開始害怕「智慧理財」？ - 鉅亨網
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：會員經濟
+  - 理由：命中 顧客忠誠計畫，可作為「會員經濟」的輔助觀察。
 - 中國消費轉型蘇州台灣美食節調整策略客流量激增| 財經 - Newtalk新聞
   - 是否值得閱讀：否
   - 評分：2 / 5
   - 分類：世界料理趨勢
   - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
+- 2026台中酒精路跑再掀熱潮！「龍蛇酒雜」第三屆心動篇10月23、24日登場 - 蕃新聞
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：精釀啤酒
+  - 理由：命中 精釀啤酒，可作為「精釀啤酒」的輔助觀察。
 - Los Tacos No. 1 每天服務1,200名紐約市顧客 執行長押注私募股權能助其擴張 - Business Insider Taiwan
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：會員經濟
   - 理由：命中 顧客忠誠計畫，可作為「會員經濟」的輔助觀察。
+- Global Mall新左營車站週年慶開跑! 搶攻會員經濟引進多家人氣餐飲新櫃推出多款「車站獨家」與限定商品消費滿額加碼點數2倍送 - 視傳媒
+  - 是否值得閱讀：是
+  - 評分：4 / 5
+  - 分類：會員經濟
+  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
 - 嘉義「炸雞啤酒市集」今登場！近 200 攤連逛兩天 限定調啤配炸雞、烤蚵辦桌還有戶外KTV - 上報
   - 是否值得閱讀：是
   - 評分：4 / 5
@@ -736,11 +832,6 @@
   - 評分：2 / 5
   - 分類：世界料理趨勢
   - 理由：命中 美食趨勢，但目前訊號較弱，可低優先追蹤。
-- 2026新竹觀光發展論壇10/19登場！高虹安邀易遊網、國際專家揭開AI旅行新樣貌邀民眾共探未來旅遊趨勢- 政府消息新聞 - PChome Online 新聞
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。
 - 搶攻會員經濟！Global Mall新左營車站週年慶10/22開跑 - NOWnews今日新聞
   - 是否值得閱讀：是
   - 評分：4 / 5
@@ -756,16 +847,16 @@
   - 評分：5 / 5
   - 分類：精釀啤酒
   - 理由：命中 啤酒節，且與「精釀啤酒」高度相關，值得優先閱讀。
-- GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報 - LINE TODAY
+- Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 - 勁報
   - 是否值得閱讀：是
   - 評分：5 / 5
   - 分類：會員經濟
-  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
-- Global Mall新左營車站週年慶開跑 搶攻會員經濟 消費滿額加碼點數2倍送 - Yahoo新聞
+  - 理由：命中 會員經濟、餐飲會員，且與「會員經濟」高度相關，值得優先閱讀。
+- 台南安平雅樂軒高空酒吧新開幕 「味噌調酒」配蜂蜜滷味 - 玩咖Playing
   - 是否值得閱讀：是
   - 評分：4 / 5
-  - 分類：會員經濟
-  - 理由：命中 會員經濟，且與「會員經濟」高度相關，值得優先閱讀。
+  - 分類：競品異動
+  - 理由：命中 酒吧新開幕，且與「競品異動」高度相關，值得優先閱讀。
 - 2026第14屆Negroni Week引爆全台紅色旋風！ 119家酒吧響應公益，雙城派對共創微醺經典| 唐可欣 | 品味生活 - 風傳媒
   - 是否值得閱讀：否
   - 評分：2 / 5
@@ -777,6 +868,11 @@
   - 分類：世界料理趨勢
   - 理由：命中 美食趨勢，可作為「世界料理趨勢」的輔助觀察。
 - 六福村萬聖節「暗黑破壞神」聯名！Cosplay玩家免費入園還能繪製地獄圖騰- 娛樂新聞 - PChome Online 新聞
+  - 是否值得閱讀：是
+  - 評分：3 / 5
+  - 分類：競品異動
+  - 理由：命中 啤酒餐廳，可作為「競品異動」的輔助觀察。
+- 萬聖節2026｜將軍澳PopWalk萬聖節嘉年華開鑼 將南公園首辦萬聖派對 3米高發光南瓜成打卡熱點|香港經濟日報 - 香港經濟日報HKET
   - 是否值得閱讀：是
   - 評分：3 / 5
   - 分類：競品異動
@@ -826,84 +922,46 @@
   - 評分：3 / 5
   - 分類：世界料理趨勢
   - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
-- 10 月 16 日（五）東京赤坂酒吧將舉辦《任天堂明星大亂鬥》大賽！冠軍可獲價值 1 萬日圓獎品，落敗者則要喝龍舌蘭！參加費每小時 1,000 日圓 也可單純入場觀賽 - Saiga NAK
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
-- 田媽媽農村料理躍上國際餐桌！台日泰名廚齊聚台東關山，用在地食材激盪8道創意料理 - 微笑台灣
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，可作為「世界料理趨勢」的輔助觀察。
-- 宜蘭餐飲美學新篇章 DANA刺蔥餐廳 原民風土當代料理重新詮釋 - Life 生活網
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐廳社群行銷，可作為「行銷靈感」的輔助觀察。
-- 西螺異國料理：從義式主餐到手作甜點 打造完整用餐體驗 - 商傳媒 - SUN MEDIA
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 異國料理，可作為「世界料理趨勢」的輔助觀察。
-- 國際名廚齊聚臺東！日泰臺聯手端出8道創意料理 田媽媽農村美食躍上世界餐桌 - 台灣新聞雲
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：世界料理趨勢
-  - 理由：命中 世界料理，可作為「世界料理趨勢」的輔助觀察。
-- 敏實科大餐飲系舉辦拜師禮 邀名廚劉冠麟與阿基師傳承廚藝 | 中華日報 - LINE TODAY
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
-- 國泰航空攜手FIZZ FIZZ 於信義區打造快閃酒吧 10/2-10/3、10/30-10/31品味城市中的高空滋味 - Cathay Pacific
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 酒吧活動，但目前訊號較弱，可低優先追蹤。
-- 餐點加碼、人力不加碼 Koodie 三工位商用智烹機以精省設備與空間拓展餐飲商機 - 行銷人
-  - 是否值得閱讀：否
-  - 評分：2 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐飲行銷，但目前訊號較弱，可低優先追蹤。
-- 「滑」出新商機！TikTok 不只年輕人在看，品牌搶進短影音戰場 - 蕃新聞
-  - 是否值得閱讀：是
-  - 評分：3 / 5
-  - 分類：行銷靈感
-  - 理由：命中 餐廳社群行銷，可作為「行銷靈感」的輔助觀察。
-- 東京巨蛋城酒吧巡禮活動「Hashigo-zake in TOKYO DOME CITY 2026 AUTUMN」將於10月30日至11月3日盛大回歸 - www.haveagood-holiday.com
-  - 是否值得閱讀：是
-  - 評分：4 / 5
-  - 分類：競品異動
-  - 理由：命中 啤酒餐廳，且與「競品異動」高度相關，值得優先閱讀。
 
 ### 第三層：戰情報告
-#### 1. 味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊 - LINE TODAY
+#### 1. 群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場 - 報新聞
+- 摘要：這則新聞聚焦於「群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場 - 報新聞」，可放在 精釀啤酒 脈絡下觀察。群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場&nbsp;&nbsp;報新聞
+- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。
+- 原文：https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjF4dk1aWDNweGZQWGJ6NU9xTkcyWV9Ub0pUU0trMGN0NlEwNEdzR0tmTHNXbUh3UTlCZUg5T2VpY19GZWZCUm4zUjNUTlRLRFhURDVYMnNuQnN6eVRRNk9McFRyc0dlamxoVVRnTzgyaHBjLW5XaXhtaWFHNzBaVzlNZldIYmJsRERtWWgyMmsxV2hxLWNTNVFWcExyamRPb3NSenpDbVpZOFRvak8tM1d0QUZGalBNSmpsdEFQRVhuMUR1ZnBxd05uUFZHeVpINUdDN0NjZk82M25vS1dsSE9KRXhIZ21DUWlVdklsc19ELW50YWV4Z3Q3LTVwTFpRQ2xFbk5XQlNleHRtYnVTbFhHZjFJTWJ5SkVLazZpNG9UR1gtTnhvQWJQOWJ4d1RndmNrWm5qamZ1UUVMb21CSGhBZnRCc2hUUFNtS21WVW5LNEp5cVhGZFJaR21hb1cwNnJHbEJ3?oc=5
+
+#### 2. 馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲
+- 摘要：這則新聞聚焦於「馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲」，可放在 精釀啤酒 脈絡下觀察。馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場&nbsp;&nbsp;台灣新聞雲
+- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。
+- 原文：https://news.google.com/rss/articles/CBMiR0FVX3lxTE56aHdaeDl4RVowLUpoekZoY01xWWdqRDlBU3MyaU5CYS14cENXTnhWd1RReUhobXNJcGwxTFBwbXZSZzR4eWxR?oc=5
+
+#### 3. 味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊 - LINE TODAY
 - 摘要：這則新聞聚焦於「味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊 - LINE TODAY」，可放在 精釀啤酒 脈絡下觀察。味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊&nbsp;&nbsp;LINE TODAY
 - 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「精釀啤酒」切入。
 - 原文：https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFlnLUZsRDh6WHpqMlVickNWT01PckNwQ0U2ZUZNd3Q3V3J6UmYxcDE3U1ZFYW5pQjE0OGRaaUN6ZE41SDROQkhfNU1aNC1rSldqUXBJUWhrWG9kamdJMGZYZDZwUXVRdmFiSHoxWmRuYkNOSXlVYmg0clFLRHlpSmE5QQ?oc=5
 
-#### 2. 10月好去處｜持續更新：啤酒節、萬聖節慶祝活動、嘔心食物展覽 - 香港01
+#### 4. 10月好去處｜持續更新：啤酒節、萬聖節慶祝活動、嘔心食物展覽 - 香港01
 - 摘要：這則新聞聚焦於「10月好去處｜持續更新：啤酒節、萬聖節慶祝活動、嘔心食物展覽 - 香港01」，可放在 精釀啤酒 脈絡下觀察。10月好去處｜持續更新：啤酒節、萬聖節慶祝活動、嘔心食物展覽&nbsp;&nbsp;香港01
 - 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。
 - 原文：https://news.google.com/rss/articles/CBMingNBVV95cUxOREM0dTlNZDVlM3A2cDd0M3kxNDlqX1hLajFXLVZoX2dzLWpNQmhQTzBsTHVfbnBHa3FPY0tlaXl0aW96X18yQ3RNaGQwdFdCcmttdmJtMVJTSmZTLUtlQURXX0pWY1VqVV9fQXNKaUFGdDRENkxpZlRieU5DQVJsX3o4MmRxaWFHbExueUNJM1ZraTUtZWRkY2dCR3hRMlV5QVpoSnJYUnFVSnpsNnFfTkE1TjJlRm0tcFI4YTEyRnAzbVJHOUxLdm8tWEZUV1l6WnNvVm5zZTVnVFJ1UXVLQWNsTEU0WFdSWFhBUUZUWG9kX3ZiSzhJaElsb3Jic3hPaWlnOGYwaWxjMXRfQ0NrblJsQUxnQ1RIYzZXbWdxdkN0cUMtcDB4bC1UNnpta2h0OXFuLUphZFg5a1dlb3RsWk9FYVJnX2t0TE9MWHVGTXBNWWlyM2hWZWlJZGxDUXpROWQ2RzZHdEJUQ3lHY24wMmVhSFFfcTlWX3FHVlZPU3lCOE9RTHNiNkJSZG52aEZJQ3ZUOXBEM0xtRHlYekE?oc=5
 
-#### 3. GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報 - LINE TODAY
-- 摘要：這則新聞聚焦於「GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報 - LINE TODAY」，可放在 會員經濟 脈絡下觀察。GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報&nbsp;&nbsp;LINE TODAY
-- 對 ABV 的可能影響：可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟」切入。
-- 原文：https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yXy1Lb01KLU9VR3FwWE5UNzdLLWlvMmdPcGtGOHQzS1lDN0RtdDZFbllpaHFXanBpaG0yQmt4azNTYkNORWVHbkNDR0NzX1VPVk1nc3Rn?oc=5
-
-#### 4. 【即時新聞】西南航空(LUV)宣布常客計畫大改版！新增白金會員別，搶攻高階市場 - CMoney投資網誌
-- 摘要：這則新聞聚焦於「【即時新聞】西南航空(LUV)宣布常客計畫大改版！新增白金會員別，搶攻高階市場 - CMoney投資網誌」，可放在 會員經濟 脈絡下觀察。【即時新聞】西南航空(LUV)宣布常客計畫大改版！新增白金會員別，搶攻高階市場&nbsp;&nbsp;CMoney投資網誌
-- 對 ABV 的可能影響：可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「顧客忠誠計畫」切入。
-- 原文：https://news.google.com/rss/articles/CBMikAFBVV95cUxNd1d1SDRKaEpMQXlDMzR2MklaaHBBQ2s1MG5MUlo0XzFwcXpteDF2Qko5NEY3cDdKbkF2UVc4SVNGSkd0Vi1BNElNY284RHN6T3ZaVGw4TG9xUVN1czlEeUp5eHY5UEZnblZpX1E2eWQwdkY3UXpINjI4RG1JaXAwYnZSR2FYTFZjeDZyUVhnQWg?oc=5
-
-#### 5. 印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組裝方式，配合節 - Facebook
-- 摘要：這則新聞聚焦於「印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組裝方式，配合節 - Facebook」，可放在 精釀啤酒 脈絡下觀察。印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組...
-- 對 ABV 的可能影響：可協助 ABV 強化啤酒選品、酒款教育與餐酒搭配內容。本則可從「啤酒節」切入。
-- 原文：https://news.google.com/rss/articles/CBMi3AdBVV95cUxNa0tEM3BSVmpZRGRmTDJLeFN3ZngwM1FIR0puN3EzeXZzb3l4RHJ1enFhNDRveEt0eGZjc1didWZCVUFhTXQzN0dObzQ4aURiTE42T0l3S2RtY0xJdzk0dTJ5NWt2a0dCSHJxTlRYWjZUS21iLW43VGNPdTBvRTJjcVdWanZJWUFlUWQxdGQxbVRZWUIzR1FNZWkyQ1VxeURQRFhFSG5wZ3RuYW9NQjdvRmN0TnltNHdITHRMeWhQSVNsVWppMF9OTnE4VDFaSktDLU1JOHFWaHdvNGJiNlJDM2xBVFpoQTkxM0dLMXlnbnZzcEIzczREREtXdjE4UkQ2TVFCZUxyWTdxaUhWRmlrRkktS09QeEY5X2Y3Y0xabmswUlVmTTRTTGt2dmN1WGJyVU9zQTVPd256ZlhzVHltMWhfNTNRYldqdlR5S2hxcWpoQ1BTVzFIRVpsTVBOSmtzbXJ2UnJ3MG1ydi1tZkxBcnl4LWpOXzdEMEhoVkRMVGRDS3RmeUlxSkxvcDVCMng5NXkwQ2JkZC1ZMzkyakdpTzFLQ3puV1lDTGFySDFnT09HYm5FaklfM3R1ODhDWXRGdmwtZWpWclpveVJGTlBUSm9JQTNqUGttRUhkXzhEaVRDT2JmQnRJSTl6LTVPWXlXTmhRaDJOX28xVVVrVnpiTG9VMURUMVpPOE8tRHlMYzM5Z1gzZVVLUXAzaG1tSml4TlZOM3ZaSlMtSUgyYjItTGVvM09pdk1OYWFoWDNUbjU3c3JIUnItWGdwVmFZWGZSZzMya0Yzb0p1OVZ3YlFoMmRjX0xxaUhSaWZLZGpKU2dyRm56anNqSVN0NkRObkE5WER3RDJXZndPMEQ5WEN5bXZxYjctMUlQcnZlN0RvNTd6djJJSThoQldzaEVGeFNfbUtJVEYyZElJYzdRZkc5UGdQbEI0RnhVRTEzajhMRVcxTUpyRkpXR1FDZVFpV2Y2V2lsN3RfNXBzdDBtNDlSdHkyaEZZeTNGQmlDUVJoZ0YtbkdGNDVDMnlDeS03bFhSRms5VWV3OTVXUkhTLXp1b3R3UWoyOTdub09NNE5TY0N2cVBnYUVEUUE4ODRCc0p1M1NtSFBwbWJzZlJNQmdWOVF0R05oRkxWekZZeXoySi11QTVsOVN3cEVKRkpkRVBTQjVXMndJa0wwZ3cyYkZTSV9xdnVaLVVHYnlrVkRSaVNkeGh3cjRaR3BiblFrQlAwSldUZVdvb0pYVnNpS014ek9aaXc4RTRvQzFtWGtyVGtzRVkyVkxFSTkwQzBURUxuc0pvVHVCWXBrY1lz?oc=5
+#### 5. Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 - 勁報
+- 摘要：這則新聞聚焦於「Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 - 勁報」，可放在 會員經濟 脈絡下觀察。Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看&nbsp;&nbsp;勁報
+- 對 ABV 的可能影響：可用於優化會員分眾、回訪誘因與 LINE 推播策略。本則可從「會員經濟、餐飲會員」切入。
+- 原文：https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpc3h2U0pvZzNrcjBRVkV4cGhKVThuTXNUZDBTTGxvVnN4Q3ZvcUpTU3EwOWw4dzA4ZThlY3IwMDExWmZfMjU3V05iS240TS1DWEJXUzhDRXRCTXEtcEZmNQ?oc=5
 
 ### 第四層：社群內容靈感池
+#### 群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場 - 報新聞
+- FB/IG 貼文角度：用「群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場 - 報新聞」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
+- SEO 文章題目：精釀啤酒趨勢怎麼看？從「群馬「高崎啤酒節2026」10月23日開幕 G Messe群馬12天、免費入場 - 報新聞」看餐酒館內容與選品機會
+
+#### 馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲
+- FB/IG 貼文角度：用「馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
+- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
+- SEO 文章題目：精釀啤酒趨勢怎麼看？從「馬祖好物進軍歐洲！老酒、忍冬啤酒登上WTO國際交流舞台 島嶼風味拓展海外市場 - 台灣新聞雲」看餐酒館內容與選品機會
+
 #### 味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊 - LINE TODAY
 - FB/IG 貼文角度：用「味遊紐西蘭2／威靈頓近郊藏美食小鎮！走進海濱小鎮佩托尼從台灣烘豆師到在地選物、精釀啤酒散策路線| 鏡週刊 - LINE TODAY」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
@@ -916,50 +974,38 @@
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
 - SEO 文章題目：精釀啤酒趨勢怎麼看？從「10月好去處｜持續更新：啤酒節、萬聖節慶祝活動、嘔心食物展覽 - 香港01」看餐酒館內容與選品機會
 
-#### GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報 - LINE TODAY
-- FB/IG 貼文角度：用「GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報 - LINE TODAY」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
+#### Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 - 勁報
+- FB/IG 貼文角度：用「Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 - 勁報」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
 - Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 會員經濟？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
 - LINE 推播角度：以會員專屬提醒切入：本週精選一個與「會員經濟」相關的餐酒體驗或活動。
-- SEO 文章題目：會員經濟趨勢怎麼看？從「GlobalMall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 | 勁報 - LINE TODAY」看餐酒館內容與選品機會
-
-#### 【即時新聞】西南航空(LUV)宣布常客計畫大改版！新增白金會員別，搶攻高階市場 - CMoney投資網誌
-- FB/IG 貼文角度：用「【即時新聞】西南航空(LUV)宣布常客計畫大改版！新增白金會員別，搶攻高階市場 - CMoney投資網誌」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 會員經濟？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「會員經濟」相關的餐酒體驗或活動。
-- SEO 文章題目：會員經濟趨勢怎麼看？從「【即時新聞】西南航空(LUV)宣布常客計畫大改版！新增白金會員別，搶攻高階市場 - CMoney投資網誌」看餐酒館內容與選品機會
-
-#### 印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組裝方式，配合節 - Facebook
-- FB/IG 貼文角度：用「印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組裝方式，配合節 - Facebook」包裝成一則趨勢觀察，邀請粉絲留言分享自己的餐酒經驗。
-- Reels/Shorts 腳本方向：開場 3 秒提出問題：最近大家都在聊什麼 精釀啤酒？接著用 3 個畫面帶出 ABV 的菜色、酒款與情境。
-- LINE 推播角度：以會員專屬提醒切入：本週精選一個與「精釀啤酒」相關的餐酒體驗或活動。
-- SEO 文章題目：精釀啤酒趨勢怎麼看？從「印度遊樂設施「人體洗衣機」廣受歡迎，該設施利用離心力，讓遊客在底板下降後懸空貼壁，吸引民眾體驗。 事實上，這項設施歷史相當悠久，由德國工程師於1948年設計發明，並於1949年在德國慕尼黑啤酒節首次公開營運。如今該設施在印度多以臨時組裝方式，配合節 - Facebook」看餐酒館內容與選品機會
+- SEO 文章題目：會員經濟趨勢怎麼看？從「Global Mall新左營車站搶攻會員經濟！滿額送回饋、9大品牌優惠一次看 - 勁報」看餐酒館內容與選品機會
 
 ### 第五層：企業級輿情/趨勢分析
 #### 各分類新聞數量
-- 世界料理趨勢：14
-- 行銷靈感：12
-- 精釀啤酒：5
-- 會員經濟：13
-- 競品異動：6
-- 市場情報：13
-- 高分新聞數量：19
+- 精釀啤酒：10
+- 行銷靈感：9
+- 世界料理趨勢：10
+- 會員經濟：14
+- 競品異動：8
+- 市場情報：12
+- 高分新聞數量：21
 
 #### 熱門詞
-- 新聞：7
-- 餐飲行銷：5
-- 世界料理：5
+- 啤酒節：6
+- 新聞：6
+- 會員經濟：5
+- 精釀啤酒：5
 - 餐飲會員：5
 - 啤酒餐廳：5
-- 觀光餐飲：5
 - 台灣餐飲市場：5
-- 美食趨勢：5
-- 異國料理：4
-- 啤酒節：4
+- 顧客忠誠計畫：5
+- 酒吧活動：4
+- 餐飲行銷：4
 
 #### 趨勢判斷
-今日以「世界料理趨勢」聲量最高，共 14 則；熱門詞集中在 新聞、餐飲行銷、世界料理，代表內容可圍繞消費場景、選品與活動溝通展開。
+今日以「會員經濟」聲量最高，共 14 則；熱門詞集中在 啤酒節、新聞、會員經濟，代表內容可圍繞消費場景、選品與活動溝通展開。
 
 #### ABV 可行動建議
-- 本週安排一則「世界料理趨勢」主題貼文，連結 ABV 的實際菜色、酒款或門市活動。
-- 針對「新聞」製作短影音腳本，讓店內體驗變成可分享的內容資產。
+- 本週安排一則「會員經濟」主題貼文，連結 ABV 的實際菜色、酒款或門市活動。
+- 針對「啤酒節」製作短影音腳本，讓店內體驗變成可分享的內容資產。
 - 把高分新聞轉成 LINE 分眾推播素材，測試會員回訪與訂位反應。
